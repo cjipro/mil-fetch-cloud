@@ -1,0 +1,40 @@
+name: daily-fetch
+
+on:
+  schedule:
+    - cron: "40 6 * * *"   # 06:40 UTC daily — offset from the local 06:30 task
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests google-play-scraper
+
+      - run: python cloud_fetch.py
+
+      - name: commit new records
+        run: |
+          git config user.name "mil-fetch-bot"
+          git config user.email "noreply@cjipro.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no new records"
+          else
+            git commit -m "fetch: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
