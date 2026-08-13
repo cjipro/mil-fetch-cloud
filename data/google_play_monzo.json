@@ -8001,8 +8001,32 @@
    "reviewCreatedVersion": null,
    "at": "2026-05-31T16:51:13",
    "userName": "Abdul azeez Ali"
+  },
+  {
+   "rating": 5,
+   "content": "quick and easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.35.0",
+   "at": "2026-08-12T07:03:43",
+   "userName": "Shirley Drain"
+  },
+  {
+   "rating": 3,
+   "content": "Keeps removing useful features to replace with worse versions. App is now significantly less useful and difficult to analyse my spending habits with half baked Trends menu item that opens to the wrong page, and my savings in a new tab.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-12T00:38:59",
+   "userName": "Brandon Tuck"
+  },
+  {
+   "rating": 5,
+   "content": "Monzo are fab. all bank accounts should be like this. \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-11T21:02:51",
+   "userName": "Stephen Hansen"
   }
  ],
- "record_count": 1000,
- "last_fetch_utc": "2026-08-12T20:49:05.586063+00:00"
+ "record_count": 1003,
+ "last_fetch_utc": "2026-08-13T08:04:25.655104+00:00"
 }

@@ -8001,8 +8001,80 @@
    "reviewCreatedVersion": "189.07",
    "at": "2026-07-28T05:28:13",
    "userName": "Ross Johnson"
+  },
+  {
+   "rating": 5,
+   "content": "quick and easy.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-12T07:44:53",
+   "userName": "Katie Watson"
+  },
+  {
+   "rating": 5,
+   "content": "Excited",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-12T04:04:12",
+   "userName": "Peter Ezeribe"
+  },
+  {
+   "rating": 1,
+   "content": "not getting notifications when money goes in",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-12T01:37:23",
+   "userName": "Karl Ritchie"
+  },
+  {
+   "rating": 1,
+   "content": "*UGLY MESS ! , this app is a bad joke. It makes me switch to a different bank*",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-12T00:48:49",
+   "userName": "Danny Bourne"
+  },
+  {
+   "rating": 5,
+   "content": "Amazing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-11T22:40:10",
+   "userName": "Afolabi Ademola"
+  },
+  {
+   "rating": 5,
+   "content": "easy to follow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "188.09",
+   "at": "2026-08-11T22:37:35",
+   "userName": "Pauline Becker"
+  },
+  {
+   "rating": 1,
+   "content": "I can't access my accounts. what do I do?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-11T22:31:23",
+   "userName": "Sheila Benham"
+  },
+  {
+   "rating": 1,
+   "content": "terrible app since merging g Halifax app with Lloyds ive experienced so many problems. I will be changing all my banking to another company asap.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-11T22:30:37",
+   "userName": "Darren Knott"
+  },
+  {
+   "rating": 5,
+   "content": "easy app to use and navigate which is ideal for me who isn't very confident with computers.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "190.05",
+   "at": "2026-08-11T21:14:33",
+   "userName": "John Mottram"
   }
  ],
- "record_count": 1000,
- "last_fetch_utc": "2026-08-12T20:49:01.894752+00:00"
+ "record_count": 1009,
+ "last_fetch_utc": "2026-08-13T08:04:24.077592+00:00"
 }

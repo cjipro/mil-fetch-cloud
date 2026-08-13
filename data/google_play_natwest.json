@@ -8001,8 +8001,48 @@
    "reviewCreatedVersion": null,
    "at": "2026-06-19T09:40:53",
    "userName": "Waqar Hussain"
+  },
+  {
+   "rating": 1,
+   "content": "Account notifications within the app (under the bell icon) should have an automatic expiry timer (6 months, 12 at the most) so they automatically clear or get hidden from us. I've got notifications going back over 3 years, and there's no way to clear them!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-12T06:05:44",
+   "userName": "Steve G"
+  },
+  {
+   "rating": 5,
+   "content": "Amy in the Southend on Sea branch was really helpful and very patient with me. She helped me sort all my online banking back up and running",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-12T04:51:39",
+   "userName": "Chris Morgan"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-12T04:35:41",
+   "userName": "William Murgatroyd"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-11T22:24:19",
+   "userName": "zaffar ahmed"
+  },
+  {
+   "rating": 1,
+   "content": "its seems its working once in ten. not sure what's wrong with this app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-11T21:03:00",
+   "userName": "Adam Bialoszewski"
   }
  ],
- "record_count": 1000,
- "last_fetch_utc": "2026-08-12T20:49:00.256565+00:00"
+ "record_count": 1005,
+ "last_fetch_utc": "2026-08-13T08:04:22.833584+00:00"
 }
