@@ -8041,8 +8041,72 @@
    "reviewCreatedVersion": null,
    "at": "2026-08-11T21:03:00",
    "userName": "Adam Bialoszewski"
+  },
+  {
+   "rating": 1,
+   "content": "where has the balance gone underneath each payment?!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-12T23:12:39",
+   "userName": "P E"
+  },
+  {
+   "rating": 1,
+   "content": "App won't let me send more than \u00a3750 per day to a payee even though I've already made a payment in online banking with card reader and two more. App keeps saying biometric auth required until at least one payment has been made in online banking with card reader, so going round in circles here. Support is terrible. Cora, like all other \"assistants\" is useless, annoying and a complete waste of time. When it eventually passes you to an \"agent\", you're put in a Q, still waiting after 3 hours.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-12T21:16:39",
+   "userName": "Chris Simon"
+  },
+  {
+   "rating": 5,
+   "content": "ok",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-12T20:30:12",
+   "userName": "Lukasz Marzec"
+  },
+  {
+   "rating": 5,
+   "content": "Can't ask more from banking app, works fine on my phone and customer support were really helpful when I got fully logged out my account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-12T20:24:36",
+   "userName": "Musubi"
+  },
+  {
+   "rating": 5,
+   "content": "Fast and easy with fingerprint access. Updated to 5 stars. (Much better than Bankline - avoid). Used for cheque deposit. So much better than a long journey to a branch, most closed. update Aug26 - the add account flow in the app is now broken and does not work.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-12T14:24:17",
+   "userName": "Ding Alingalong"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-12T13:57:56",
+   "userName": "Robert Baiden"
+  },
+  {
+   "rating": 5,
+   "content": "Easy-to-use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-12T12:02:42",
+   "userName": "John Graham"
+  },
+  {
+   "rating": 1,
+   "content": "it doesn't give you mortgage statements so i have no idea how much in a year i've paid off and no paper onds sent. not impressed",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.65.0000.26994.0",
+   "at": "2026-08-12T09:45:43",
+   "userName": "Daniella Smith"
   }
  ],
- "record_count": 1005,
- "last_fetch_utc": "2026-08-13T08:04:22.833584+00:00"
+ "record_count": 1013,
+ "last_fetch_utc": "2026-08-14T08:01:30.448790+00:00"
 }
