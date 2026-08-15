@@ -8113,8 +8113,48 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-12T08:12:22",
    "userName": "Kebba Kuyateh"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T07:06:03",
+   "userName": "Mei Burt"
+  },
+  {
+   "rating": 5,
+   "content": "great bank thank you hsbc",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T05:09:59",
+   "userName": "John Young"
+  },
+  {
+   "rating": 5,
+   "content": "Very helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-13T17:58:24",
+   "userName": "noeline liew"
+  },
+  {
+   "rating": 1,
+   "content": "avoid like the plague. terrible customer support",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-13T14:20:02",
+   "userName": "billy townsend"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service was provided , I really enjoyed my first time banking experience, and the staff was ready to help and supported me through my account opening process and other services needed. I say a big thank you.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-13T13:38:49",
+   "userName": "Rachael Abraham"
   }
  ],
- "record_count": 1014,
- "last_fetch_utc": "2026-08-14T08:01:32.495593+00:00"
+ "record_count": 1019,
+ "last_fetch_utc": "2026-08-15T07:15:27.324049+00:00"
 }
