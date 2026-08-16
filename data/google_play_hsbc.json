@@ -8153,8 +8153,96 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-13T13:38:49",
    "userName": "Rachael Abraham"
+  },
+  {
+   "rating": 5,
+   "content": "it works",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T19:08:15",
+   "userName": "dough Victor"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use, with everything I need.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T19:06:33",
+   "userName": "Ceef Deen"
+  },
+  {
+   "rating": 5,
+   "content": "excellent App.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T18:59:23",
+   "userName": "Gerry Durwin"
+  },
+  {
+   "rating": 4,
+   "content": "Much better than it used to be, nearly top tier",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-14T17:18:57",
+   "userName": "Simon Brookfield"
+  },
+  {
+   "rating": 5,
+   "content": "simple and sophisticated",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T16:21:00",
+   "userName": "Sajid Shah"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant banking app, I have been with this bank since I was 18 and I am 67 now wouldn't bank with anyone else \ud83d\ude00 best bank, great app easy to use and very safe",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "2.39.0",
+   "at": "2026-08-14T16:03:31",
+   "userName": "Glynis Russell"
+  },
+  {
+   "rating": 2,
+   "content": "The app is decent enough, but the credit card bit is next to useless. Transactions take up to a week (sometimes more) to 'resolve' within the app. I also have a Lloyds account, and their credit card section records transactions pretty much instantly! ----------- response to HSBC response: it's simple really, if I spend on Lloyds credit card, it's there in their app instantly, and correct balance shown. If I spend on HSBC credit card, it will appear a few hours later, but stay 'pending' for days.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T14:46:26",
+   "userName": "Gerald Kelly"
+  },
+  {
+   "rating": 5,
+   "content": "Very efficient.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T14:10:08",
+   "userName": "Phil Waring"
+  },
+  {
+   "rating": 5,
+   "content": "I've recently became a customer of HSBC and so far the staff in the Barnstaple branch have been extremely helpful.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T13:51:36",
+   "userName": "Sarah Hawksworth"
+  },
+  {
+   "rating": 3,
+   "content": "good bank but offers low interest rates",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-14T12:39:22",
+   "userName": "Joshua"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-14T11:14:58",
+   "userName": "Stephen Calder"
   }
  ],
- "record_count": 1019,
- "last_fetch_utc": "2026-08-15T07:15:27.324049+00:00"
+ "record_count": 1030,
+ "last_fetch_utc": "2026-08-16T07:18:03.488791+00:00"
 }
