@@ -8249,8 +8249,88 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-14T07:34:05",
    "userName": "freda owusu"
+  },
+  {
+   "rating": 2,
+   "content": "I can no longer see my ISA in the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-16T07:14:51",
+   "userName": "Adam Wallace"
+  },
+  {
+   "rating": 4,
+   "content": "normally great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-16T01:29:05",
+   "userName": "Matthew Yeoland"
+  },
+  {
+   "rating": 1,
+   "content": "There is no clear indication that the app has been updated when requested.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-15T16:00:13",
+   "userName": "Kelvin Evans"
+  },
+  {
+   "rating": 2,
+   "content": "keep going round I circles..so frustrating",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-15T13:18:25",
+   "userName": "Yvonne Serrant"
+  },
+  {
+   "rating": 5,
+   "content": "good app easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-15T12:33:48",
+   "userName": "steve bartley"
+  },
+  {
+   "rating": 5,
+   "content": "great service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-15T11:41:23",
+   "userName": "michael sinfield"
+  },
+  {
+   "rating": 1,
+   "content": "App hasn't been working for 2 days. It comes at a time when I desperately need it, especially over the weekend when it's impossible to speak to somebody. It doesn't load. Rubbish.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-15T10:34:03",
+   "userName": "Slasher Trash"
+  },
+  {
+   "rating": 5,
+   "content": "great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-15T09:48:35",
+   "userName": "Athene Allen"
+  },
+  {
+   "rating": 4,
+   "content": "I get good service from NatWest.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-15T09:20:59",
+   "userName": "Hasumati Shah"
+  },
+  {
+   "rating": 5,
+   "content": "natwest have been brilliant re bereavement",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-15T08:09:51",
+   "userName": "Carol Appleton"
   }
  ],
- "record_count": 1031,
- "last_fetch_utc": "2026-08-16T07:18:00.362061+00:00"
+ "record_count": 1041,
+ "last_fetch_utc": "2026-08-17T07:38:00.939104+00:00"
 }

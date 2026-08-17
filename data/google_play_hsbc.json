@@ -8241,8 +8241,56 @@
    "reviewCreatedVersion": "3.73.0",
    "at": "2026-08-14T11:14:58",
    "userName": "Stephen Calder"
+  },
+  {
+   "rating": 1,
+   "content": "Overly complicated & lot worse experience than HK version. Tried to change a standing order amount (only) on app and had authorised it but came back with an error msg. No idea the issue as it is only a small amount change. I then tried it on bank's website & whoever designed that path ought to be fired. After editing the amount AND confirming, it asks you to authorise on the mobile app which is fine. I did that but then it ask me to confirm change AGAIN on website. Why? Of course it failed too.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-16T03:49:58",
+   "userName": "Kai San So"
+  },
+  {
+   "rating": 1,
+   "content": "the pending take way too long",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-15T21:23:00",
+   "userName": "A\u029f\u1d07x G"
+  },
+  {
+   "rating": 5,
+   "content": "Nice Banking App and it is really efficient when giving money 100% recommended",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-15T17:59:06",
+   "userName": "Emmanuel Christopher"
+  },
+  {
+   "rating": 5,
+   "content": "thank you HSBC, HSBC is truly a fantastic bank for personal banking... many years with you and very happy, and certainly recommend to others \ud83d\ude0a",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-15T15:41:53",
+   "userName": "Jon L"
+  },
+  {
+   "rating": 1,
+   "content": "bad exchange rate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-15T12:11:11",
+   "userName": "Ian Cockerill"
+  },
+  {
+   "rating": 2,
+   "content": "the app will not let you take a picture to deposit a cheque",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-15T08:55:20",
+   "userName": "Shaun O'CONNOR"
   }
  ],
- "record_count": 1030,
- "last_fetch_utc": "2026-08-16T07:18:03.488791+00:00"
+ "record_count": 1036,
+ "last_fetch_utc": "2026-08-17T07:38:03.262133+00:00"
 }

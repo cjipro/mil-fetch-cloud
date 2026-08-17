@@ -8305,8 +8305,40 @@
    "reviewCreatedVersion": "7.38.0",
    "at": "2026-08-14T10:17:45",
    "userName": "Daryl"
+  },
+  {
+   "rating": 5,
+   "content": "really helps .",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-15T16:28:33",
+   "userName": "Ian Clarke"
+  },
+  {
+   "rating": 5,
+   "content": "very good card to have",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.32.0",
+   "at": "2026-08-15T16:22:04",
+   "userName": "donna roberts"
+  },
+  {
+   "rating": 1,
+   "content": "I got kicked out of the app. whilst trying to pay a bill. my camera doesn't work on my phone. I spent 2 days trying to get back into my account. only to be told 20 times to use my camera to take a selfie. I DID love monzo and opened a paid for business account. but because of their incompetence, I feel I have no option but to leave and find a new bank. I would give them 0/5 if the app let me at the moment",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-15T12:59:56",
+   "userName": "Gavin Bolton"
+  },
+  {
+   "rating": 1,
+   "content": "Everyone else of the 5 people that were invited all got \u00a350 and I was the only one to get \u00a310. I will transfer and delete my account. Disappointing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-15T10:02:17",
+   "userName": "Luca Dornetto"
   }
  ],
- "record_count": 1038,
- "last_fetch_utc": "2026-08-16T07:18:05.466060+00:00"
+ "record_count": 1042,
+ "last_fetch_utc": "2026-08-17T07:38:04.509745+00:00"
 }
