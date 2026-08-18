@@ -8289,8 +8289,72 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-15T08:55:20",
    "userName": "Shaun O'CONNOR"
+  },
+  {
+   "rating": 1,
+   "content": "useless app. won't load the security screen",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-17T02:47:35",
+   "userName": "Paul Hogben"
+  },
+  {
+   "rating": 1,
+   "content": "since the latest update I cannot log in it's asking me to re-register and when do it's saying device limit exceeded how do I delete it of my old device",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-16T21:14:37",
+   "userName": "david sankey"
+  },
+  {
+   "rating": 5,
+   "content": "Great app but it consumes too much memory space. The latest version is taking up over 1.1GB of storage and I cannot understand why it's so large.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-16T18:34:47",
+   "userName": "Chris Lyons"
+  },
+  {
+   "rating": 4,
+   "content": "Remarkably helpful and seem to genuinely understand that ordinary people are really under huge pressure.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-16T15:21:37",
+   "userName": "Meaningless Mud"
+  },
+  {
+   "rating": 5,
+   "content": "Nice, easy to use app!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-16T11:28:50",
+   "userName": "Sarah M"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-16T09:19:31",
+   "userName": "Gary Hellend"
+  },
+  {
+   "rating": 4,
+   "content": "very easy to use so I can help my elderly mother control her finances",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-16T08:06:51",
+   "userName": "Jersey Payne"
+  },
+  {
+   "rating": 5,
+   "content": "happy so far. good service.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-16T07:52:58",
+   "userName": "laurentiu dregan"
   }
  ],
- "record_count": 1036,
- "last_fetch_utc": "2026-08-17T07:38:03.262133+00:00"
+ "record_count": 1044,
+ "last_fetch_utc": "2026-08-18T07:23:41.381754+00:00"
 }

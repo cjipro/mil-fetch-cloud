@@ -8521,8 +8521,96 @@
    "reviewCreatedVersion": null,
    "at": "2026-08-15T07:53:42",
    "userName": "liz allsop"
+  },
+  {
+   "rating": 5,
+   "content": "very beautiful thank you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T22:39:59",
+   "userName": "waheed daudzai"
+  },
+  {
+   "rating": 1,
+   "content": "Trying to set up the app on my new phone. App says to login to the app on the old phone, use the search bar at the top of the home page and search for QR Code. except there's no search bar at all. Try logging in a different way, and it just loops back around to select what type of account/card you have, and to enter your details again.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-16T22:12:14",
+   "userName": "James Bradbury"
+  },
+  {
+   "rating": 5,
+   "content": "better",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.25.2",
+   "at": "2026-08-16T20:40:09",
+   "userName": "Marc"
+  },
+  {
+   "rating": 5,
+   "content": "very happy with this app. thanks \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T20:01:13",
+   "userName": "Andy Halu"
+  },
+  {
+   "rating": 5,
+   "content": "varies in tranzmission time on 4g it is quite adequate for my use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T17:15:41",
+   "userName": "Alfred Saltwar2"
+  },
+  {
+   "rating": 4,
+   "content": "simple to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T16:05:11",
+   "userName": "Paul Dejonge"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T15:19:50",
+   "userName": "Pat Murphy"
+  },
+  {
+   "rating": 5,
+   "content": "lovely",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T15:19:29",
+   "userName": "Ail Hendrean"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic stressless banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T12:33:27",
+   "userName": "C.a.c S"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-16T08:52:06",
+   "userName": "susan oconnor"
+  },
+  {
+   "rating": 4,
+   "content": "Sometimes slow to open, sometimes doesn't want to open. 8 out of 10 seems fair.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.25.2",
+   "at": "2026-07-23T08:08:16",
+   "userName": "PF M"
   }
  ],
- "record_count": 1065,
- "last_fetch_utc": "2026-08-17T07:38:07.221059+00:00"
+ "record_count": 1076,
+ "last_fetch_utc": "2026-08-18T07:23:45.344256+00:00"
 }

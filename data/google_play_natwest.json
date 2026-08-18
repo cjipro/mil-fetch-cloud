@@ -8329,8 +8329,64 @@
    "reviewCreatedVersion": "07.68.0000.33733.0",
    "at": "2026-08-15T08:09:51",
    "userName": "Carol Appleton"
+  },
+  {
+   "rating": 1,
+   "content": "do not enjoy new format, much harder to find basic info",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-17T06:43:47",
+   "userName": "David Frenchum"
+  },
+  {
+   "rating": 5,
+   "content": "\ud83d\udc4c\ud83c\udffe",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-16T22:00:43",
+   "userName": "Tyson Halil"
+  },
+  {
+   "rating": 4,
+   "content": "good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-16T17:41:03",
+   "userName": "Christopher Redmond"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-16T16:07:58",
+   "userName": "Scott Hatt"
+  },
+  {
+   "rating": 1,
+   "content": "There is a problem with the transfer money option. Most of the time I select my account that i want to transfer from then when i go to select the account i want to transfer too it has put the account i want to transfer too in the transfer from side. You then have to come out and go back in for it too do it correctly.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-16T14:59:40",
+   "userName": "Graham Hammond"
+  },
+  {
+   "rating": 5,
+   "content": "I think it's a rubbish thing this should be blocked",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-16T12:11:21",
+   "userName": "Alfie Walsh"
+  },
+  {
+   "rating": 1,
+   "content": "worst application process I've ever experienced - beyond shoddy. they are using a 3rd party to scan photo ID docs, leaving the app to control when to \"press the shutter\"on the camera. yet scanned images consistently rejected (Despite multiple very slow and careful retries) due to being too blurred etc. which would be my fault if I was controlling the picture being taken, but I cannot. ridiculous.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-16T11:57:00",
+   "userName": "Duncan McCarthy"
   }
  ],
- "record_count": 1041,
- "last_fetch_utc": "2026-08-17T07:38:00.939104+00:00"
+ "record_count": 1048,
+ "last_fetch_utc": "2026-08-18T07:23:38.519721+00:00"
 }

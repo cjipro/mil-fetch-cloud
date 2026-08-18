@@ -8337,8 +8337,64 @@
    "reviewCreatedVersion": "7.38.0",
    "at": "2026-08-15T10:02:17",
    "userName": "Luca Dornetto"
+  },
+  {
+   "rating": 5,
+   "content": "top class highly recommend",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-17T04:52:36",
+   "userName": "T Stevens"
+  },
+  {
+   "rating": 1,
+   "content": "The new layout with the grow section is not good at all. Can it be reverted back?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.37.0",
+   "at": "2026-08-16T21:09:46",
+   "userName": "Zahid T"
+  },
+  {
+   "rating": 5,
+   "content": "Very easy app, works abroad so well",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-16T19:01:52",
+   "userName": "Bal Aujla"
+  },
+  {
+   "rating": 4,
+   "content": "Would love the ability to hide more things from the home screen, also been able to reorder things too would be handy?",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-16T18:29:05",
+   "userName": "James Bennett"
+  },
+  {
+   "rating": 1,
+   "content": "find better timing to force me to \"review my details\"",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-16T14:40:19",
+   "userName": "Kasia Krejszeff"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant app, I just wish I could hide my balances when out in public.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-16T12:55:23",
+   "userName": "James Chapman"
+  },
+  {
+   "rating": 1,
+   "content": "Been trying since yesterday to sign up but it does not work and customer service has not helped whatsoever",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-16T08:08:50",
+   "userName": "Daren Ross"
   }
  ],
- "record_count": 1042,
- "last_fetch_utc": "2026-08-17T07:38:04.509745+00:00"
+ "record_count": 1049,
+ "last_fetch_utc": "2026-08-18T07:23:42.509805+00:00"
 }
