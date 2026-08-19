@@ -8609,8 +8609,112 @@
    "reviewCreatedVersion": "8.25.2",
    "at": "2026-07-23T08:08:16",
    "userName": "PF M"
+  },
+  {
+   "rating": 1,
+   "content": "was pretty good, now awful after update.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-18T07:20:50",
+   "userName": "saul james"
+  },
+  {
+   "rating": 3,
+   "content": "good app.. but new upgrade isn't.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T23:06:37",
+   "userName": "Kelly Walker"
+  },
+  {
+   "rating": 1,
+   "content": "if I could give you zero I would. I am a pixel user using graphene OS and you choose to support googles api nonsense over allowing people to be more secure on their debices. you throw errors just to not support people wanting better security than mainstream OS.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T23:06:06",
+   "userName": "Mase"
+  },
+  {
+   "rating": 1,
+   "content": "The previous version was much better. Why change something that was working? I cannot find half of the things I used to use. I cannot even see my balance at the end of each day! where is the calendar function?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T22:14:28",
+   "userName": "Sofia Fernandez"
+  },
+  {
+   "rating": 1,
+   "content": "why update the app. it looks cheap and is harder to use.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T17:13:57",
+   "userName": "Richard Amico-Jones"
+  },
+  {
+   "rating": 5,
+   "content": "very good love it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.25.2",
+   "at": "2026-08-17T17:02:32",
+   "userName": "Muhammad Nomi"
+  },
+  {
+   "rating": 3,
+   "content": "As per a helpful response from the dev team, the app doesn't work on GrapheneOS with the latest \"unreviewed\" security updates installed, which is probably not unfair as this is effectively a beta version of Android. I will update again once a fully-reviewed Android version is installed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T16:09:44",
+   "userName": "Simon Rolfmore"
+  },
+  {
+   "rating": 5,
+   "content": "Barclays banking app covers everything on the money side of our lives and works absolutely perfect",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T15:46:44",
+   "userName": "john rounding"
+  },
+  {
+   "rating": 1,
+   "content": "Absolutely useless. The app did not \"recognise\" my phone number although it's on file, and the call to Customer Support that was required as a result repeatedly disconnected before I ever got to speak to a human being. I therefore had to uninstall the app again.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T15:13:05",
+   "userName": "Oliver Gordon"
+  },
+  {
+   "rating": 5,
+   "content": "No issues, simple to use. Very good app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T13:07:30",
+   "userName": "David Monid"
+  },
+  {
+   "rating": 5,
+   "content": "very good service app is amazing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T12:58:04",
+   "userName": "Nadarajah Kannathasan"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-17T12:42:29",
+   "userName": "Hamza Sultan"
+  },
+  {
+   "rating": 4,
+   "content": "straight forward and simple to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.21.0",
+   "at": "2026-08-17T12:40:35",
+   "userName": "Colin Quinn"
   }
  ],
- "record_count": 1076,
- "last_fetch_utc": "2026-08-18T07:23:45.344256+00:00"
+ "record_count": 1089,
+ "last_fetch_utc": "2026-08-19T07:24:32.465151+00:00"
 }

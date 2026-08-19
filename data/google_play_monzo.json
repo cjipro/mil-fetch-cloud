@@ -8393,8 +8393,64 @@
    "reviewCreatedVersion": null,
    "at": "2026-08-16T08:08:50",
    "userName": "Daren Ross"
+  },
+  {
+   "rating": 4,
+   "content": "Good app but I feel like the homepage could be more customisable and tailored to the user, there's so much unnecessary stuff on there for me. And with the recent update I feel like I can never easily find my savings accounts?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-18T02:53:51",
+   "userName": "Ellie Brinkley"
+  },
+  {
+   "rating": 5,
+   "content": "The best banking app ever! Since day 1, it's always improving. Super easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-17T23:01:17",
+   "userName": "Rubporn \u201cPonk\u201d Memoli"
+  },
+  {
+   "rating": 5,
+   "content": "Great app brings all my accounts together",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.34.0",
+   "at": "2026-08-17T15:57:31",
+   "userName": "NINJA"
+  },
+  {
+   "rating": 5,
+   "content": "excellent bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-17T15:40:53",
+   "userName": "George Holbrook"
+  },
+  {
+   "rating": 5,
+   "content": "just best bank I've ever used cannot fault at all",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-17T15:02:03",
+   "userName": "Triple Dee"
+  },
+  {
+   "rating": 5,
+   "content": "so easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-17T12:43:02",
+   "userName": "Dawn Molineux"
+  },
+  {
+   "rating": 1,
+   "content": "Doesn't work properly on my Pixel 10 Pro (Android 17). Needs more features. Barclays, NatWest, TSB, Starling & Revolut have better features. Design overhaul required.",
+   "thumbsUpCount": 18,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-17T10:11:00",
+   "userName": "Jubair Ahmad"
   }
  ],
- "record_count": 1049,
- "last_fetch_utc": "2026-08-18T07:23:42.509805+00:00"
+ "record_count": 1056,
+ "last_fetch_utc": "2026-08-19T07:24:30.890962+00:00"
 }

@@ -8353,8 +8353,64 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-16T07:52:58",
    "userName": "laurentiu dregan"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-17T23:52:16",
+   "userName": "Nurjahan Talukder"
+  },
+  {
+   "rating": 5,
+   "content": "Outstanding app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-17T17:33:28",
+   "userName": "Terry Martineau"
+  },
+  {
+   "rating": 5,
+   "content": "Am happy with you updated system \ud83d\ude0a",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-17T16:44:26",
+   "userName": "Henry Ross"
+  },
+  {
+   "rating": 1,
+   "content": "I'm very happy with the service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-17T13:49:52",
+   "userName": "Haile Teklu"
+  },
+  {
+   "rating": 4,
+   "content": "Yep, great app! Would like some more features that Monzo has, like saving \"Pots\", and I'm not sure if it's possible, but maybe a feature where you could complete/confirm Pending and Upcoming payments, just to get them out the way \ud83d\ude0a",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-17T13:22:11",
+   "userName": "Marcus \u201cYoxtailSOUP\u201d Yoxall"
+  },
+  {
+   "rating": 2,
+   "content": "Not happy with it.. Can't change names of accounts.. Essential for me as I have difficulties using aps",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-17T13:05:57",
+   "userName": "Bob"
+  },
+  {
+   "rating": 5,
+   "content": "good solid responsive service.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-17T11:21:37",
+   "userName": "mike faulds"
   }
  ],
- "record_count": 1044,
- "last_fetch_utc": "2026-08-18T07:23:41.381754+00:00"
+ "record_count": 1051,
+ "last_fetch_utc": "2026-08-19T07:24:30.246922+00:00"
 }
