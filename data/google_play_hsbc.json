@@ -8409,8 +8409,40 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-17T11:21:37",
    "userName": "mike faulds"
+  },
+  {
+   "rating": 5,
+   "content": "great app, rarely goes wrong any more.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-18T23:23:15",
+   "userName": "Rob Jones"
+  },
+  {
+   "rating": 1,
+   "content": "Sorry to say, but I think need to update this app with many futures. One kind of backdated apps.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-18T14:17:59",
+   "userName": "Pabon Chandra Das"
+  },
+  {
+   "rating": 5,
+   "content": "Able to transfer super quick. Aa a pensioner I'm not savvy with tech, but I am able to get around my bank details",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-18T11:28:10",
+   "userName": "June Reid"
+  },
+  {
+   "rating": 5,
+   "content": "Very good service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-18T10:51:04",
+   "userName": "Baskaran Sivaraman"
   }
  ],
- "record_count": 1051,
- "last_fetch_utc": "2026-08-19T07:24:30.246922+00:00"
+ "record_count": 1055,
+ "last_fetch_utc": "2026-08-20T07:26:49.610651+00:00"
 }

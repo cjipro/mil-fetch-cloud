@@ -8713,8 +8713,88 @@
    "reviewCreatedVersion": "8.21.0",
    "at": "2026-08-17T12:40:35",
    "userName": "Colin Quinn"
+  },
+  {
+   "rating": 1,
+   "content": "very poor. I couldn't switch away from the app while opening an account to get other details without losing my progress. can't find where to switch a current account to Barclays",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-19T07:07:52",
+   "userName": "Andy Aspell-Clark"
+  },
+  {
+   "rating": 1,
+   "content": "Very frustrating app. when trying to setup an account or use the switch, when you navigate to another app on your phone to try and find info like account numbers, salary etc, you then try to go back to the Barclays app and it has closed! You have to reopen the app. When the app logs back in it starts the application process again! Very frustrating and long winded.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-19T06:00:04",
+   "userName": "Matthew Crump"
+  },
+  {
+   "rating": 5,
+   "content": "Works perfectly for me on Android, glad to see the chat function finally arrived.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-19T00:19:00",
+   "userName": "Mike Jones"
+  },
+  {
+   "rating": 1,
+   "content": "This update is terrible. Things that were simple before have extra steps, the font and size makes it hard to read anything in the transaction list. please revert to the older interface.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-18T20:43:45",
+   "userName": "Dan Middleton"
+  },
+  {
+   "rating": 5,
+   "content": "Easy app to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-18T16:51:26",
+   "userName": "Terry-ann Darby"
+  },
+  {
+   "rating": 5,
+   "content": "Alisha helped me get back on my online banking and was very helpful on the phone to me.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.25.2",
+   "at": "2026-08-18T16:33:59",
+   "userName": "Adam Butler"
+  },
+  {
+   "rating": 3,
+   "content": "Why has the latest update has removed some useful functions? Need to restore the daily running balance as it only shows what has been spent. After an hour on the phone with Customer Services, found out you can wait until your statement is produced at month end (which shows a daily balance) or find Spending Trends on the homepage and work your way across the graph for the current month. What an absolute waste of time!! There are loads of comments on this. Restore the daily balance, please.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-18T14:51:01",
+   "userName": "Paul & Christine Heffer"
+  },
+  {
+   "rating": 1,
+   "content": "very poor",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-18T13:14:18",
+   "userName": "Gary Morris"
+  },
+  {
+   "rating": 1,
+   "content": "Worst bank app I've used, it won't let me save the debit card details so I have to enter them every time I close a stament, even when I do that it gets temperamental and I get messages saying 'cant access right now' or 'try again later'. Don't recommend if you want ease!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-18T10:35:04",
+   "userName": "alex hall"
+  },
+  {
+   "rating": 5,
+   "content": "Fast and reliable",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.22.3",
+   "at": "2026-08-18T08:38:35",
+   "userName": "Chantal Venables"
   }
  ],
- "record_count": 1089,
- "last_fetch_utc": "2026-08-19T07:24:32.465151+00:00"
+ "record_count": 1099,
+ "last_fetch_utc": "2026-08-20T07:26:54.269449+00:00"
 }
