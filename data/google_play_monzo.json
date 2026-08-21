@@ -8505,8 +8505,96 @@
    "reviewCreatedVersion": "7.39.0",
    "at": "2026-08-18T09:59:16",
    "userName": "Sam Webberly"
+  },
+  {
+   "rating": 4,
+   "content": "please optimise for the Galaxy Z fold8",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T21:39:30",
+   "userName": "Rob V"
+  },
+  {
+   "rating": 5,
+   "content": "great banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T16:47:15",
+   "userName": "Prosper Ogbole"
+  },
+  {
+   "rating": 5,
+   "content": "Very easy to manage. and I like how Monzo informs you about your direct debit payment 3 days in advance. it's the best banking app that empowers me to keep on top of everything \ud83c\udfc6",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T16:17:01",
+   "userName": "Donovan Smart"
+  },
+  {
+   "rating": 5,
+   "content": "Best app and bank in the whole world!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T15:39:59",
+   "userName": "Jaquelina Giuliani"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use and secured can recommend to others",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.32.0",
+   "at": "2026-08-19T15:25:08",
+   "userName": "Emma De Castro"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T15:08:10",
+   "userName": "Swansea Cleaning"
+  },
+  {
+   "rating": 1,
+   "content": "Very unhappy that the app no longer requires authentication when in its broken server state Anyone could snatch my phone out my hand and transfer my savings with no checks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T14:55:50",
+   "userName": "Ben Gooding"
+  },
+  {
+   "rating": 1,
+   "content": "my app is not working properly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-19T14:40:36",
+   "userName": "Aj Chaudhary"
+  },
+  {
+   "rating": 1,
+   "content": "I've just been unable to get fuel for my car, as my card wouldn't read, tried the app only to be told there was \"an unfortunate issue\" as a severely disabled person this is unacceptable.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T13:43:53",
+   "userName": "David Thomas"
+  },
+  {
+   "rating": 1,
+   "content": "app stopped working can't speak to anyone in emergency",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T12:38:50",
+   "userName": "Kai Lightburn"
+  },
+  {
+   "rating": 1,
+   "content": "Absolutely rubbish! These guys don't want you spending your own money. They ask personal questions when you want to take out a substancial amount. They want you to do chip and pin too many times at the shops or restaurants and recently, I'm trying to simply move money from a joint account to a personal account and I have pending. I never had pending before. This bank if you want to call it that seems to becoming more crooked \ud83d\ude21 \ud83d\ude21",
+   "thumbsUpCount": 5,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-19T10:33:33",
+   "userName": "Mark"
   }
  ],
- "record_count": 1063,
- "last_fetch_utc": "2026-08-20T07:26:51.030131+00:00"
+ "record_count": 1074,
+ "last_fetch_utc": "2026-08-21T07:27:52.619874+00:00"
 }

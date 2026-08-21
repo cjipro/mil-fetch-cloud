@@ -8441,8 +8441,64 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-18T10:51:04",
    "userName": "Baskaran Sivaraman"
+  },
+  {
+   "rating": 3,
+   "content": "works great until you have to try sign in but don't have old phone. the id check option doesn't work \ud83d\ude14",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-20T05:19:58",
+   "userName": "Matt Sangster"
+  },
+  {
+   "rating": 4,
+   "content": "heavy app, asks to delete almost all the apps and I don't have that many to install. All my transactions are blocked as old version would not open, SMS confirmation or guest confirmation do not work to buy in the meantime, I cannot buy without the app. I expected a lite app, not this.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.71.31",
+   "at": "2026-08-20T01:37:29",
+   "userName": "M Mercedes"
+  },
+  {
+   "rating": 5,
+   "content": "goog",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-19T21:11:06",
+   "userName": "Vali Vrinceanu"
+  },
+  {
+   "rating": 1,
+   "content": "very very poor service \ud83d\ude1e",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-19T20:58:01",
+   "userName": "Nasrullah Nasrullah"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-19T14:11:12",
+   "userName": "Yang Sophia"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant customer service . I have banked with hsbc for sixty years.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-19T13:24:36",
+   "userName": "john locke"
+  },
+  {
+   "rating": 3,
+   "content": "could be more clearer and simple to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-19T10:37:46",
+   "userName": "C W"
   }
  ],
- "record_count": 1055,
- "last_fetch_utc": "2026-08-20T07:26:49.610651+00:00"
+ "record_count": 1062,
+ "last_fetch_utc": "2026-08-21T07:27:51.195301+00:00"
 }
