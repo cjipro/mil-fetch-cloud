@@ -8665,8 +8665,48 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-19T09:32:13",
    "userName": "Y"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-20T18:05:41",
+   "userName": "samantha baetens"
+  },
+  {
+   "rating": 3,
+   "content": "takes far to long to load up and keeps logging me out before I can get to my account \u2639\ufe0f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-20T17:15:28",
+   "userName": "Tammy Dwyer"
+  },
+  {
+   "rating": 1,
+   "content": "we're do you make an overpayment",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-20T11:35:04",
+   "userName": "Alex George"
+  },
+  {
+   "rating": 5,
+   "content": "easy app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-20T11:34:10",
+   "userName": "Gary Dolman"
+  },
+  {
+   "rating": 3,
+   "content": "I can't download statements for the periods I need. \ud83d\ude29",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-20T11:10:43",
+   "userName": "Sola Taiwo"
   }
  ],
- "record_count": 1083,
- "last_fetch_utc": "2026-08-21T07:27:48.328122+00:00"
+ "record_count": 1088,
+ "last_fetch_utc": "2026-08-22T07:18:08.659346+00:00"
 }

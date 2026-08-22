@@ -8977,8 +8977,104 @@
    "reviewCreatedVersion": "8.27.3",
    "at": "2026-08-19T08:33:39",
    "userName": "Sean Plows"
+  },
+  {
+   "rating": 4,
+   "content": "very easy and very quick",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-21T06:36:19",
+   "userName": "raaj khan"
+  },
+  {
+   "rating": 5,
+   "content": "Exceptional service.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-21T04:15:13",
+   "userName": "Abel Farinloye"
+  },
+  {
+   "rating": 4,
+   "content": "was an excellent app but since the last update its been rubbish wont load at times",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-20T23:55:15",
+   "userName": "Glenn Weaver"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank professional",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-20T23:46:09",
+   "userName": "Sharokh Hatami"
+  },
+  {
+   "rating": 1,
+   "content": "This is what they offer as a replacement for the Barclaycard online servicing... What a terrible joke. Are they afraid of showing the customer details of when their next statement date is? Do they think that less detail overall is somehow better, and provides a superior experience? Do they think that a tiny mobile screen is better than a large monitor for somebody with cataracts? The developer clearly has comprehension issues Updating Android won't magically add missing features",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-20T23:18:46",
+   "userName": "M"
+  },
+  {
+   "rating": 4,
+   "content": "Decent app!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-20T21:22:17",
+   "userName": "Tomos John"
+  },
+  {
+   "rating": 5,
+   "content": "just what I wanted.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-20T16:38:55",
+   "userName": "Bernard Fuller"
+  },
+  {
+   "rating": 1,
+   "content": "Impossible to make an extra payment because the app logs out when you go to your banks approval page.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-20T15:58:46",
+   "userName": "Graham Bennett"
+  },
+  {
+   "rating": 1,
+   "content": "App won't run without permission to make calls from my device. Can't use as don't want to give such egregious permission. EDIT to reply to dev: I am on the latest software available for my device. Software support has ended. Nothing to update to. I should not have to buy a new phone for you, when your competitor's banking apps work just fine.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-20T13:32:06",
+   "userName": "Denis Lukianov"
+  },
+  {
+   "rating": 1,
+   "content": "gets stuck in a endless loop when trying to sign up for Amazon installments",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-20T12:25:12",
+   "userName": "Garreth Packham"
+  },
+  {
+   "rating": 1,
+   "content": "Unable to request credit refund or use in-app messaging function without app getting stuck in a processing loop or crashing. Prior to these issues, I found the app to be reasonably reliable to check debt and payment details. The inability to use the in-app messenger is by far the most frustrating as it is given as the only means of contact for issues.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-20T12:12:04",
+   "userName": "David O'Donovan"
+  },
+  {
+   "rating": 1,
+   "content": "The app crashes and logs me out everytime I attempt to use the live chat. I have tried reinstalling the application and tested on both s25ultra and s26 ultra but nothing worked.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-20T11:12:21",
+   "userName": "Prativa Bhattarai"
   }
  ],
- "record_count": 1122,
- "last_fetch_utc": "2026-08-21T07:27:55.568303+00:00"
+ "record_count": 1134,
+ "last_fetch_utc": "2026-08-22T07:18:15.842164+00:00"
 }
