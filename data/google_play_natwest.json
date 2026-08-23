@@ -8705,8 +8705,56 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-20T11:10:43",
    "userName": "Sola Taiwo"
+  },
+  {
+   "rating": 1,
+   "content": "Other banks offer far better user experiences. Natwest account setup takes days rather than minutes, and far more personal info is required.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-22T07:05:53",
+   "userName": "Jason Tyler"
+  },
+  {
+   "rating": 5,
+   "content": "good service thank you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-22T06:41:35",
+   "userName": "malcolm hughes"
+  },
+  {
+   "rating": 1,
+   "content": "constant crashing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-22T06:36:46",
+   "userName": "Kieran MacGillicuddy"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-21T16:09:28",
+   "userName": "Paul Walker"
+  },
+  {
+   "rating": 5,
+   "content": "superb",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-21T15:37:21",
+   "userName": "ianstevenson1903"
+  },
+  {
+   "rating": 1,
+   "content": "a bit of a nuisance",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-21T12:54:35",
+   "userName": "Pat Buckley"
   }
  ],
- "record_count": 1088,
- "last_fetch_utc": "2026-08-22T07:18:08.659346+00:00"
+ "record_count": 1094,
+ "last_fetch_utc": "2026-08-23T07:19:40.191679+00:00"
 }
