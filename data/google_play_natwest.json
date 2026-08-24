@@ -8753,8 +8753,40 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-21T12:54:35",
    "userName": "Pat Buckley"
+  },
+  {
+   "rating": 5,
+   "content": "very quick service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-22T16:31:58",
+   "userName": "Dave Stow"
+  },
+  {
+   "rating": 5,
+   "content": "bank with them for years",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-22T14:20:40",
+   "userName": "ken brandon"
+  },
+  {
+   "rating": 5,
+   "content": "Secured",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.67.0000.31083.0",
+   "at": "2026-08-22T13:58:04",
+   "userName": "Samuel Yeboah"
+  },
+  {
+   "rating": 4,
+   "content": "Wish it supported landscape mode.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-22T11:33:48",
+   "userName": "Patrick Lucas"
   }
  ],
- "record_count": 1094,
- "last_fetch_utc": "2026-08-23T07:19:40.191679+00:00"
+ "record_count": 1098,
+ "last_fetch_utc": "2026-08-24T07:43:37.863335+00:00"
 }

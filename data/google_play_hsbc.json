@@ -8617,8 +8617,48 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-21T09:09:05",
    "userName": "Margaret Elliott"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant service for international travel. The best.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-22T23:03:37",
+   "userName": "Lamin Tamba"
+  },
+  {
+   "rating": 1,
+   "content": "putting the amount in was not straightforward. it took me ages to get the right amount in because the figures and the dots kept moving so that the wrong amount was appearing.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-22T16:23:54",
+   "userName": "Maureen Rees"
+  },
+  {
+   "rating": 5,
+   "content": "Had an issue with the app, but was fixed after calling online support number. Good customer service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-22T12:20:02",
+   "userName": "Amy Louise"
+  },
+  {
+   "rating": 1,
+   "content": "Can't use chat function",
+   "thumbsUpCount": 4,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-22T10:37:31",
+   "userName": "Maddalena M"
+  },
+  {
+   "rating": 1,
+   "content": "wants my old device to prove its me well its broken cant do that ..aww cant verify u !! joke honestly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-21T17:34:02",
+   "userName": "James Reid"
   }
  ],
- "record_count": 1077,
- "last_fetch_utc": "2026-08-23T07:19:43.113214+00:00"
+ "record_count": 1082,
+ "last_fetch_utc": "2026-08-24T07:43:40.979385+00:00"
 }

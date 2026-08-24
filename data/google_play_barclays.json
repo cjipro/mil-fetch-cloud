@@ -9177,8 +9177,88 @@
    "reviewCreatedVersion": "8.27.3",
    "at": "2026-08-21T07:30:37",
    "userName": "Joseph Mulcahy"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-23T06:44:51",
+   "userName": "collette schroeder"
+  },
+  {
+   "rating": 5,
+   "content": "So amazing and beautiful!!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-22T20:17:18",
+   "userName": "Onah Matthew Alechenu"
+  },
+  {
+   "rating": 1,
+   "content": "worst banking and app every, crashing, lagging, half of functions isn't working",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-22T17:25:44",
+   "userName": "Kaspars Gillespie"
+  },
+  {
+   "rating": 2,
+   "content": "Unable to pay Barclaycard due to app not allowing you to switch to another banking app to authorise the payment. It used to let you switch to authorise and then go back to the Barclays app to finish the transaction. Now as soon as you leave the Barclays app it logs you out and closes the transaction you are trying to complete. Given the website says it's going to stop working this issue needs to be resolved quickly. Otherwise I will have to ring support each time for them to manually process it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-22T16:25:04",
+   "userName": "Andy Burrell"
+  },
+  {
+   "rating": 5,
+   "content": "Great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-22T14:36:04",
+   "userName": "Tanya Mushy"
+  },
+  {
+   "rating": 4,
+   "content": "I've always liked this app, but I hate the update they've done.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-22T11:56:48",
+   "userName": "Orice D."
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.22.3",
+   "at": "2026-08-22T09:53:59",
+   "userName": "Andrius Jakas"
+  },
+  {
+   "rating": 1,
+   "content": "I previously rated this app 5 stars. They've ruined it with this new update. Shocking. Who designed and approved this? Just terrible. Update in reply to deceleration request. My biggest gripes are that it no longer shows running daily balance. And the interface is now messy. It was much cleaner before. It looks like a noisy kids app imo.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-22T09:35:17",
+   "userName": "Mario"
+  },
+  {
+   "rating": 1,
+   "content": "The current Barclays app doesn't load past security login, even after reinstall.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-22T08:49:06",
+   "userName": "pradip ghosh"
+  },
+  {
+   "rating": 5,
+   "content": "great love it \ud83d\udc97",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-22T08:23:20",
+   "userName": "Caroline Avraam"
   }
  ],
- "record_count": 1147,
- "last_fetch_utc": "2026-08-23T07:19:46.840020+00:00"
+ "record_count": 1157,
+ "last_fetch_utc": "2026-08-24T07:43:45.042325+00:00"
 }

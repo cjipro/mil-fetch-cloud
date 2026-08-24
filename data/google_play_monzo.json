@@ -8737,8 +8737,56 @@
    "reviewCreatedVersion": "7.38.0",
    "at": "2026-08-14T10:17:45",
    "userName": "A Google user"
+  },
+  {
+   "rating": 1,
+   "content": "Never open an account with Monzo. They could block your account for no reason, and unblocking it is extremely difficult. Worst bank I have had an account with.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.38.0",
+   "at": "2026-08-23T00:56:27",
+   "userName": "Jim Miller"
+  },
+  {
+   "rating": 3,
+   "content": "trends and insights don't match up to actual spending and merchants. Very inaccurate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-22T22:43:32",
+   "userName": "CuppaTea"
+  },
+  {
+   "rating": 3,
+   "content": "good bank but constantly updating the ui and every update it gets worse and more confusing.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-22T21:28:40",
+   "userName": "Ralph Sage"
+  },
+  {
+   "rating": 5,
+   "content": "good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.21.0",
+   "at": "2026-08-22T20:05:03",
+   "userName": "Moses Ojero"
+  },
+  {
+   "rating": 5,
+   "content": "very attentive 0",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-22T18:43:56",
+   "userName": "Rachael Shaw"
+  },
+  {
+   "rating": 5,
+   "content": "quite easy to follow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-08-22T12:18:32",
+   "userName": "Marjorie Bennion"
   }
  ],
- "record_count": 1092,
- "last_fetch_utc": "2026-08-23T07:19:44.422348+00:00"
+ "record_count": 1098,
+ "last_fetch_utc": "2026-08-24T07:43:42.187492+00:00"
 }
