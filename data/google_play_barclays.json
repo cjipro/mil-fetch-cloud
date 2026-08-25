@@ -9257,8 +9257,96 @@
    "reviewCreatedVersion": null,
    "at": "2026-08-22T08:23:20",
    "userName": "Caroline Avraam"
+  },
+  {
+   "rating": 3,
+   "content": "when I swipe back, I expect the app to close.",
+   "thumbsUpCount": 14,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-24T07:13:25",
+   "userName": "Alex Brown"
+  },
+  {
+   "rating": 2,
+   "content": "Doesn't store payment details so each time you want to make a payment, you have to add them in again. When setting up a DD, it's about the only place that won't let you choose a payment date. It occasionally decides you can't use biometrics, but waits for you to have forgotten your passcode, to ask for it so you have to go through the rigmarole of resetting. Closes completely when you navigate away losing progress on filling out forms i.e when you need sort code for DD setup.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-24T06:14:17",
+   "userName": "Rebecca Hinsley"
+  },
+  {
+   "rating": 1,
+   "content": "getting sick of being told everything is a scam! please let me do with MY money as I wish!\ud83e\udd26\ud83c\udffb\ud83e\udd37\u200d\u2642\ufe0f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-23T21:56:17",
+   "userName": "Mark Tanner"
+  },
+  {
+   "rating": 5,
+   "content": "simple to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-23T18:18:24",
+   "userName": "Austin Cogger"
+  },
+  {
+   "rating": 1,
+   "content": "Inconsistent access to documents, errors almost every time opening the app, contradictory information provided vs the desktop website. Unhelpful.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-23T18:10:18",
+   "userName": "Josh Varley-Reeves"
+  },
+  {
+   "rating": 2,
+   "content": "seems to be worse since the latest app update end of July. App crashes mid chat conversation and I cannot get back into the chat, I don't understand why biometric is allowed for login but not to authorise payment and I cannot reset the pin without having to re-register just for it to tell me it was not possible to verify. Overall current app is causing stress and frustration.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-23T17:28:48",
+   "userName": "h l"
+  },
+  {
+   "rating": 5,
+   "content": "never had a problem.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-23T15:04:58",
+   "userName": "Ray Jones"
+  },
+  {
+   "rating": 3,
+   "content": "App is good, company attitude to adult content and personal choice is not",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-23T13:15:05",
+   "userName": "Emlyn Ashley"
+  },
+  {
+   "rating": 1,
+   "content": "A disastrous attempt to offer a competent and serviceable banking app! I cannot print a statement and everytime I go on the app nothing works. I now have 2 barclays apps nothing works. A failure!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-23T13:07:05",
+   "userName": "Patrick J Smith"
+  },
+  {
+   "rating": 2,
+   "content": "installed security update on phone now app keeps restarting",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-23T10:23:53",
+   "userName": "lee david baker"
+  },
+  {
+   "rating": 1,
+   "content": "Cannot use on my new device (10 \" Lenovo Tablet with larger keyboard ). Also have a Santander account for use on my new device and it works ok with no finger or visual problems (75 year old OAP) ! Now 3rd August and no reply from developers ?!!!!! Now August 23rd and still no reply from developers?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-23T08:43:51",
+   "userName": "David Prout"
   }
  ],
- "record_count": 1157,
- "last_fetch_utc": "2026-08-24T07:43:45.042325+00:00"
+ "record_count": 1168,
+ "last_fetch_utc": "2026-08-25T07:29:29.154864+00:00"
 }

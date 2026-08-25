@@ -8785,8 +8785,48 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-22T11:33:48",
    "userName": "Patrick Lucas"
+  },
+  {
+   "rating": 1,
+   "content": "Needs a better way to transfer to a new phone. All my other banking apps let me create QR codes but this garbage still uses the old 9th letter and the 12th letter of your password, which is a nightmare if you use highly secure passwords with a large number of characters.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-23T19:36:35",
+   "userName": "russ t"
+  },
+  {
+   "rating": 3,
+   "content": "nothing to do with me",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-23T15:35:21",
+   "userName": "Janet Cordingley"
+  },
+  {
+   "rating": 5,
+   "content": "amazing, great service will always use this banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-23T14:49:54",
+   "userName": "Rickeisha Richards"
+  },
+  {
+   "rating": 4,
+   "content": "good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-23T09:48:41",
+   "userName": "Ben Woodcock"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-23T09:05:35",
+   "userName": "Nicolette Whiteside"
   }
  ],
- "record_count": 1098,
- "last_fetch_utc": "2026-08-24T07:43:37.863335+00:00"
+ "record_count": 1103,
+ "last_fetch_utc": "2026-08-25T07:29:24.723790+00:00"
 }

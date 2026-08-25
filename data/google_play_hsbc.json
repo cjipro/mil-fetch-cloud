@@ -8657,8 +8657,40 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-21T17:34:02",
    "userName": "James Reid"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-23T19:14:46",
+   "userName": "Sharon Pearce"
+  },
+  {
+   "rating": 1,
+   "content": "Trying to sign up for basic account, I can't sign up no matter what I do on start of app past intro. Reinstall, reset phone, swap wifi/data, clear cache. Phone is up to date. Gets stuck on loading at question 1. Edit - No network specific permissions on app, and still doesn't work turning on what permissions there is.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-23T17:44:10",
+   "userName": "MetalThornTree"
+  },
+  {
+   "rating": 4,
+   "content": "Can be slow at time",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-23T14:35:59",
+   "userName": "Esi Asante"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-23T08:09:21",
+   "userName": "JAMES BIRRANE"
   }
  ],
- "record_count": 1082,
- "last_fetch_utc": "2026-08-24T07:43:40.979385+00:00"
+ "record_count": 1086,
+ "last_fetch_utc": "2026-08-25T07:29:26.662018+00:00"
 }
