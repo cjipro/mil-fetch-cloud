@@ -8825,8 +8825,88 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-23T09:05:35",
    "userName": "Nicolette Whiteside"
+  },
+  {
+   "rating": 1,
+   "content": "Just few days on the app and things wasn't looking good. 1. You need to have automatic log out. Once the app is not active for 10 minutes it should log out not when you open the app from the background you still find the app opened but can't carry out transactions. 2. Biometric approval every minute is insane especially for account you have sent money to previously",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-25T01:56:10",
+   "userName": "CHUKWUEZE TOBECHUKWU"
+  },
+  {
+   "rating": 5,
+   "content": "amazing customer service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T22:14:39",
+   "userName": "Camran Shahid"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic bank they really look out for customers and make sure your account is well maintained and looked after excellent service \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T13:25:12",
+   "userName": "Dawn Burns"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use even for us penioners",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T12:23:17",
+   "userName": "Heather Knowles-Sinclair"
+  },
+  {
+   "rating": 2,
+   "content": "Crashed phone repeatedly until the cause was figured out. I had to re-register for online banking. At the stage where it asks for additional information (choose account details or debit card number) if I filled in BOTH options, it not only crashed the app but restarted my phone. Obviously not properly error-trapped. Poor programming and end-user testing.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T10:38:31",
+   "userName": "David Green"
+  },
+  {
+   "rating": 4,
+   "content": "I would appreciate the inclusion of a two-factor authentication option within the application for enhanced security. For example, if a partner's fingerprint is registered on a user's phone, they could potentially access the banking application. Therefore, I would suggest a two-stage login process, such as a fingerprint scan followed by a PIN code, or a face scan followed by a PIN code. Personally, I believe a PIN code offers a higher level of security.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T09:32:09",
+   "userName": "Jason Ogden"
+  },
+  {
+   "rating": 1,
+   "content": "not easy to find pin.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T09:27:45",
+   "userName": "Edward Bennison"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant app and so easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T08:13:15",
+   "userName": "Laurence Smith"
+  },
+  {
+   "rating": 3,
+   "content": "It's hard to figure out how to make extra payments on top of your direct debit using the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-24T07:55:34",
+   "userName": "Eden Rivers"
+  },
+  {
+   "rating": 5,
+   "content": "verry helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-08-02T21:44:29",
+   "userName": "MR SWEET CHILLI"
   }
  ],
- "record_count": 1103,
- "last_fetch_utc": "2026-08-25T07:29:24.723790+00:00"
+ "record_count": 1113,
+ "last_fetch_utc": "2026-08-26T07:31:03.305679+00:00"
 }

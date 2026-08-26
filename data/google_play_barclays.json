@@ -9345,8 +9345,88 @@
    "reviewCreatedVersion": "8.26.2",
    "at": "2026-08-23T08:43:51",
    "userName": "David Prout"
+  },
+  {
+   "rating": 1,
+   "content": "Latest update has a very annoying feature in that i can no longer see what my balance was on a daily basis in the past. Now it is showing simply a total of that day's income and expenditure. This is no use at all, I can easily calculate that if I need to - instead I want to see what my balance was on previous days, which I cannot calculate. Please bring that feature back!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-25T07:10:40",
+   "userName": "Deborah Llewellyn"
+  },
+  {
+   "rating": 5,
+   "content": "very good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.22.3",
+   "at": "2026-08-25T07:01:29",
+   "userName": "Jenny Mason"
+  },
+  {
+   "rating": 1,
+   "content": "cannot scan in a check at all on this app and im doing everything right",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-24T15:54:17",
+   "userName": "Leighanne Edminson"
+  },
+  {
+   "rating": 5,
+   "content": "good protection",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.25.2",
+   "at": "2026-08-24T15:22:30",
+   "userName": "John Stevens"
+  },
+  {
+   "rating": 2,
+   "content": "this app makes me want to play in traffic sometimes :)",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-24T14:35:58",
+   "userName": "Dave Smith"
+  },
+  {
+   "rating": 5,
+   "content": "had Barclays all my life they are a good bank fast and secure.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-24T14:09:34",
+   "userName": "AvatarJakehe Downham"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-24T09:43:37",
+   "userName": "C G wijesekera"
+  },
+  {
+   "rating": 4,
+   "content": "straight forward instructions, making transactions easy to follow.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-24T09:29:34",
+   "userName": "Leesa Vogt"
+  },
+  {
+   "rating": 1,
+   "content": "this app has stopped working on my device. I can't access my account. I've tried clearing my cache. reinstalling and nothing works.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-24T09:02:10",
+   "userName": "Nancy Harbour"
+  },
+  {
+   "rating": 1,
+   "content": "unable to connect with agent in chat. poor service",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-24T08:53:12",
+   "userName": "Jinto Puthoor Raphel"
   }
  ],
- "record_count": 1168,
- "last_fetch_utc": "2026-08-25T07:29:29.154864+00:00"
+ "record_count": 1178,
+ "last_fetch_utc": "2026-08-26T07:31:09.787020+00:00"
 }

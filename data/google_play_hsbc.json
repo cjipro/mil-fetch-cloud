@@ -8689,8 +8689,64 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-23T08:09:21",
    "userName": "JAMES BIRRANE"
+  },
+  {
+   "rating": 4,
+   "content": "It is a much improved banking app, not Revolute, but pretty good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-25T06:59:55",
+   "userName": "James Smith"
+  },
+  {
+   "rating": 4,
+   "content": "good service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-25T06:32:06",
+   "userName": "Milu 0574"
+  },
+  {
+   "rating": 1,
+   "content": "I can't complete the security section Whenever I get to the point where I have to take a selfie and photo of my ID the app gets stuck on a loading screen.  I'm using a moto g06 power, I've tried uninstalling the app and then reinstalling, I've made sure the app has right permissions. Is the app compatible with my phone, any help would be appreciated",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-25T05:51:35",
+   "userName": "Adam Badawi"
+  },
+  {
+   "rating": 5,
+   "content": "Great site easy to use and keeps my money safe",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-24T14:34:31",
+   "userName": "Pamela Brindley"
+  },
+  {
+   "rating": 5,
+   "content": "no fuss no frills, works exactly how you would want it to.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-24T08:25:13",
+   "userName": "John Clark"
+  },
+  {
+   "rating": 1,
+   "content": "Can't get past confirm identity get a continuous rotating circle - nothing happens. Really frustrating Tried all of this and still doesn't work. This is a nightmare - I thought the app was supposed to make things easier",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.63.4",
+   "at": "2026-08-24T08:17:34",
+   "userName": "Tracy Todd"
+  },
+  {
+   "rating": 5,
+   "content": "very good banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-24T07:40:30",
+   "userName": "Damien darbyshire"
   }
  ],
- "record_count": 1086,
- "last_fetch_utc": "2026-08-25T07:29:26.662018+00:00"
+ "record_count": 1093,
+ "last_fetch_utc": "2026-08-26T07:31:05.929404+00:00"
 }

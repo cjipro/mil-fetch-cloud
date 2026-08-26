@@ -2001,8 +2001,968 @@
    "version": "3.72.25",
    "date": "2026-07-20T14:22:17-07:00",
    "author": "MorvenLindop"
+  },
+  {
+   "rating": 1,
+   "title": "Recent update broke basic functionality \u2013 needs urgent fixes",
+   "review": "I know the team is likely trying to modernize and streamline the experience, but the latest layout redesign has made standard tasks frustratingly difficult.\nA few critical issues need immediate attention:\n App Crash / Reset on Screenshots: Every time I attempt to take a screenshot (e.g., saving a confirmation of a transaction), the app automatically boots me back to the main login screen.\n Failed Payments: In-app payments and third-party checkout redirections via Barclays are no longer processing properly. Transactions consistently fail or time out.\n Cluttered Navigation: The updated layout hides essential everyday tools under extra menus, making simple tasks take twice as long as they used to.\nPlease review these recent UI changes and stability issues. The previous version was vastly more reliable for everyday banking.",
+   "version": "3.75.7",
+   "date": "2026-08-24T12:08:54-07:00",
+   "author": "Fabi0Soares"
+  },
+  {
+   "rating": 3,
+   "title": "Stop asking me to review your app",
+   "review": "It\u2019s boring now please stop it\u2019s every other time I use the app",
+   "version": "3.75.7",
+   "date": "2026-08-24T09:36:58-07:00",
+   "author": "Death loves youth"
+  },
+  {
+   "rating": 2,
+   "title": "Where\u2019s the balance!",
+   "review": "Used to be an excellent app but a few updates ago I noticed a small but significant change for the worse! When scrolling through transactions you can no longer see what the account balance was at the time of each transaction! Please bring it back!",
+   "version": "3.75.7",
+   "date": "2026-08-24T08:18:00-07:00",
+   "author": "Bob9027"
+  },
+  {
+   "rating": 3,
+   "title": "App needs new features",
+   "review": "No way of viewing upcoming payment, filter by repeat payment etc \u2026. Come on Barclays",
+   "version": "3.75.7",
+   "date": "2026-08-24T07:36:24-07:00",
+   "author": "smithysfc"
+  },
+  {
+   "rating": 1,
+   "title": "Review",
+   "review": "Why have you changed it? Payment screen now defaults to my joint account, why? Why when I make my monthly payment to HMRC, do I have to set up a new payee? For years I have done this and only had to change the last few numbers of the reference, now I have to go through the rigmarole of setting up a new payee, which it isn\u2019t.",
+   "version": "3.75.7",
+   "date": "2026-08-24T07:21:30-07:00",
+   "author": "jelkyfish"
+  },
+  {
+   "rating": 1,
+   "title": "New Banking App",
+   "review": "Terrible, old app so much better and easier to navigate, 2 steps back",
+   "version": "3.75.7",
+   "date": "2026-08-24T05:50:52-07:00",
+   "author": "Les Vaux1"
+  },
+  {
+   "rating": 1,
+   "title": "Jailbreak Nonsense",
+   "review": "This app claims my iPhone is jailbroken, when it\u2019s not and never has been!, and hence it won\u2019t even run! Your developers need to fix this!",
+   "version": "3.75.7",
+   "date": "2026-08-24T02:47:59-07:00",
+   "author": "CapitalMan99"
+  },
+  {
+   "rating": 5,
+   "title": "Great service",
+   "review": "Just a great service that works",
+   "version": "3.75.7",
+   "date": "2026-08-24T01:16:36-07:00",
+   "author": "stubaxle"
+  },
+  {
+   "rating": 2,
+   "title": "Transactions disappear!",
+   "review": "The new layout for account transactions is no where near as good/nice as the old layout. The bolder type is very ugly and Items disappear as you scroll up and down, so makes it really difficult to read and check the transactions that you have made - hope this gets fixed soon! It\u2019s a shame, because the app is fabulous other than this problem\u2026",
+   "version": "3.75.7",
+   "date": "2026-08-24T00:39:56-07:00",
+   "author": "Sparkle:"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use",
+   "review": "I have been very pleased with my experience using the Barclays banking app. The app is easy to navigate and user-friendly, making it straightforward to manage my banking needs.\n\nI particularly appreciate being kept informed about new features through letters, as this ensures I am aware of improvements and changes to the service.\n\nAnother feature I value is the well-organised inbox. It is not cluttered with old messages or statements, making it easy to find relevant information when needed.\n\nThe chat feature is also a significant advantage. It is responsive and genuinely works, providing a convenient way to get assistance without unnecessary delays. I also appreciate the option to request a callback when speaking to someone directly would be more appropriate.\n\nOverall, Barclays provides a convenient, reliable and well-designed banking app, and I appreciate the continued effort to make digital banking simple and accessible.",
+   "version": "3.75.7",
+   "date": "2026-08-23T22:55:19-07:00",
+   "author": "Ppabbs"
+  },
+  {
+   "rating": 1,
+   "title": "Rubbish",
+   "review": "Buttons struggle to register when pressed, features not available in early hours, app wants me to delete and reinstall it in order to register for a different account, basic uninspiring interface, wants a five digit pin entered into it endlessly. Try harder.",
+   "version": "3.75.7",
+   "date": "2026-08-23T16:45:07-07:00",
+   "author": "Relaxicat"
+  },
+  {
+   "rating": 5,
+   "title": "Appreciate the support",
+   "review": "Very easy to use the app",
+   "version": "3.75.7",
+   "date": "2026-08-23T15:35:32-07:00",
+   "author": "myjiiy"
+  },
+  {
+   "rating": 5,
+   "title": "Brilliant Bank",
+   "review": "Lovely Lovley Bank",
+   "version": "3.75.7",
+   "date": "2026-08-23T14:39:35-07:00",
+   "author": "ChinkyXi"
+  },
+  {
+   "rating": 5,
+   "title": "Barclays is Queen",
+   "review": "Lovely so far \nThank you so much",
+   "version": "3.75.7",
+   "date": "2026-08-23T13:57:03-07:00",
+   "author": "Laredhon"
+  },
+  {
+   "rating": 3,
+   "title": "Used to be\u2026",
+   "review": "What for years was one of the most aesthetically pleasing, visually uncluttered, simple to use app has in the past few months rapidly turned as ugly, cluttered and difficult to navigate as the eBay app.",
+   "version": "3.75.7",
+   "date": "2026-08-23T07:59:31-07:00",
+   "author": "Big.Josh"
+  },
+  {
+   "rating": 2,
+   "title": "Unbelievably slow to load",
+   "review": "It take such a long time to simply log in, perform all the functions you need. I wanted to transfer some money and this took me almost 10 mins. Why?!!! This is ridiculous. Sort it out Barclays",
+   "version": "3.75.7",
+   "date": "2026-08-23T07:57:36-07:00",
+   "author": "Jmade1"
+  },
+  {
+   "rating": 5,
+   "title": "Barclays App",
+   "review": "Banking",
+   "version": "3.75.7",
+   "date": "2026-08-23T06:54:01-07:00",
+   "author": "Brap Bumbaclart"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Simplicity, secure in most cases and user friendly",
+   "version": "3.75.7",
+   "date": "2026-08-23T05:20:34-07:00",
+   "author": "Doobka"
+  },
+  {
+   "rating": 4,
+   "title": "New UI is an improvement",
+   "review": "Firstly, you really need to communicate better to users of the App that you intend to make a major update that make the App look significantly different. From both a security point of view and from a usability point. When I first saw the new UI I was urgently trying to pay an invoice. My first thought was, is this still Barclays, and then how the hell do I do what I\u2019d previously done so easily. \n\nThe good parts are around Barclaycard integration, and payment history is much better. \n\nIt would be nice if you provided the ability to see countdowns to bills becoming due. Such as Barclaycard payments, standing orders etc",
+   "version": "3.75.7",
+   "date": "2026-08-23T01:48:19-07:00",
+   "author": "Robert421"
+  },
+  {
+   "rating": 5,
+   "title": "Happy",
+   "review": "Barclays are the best. They refused aa scammer in the sun savers trying to take \u00a339 even though I refused to pay it. Barclays THANKYOU.",
+   "version": "3.75.7",
+   "date": "2026-08-22T23:51:11-07:00",
+   "author": "Bargain food"
+  },
+  {
+   "rating": 5,
+   "title": "Very good service thank you very much",
+   "review": "Hello",
+   "version": "3.75.7",
+   "date": "2026-08-22T16:14:04-07:00",
+   "author": "\u0643\u0641\u0627\u0648\u064a"
+  },
+  {
+   "rating": 1,
+   "title": "Removed credit card",
+   "review": "I saw that my Barclays credit card had vanished from the App. Also tried using said card to pay for fuel and it got declined. Phoned the bank and that said I have to visit a branch with 2 forms of ID as they had suspended my account, but would not tell me why. \n\nI know I have plenty of funds available as I tend to clear the balance regularly.\n\nWhy can\u2019t I verify digitally rather than visit a branch? Ridiculous, Digital ID verification has been around for years, but obviously not at Barclays!!!",
+   "version": "3.75.7",
+   "date": "2026-08-22T13:14:22-07:00",
+   "author": "Heck I am angry"
+  },
+  {
+   "rating": 5,
+   "title": "Tolu",
+   "review": "Great",
+   "version": "3.75.7",
+   "date": "2026-08-22T12:57:27-07:00",
+   "author": "Olaomopraise"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Very easy to use.\n5star app\ud83d\udc4d\ud83c\udffe",
+   "version": "3.75.7",
+   "date": "2026-08-22T08:07:38-07:00",
+   "author": "Jodymens"
+  },
+  {
+   "rating": 1,
+   "title": "Awful",
+   "review": "Was trying to switch account away from Starling - whose app is even worse - had to log out to get my details midway through, no way of returning to where I\u2019d got to, no human help available on a Saturday.  Yet another bank that doesn\u2019t care about its customers.",
+   "version": "3.75.7",
+   "date": "2026-08-22T06:39:12-07:00",
+   "author": "Boris Fischer"
+  },
+  {
+   "rating": 4,
+   "title": "Loyalty",
+   "review": "Best bank ever in spite of its passato dubbioso x",
+   "version": "3.75.7",
+   "date": "2026-08-22T04:13:49-07:00",
+   "author": "Pinky Winter"
+  },
+  {
+   "rating": 5,
+   "title": "Transferring money",
+   "review": "Easy to transfer from one account to another.",
+   "version": "3.75.7",
+   "date": "2026-08-22T04:04:30-07:00",
+   "author": "jinxy1469"
+  },
+  {
+   "rating": 5,
+   "title": "love this bank",
+   "review": "super sapport for me",
+   "version": "3.75.7",
+   "date": "2026-08-22T03:04:27-07:00",
+   "author": "Elisabedi.13"
+  },
+  {
+   "rating": 1,
+   "title": "Complexity",
+   "review": "Why do I need to go through a check for a 3 gbp payment",
+   "version": "3.75.7",
+   "date": "2026-08-22T02:19:53-07:00",
+   "author": "Csch79"
+  },
+  {
+   "rating": 3,
+   "title": "Strong but credit card app needs work",
+   "review": "Very strong in terms of day to day functionality across accounts except credit card, where they are behind the times in having an unsearchable transactions generated, as opposed to being able to filter transactions by \u00a3 size / merchant A-Z like Amex",
+   "version": "3.75.7",
+   "date": "2026-08-22T00:19:30-07:00",
+   "author": "thesilentmajority1991"
+  },
+  {
+   "rating": 1,
+   "title": "Not A Replacement for Online Servicing!",
+   "review": "They said to use this, since they have closed the Barclaycard online servicing, but the problem is, this is not equivalent.\nThis lacks the next statement date, this doesn't have the same level of transaction detail, unless you inspect individual transactions, this doesn't offer being able to group transactions into categories that are user defined.\nThis is terrible to view, as it suffers a one size fits all mentality; that mentality is quite simply delusional... Previously, using online servicing I could makes things easy to read on a 27 inch screen, and a trashy mobile app simply cannot match that.\nAdd in the fact that small screens are difficult to read...\nThis is NOT an adequate replacement for what it is supposed to replace. If I could give 0 stars, I would!",
+   "version": "3.75.7",
+   "date": "2026-08-21T10:44:42-07:00",
+   "author": "SixStringFixer"
+  },
+  {
+   "rating": 5,
+   "title": "Mr Miah",
+   "review": "Good and secure",
+   "version": "3.75.7",
+   "date": "2026-08-21T07:25:16-07:00",
+   "author": "\ud83d\ude1b\ud83d\ude1b free"
+  },
+  {
+   "rating": 5,
+   "title": "Xx",
+   "review": "Xx",
+   "version": "3.75.7",
+   "date": "2026-08-21T04:33:24-07:00",
+   "author": "Kinggypo"
+  },
+  {
+   "rating": 4,
+   "title": "Does what you need",
+   "review": "Overall, I like the app. I use it most days and I do what I need with minimal effort. What I would find useful is being able to grade my standing orders and direct debits so that if there is an issue, you have a bit of say about which ones are bounced back",
+   "version": "3.75.7",
+   "date": "2026-08-21T02:46:36-07:00",
+   "author": "Dottydalek"
+  },
+  {
+   "rating": 1,
+   "title": "Part payment of Barclay loan",
+   "review": "Even at the bank very difficult to set this up . You need to review the customer methodology associated with this procedure",
+   "version": "3.75.7",
+   "date": "2026-08-21T02:06:24-07:00",
+   "author": "ray slinger"
+  },
+  {
+   "rating": 2,
+   "title": "Not the easiest update to navigate",
+   "review": "I liked the old app! This one will take a bit of getting used to. I found the old version more intuitive but give it time and I shall get used to it.",
+   "version": "3.75.7",
+   "date": "2026-08-21T01:56:40-07:00",
+   "author": "Lordimrie"
+  },
+  {
+   "rating": 3,
+   "title": "Not a helpful update for me",
+   "review": "So, the update removes incoming payment identities from my accounts and replaces them with unconnected numbers! Not editable by me. Eventually found the \u2018chat\u2019 box which connected me to a third rate AI bot who couldn\u2019t even identify the type of issue! No help. Ring or go to the last branch in the region to sort it out. Irritating!",
+   "version": "3.75.7",
+   "date": "2026-08-20T23:42:47-07:00",
+   "author": "Rutlanderrrrr"
+  },
+  {
+   "rating": 5,
+   "title": "Barclays online app",
+   "review": "Amazing app. Very easy and save to use everyday,every time. Brilliant job. Thanks",
+   "version": "3.75.7",
+   "date": "2026-08-20T19:12:59-07:00",
+   "author": "AnitaHiero"
+  },
+  {
+   "rating": 1,
+   "title": "00002 error message",
+   "review": "The app originally was good up until a few months ago. Gave it the benefit of doubt a glitch within the app would have been fixed. 3 updates later. No fix to the issue. Unable to view my credit account.",
+   "version": "3.75.7",
+   "date": "2026-08-20T13:52:17-07:00",
+   "author": "RobTrav"
+  },
+  {
+   "rating": 5,
+   "title": "Ruslan",
+   "review": "Could you please make some changes in App, so it\u2019s updating reference number automatically every time I\u2019ve  paid , for example, invoice. It would help quicker track previous payments. NatWest has this option. Many thanks",
+   "version": "3.75.7",
+   "date": "2026-08-20T12:54:23-07:00",
+   "author": "Ruffus85"
+  },
+  {
+   "rating": 5,
+   "title": "Barclays app is the best",
+   "review": "You can check payments out in balances open savings accounts and keep on top of your money issues",
+   "version": "3.75.7",
+   "date": "2026-08-20T12:35:02-07:00",
+   "author": "X-ray2023"
+  },
+  {
+   "rating": 5,
+   "title": "Loan",
+   "review": "Got a help by pre approved loan",
+   "version": "3.75.7",
+   "date": "2026-08-20T09:54:00-07:00",
+   "author": "Rockersiva"
+  },
+  {
+   "rating": 5,
+   "title": "Back To 5 Stars",
+   "review": "Yes, I have rewarded Barclays 5 Stars. As even though they hadn\u2019t commented on my review, they have listened from my \u201cLive\u201d chat through their app regarding the non-linking issues, when trying to link your credit card app to Barclays app to pay your dues on the redesigned app.\nIt had major issues but now fully working.\nSo, thank you Barclays :)",
+   "version": "3.75.7",
+   "date": "2026-08-20T08:19:19-07:00",
+   "author": "SpiritWolfUK"
+  },
+  {
+   "rating": 1,
+   "title": "Barclaycard.",
+   "review": "Just found out I had inadvertently clicked for paperless statements yet I\u2019ve had no email statement as I was expecting and it will now cost \u00a312.50 in late payment fees! \nShocking way to treat a customer of nearly 40years ! \nMaybe time to close my Barclaycard account?",
+   "version": "3.75.7",
+   "date": "2026-08-20T07:01:02-07:00",
+   "author": "Pay up Britain"
+  },
+  {
+   "rating": 1,
+   "title": "Shvttest bank to ever exist",
+   "review": "If you transfer your own fund to barclays from another bank, they will restrict access and will keep it under review for 2weeks and you won\u2019t be able to access your own fund. piece of shvt bank ever",
+   "version": "3.74.11",
+   "date": "2026-08-19T19:08:53-07:00",
+   "author": "Moh AUNIT"
+  },
+  {
+   "rating": 1,
+   "title": "Waste of time",
+   "review": "I never usually write reviews for any reason however, I have never encountered such a poorly performing app before. I only use it for my mortgage however, when trying to use the app to apply for more borrowing, it\u2019s a waste of time. The app fails to move across details for the account, but then won\u2019t allow you to input the details, only prompting you to call them to update the details that supposedly don\u2019t exist. VERY inaccessible.\n\nIt was genuinely easier applying for my mortgage to begin with, applying for additional borrowing shouldn\u2019t cause this big of a headache\u2026",
+   "version": "3.74.11",
+   "date": "2026-08-19T13:12:51-07:00",
+   "author": "Dan200108"
+  },
+  {
+   "rating": 5,
+   "title": "Bank",
+   "review": "Very easy and friendly bank",
+   "version": "3.74.11",
+   "date": "2026-08-19T11:21:47-07:00",
+   "author": "Ellla74"
+  },
+  {
+   "rating": 5,
+   "title": "J",
+   "review": "Amazing",
+   "version": "3.74.11",
+   "date": "2026-08-19T09:29:51-07:00",
+   "author": "pankajtivari"
+  },
+  {
+   "rating": 5,
+   "title": "Khalil",
+   "review": "The best bank in uk",
+   "version": "3.74.11",
+   "date": "2026-08-19T05:52:11-07:00",
+   "author": "Pachagul"
+  },
+  {
+   "rating": 1,
+   "title": "Previously great. Terrible now",
+   "review": "The app was great but the latest upgrade is terrible. The font, look and feel and usability is much, much worse - especially for the disabled.\n\nThey have removed functionality and there are no longer any daily totals for savings accounts so you do not know what your daily position was yesterday. Switching to weekly statements is not the answer.\n\nBarclays please sort this out.",
+   "version": "3.74.11",
+   "date": "2026-08-19T05:49:39-07:00",
+   "author": "675489"
+  },
+  {
+   "rating": 3,
+   "title": "Exporting Transactions from Barclaycard Account",
+   "review": "Please can you include export transactions as CSV file in app. \nNow that the Barclaycard web site is \u2018redundant\u2019 and everyone has to use the Barclays site and app, it is not possible to export transactions as CSV. You either get a default pdf file or figures with zeros after decimal point. \nThis was an extremely useful function for monitoring cash flow and used to work fine on the Barclaycard web site.",
+   "version": "3.74.11",
+   "date": "2026-08-19T01:13:51-07:00",
+   "author": "Mac and IpadPro user"
+  },
+  {
+   "rating": 2,
+   "title": "Balance History",
+   "review": "As already picked up by others, the ability to see your daily balance including pending payments has gone. I don\u2019t understand why this was thought to be a good decision!! Please bring it back.",
+   "version": "3.74.11",
+   "date": "2026-08-19T00:46:16-07:00",
+   "author": "An61le"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Very good",
+   "version": "3.74.11",
+   "date": "2026-08-19T00:07:48-07:00",
+   "author": "miguel simao"
+  },
+  {
+   "rating": 1,
+   "title": "Rubbish",
+   "review": "Totally and utterly unreliable.",
+   "version": "3.74.11",
+   "date": "2026-08-18T15:09:06-07:00",
+   "author": "An_Barr"
+  },
+  {
+   "rating": 5,
+   "title": "My opinion",
+   "review": "I always use the app,\nIt\u2019s quick and convenient.\nIt\u2019s also safe . What more do I need.\nThank you Barclays",
+   "version": "3.74.11",
+   "date": "2026-08-18T10:57:41-07:00",
+   "author": "Dai Wizard"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use app",
+   "review": "I love the extra security questions, makes",
+   "version": "3.74.11",
+   "date": "2026-08-18T03:48:20-07:00",
+   "author": "Granny36"
+  },
+  {
+   "rating": 5,
+   "title": "Best bank ever",
+   "review": "Reliable and efficient bank",
+   "version": "3.74.11",
+   "date": "2026-08-18T01:55:41-07:00",
+   "author": "Olafolayan 1"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent",
+   "review": "Easy to use, good tools",
+   "version": "3.74.11",
+   "date": "2026-08-17T14:40:39-07:00",
+   "author": "Ash3456/"
+  },
+  {
+   "rating": 5,
+   "title": "Service",
+   "review": "This is very much not something I would usually post, however I would like to share that Ive been with Barclays for many decades  Barclays haven\u2019t always been very supportive and patient but this maybe due to branch closures. \n\nOverall I\u2019m very satisfied with the service I\u2019ve been provided with.",
+   "version": "3.74.11",
+   "date": "2026-08-17T12:54:52-07:00",
+   "author": "\ud835\udc9f\ud835\udcca\ud835\udc52 \u2112\ud835\udcbe\ud835\udcc3\ud835\udc54\u2134"
+  },
+  {
+   "rating": 2,
+   "title": "Anthony",
+   "review": "Very slow to respond",
+   "version": "3.74.11",
+   "date": "2026-08-17T12:31:33-07:00",
+   "author": "AnthonyFrancus"
+  },
+  {
+   "rating": 1,
+   "title": "Daily balance history has gone",
+   "review": "The app has been updated and now there is nowhere to see the balance at the end of each day. Now you can just see the total of outgoings for the day. Very unhelpful not to see the balance at end of each day",
+   "version": "3.74.11",
+   "date": "2026-08-17T06:21:40-07:00",
+   "author": "RCMCJCAC"
+  },
+  {
+   "rating": 5,
+   "title": "Great",
+   "review": "Great great and just great",
+   "version": "3.74.11",
+   "date": "2026-08-17T05:24:52-07:00",
+   "author": "Moojutt"
+  },
+  {
+   "rating": 1,
+   "title": "Unreliable.",
+   "review": "As mentioned above - completely unreliable service. After another \u201cwe\u2019re working on our systems over the weekend\u201d my current account has glitched and showing up that it\u2019s in minus when it\u2019s not. Now I\u2019m left unable to use my account over my holiday. Thank you Barclays. If I could do 0 stars I would.",
+   "version": "3.74.11",
+   "date": "2026-08-17T01:38:41-07:00",
+   "author": "Sandralinguinne"
+  },
+  {
+   "rating": 5,
+   "title": "Great app",
+   "review": "Easy to use and intuitive. Barclays keep upgrading so it gets better and better .",
+   "version": "3.74.11",
+   "date": "2026-08-16T23:45:33-07:00",
+   "author": "Are you kidding me - palaver"
+  },
+  {
+   "rating": 1,
+   "title": "Amazon credit",
+   "review": "You login to app for Amazon credit get into it works , come off 2 mins later you can\u2019t login again \nUseless app waste of time",
+   "version": "3.74.11",
+   "date": "2026-08-16T10:50:46-07:00",
+   "author": "England WHU"
+  },
+  {
+   "rating": 5,
+   "title": "Feedback",
+   "review": "The App is transparent and informative.",
+   "version": "3.74.11",
+   "date": "2026-08-16T09:21:10-07:00",
+   "author": "Ichaba"
+  },
+  {
+   "rating": 5,
+   "title": "Good",
+   "review": "Good service",
+   "version": "3.74.11",
+   "date": "2026-08-16T07:28:11-07:00",
+   "author": "davtp"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "The best service always thank you guys and Barclay",
+   "version": "3.74.11",
+   "date": "2026-08-16T07:07:51-07:00",
+   "author": "Olanday"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Easy access",
+   "version": "3.74.11",
+   "date": "2026-08-16T05:14:14-07:00",
+   "author": "Shokouri"
+  },
+  {
+   "rating": 5,
+   "title": "Yes",
+   "review": "It is very good",
+   "version": "3.74.11",
+   "date": "2026-08-16T04:29:13-07:00",
+   "author": "Cffffgfft"
+  },
+  {
+   "rating": 5,
+   "title": "Best app to use",
+   "review": "Very easy and quick to use",
+   "version": "3.74.11",
+   "date": "2026-08-16T04:08:10-07:00",
+   "author": "AMPOFO"
+  },
+  {
+   "rating": 5,
+   "title": "Knob",
+   "review": "Can\u2019t send money to me boy with it try to grass me up",
+   "version": "3.74.11",
+   "date": "2026-08-15T15:32:45-07:00",
+   "author": "eeeeeeeeeereerefthghthfh"
+  },
+  {
+   "rating": 5,
+   "title": "Simple to use",
+   "review": "Helpful and time saving app.",
+   "version": "3.74.11",
+   "date": "2026-08-15T13:44:50-07:00",
+   "author": "GreasyKipper27"
+  },
+  {
+   "rating": 1,
+   "title": "Very poor app",
+   "review": "Used to be good now gone to the dark ages \u2026.why change things \u2026.does not even do predicted text now when you make a transfer\u2026very poor \u2026.!!!",
+   "version": "3.74.11",
+   "date": "2026-08-15T11:20:52-07:00",
+   "author": "Doubledecksdave"
+  },
+  {
+   "rating": 1,
+   "title": "Garbage",
+   "review": "Can\u2019t even contact them through the app",
+   "version": "3.74.11",
+   "date": "2026-08-15T10:48:01-07:00",
+   "author": "Still can\u2019t cancel"
+  },
+  {
+   "rating": 5,
+   "title": "I\u2019m MR",
+   "review": "Extremely amazing services",
+   "version": "3.74.11",
+   "date": "2026-08-15T08:02:05-07:00",
+   "author": "May \ud83c\uddf1\ud83c\udde6"
+  },
+  {
+   "rating": 5,
+   "title": "It\u2019s worth it",
+   "review": "Any issues they got you. Staff are 10/10\u2026apps a must.",
+   "version": "3.74.11",
+   "date": "2026-08-15T04:43:22-07:00",
+   "author": "fukunguji gukinguking"
+  },
+  {
+   "rating": 5,
+   "title": "Director",
+   "review": "Great app easy to use",
+   "version": "3.74.11",
+   "date": "2026-08-15T03:03:14-07:00",
+   "author": "bmt675"
+  },
+  {
+   "rating": 1,
+   "title": "New update not good",
+   "review": "Dislike the new update. Too bold, not clear, refunds show no - symbol and even show as purchases while pending. Poor. Why change what works and we are used to.",
+   "version": "3.74.11",
+   "date": "2026-08-15T02:44:33-07:00",
+   "author": "Mr. RCC"
+  },
+  {
+   "rating": 5,
+   "title": "Paul Maddy",
+   "review": "Excellent App",
+   "version": "3.74.11",
+   "date": "2026-08-15T01:25:32-07:00",
+   "author": "Della1911"
+  },
+  {
+   "rating": 2,
+   "title": "Lost functionality",
+   "review": "New app - okay, not bad and not sure where I see improvements other than tidying up the features.\nHowever, the running balance has been removed.  Completely gone.  Why?  A majority feature to help customers manage their money and it\u2019s just gone.  Replaced by how much I\u2019ve spent in a day?  Who thought that was a good idea?\n\nLet\u2019s be positive. Put it back and allow tapping on the current daily total to switch between daily total and running total.  Will need some indication to suggest this is possible, but then you got okay UX.  what that indication is I will leave to you.",
+   "version": "3.74.11",
+   "date": "2026-08-15T01:06:51-07:00",
+   "author": "Stan Dodd"
+  },
+  {
+   "rating": 5,
+   "title": "OPTION OF CREDIT CARD",
+   "review": "Customer should be able to apply for credit card with ease on the app here",
+   "version": "3.74.11",
+   "date": "2026-08-14T19:42:51-07:00",
+   "author": "Abranoe"
+  },
+  {
+   "rating": 5,
+   "title": "Latest update 5 stars",
+   "review": "Instant response with no glitches.",
+   "version": "3.74.11",
+   "date": "2026-08-14T17:36:26-07:00",
+   "author": "Oracle_2025"
+  },
+  {
+   "rating": 5,
+   "title": "Easy app",
+   "review": "User friendly app very intuitive",
+   "version": "3.74.11",
+   "date": "2026-08-14T12:34:43-07:00",
+   "author": "1930sBetty"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Gk Harrison",
+   "version": "3.74.11",
+   "date": "2026-08-14T08:16:49-07:00",
+   "author": "Abisheway"
+  },
+  {
+   "rating": 5,
+   "title": "Judy",
+   "review": "Excellent",
+   "version": "3.74.11",
+   "date": "2026-08-14T07:26:43-07:00",
+   "author": "Obinn4"
+  },
+  {
+   "rating": 1,
+   "title": "Worst bank",
+   "review": "Wish I never went here",
+   "version": "3.74.11",
+   "date": "2026-08-14T07:20:06-07:00",
+   "author": "Ashletss"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Barclays app is very efficient and helpful.",
+   "version": "3.74.11",
+   "date": "2026-08-14T07:07:47-07:00",
+   "author": "Mr. Vva"
+  },
+  {
+   "rating": 1,
+   "title": "New app layout",
+   "review": "Why have you changed the layout of the app? \n It was working fine and so easy to use but now it\u2019s absolutely awful and not as easy to use \ud83d\ude21",
+   "version": "3.74.11",
+   "date": "2026-08-14T05:43:35-07:00",
+   "author": "Banditbiker1250"
+  },
+  {
+   "rating": 5,
+   "title": "Service",
+   "review": "The bank has great security.",
+   "version": "3.74.11",
+   "date": "2026-08-14T05:10:20-07:00",
+   "author": "debbiespirit"
+  },
+  {
+   "rating": 5,
+   "title": "Great app",
+   "review": "So quick and easy , never have a problem transferring or using app/card",
+   "version": "3.74.11",
+   "date": "2026-08-14T05:03:44-07:00",
+   "author": "Aww xz"
+  },
+  {
+   "rating": 5,
+   "title": "Banking",
+   "review": "All ok ,except that I hope Barclays dont support animal testing and cruelty",
+   "version": "3.74.11",
+   "date": "2026-08-14T04:22:42-07:00",
+   "author": "frown22"
+  },
+  {
+   "rating": 4,
+   "title": "Cumbersome",
+   "review": "I appreciate that the improvements are supposed to enhance the banking experience, but it\u2019s becoming overly complex and sometimes makes simple tasks sluggish, when moving money around I want it to feel simple and straightforward.",
+   "version": "3.74.11",
+   "date": "2026-08-13T23:41:25-07:00",
+   "author": "Spartacus 1963"
+  },
+  {
+   "rating": 5,
+   "title": "R.ralph",
+   "review": "Amazing!",
+   "version": "3.74.11",
+   "date": "2026-08-13T23:27:50-07:00",
+   "author": "R the builder"
+  },
+  {
+   "rating": 5,
+   "title": "the banks app",
+   "review": "brilliant",
+   "version": "3.74.11",
+   "date": "2026-08-13T18:38:19-07:00",
+   "author": "jumoke85"
+  },
+  {
+   "rating": 5,
+   "title": "Happy with my bank and app",
+   "review": "Easy user friendly",
+   "version": "3.74.11",
+   "date": "2026-08-13T17:22:32-07:00",
+   "author": "Jowayne McLean"
+  },
+  {
+   "rating": 1,
+   "title": "Latest update",
+   "review": "Spendings page only shows about 3 items per page. Too much blank space . A single transaction taking up 4 lines makes scrolling through less useful due to time and poor layout of page. Nothing wrong with last layout.",
+   "version": "3.74.11",
+   "date": "2026-08-13T11:28:33-07:00",
+   "author": "Willthis nicname be available"
+  },
+  {
+   "rating": 5,
+   "title": "Convenient",
+   "review": "This app is the easiest app I have ever used please don\u2019t change it, your doing great.",
+   "version": "3.74.11",
+   "date": "2026-08-13T08:43:29-07:00",
+   "author": "jeannie janey"
+  },
+  {
+   "rating": 5,
+   "title": "Sophie Lake",
+   "review": "It\u2019s a good bank and app!",
+   "version": "3.74.11",
+   "date": "2026-08-13T08:34:33-07:00",
+   "author": "Sophiel22"
+  },
+  {
+   "rating": 5,
+   "title": "Very good",
+   "review": "I\u2019ve been using the Barclays app for a while now, and it\u2019s honestly one of the smoothest banking apps I\u2019ve tried. Everything loads quickly, the layout is clean, and the features are exactly where you expect them to be. Logging in with biometrics is instant, and managing accounts, cards, and payments feels effortless.\n\nWhat I appreciate most is how reliable it is \u2014 no fuss, no freezing, no confusing menus. Whether I\u2019m checking my balance, moving money, or verifying a new device, the app just works. It\u2019s straightforward, secure, and consistently dependable. A genuinely excellent banking app.",
+   "version": "3.74.11",
+   "date": "2026-08-13T07:52:04-07:00",
+   "author": "Tagabaril"
+  },
+  {
+   "rating": 1,
+   "title": "Bad customer service",
+   "review": "I was ringing re a disputed  payment\nIt took an age to get through to speak to a human who was not in this country and who\u2019s English wasn\u2019t brilliant who could not help me I wanted to go into a branch to dispute this but you have closed all the local branches \nI have been a customer of Barclays  for over 50 years and you treat me in such a disrespectful way I think I will be finding a bank who cares as I feel BARCLAYS DONT.",
+   "version": "3.74.11",
+   "date": "2026-08-13T07:27:27-07:00",
+   "author": "Dispatch Peter"
+  },
+  {
+   "rating": 5,
+   "title": "Simple and safe",
+   "review": "I\u2019m not very good with technology but I feel confident and very comfortable using this app \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+   "version": "3.74.11",
+   "date": "2026-08-13T07:22:58-07:00",
+   "author": "Chez\ud83d\udc9c"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Excellent work",
+   "version": "3.74.11",
+   "date": "2026-08-13T05:46:45-07:00",
+   "author": "Right now 11"
+  },
+  {
+   "rating": 5,
+   "title": "Service",
+   "review": "Excellent",
+   "version": "3.74.11",
+   "date": "2026-08-13T04:42:44-07:00",
+   "author": "Harmanjittt"
+  },
+  {
+   "rating": 5,
+   "title": "Chuffed Cockney",
+   "review": "I\u2019ve been banking with Barclays now for at least fifty years and in all that time I\u2019ve never been disappointed with any situation that has popped up. As far as I\u2019m concerned this is one magic place to conduct your finances.. keep in up you guys!!",
+   "version": "3.74.11",
+   "date": "2026-08-13T02:54:17-07:00",
+   "author": "gussyboy 85"
+  },
+  {
+   "rating": 1,
+   "title": "Savings Accounts",
+   "review": "Am not enjoying the new layout at all. I want to see what my balance was yesterday or a month ago to compare months and now I can't",
+   "version": "3.74.11",
+   "date": "2026-08-13T01:23:35-07:00",
+   "author": "?SJS1988"
+  },
+  {
+   "rating": 1,
+   "title": "Very unhelpful",
+   "review": "I\u2019ve been with Barclays for a very long time now but since I been with them I find they not very helpful or care about there loyal customers like my self. I\u2019m struggling at the moment and finding it hard financially. And all I get from Barclays is rude letters and emails about my overdraft and that your over your limit instead of belittling your customers maybe help and resolve the problem with your loyal customers. I find this very unhelpful and the worse bank ever and I will be going to another bank where they look after there customers and to be honest lucky there one star I\u2019d would give it no stars! \ud83d\ude21",
+   "version": "3.74.11",
+   "date": "2026-08-13T01:08:42-07:00",
+   "author": "Austin6911111"
+  },
+  {
+   "rating": 5,
+   "title": "So easy",
+   "review": "This app is so easy to use",
+   "version": "3.74.11",
+   "date": "2026-08-13T00:04:12-07:00",
+   "author": "Jayney Jay"
+  },
+  {
+   "rating": 5,
+   "title": "Continuous Customer Care Barclays foundation on our High Street",
+   "review": "Care care care before Profit Barclays",
+   "version": "3.74.11",
+   "date": "2026-08-12T22:27:08-07:00",
+   "author": "the art of magic"
+  },
+  {
+   "rating": 1,
+   "title": "Revised app",
+   "review": "The latest update is awful. I cannot see when payments are due and the previous version of the app was far better",
+   "version": "3.74.11",
+   "date": "2026-08-12T16:26:34-07:00",
+   "author": "bedfluff"
+  },
+  {
+   "rating": 5,
+   "title": "Useful",
+   "review": "Instant",
+   "version": "3.74.11",
+   "date": "2026-08-12T16:13:38-07:00",
+   "author": "El Poundo"
+  },
+  {
+   "rating": 5,
+   "title": "Best banking service",
+   "review": "Best banking service and always verified the big payments",
+   "version": "3.74.11",
+   "date": "2026-08-12T15:27:42-07:00",
+   "author": "Fizza\u00a3@&"
+  },
+  {
+   "rating": 5,
+   "title": "Great service",
+   "review": "Great service",
+   "version": "3.74.11",
+   "date": "2026-08-12T14:40:47-07:00",
+   "author": "Patche10"
+  },
+  {
+   "rating": 2,
+   "title": "James",
+   "review": "Don\u2019t like the new format",
+   "version": "3.74.11",
+   "date": "2026-08-12T13:49:50-07:00",
+   "author": "Truth mate"
+  },
+  {
+   "rating": 1,
+   "title": "New update is awful",
+   "review": "They\u2019ve turned what was an easy to use app into a convoluted mess.",
+   "version": "3.74.11",
+   "date": "2026-08-12T13:26:59-07:00",
+   "author": "Teen1979"
+  },
+  {
+   "rating": 3,
+   "title": "No links seem to work",
+   "review": "Everytime I get an authentication link it fails to open, every-time you share a link in chat it fails to open \nI can\u2019t link my barclaycard to my business account \nI don\u2019t get notifications of any sort despite having them set to notify \nThere is something wrong with the app, I have checked all my personal settings and they appear to be fine \nI am beginning to get really frustrated with this app",
+   "version": "3.74.11",
+   "date": "2026-08-12T06:52:34-07:00",
+   "author": "Damodeb"
+  },
+  {
+   "rating": 4,
+   "title": "Barclays app",
+   "review": "The app is very good, transfers and payments are immediate and seamless.  I wish that notifications could go to my phone as well as iPad.  I don\u2019t want app on my phone though.",
+   "version": "3.74.11",
+   "date": "2026-08-12T05:01:16-07:00",
+   "author": "Squibbs15"
+  },
+  {
+   "rating": 5,
+   "title": "Mama Pudding",
+   "review": "I find the updated an poor as you can\u2019t see what you\u2019re doing",
+   "version": "3.74.11",
+   "date": "2026-08-12T03:32:23-07:00",
+   "author": "mama pudding"
+  },
+  {
+   "rating": 5,
+   "title": "One of the best banks",
+   "review": "I have been with you for over 20yrs and l am happy with the services l get in the bank or online banking they\u2019re doing a great job and l would recommend this bank to family with my family. Thank you for all that\u2019s you do for your customer support and care.",
+   "version": "3.74.11",
+   "date": "2026-08-12T02:33:37-07:00",
+   "author": "Ashiedu"
+  },
+  {
+   "rating": 5,
+   "title": "Holiday",
+   "review": "Only used my debit card from Barclays and had no issues whatsoever",
+   "version": "3.74.11",
+   "date": "2026-08-11T14:31:38-07:00",
+   "author": "Rehtsr"
   }
  ],
- "record_count": 250,
- "last_fetch_utc": "2026-08-12T20:48:05.153117+00:00"
+ "record_count": 370,
+ "last_fetch_utc": "2026-08-26T07:31:09.128346+00:00"
 }
