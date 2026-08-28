@@ -9009,8 +9009,112 @@
    "reviewCreatedVersion": "7.40.0",
    "at": "2026-08-25T08:59:26",
    "userName": "Adele Furmedge"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T18:53:15",
+   "userName": "GILLIAN SMITH"
+  },
+  {
+   "rating": 4,
+   "content": "it's good but takes a lot of storage and don't see the point of having it ages rested",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T17:34:31",
+   "userName": "Ruqayyah Thompson"
+  },
+  {
+   "rating": 5,
+   "content": "great bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T16:39:22",
+   "userName": "David Bull"
+  },
+  {
+   "rating": 5,
+   "content": "The best internet bank app in the country",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T16:36:05",
+   "userName": "Winston Jackson"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to navigate.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T16:02:11",
+   "userName": "Andrew Bridle"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T15:50:47",
+   "userName": "Micheal Gbenga"
+  },
+  {
+   "rating": 5,
+   "content": "I wish more transaction history was possible at the start screen but this is the best app available for this.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T14:54:10",
+   "userName": "Afzal Ahmed"
+  },
+  {
+   "rating": 5,
+   "content": "Love how organised I can be with it and have great saving opportunities",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T14:53:44",
+   "userName": "Nia Beresford"
+  },
+  {
+   "rating": 5,
+   "content": "ok",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T10:17:03",
+   "userName": "Sofrone Mihai iulian"
+  },
+  {
+   "rating": 2,
+   "content": "Changes to the UI are getting really irritating. Apart from increasing clutter, the latest change of hiding Pots is just stupid. Why do I have to drill down to find my savings which used to be part of the home page?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T09:48:09",
+   "userName": "Matt Harding"
+  },
+  {
+   "rating": 5,
+   "content": "Everything you could ever ask for in an app. \ud83d\udc4f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-27T08:48:59",
+   "userName": "Lee Homer"
+  },
+  {
+   "rating": 5,
+   "content": "Great banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-26T20:27:29",
+   "userName": "Google User"
+  },
+  {
+   "rating": 1,
+   "content": "This banking app looks good and is for under 16s but the second your PIN get blocked once it's blocked FOREVER. They said you can unblock it by sending them a recording of you saying numbers into the camera but it is just ai judging it and doesn't believe you are human and permanently keep your PIN blocked you have to clear all data from Monzo just to get 3 attempts to sign in, I typed my pin perfectly and it was correct it still said it was wrong as well.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-26T18:23:59",
+   "userName": "Arkoos-Ya Greatest-Pokemon"
   }
  ],
- "record_count": 1126,
- "last_fetch_utc": "2026-08-27T17:53:54.830676+00:00"
+ "record_count": 1139,
+ "last_fetch_utc": "2026-08-28T19:00:10.611562+00:00"
 }
