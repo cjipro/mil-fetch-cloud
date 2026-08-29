@@ -9737,8 +9737,288 @@
    "reviewCreatedVersion": "8.27.3",
    "at": "2026-08-26T18:18:01",
    "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "ease of use excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-28T11:00:48",
+   "userName": "Simon Ramsdale"
+  },
+  {
+   "rating": 1,
+   "content": "did no one test this update? now you only get recent transactions and have to then select view all from a small text link. for balances you have to go into each transaction , so a simple comparing month on month is painful. the trxns are not sorted so balance reads as incorrect with payments increasing your balance rather than reducing. even better the transactions sometimes include following day trnxs giving wildly inaccurate balances. like a bank that can't add up numbers.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T10:49:45",
+   "userName": "Richard Halford"
+  },
+  {
+   "rating": 5,
+   "content": "great app IMO",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-28T10:45:13",
+   "userName": "Philip Mcisaac"
+  },
+  {
+   "rating": 5,
+   "content": "the bank is very good and reliable \ud83d\udc4f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-28T10:19:21",
+   "userName": "Helen E Inumah"
+  },
+  {
+   "rating": 1,
+   "content": "machine does not understand me, useless,",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T10:18:02",
+   "userName": "Tracey Grinnell"
+  },
+  {
+   "rating": 5,
+   "content": "Very effective and efficient",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T09:38:59",
+   "userName": "Nwamaka"
+  },
+  {
+   "rating": 3,
+   "content": "dont like the change of transfering money from savings to currant account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T08:34:34",
+   "userName": "Gayle"
+  },
+  {
+   "rating": 1,
+   "content": "its a horrible layout, basic looking like ai have designed it, hard to navigate and slow. preferred it before this update.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T08:33:33",
+   "userName": "Bradley Felton"
+  },
+  {
+   "rating": 1,
+   "content": "new ui is terrible",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T08:24:08",
+   "userName": "Josh M"
+  },
+  {
+   "rating": 1,
+   "content": "Does not show all transactions. I thought a company didn't pay me. Actually they did but in the app the transaction does not appear. It does appear on the statement. Useless app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-28T08:11:46",
+   "userName": "Daniel Lefter"
+  },
+  {
+   "rating": 5,
+   "content": "seamless, always has been",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T08:03:59",
+   "userName": "Sarah Spark"
+  },
+  {
+   "rating": 5,
+   "content": "simple to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-28T07:56:58",
+   "userName": "David Hall"
+  },
+  {
+   "rating": 1,
+   "content": "new in app font is terrible.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-28T07:01:58",
+   "userName": "Rickrock"
+  },
+  {
+   "rating": 3,
+   "content": "only just used new set up so just getting use to it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-28T06:49:10",
+   "userName": "jason clouston"
+  },
+  {
+   "rating": 2,
+   "content": "The new update is not an improvement. Why can't I see the total pending payments anymore? Just individually...",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T06:28:13",
+   "userName": "Harry 3"
+  },
+  {
+   "rating": 1,
+   "content": "Updated app is terrible. No longer shows daily total.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-28T06:16:22",
+   "userName": "mdb188"
+  },
+  {
+   "rating": 1,
+   "content": "new app is much harder to visualise accounts and wording",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T06:08:09",
+   "userName": "Bethany Hardy"
+  },
+  {
+   "rating": 1,
+   "content": "this newly upgraded version is not good, I prefer the old one, the old one is more detailed",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T05:49:41",
+   "userName": "Oladele Samuel Olusola"
+  },
+  {
+   "rating": 1,
+   "content": "awful update . I want my old app back",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T05:41:15",
+   "userName": "tim hutchings"
+  },
+  {
+   "rating": 1,
+   "content": "The latest updates,are shocklingly bad to the extent may choose to bank elsewhere...",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-28T05:21:53",
+   "userName": "Mark Cashmore"
+  },
+  {
+   "rating": 3,
+   "content": "new version is not as user friendly as the old one. my current account isn't on my home page and have to search via see all accounts",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-28T05:08:08",
+   "userName": "Dave Winship"
+  },
+  {
+   "rating": 5,
+   "content": "the best so far...",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-28T04:01:47",
+   "userName": "Ikar A Ikar"
+  },
+  {
+   "rating": 1,
+   "content": "Updated the App as advised, now i can't get back into it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T01:27:11",
+   "userName": "Jay O'Brien"
+  },
+  {
+   "rating": 5,
+   "content": "Satisfied \u2078",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.19.0",
+   "at": "2026-08-28T01:11:16",
+   "userName": "Adrinia Steel"
+  },
+  {
+   "rating": 1,
+   "content": "Did not open, have tried at least 6 times on at least 3 different Barclays sites from play store and they have not worked. Fed up it is supposed to be easy.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-28T01:00:27",
+   "userName": "Dee Freer"
+  },
+  {
+   "rating": 5,
+   "content": "good app layout.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-27T23:09:48",
+   "userName": "William Gordon Buckenham"
+  },
+  {
+   "rating": 2,
+   "content": "Do not like the new App layout changes it looks too clunky and messy, very poor.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-27T22:50:59",
+   "userName": "Ian Gibson"
+  },
+  {
+   "rating": 1,
+   "content": "Rubbish after update. Cannot find anything. why change it when it worked perfectly before",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-27T22:32:45",
+   "userName": "Nicola Ruddock"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-27T20:56:58",
+   "userName": "Brett Jones"
+  },
+  {
+   "rating": 1,
+   "content": "The latest version is like wading through treacle, slow and clunky. I don't need pictures of my account names, lists were fine. Takes an age to display accounts now and changing screens is painful. whoever let the devs do this along with the UI designers, it was NOT modern and a good idea, it's clunky graphics over usability and an awful decision.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-27T20:51:48",
+   "userName": "Nigel Whiterod"
+  },
+  {
+   "rating": 1,
+   "content": "dont like the new format why has it changed",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-27T20:19:02",
+   "userName": "Paul Swain"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank highly recommend \ud83d\udc4c",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-27T20:18:31",
+   "userName": "Ian Thomas"
+  },
+  {
+   "rating": 1,
+   "content": "I hate this update for transferring money!!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-27T19:28:00",
+   "userName": "Chonae Green"
+  },
+  {
+   "rating": 1,
+   "content": "don't like the new app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-27T19:20:44",
+   "userName": "Vanessa Bird"
+  },
+  {
+   "rating": 2,
+   "content": "You delete payees if they are not used regularly which is very aggravating. The AI option for assistance is absolutely useless.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-27T19:04:13",
+   "userName": "Mark Davies"
   }
  ],
- "record_count": 1217,
- "last_fetch_utc": "2026-08-28T19:00:13.668128+00:00"
+ "record_count": 1252,
+ "last_fetch_utc": "2026-08-29T12:49:56.234761+00:00"
 }

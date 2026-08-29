@@ -8953,8 +8953,64 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-08-27T06:58:25",
    "userName": "T Drone"
+  },
+  {
+   "rating": 1,
+   "content": "opened a new account based on 'real time notifications' what notifications? its on in the app for 'all transaction' and device settings allow notifications from app nothing ever! account closed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-28T10:54:29",
+   "userName": "Raymond Knight"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-28T07:12:05",
+   "userName": "Bonnie Jarman"
+  },
+  {
+   "rating": 2,
+   "content": "The app keeps crashing when I try to login, sometimes the main screen will appear, but otherwise nothing. I don't have this issue with other banking apps.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-28T06:32:31",
+   "userName": "Winston Blackwood"
+  },
+  {
+   "rating": 1,
+   "content": "Still terrible.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-28T06:06:46",
+   "userName": "Maaxwell Santhosh"
+  },
+  {
+   "rating": 2,
+   "content": "very frequently, the app won't start (it will load then crash), needing me to restart my phone",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-28T00:38:15",
+   "userName": "Victor N de Almeida"
+  },
+  {
+   "rating": 5,
+   "content": "I've been with HSBC for years and have always found their app safe, secure and nicely laid out. I would highly recommend to any HSBC customer. Great security!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-27T22:46:01",
+   "userName": "Jonathan Morgan"
+  },
+  {
+   "rating": 1,
+   "content": "I have been trying to open a new account in the spp, but it keeps freezing on me. All I get now is a timed out message. Do you want my business or not?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-27T22:06:13",
+   "userName": "John Ball"
   }
  ],
- "record_count": 1119,
- "last_fetch_utc": "2026-08-28T19:00:09.165430+00:00"
+ "record_count": 1126,
+ "last_fetch_utc": "2026-08-29T12:49:49.906302+00:00"
 }
