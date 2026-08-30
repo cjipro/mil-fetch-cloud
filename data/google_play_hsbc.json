@@ -9009,8 +9009,64 @@
    "reviewCreatedVersion": null,
    "at": "2026-08-27T22:06:13",
    "userName": "John Ball"
+  },
+  {
+   "rating": 1,
+   "content": "Just an awful bank that doesn't look after its customers. Can't wait to move my accounts elsewhere.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-08-29T12:10:17",
+   "userName": "Julie Day"
+  },
+  {
+   "rating": 5,
+   "content": "Very friendly and easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-29T10:18:23",
+   "userName": "Linos Nyambiya"
+  },
+  {
+   "rating": 2,
+   "content": "changed my review as also having problems with app notifications, they just stopped a couple of months ago. I have followed all steps to fix it to no avail. my husband still gets all of his. Also compared the user interface of Monzo app and ease of use HSBC is sadly lagging behind.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-29T08:47:56",
+   "userName": "Elly Reiszner"
+  },
+  {
+   "rating": 5,
+   "content": "great service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-29T06:42:53",
+   "userName": "Paul casey"
+  },
+  {
+   "rating": 1,
+   "content": "Good Points: The app is great as it allows you to do what you need to. The communications is amazing when speak to someone on the phone. Bad Points: They will freeze/block your account when ever they want. No correspondence or explanations why or when is was done. They never help you when you need it. You can't get to speak to a human much. They will cause you late fee's on bills as they hold your money and your not allowed it. I've had late fee's of \u00a360 which I have to pay ontop",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-29T01:49:38",
+   "userName": "Mark Ollier"
+  },
+  {
+   "rating": 2,
+   "content": "Experienced issue on 30.07, that was unresolved by customer services, (chat function), when a main feature through the app wasn't working. I've always downloaded statements, now \"it's no longer there for some customers.\" Accused me of using a different app. I waited, logged back in, and just the view section was working. I'm using trusted Playstore apps, thru my phone. 28.08- a month on, it says request statement, or I can view and then share,(2 wks worth).\ud83d\ude44 Far simpler to download and print.",
+   "thumbsUpCount": 5,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-28T18:27:31",
+   "userName": "Gabrielle"
+  },
+  {
+   "rating": 3,
+   "content": "once again the app has stopped loading. going to uninstall & re-install, this is the 2nd time in as many months that I have this issue. not sure what the problem is & why it keeps happening.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.57.0",
+   "at": "2026-08-28T17:43:01",
+   "userName": "D G"
   }
  ],
- "record_count": 1126,
- "last_fetch_utc": "2026-08-29T12:49:49.906302+00:00"
+ "record_count": 1133,
+ "last_fetch_utc": "2026-08-30T12:13:38.992352+00:00"
 }

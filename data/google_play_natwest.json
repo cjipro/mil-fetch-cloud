@@ -9113,8 +9113,104 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-28T04:03:15",
    "userName": "Paul Hockley"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T11:41:55",
+   "userName": "Angela Cartwright"
+  },
+  {
+   "rating": 5,
+   "content": "super smashing great \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T11:34:09",
+   "userName": "Stephen Nunn"
+  },
+  {
+   "rating": 4,
+   "content": "The App is generally good but it annoys me so much that when you reinstall it, it refuses to allow you to use a password manager or switch to another app to get password prompts. you end up writing down your password (which is immediately less secure) just to login to the bloody thing. Madness?!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T09:30:50",
+   "userName": "Alexander Lakey"
+  },
+  {
+   "rating": 4,
+   "content": "The app is ok, not as usable as others like Monzo but does what you need and is secure",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T09:19:00",
+   "userName": "Stephen Pickett"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent App From An Excellent Bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T08:42:41",
+   "userName": "Charles Lawrence-Newman"
+  },
+  {
+   "rating": 1,
+   "content": "can't find my details to make a one off payment!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T08:30:46",
+   "userName": "lisa forster"
+  },
+  {
+   "rating": 5,
+   "content": "perfect",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T05:48:32",
+   "userName": "Janet Osei Ansu-Gyeabourh"
+  },
+  {
+   "rating": 1,
+   "content": "Switching to a password manager to retrieve the password resets the whole setup process. This is infuriating!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-28T19:01:40",
+   "userName": "Tom Hoad"
+  },
+  {
+   "rating": 1,
+   "content": "Trying to deposit a cheque (well, NS&I warrant), I just get \"we can't process your cheque at the moment... try again later or speak to someone at your usual branch or Post Office.\" The whole point of paying in through the app is that you don't have to visit a branch or Post Office! Pretty much completely defeats the object of it. Have used it successfully before but it doesn't work now! It seems to work so intermittently that the app just as well not have this feature at all. Useless.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-28T16:33:52",
+   "userName": "Neil Hillard"
+  },
+  {
+   "rating": 1,
+   "content": "Spam reward notifications under general settings since last update! AI blockwall no support! There's no reference for payments made or received, even in the detailed view, PDF, and the same goes for cashed cheques, joke! This issue has remained unresolved for years. Why mess with the features that were once the best part of the app? It's really disappointing.",
+   "thumbsUpCount": 26,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-28T16:27:11",
+   "userName": "Greg"
+  },
+  {
+   "rating": 1,
+   "content": "NatWest app just sent me a NOTIFICATION to shop at MORRISONS. My banking app should NOT be serving ADS",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-28T16:27:03",
+   "userName": "Casey Goodhew"
+  },
+  {
+   "rating": 5,
+   "content": "really good and helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-28T16:04:23",
+   "userName": "Rain Lim"
   }
  ],
- "record_count": 1139,
- "last_fetch_utc": "2026-08-29T12:49:47.072512+00:00"
+ "record_count": 1151,
+ "last_fetch_utc": "2026-08-30T12:13:36.164738+00:00"
 }
