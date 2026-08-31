@@ -9209,8 +9209,48 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-08-28T16:04:23",
    "userName": "Rain Lim"
+  },
+  {
+   "rating": 5,
+   "content": "Very good service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-30T10:12:02",
+   "userName": "mahbub khan"
+  },
+  {
+   "rating": 3,
+   "content": "When trying to freeze my Nectar Visa credit card it won't freeze, but instead it freezes my NatWest Mastercard credit card.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-30T10:04:40",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 2,
+   "content": "Lacking a lot of information for mortgages, I am unable to view statements, and recent payments are missing (even after a few days). There's no breakdown of payments, how much interest and how much is overpayment. No ability to see fees. No projections of remaining term to track progress",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T23:48:36",
+   "userName": "Ben"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T19:15:39",
+   "userName": "Nida Shah"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use and notifications are useful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-29T13:46:06",
+   "userName": "Sally Horobin"
   }
  ],
- "record_count": 1151,
- "last_fetch_utc": "2026-08-30T12:13:36.164738+00:00"
+ "record_count": 1156,
+ "last_fetch_utc": "2026-08-31T14:25:27.167881+00:00"
 }

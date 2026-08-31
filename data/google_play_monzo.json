@@ -9249,8 +9249,32 @@
    "reviewCreatedVersion": "7.40.0",
    "at": "2026-08-28T13:49:08",
    "userName": "Gravity HX"
+  },
+  {
+   "rating": 1,
+   "content": "Isn't available in my country",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-30T09:01:50",
+   "userName": "Reinard Muller"
+  },
+  {
+   "rating": 4,
+   "content": "cool",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-29T14:46:45",
+   "userName": "John Roberts"
+  },
+  {
+   "rating": 1,
+   "content": "trying to get the app as an icon but it won't let me. really pissed off",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-29T12:19:24",
+   "userName": "Kevin Peedle"
   }
  ],
- "record_count": 1156,
- "last_fetch_utc": "2026-08-30T12:13:40.004767+00:00"
+ "record_count": 1159,
+ "last_fetch_utc": "2026-08-31T14:25:31.590460+00:00"
 }

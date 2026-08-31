@@ -9065,8 +9065,72 @@
    "reviewCreatedVersion": "3.57.0",
    "at": "2026-08-28T17:43:01",
    "userName": "D G"
+  },
+  {
+   "rating": 2,
+   "content": "The app just had an update and the payment flaw has still not been rectified. This app has a huge major flaw. When you want to make an additional payment that is not a direct debit. It can't be done from a bank outside the HSBC. eg Barclays. How did that even pass the testing phase?",
+   "thumbsUpCount": 8,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-08-30T10:55:09",
+   "userName": "Wayne"
+  },
+  {
+   "rating": 5,
+   "content": "Providing reliable and convenient service worldwide",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-30T10:24:33",
+   "userName": "Chandimal Sriyantha"
+  },
+  {
+   "rating": 4,
+   "content": "it works, and it does what I need it to do.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-30T06:54:04",
+   "userName": "David Bench"
+  },
+  {
+   "rating": 1,
+   "content": "very, very slow and takes a lot of internal memory on the phone.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-29T19:22:46",
+   "userName": "David Morris"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-29T16:18:18",
+   "userName": "Douglas Robbins"
+  },
+  {
+   "rating": 2,
+   "content": "Logs out too fast. I can't confirm an online purchase and go back to the other app.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-08-29T15:38:05",
+   "userName": "Gilliard Adriano"
+  },
+  {
+   "rating": 4,
+   "content": "very good Bank \ud83c\udfe6",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-29T14:27:27",
+   "userName": "Asif Nawaz"
+  },
+  {
+   "rating": 5,
+   "content": "it's good, \ud83d\udc4d \ud83e\udd14\ud83d\ude04",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-29T13:39:08",
+   "userName": "Levani Sepiashvili"
   }
  ],
- "record_count": 1133,
- "last_fetch_utc": "2026-08-30T12:13:38.992352+00:00"
+ "record_count": 1141,
+ "last_fetch_utc": "2026-08-31T14:25:30.126236+00:00"
 }
