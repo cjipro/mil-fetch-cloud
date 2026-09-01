@@ -10465,8 +10465,144 @@
    "reviewCreatedVersion": "8.27.3",
    "at": "2026-08-29T12:38:17",
    "userName": "James Devaney"
+  },
+  {
+   "rating": 5,
+   "content": "Works as it should.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-31T11:34:32",
+   "userName": "Karel Prochazka"
+  },
+  {
+   "rating": 1,
+   "content": "Absolutely pathetic for Amazon Barclaycard. Puts text on top of other text, so you can't read it. Trying to transfer to a new device is impossible, tells you to generate a qr code but there is no way of generating it following their \"instructions\". Try to get help, only option is Chat, which as soon as you leave it to try what they suggest on the app, crashes and you can't go back to it. Might be fine for \"real\" Barclays customers, but extremely painful for Amazon Barclaycard.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-31T11:33:38",
+   "userName": "Harry V"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent., very grateful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-31T11:19:13",
+   "userName": "benjamin elawah"
+  },
+  {
+   "rating": 1,
+   "content": "App crashes on my Pixel 11 Pro XL when trying to pay in a cheque",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-31T11:18:17",
+   "userName": "Aidan Harris"
+  },
+  {
+   "rating": 5,
+   "content": "Good banking services",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-31T08:39:48",
+   "userName": "chidinma ijeh"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank on Nunwaton. The staff are 100% respectful and helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-31T08:00:52",
+   "userName": "Jackie Campbell"
+  },
+  {
+   "rating": 4,
+   "content": ".... Sorry, don't like the new look, suppose I'll get used to it, tbh it's hard work \ud83d\ude44",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-31T07:59:04",
+   "userName": "David Lumsden"
+  },
+  {
+   "rating": 1,
+   "content": "Cannot see my accounts after the update!!!!!!! Cannot get hold of anyone. Absolute joke \ud83d\ude21",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-31T01:13:05",
+   "userName": "Emma Stenhouse"
+  },
+  {
+   "rating": 3,
+   "content": "The account transactions view used to show the running balance after each transaction. The new app has removed this. Disappointed.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-30T21:22:56",
+   "userName": "J J (SunshineOnRoses)"
+  },
+  {
+   "rating": 5,
+   "content": "I'm happy with the service provided.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-30T20:41:30",
+   "userName": "Imran Ikleriya"
+  },
+  {
+   "rating": 5,
+   "content": "amazing barclays",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-08-30T20:17:01",
+   "userName": "Hawa Rehman"
+  },
+  {
+   "rating": 1,
+   "content": "this updated app is awful",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-30T19:57:35",
+   "userName": "suzy king"
+  },
+  {
+   "rating": 1,
+   "content": "I download Barclays app to open account. when it asked me to enter email address, I tried entering des.... App doesn't let me enter e after d. letter D keep blinking. I even restart my phone but it doeosnt let me enter E.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-08-30T19:31:26",
+   "userName": "Des Das"
+  },
+  {
+   "rating": 1,
+   "content": "They updated the app and now it crashes on open before we even login. 1 month later still not fixed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-30T17:39:06",
+   "userName": "Martian Surface"
+  },
+  {
+   "rating": 4,
+   "content": "Good app, but its currently not letting me press the profile in the top right corner, constantly saying there's an error. Please fix",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-30T17:30:47",
+   "userName": "Olivia Garnett"
+  },
+  {
+   "rating": 1,
+   "content": "keeps restarting and exiting the app. the recent update has been totally botched and clearly hasn't been tested properly.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-08-30T17:11:38",
+   "userName": "Duncan Hampshire"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-08-30T17:05:42",
+   "userName": "Paul Rigden"
   }
  ],
- "record_count": 1308,
- "last_fetch_utc": "2026-08-31T14:25:34.300251+00:00"
+ "record_count": 1325,
+ "last_fetch_utc": "2026-09-01T12:01:04.285807+00:00"
 }

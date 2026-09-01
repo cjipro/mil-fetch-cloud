@@ -9273,8 +9273,24 @@
    "reviewCreatedVersion": "7.40.0",
    "at": "2026-08-29T12:19:24",
    "userName": "Kevin Peedle"
+  },
+  {
+   "rating": 1,
+   "content": "Poor in app customer service that cost me hundreds because they didn't investigate the chargeback claim I made.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-08-31T11:48:10",
+   "userName": "Ace 23"
+  },
+  {
+   "rating": 5,
+   "content": "Perfect",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-08-30T15:00:30",
+   "userName": "Afia Salomey"
   }
  ],
- "record_count": 1159,
- "last_fetch_utc": "2026-08-31T14:25:31.590460+00:00"
+ "record_count": 1161,
+ "last_fetch_utc": "2026-09-01T12:00:58.029757+00:00"
 }
