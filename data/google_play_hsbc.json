@@ -9161,8 +9161,80 @@
    "reviewCreatedVersion": "3.73.31",
    "at": "2026-08-30T19:26:35",
    "userName": "Ioan Popa"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-09-01T11:36:01",
+   "userName": "Levent Eryavuz"
+  },
+  {
+   "rating": 5,
+   "content": "Great Banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-01T11:14:34",
+   "userName": "Oluchi Offia"
+  },
+  {
+   "rating": 5,
+   "content": "I love this app. Easy to navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-01T09:58:52",
+   "userName": "PRINCE DARKO"
+  },
+  {
+   "rating": 1,
+   "content": "specifically stops you linking to other banks by being completely awful. firstly opens a mobile browser and then asks you to scan a qr code (so dumb) but when you manage to get it on a computer half the time the page doesn't load a qr code the other time the app can't handle scanning it and just says try again. probably time to leave HSBC if they're this bad at apps god knows how bad they are with all other security",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-01T08:38:48",
+   "userName": "Sam Cook"
+  },
+  {
+   "rating": 4,
+   "content": "can be bought up to date in style and poise",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-09-01T00:45:00",
+   "userName": "Jeevan Singh"
+  },
+  {
+   "rating": 5,
+   "content": "really good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-31T18:31:29",
+   "userName": "Andrew Powell"
+  },
+  {
+   "rating": 5,
+   "content": "always safe secure.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-31T18:23:15",
+   "userName": "James Ward"
+  },
+  {
+   "rating": 1,
+   "content": "Still 3rd party payment is broken, they expect you to have 2 different devices to make payment and they refuse to acknowledge it is a problem. Their support(contacted many times) is useless and just says use two devices. I can't even imagine how incompetent their ux team are (if they have one). I've slowly started moving away from them to other banks that actually cares about customers experience. If you look at latest reviews its clearly not just me having the issue.",
+   "thumbsUpCount": 31,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-08-31T16:22:31",
+   "userName": "Aabishkar Aryal"
+  },
+  {
+   "rating": 5,
+   "content": "so easy to deposit cheques!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-08-31T12:44:12",
+   "userName": "Nina Smithstanger"
   }
  ],
- "record_count": 1145,
- "last_fetch_utc": "2026-09-01T12:00:55.057290+00:00"
+ "record_count": 1154,
+ "last_fetch_utc": "2026-09-02T11:43:24.400071+00:00"
 }

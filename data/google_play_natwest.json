@@ -9265,8 +9265,32 @@
    "reviewCreatedVersion": null,
    "at": "2026-08-30T16:50:32",
    "userName": "Shauna Connor"
+  },
+  {
+   "rating": 5,
+   "content": "Very good once you have got through the waiting . excellent service from the person I was talking to , very patient as I am not good with technical issues .so much appreciated .",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-01T11:10:13",
+   "userName": "Irene Allen"
+  },
+  {
+   "rating": 1,
+   "content": "terrible when you've got multiple business accounts and you need to change phones or your phone is lost or broken. no account linking every account has to be added individually, I true waste of customer time",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-31T16:57:38",
+   "userName": "Richard Haigh"
+  },
+  {
+   "rating": 4,
+   "content": "switched accounts to natwest. 5 star service, ni issues",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-08-31T14:01:35",
+   "userName": "Sharon Kernohan"
   }
  ],
- "record_count": 1158,
- "last_fetch_utc": "2026-09-01T12:00:48.331650+00:00"
+ "record_count": 1161,
+ "last_fetch_utc": "2026-09-02T11:43:22.545769+00:00"
 }

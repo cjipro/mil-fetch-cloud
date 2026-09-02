@@ -9289,8 +9289,24 @@
    "reviewCreatedVersion": "7.40.0",
    "at": "2026-08-30T15:00:30",
    "userName": "Afia Salomey"
+  },
+  {
+   "rating": 2,
+   "content": "A very poorly designed app. It is very difficult to see the total balance of your accounts or transfer funds from one 'pot' to another. The screen is a mug's eyeful of confusion and irrelevance. Navigation is best achieved through guesswork. Little thought has been applied to how someone might use this app. Contact me and I'll redesign it for you.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-01T03:06:18",
+   "userName": "Ram Street"
+  },
+  {
+   "rating": 5,
+   "content": "Generally speaking, I have found Monzo to be particularly helpful and informative when it comes to saving. The information (on various saving investments) has led me to a strong level of sustainable success.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-01T01:38:30",
+   "userName": "AJ JOHNSON"
   }
  ],
- "record_count": 1161,
- "last_fetch_utc": "2026-09-01T12:00:58.029757+00:00"
+ "record_count": 1163,
+ "last_fetch_utc": "2026-09-02T11:43:25.111256+00:00"
 }
