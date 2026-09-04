@@ -9369,8 +9369,72 @@
    "reviewCreatedVersion": "3.71.31",
    "at": "2026-07-31T07:59:18",
    "userName": "Anita Nascimento"
+  },
+  {
+   "rating": 1,
+   "content": "The app hasn't worked for a week now ,can anyone tell me the problem with it please?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-03T10:49:29",
+   "userName": "Andrew Gaylor"
+  },
+  {
+   "rating": 5,
+   "content": "great \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-03T10:48:59",
+   "userName": "Josie Sickelmore"
+  },
+  {
+   "rating": 5,
+   "content": "reliable and trustworthy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-03T09:23:28",
+   "userName": "Andrew Goodman"
+  },
+  {
+   "rating": 5,
+   "content": "nice and secure",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-03T07:57:58",
+   "userName": "tushar patel"
+  },
+  {
+   "rating": 5,
+   "content": "I have been with HSBC since I was 17, im now 31 and I have not had a single issue. always someone on hand if I need advice even through the app. the app itself is easy to work and doesnt confuse you. just good quality service throughout my 14 years with them.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-09-02T19:17:05",
+   "userName": "Mario nocella Mario"
+  },
+  {
+   "rating": 4,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-02T16:18:53",
+   "userName": "Mamadou Sow"
+  },
+  {
+   "rating": 5,
+   "content": "very good app tells me when I used it and bought something. Also keeps me up to date . would recommend",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-02T13:04:39",
+   "userName": "Savanah Buachie"
+  },
+  {
+   "rating": 5,
+   "content": "great \ud83d\udc4d \ud83d\udc4c",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.0",
+   "at": "2026-08-27T15:37:05",
+   "userName": "Alhafiz Jamal Haron Mosa"
   }
  ],
- "record_count": 1171,
- "last_fetch_utc": "2026-09-03T11:42:47.519693+00:00"
+ "record_count": 1179,
+ "last_fetch_utc": "2026-09-04T11:44:06.650251+00:00"
 }

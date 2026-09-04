@@ -9361,8 +9361,72 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-09-01T13:26:57",
    "userName": "Md Tanvirul Islam"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-03T10:05:54",
+   "userName": "Carlton Evans"
+  },
+  {
+   "rating": 5,
+   "content": "simple and efficient app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-03T08:41:10",
+   "userName": "Les Illingworth"
+  },
+  {
+   "rating": 5,
+   "content": "It's so simple to understand and use, wherever in the world you are!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-03T00:33:49",
+   "userName": "David Lamey"
+  },
+  {
+   "rating": 5,
+   "content": "excellent. I think NatWest is awesome.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-02T18:33:51",
+   "userName": "Tina Mitchell"
+  },
+  {
+   "rating": 1,
+   "content": "Its not working past 3 months now",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-02T17:58:20",
+   "userName": "Aruna Parsad"
+  },
+  {
+   "rating": 1,
+   "content": "Horrible",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-02T14:16:05",
+   "userName": "kioglop"
+  },
+  {
+   "rating": 5,
+   "content": "very helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-02T14:03:51",
+   "userName": "Daniel Paisley"
+  },
+  {
+   "rating": 5,
+   "content": "you look after my bank account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-02T11:45:31",
+   "userName": "John Warrington"
   }
  ],
- "record_count": 1170,
- "last_fetch_utc": "2026-09-03T11:42:44.869146+00:00"
+ "record_count": 1178,
+ "last_fetch_utc": "2026-09-04T11:44:03.759782+00:00"
 }

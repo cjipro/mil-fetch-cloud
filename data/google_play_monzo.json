@@ -9409,8 +9409,112 @@
    "reviewCreatedVersion": "7.40.0",
    "at": "2026-09-01T13:32:45",
    "userName": "Ahmed Eisa"
+  },
+  {
+   "rating": 1,
+   "content": "seeing my balance drop every time I open the app is not good UX and makes me hate you every time I use monzo.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-03T10:00:40",
+   "userName": "Warren Taggart"
+  },
+  {
+   "rating": 3,
+   "content": "I hope it's coming to Hungary.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-03T08:39:02",
+   "userName": "Benedek Szab\u00f3"
+  },
+  {
+   "rating": 5,
+   "content": "Simple to use, best banking app out there. Opened account in June 2026, can't fault Monzo.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-03T07:59:11",
+   "userName": "Andrew Williams"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-03T00:11:35",
+   "userName": "U R"
+  },
+  {
+   "rating": 1,
+   "content": "since new update cant use my app my updates are all upto date aswell",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-02T22:40:08",
+   "userName": "Sherrie Holland"
+  },
+  {
+   "rating": 4,
+   "content": "Great bank and app. Main improvement I could suggest is making the app work on multiple devices - I like to use on my mobile and tablet interchangeably and it's frustrating to have to log in from scratch each time. This is possible across nearly all my other banking and other apps.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-02T22:28:37",
+   "userName": "Alex Cushion-Swales"
+  },
+  {
+   "rating": 5,
+   "content": "great service, wasy to use app. so convenient",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-09-02T19:45:07",
+   "userName": "Martin Keyala"
+  },
+  {
+   "rating": 5,
+   "content": "Good bank definitely worth having",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-02T19:32:31",
+   "userName": "Timothy Francis"
+  },
+  {
+   "rating": 5,
+   "content": "great. been my bank for quite a few years. no complaints. lots of great features.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-09-02T15:33:47",
+   "userName": "Domenico Stravino"
+  },
+  {
+   "rating": 2,
+   "content": "took 50000",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-02T14:33:03",
+   "userName": "Lennon James"
+  },
+  {
+   "rating": 1,
+   "content": "Stop working all of a sudden, not able to access it anymore and blocking me to proceed with some of my urgent transactions, which are required to be done by today itself. FRUSTRATING",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-02T13:54:11",
+   "userName": "Pratidhi Paudel"
+  },
+  {
+   "rating": 1,
+   "content": "waiting for app to be uploaded",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.34.0",
+   "at": "2026-09-02T13:35:28",
+   "userName": "Joe wright Wright"
+  },
+  {
+   "rating": 1,
+   "content": "i did rate it , but now years with them and you cant use android 9 , changing banks , shame",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "6.40.0",
+   "at": "2026-09-02T12:41:18",
+   "userName": "Tim \u201cTim-D\u201d D"
   }
  ],
- "record_count": 1176,
- "last_fetch_utc": "2026-09-03T11:42:48.836269+00:00"
+ "record_count": 1189,
+ "last_fetch_utc": "2026-09-04T11:44:08.377568+00:00"
 }
