@@ -9433,8 +9433,48 @@
    "reviewCreatedVersion": "3.73.0",
    "at": "2026-08-27T15:37:05",
    "userName": "Alhafiz Jamal Haron Mosa"
+  },
+  {
+   "rating": 5,
+   "content": "love it , so easy and convenient \ud83d\udc4c.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "2.26.0",
+   "at": "2026-09-04T10:17:33",
+   "userName": "Cheryl Hanlon"
+  },
+  {
+   "rating": 1,
+   "content": "I would like to know if there was any payment of 400 on 01/09/26",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-04T09:21:19",
+   "userName": "Tonimu"
+  },
+  {
+   "rating": 5,
+   "content": "Great app! I've been a HSBC customer for years. I've always found them very helpful and professional when contacting customer services. The app is Great, very secure and love the notifications for what goes in and out. I recommend it to any HSBC user.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-04T01:56:18",
+   "userName": "Jonathan Morgan"
+  },
+  {
+   "rating": 1,
+   "content": "the paying in cheque service is the worst I've encountered.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-03T22:47:36",
+   "userName": "Mahmut Kaide"
+  },
+  {
+   "rating": 1,
+   "content": "I rarely get transaction notifications, despite it being turned on in the app and on my phone. This is a frustrating, constant issue that you never seem to resolve.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-03T21:03:06",
+   "userName": "Hannah White"
   }
  ],
- "record_count": 1179,
- "last_fetch_utc": "2026-09-04T11:44:06.650251+00:00"
+ "record_count": 1184,
+ "last_fetch_utc": "2026-09-05T10:55:02.233032+00:00"
 }
