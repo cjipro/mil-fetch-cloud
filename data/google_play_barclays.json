@@ -11473,8 +11473,112 @@
    "reviewCreatedVersion": "8.27.4",
    "at": "2026-09-03T12:35:00",
    "userName": "Brian Porter"
+  },
+  {
+   "rating": 1,
+   "content": "Help section of the Barclays app is missing if you only have an ISA and no debit cards. Barclays website and phones push you towards the app message option but this option does not exist. Many buttons in the app also cause crashes when you only have an ISA and no debit card.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-05T11:15:45",
+   "userName": "Nigel Palmer"
+  },
+  {
+   "rating": 2,
+   "content": "Ui updates over have made it slower to log in and incredibly confusing when transferring money between your own accounts if you have more than 2. it's very unclear when you are to select the from account and then select the to account the screen is just mainly white with no divisions or delineators and i often have to multi click and correct misclicks whereas it used to very simple and clear.would share screenshots but Barclays disallow it even though you can screenshot browser sessions anyway.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-05T10:10:18",
+   "userName": "David Baker"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to use this service and they check its what you want",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-09-05T09:57:43",
+   "userName": "Mary Downes"
+  },
+  {
+   "rating": 5,
+   "content": "Simple and straightforward transaction",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-05T08:55:22",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 1,
+   "content": "Useless!!!! when I chat to someone to get help, the person does not know anything !!! HELPLESS AND USELESS",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-09-05T08:06:46",
+   "userName": "Olivier Biehler"
+  },
+  {
+   "rating": 1,
+   "content": "Hate the new layout. Let me see all of my transactions in a list. Bring back the old layout",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-05T03:08:46",
+   "userName": "Debbie barker"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-04T22:16:20",
+   "userName": "Ng\u1ecdt Ng\u00f4"
+  },
+  {
+   "rating": 4,
+   "content": "Very good banking app, have a great overdraft arrangement if your willing to be a fair and Loyal customer!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-04T21:58:55",
+   "userName": "Dylan Price"
+  },
+  {
+   "rating": 2,
+   "content": "I've been a customer since 1980 and I've used this app for years but now youve ruined it. Jumbling up where you spent it and how much you spent on the same side of the screen so no more scanning for certain amounts. No more rolling balance so you can see where it suddenly drops or rises on a daily basis. Chat NEVER works. No more pass phrase when you log in. Laggy login when pressing the buttons so if someone is looking.... it helps them no end. Time for a new bank I think. \ud83d\ude22",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-04T21:25:01",
+   "userName": "Bikerboythousand"
+  },
+  {
+   "rating": 5,
+   "content": "Very user- friendly App, although no App can ever replace a Human.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-09-04T18:46:41",
+   "userName": "Salty Sea Queen"
+  },
+  {
+   "rating": 1,
+   "content": "absolutely awful will not show my accounts",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-04T16:12:04",
+   "userName": "Phil Langford"
+  },
+  {
+   "rating": 1,
+   "content": "unable to download BarclaysBanking App.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-04T13:39:11",
+   "userName": "WilliamLeeson1"
+  },
+  {
+   "rating": 5,
+   "content": "Great service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-04T11:43:57",
+   "userName": "R Shippers"
   }
  ],
- "record_count": 1434,
- "last_fetch_utc": "2026-09-05T10:55:06.779520+00:00"
+ "record_count": 1447,
+ "last_fetch_utc": "2026-09-06T11:20:42.875298+00:00"
 }
