@@ -9665,8 +9665,56 @@
    "reviewCreatedVersion": "7.5.0",
    "at": "2026-09-04T13:35:19",
    "userName": "warren smith"
+  },
+  {
+   "rating": 5,
+   "content": "Clear interface and easy to use. Would reccomend. I originally got a Monzo bank account to avoid overseas charges, but the app is good too.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-06T00:40:27",
+   "userName": "Kate"
+  },
+  {
+   "rating": 5,
+   "content": "Good experience.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-05T19:42:17",
+   "userName": "EDWIN NUAMAH OPPONG"
+  },
+  {
+   "rating": 4,
+   "content": "very easy to understand and follow.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-05T18:03:47",
+   "userName": "eleanor burgess"
+  },
+  {
+   "rating": 5,
+   "content": "it's great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.37.0",
+   "at": "2026-09-05T14:50:34",
+   "userName": "Maureen Pownall"
+  },
+  {
+   "rating": 1,
+   "content": "ableist identification process. my mother doesn't speak English and yet the only way to confirm her id was to speak in English. what the hell",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-05T12:56:16",
+   "userName": "Umar Ditta"
+  },
+  {
+   "rating": 2,
+   "content": "Can't transfer money into it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.33.0",
+   "at": "2026-09-05T11:38:55",
+   "userName": "Leslie Lowery"
   }
  ],
- "record_count": 1208,
- "last_fetch_utc": "2026-09-06T11:20:40.783778+00:00"
+ "record_count": 1214,
+ "last_fetch_utc": "2026-09-07T13:01:00.161625+00:00"
 }

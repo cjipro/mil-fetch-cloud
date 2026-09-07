@@ -9641,8 +9641,88 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-09-04T11:08:54",
    "userName": "Richard Johnson"
+  },
+  {
+   "rating": 5,
+   "content": "Great APP, really helpful info when you need it and all at your fingertips.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-06T12:46:29",
+   "userName": "Maria Phillips"
+  },
+  {
+   "rating": 1,
+   "content": "they send you reminders to pay your credit card bill despite previously paying it 10 days before the due date. I paid mine three times because of these stupid reminders.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-06T12:40:10",
+   "userName": "Paul Heslop"
+  },
+  {
+   "rating": 5,
+   "content": "very good service and are there when you need assistance.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-06T11:19:59",
+   "userName": "David Thorpe"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-06T08:30:55",
+   "userName": "Aamir Zaidi"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use excellent customer service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-05T20:39:49",
+   "userName": "Christine Burns"
+  },
+  {
+   "rating": 5,
+   "content": "app is working again after a simple restart.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.52.0000.10.0",
+   "at": "2026-09-05T19:57:26",
+   "userName": "Kasim K"
+  },
+  {
+   "rating": 2,
+   "content": "very hard to make a payment HSBC ist an option",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-05T17:32:06",
+   "userName": "Mike"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to follow. feel very safe.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-05T17:18:14",
+   "userName": "Maggie Barber"
+  },
+  {
+   "rating": 5,
+   "content": "Very good bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-05T15:10:57",
+   "userName": "Cu tupe de englez Cu tupeu de englez"
+  },
+  {
+   "rating": 4,
+   "content": "The biometrics we have an option to set either face or voice recognition. And I do not like either of them. First the face recognition on android devices doesn't work at night and dark places. It will be better If the developer could add a third option fingerprint for biometric approval when sending payments.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-05T15:07:50",
+   "userName": "Satyam Tandel"
   }
  ],
- "record_count": 1205,
- "last_fetch_utc": "2026-09-06T11:20:36.031778+00:00"
+ "record_count": 1215,
+ "last_fetch_utc": "2026-09-07T13:00:55.547295+00:00"
 }
