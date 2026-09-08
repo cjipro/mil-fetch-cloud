@@ -11705,8 +11705,136 @@
    "reviewCreatedVersion": "8.27.4",
    "at": "2026-09-05T11:21:25",
    "userName": "David Lowndes"
+  },
+  {
+   "rating": 5,
+   "content": "I find the mobile app very easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T11:23:28",
+   "userName": "Mary Elms"
+  },
+  {
+   "rating": 1,
+   "content": "Crashes quite a bit at times, particularly when I tap a notification from the app, it tries to open and crashes. Half the time when it does work it doesn't bring up all my accounts. No balance after each transaction, which is annoying when you have a lot of transactions on any particular day.",
+   "thumbsUpCount": 57,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T09:58:37",
+   "userName": "Lee Snowden"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.21.0",
+   "at": "2026-09-07T09:15:02",
+   "userName": "Norma Gerken"
+  },
+  {
+   "rating": 5,
+   "content": "easy to do. excellent security questions. thank you!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T08:23:49",
+   "userName": "Pam Meeks Fitzpatrick"
+  },
+  {
+   "rating": 5,
+   "content": "The new look app is bright lovely and quick. Transactions are shown straightaway, unlike previously when they are delayed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T08:17:20",
+   "userName": "Olayinka OKO-JAJA"
+  },
+  {
+   "rating": 1,
+   "content": "App keeps crashing when opening another app to approve payment to balance.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T07:30:29",
+   "userName": "Jamie Andrews"
+  },
+  {
+   "rating": 1,
+   "content": "This has to be worse app in world!! it had a update and literally doesn't work ! to point I'm changing banks !! you move money between accounts or sent money doesn't even show where money gone until log off app and log back in . moving money between banks now is brain surgery as have check which banks which cause app just changes it cause its the awful app.... Literally everyone who spooke to who use barclays app and even people that work there say this app now un usable and very disappointed .",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T07:04:07",
+   "userName": "Tom Rogers"
+  },
+  {
+   "rating": 1,
+   "content": "Can no longer make payments on the app. You set the payment up ready to go, then when you go into another banking app to approve the payment to Barclays it logs you out, cancelling the payment transaction",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T06:45:31",
+   "userName": "Stevo John"
+  },
+  {
+   "rating": 4,
+   "content": "good layout",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T05:58:34",
+   "userName": "Jonny Preece"
+  },
+  {
+   "rating": 1,
+   "content": "can't view upcoming payments in calender, very bitty and not clear",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T05:50:57",
+   "userName": "Tree Bailey"
+  },
+  {
+   "rating": 4,
+   "content": "fast and comprehensive",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-07T05:49:03",
+   "userName": "John Taylor"
+  },
+  {
+   "rating": 5,
+   "content": "quick easy process",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-06T21:31:35",
+   "userName": "Jo Pryce"
+  },
+  {
+   "rating": 1,
+   "content": "barclays are awful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-06T20:26:05",
+   "userName": "Amy Hall"
+  },
+  {
+   "rating": 5,
+   "content": "excellent and very easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-09-06T17:54:19",
+   "userName": "Peter Nandi"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-06T15:12:46",
+   "userName": "anthony farrell"
+  },
+  {
+   "rating": 5,
+   "content": "Great to be able to check accounts and transfer money, easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.22.3",
+   "at": "2026-09-06T15:02:19",
+   "userName": "Christine Jeanes"
   }
  ],
- "record_count": 1463,
- "last_fetch_utc": "2026-09-07T13:01:03.153198+00:00"
+ "record_count": 1479,
+ "last_fetch_utc": "2026-09-08T11:44:06.932731+00:00"
 }

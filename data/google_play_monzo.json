@@ -9713,8 +9713,48 @@
    "reviewCreatedVersion": "7.33.0",
    "at": "2026-09-05T11:38:55",
    "userName": "Leslie Lowery"
+  },
+  {
+   "rating": 5,
+   "content": "good way to spend money and it's quick and easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-07T05:48:22",
+   "userName": "Myles Collyer"
+  },
+  {
+   "rating": 1,
+   "content": "slow app, always has problems. honestly if you are thinking of joining.... DONT. 6 years of app issues os all i have had.... card stops working randomly and must wait days for a new one, in that time i CANNOTA ACCESS MY OWN MONEY.",
+   "thumbsUpCount": 50,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-06T15:22:40",
+   "userName": "Curtis Lane"
+  },
+  {
+   "rating": 5,
+   "content": "always couteous",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-06T15:11:19",
+   "userName": "Amanda Lilley"
+  },
+  {
+   "rating": 4,
+   "content": "good but needs face scan every time",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-06T13:56:34",
+   "userName": "Ibraheem Abbas"
+  },
+  {
+   "rating": 1,
+   "content": "cancelled my account when I couldn't upgrade to YouTube premium and was forced to endure the useless YouTube premium lite perk from Monzo.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-06T13:45:09",
+   "userName": "Ben NCM"
   }
  ],
- "record_count": 1214,
- "last_fetch_utc": "2026-09-07T13:01:00.161625+00:00"
+ "record_count": 1219,
+ "last_fetch_utc": "2026-09-08T11:44:04.157060+00:00"
 }

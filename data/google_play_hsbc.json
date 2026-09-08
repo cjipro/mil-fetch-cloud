@@ -9585,8 +9585,56 @@
    "reviewCreatedVersion": "3.73.31",
    "at": "2026-09-05T14:09:28",
    "userName": "Rosina Rehman"
+  },
+  {
+   "rating": 5,
+   "content": "Great service.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T11:40:06",
+   "userName": "kevin davidson"
+  },
+  {
+   "rating": 1,
+   "content": "Constant crashing when starting up. The logo appears then it closes after a few seconds. I have to restart my phone to get it to run. Then the next time I try the app, the same problem and I have to reboot again for it to work. No updates waiting and no problems with any other apps. My daughter has exactly the same issue with the HSBC app on her phone.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T11:01:26",
+   "userName": "Neil King"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent customer service \ud83d\udc4f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T09:23:08",
+   "userName": "Foluke ADada"
+  },
+  {
+   "rating": 2,
+   "content": "it always asks for update",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.71.31",
+   "at": "2026-09-07T08:12:48",
+   "userName": "Bassoumba Productions"
+  },
+  {
+   "rating": 5,
+   "content": "Really easy to use, especially for checking balance at any time.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-06T17:02:02",
+   "userName": "Olga Shikhova"
+  },
+  {
+   "rating": 5,
+   "content": "Reliable",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-06T15:43:05",
+   "userName": "Sumesh"
   }
  ],
- "record_count": 1198,
- "last_fetch_utc": "2026-09-07T13:00:58.684372+00:00"
+ "record_count": 1204,
+ "last_fetch_utc": "2026-09-08T11:44:02.972567+00:00"
 }

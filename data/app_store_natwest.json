@@ -4529,8 +4529,48 @@
    "version": "7.69.0",
    "date": "2026-08-27T10:24:46-07:00",
    "author": "Willybob59"
+  },
+  {
+   "rating": 5,
+   "title": "Feedback",
+   "review": "A very user friendly app, no fuss, easy navigation and logical functionality.",
+   "version": "7.69.0",
+   "date": "2026-09-06T15:24:42-07:00",
+   "author": "Chiz plays Drums"
+  },
+  {
+   "rating": 5,
+   "title": "EPM",
+   "review": "Excellent",
+   "version": "7.69.0",
+   "date": "2026-09-06T09:12:59-07:00",
+   "author": "Inoha69"
+  },
+  {
+   "rating": 5,
+   "title": "N",
+   "review": "Wonderful",
+   "version": "7.69.0",
+   "date": "2026-09-06T06:53:52-07:00",
+   "author": "Thunderboss4041"
+  },
+  {
+   "rating": 5,
+   "title": "Mr Karl",
+   "review": "Banked with NatWest for over 20 years can\u2019t fault the bank always there to help if needed and offer an outstanding service",
+   "version": "7.69.0",
+   "date": "2026-09-06T06:07:39-07:00",
+   "author": "Karljmat"
+  },
+  {
+   "rating": 1,
+   "title": "Always asks for rating",
+   "review": "Poor design update and constantly pesters for app rating every update",
+   "version": "7.69.0",
+   "date": "2026-09-06T05:18:17-07:00",
+   "author": "Driving me safely"
   }
  ],
- "record_count": 566,
- "last_fetch_utc": "2026-09-07T13:00:54.247770+00:00"
+ "record_count": 571,
+ "last_fetch_utc": "2026-09-08T11:44:00.119768+00:00"
 }
