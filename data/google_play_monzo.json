@@ -9753,8 +9753,64 @@
    "reviewCreatedVersion": "7.41.0",
    "at": "2026-09-06T13:45:09",
    "userName": "Ben NCM"
+  },
+  {
+   "rating": 5,
+   "content": "Always works, great features",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "6.29.0",
+   "at": "2026-09-07T19:46:05",
+   "userName": "Dan Wiltshire"
+  },
+  {
+   "rating": 3,
+   "content": "App keeps pestering me with notifications for 'get your money early', which is basically an overdraft and not wanted. These notifications are under 'important' category on Android so I can't block them without missing actual 'important' notifs. Please fix. It sent 3 of these in the space of an hour.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-07T17:54:50",
+   "userName": "Aaron"
+  },
+  {
+   "rating": 1,
+   "content": "This app does not work in Muslim countries.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-07T17:43:12",
+   "userName": "Ayaz Khan"
+  },
+  {
+   "rating": 1,
+   "content": "Please let me remove trends and upcoming from my home screen! I don't want or need these things taking up space!",
+   "thumbsUpCount": 22,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-07T16:58:34",
+   "userName": "adrian51gray"
+  },
+  {
+   "rating": 3,
+   "content": "Great. App feels worse with latest update, filled with stuff don't need and makes it 2x harder to get what your after.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-07T15:35:58",
+   "userName": "Jaime"
+  },
+  {
+   "rating": 1,
+   "content": "I am with Monzo since 2021. I never had a problem but month ago I had issues sending international payments they were not going to recipient. After disputing they refunded the money with credit but again same problem and they are not looking problem with their app but saying I haven't provided them the statements from recipient.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-07T15:31:01",
+   "userName": "Navdeep Randhawa"
+  },
+  {
+   "rating": 5,
+   "content": "absolutely amazing \ud83e\udd29",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-07T15:02:01",
+   "userName": "Muir Kenny"
   }
  ],
- "record_count": 1219,
- "last_fetch_utc": "2026-09-08T11:44:04.157060+00:00"
+ "record_count": 1226,
+ "last_fetch_utc": "2026-09-09T11:50:45.059488+00:00"
 }

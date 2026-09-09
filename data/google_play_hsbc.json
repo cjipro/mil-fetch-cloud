@@ -9633,8 +9633,96 @@
    "reviewCreatedVersion": "3.73.31",
    "at": "2026-09-06T15:43:05",
    "userName": "Sumesh"
+  },
+  {
+   "rating": 5,
+   "content": "excited",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-08T11:14:11",
+   "userName": "ian mcgeown"
+  },
+  {
+   "rating": 5,
+   "content": "super easy process.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-08T09:01:20",
+   "userName": "Anthony Jarvis"
+  },
+  {
+   "rating": 5,
+   "content": "love this bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-08T08:11:12",
+   "userName": "Daniel Peter Craiggs"
+  },
+  {
+   "rating": 5,
+   "content": "good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-08T04:54:45",
+   "userName": "jake rust"
+  },
+  {
+   "rating": 4,
+   "content": "is good for me thank you for app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-08T04:54:09",
+   "userName": "jamal hussain"
+  },
+  {
+   "rating": 1,
+   "content": "Extremely poor customer service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T19:57:28",
+   "userName": "Ian"
+  },
+  {
+   "rating": 1,
+   "content": "texts in dark mode are unreadable (descriptions etc) - white on white miui 12.5.8 (Xiaomi redmi note 8 pro)",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T19:02:22",
+   "userName": "Martin Z"
+  },
+  {
+   "rating": 5,
+   "content": "its Great experience",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T17:35:30",
+   "userName": "Tahir"
+  },
+  {
+   "rating": 5,
+   "content": "I love this app working brilliantly \ud83d\udc4f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T16:44:07",
+   "userName": "Emma Bonfante"
+  },
+  {
+   "rating": 1,
+   "content": "took ages to deposit 1 cheque",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-07T16:05:52",
+   "userName": "Carolyn Rees"
+  },
+  {
+   "rating": 3,
+   "content": "Your future payment section needs some improvement, as it only tracks direct debits. You need to enable the user to add other items like Amazon prime, which is recurring but not a direct debit. It's misleading as it doesn't capture everything coming out each period because it's only looking at standing orders. There are many subscription services which are not standing orders.",
+   "thumbsUpCount": 5,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-07-27T09:48:42",
+   "userName": "Stephen Thompson"
   }
  ],
- "record_count": 1204,
- "last_fetch_utc": "2026-09-08T11:44:02.972567+00:00"
+ "record_count": 1215,
+ "last_fetch_utc": "2026-09-09T11:50:44.222548+00:00"
 }
