@@ -11977,8 +11977,64 @@
    "reviewCreatedVersion": null,
    "at": "2026-08-11T20:48:37",
    "userName": "Steffan Shameer Donaldson"
+  },
+  {
+   "rating": 2,
+   "content": "The old version worked very well, this updated version with the new layout is slow and does not work well. Keep it simple do it right but the changes made have produced a poor banking app. Maybe in time Barclay's will listen and improve things. Update to response: i gave a two star rating not a one as you stated, also not everyone can upgrade to Android 16 due to age of phone or able to afford a new phone.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-09T10:33:34",
+   "userName": "bob dodge"
+  },
+  {
+   "rating": 2,
+   "content": "Ui updates over have made it slower to log in and incredibly confusing when transferring money between your own accounts if you have more than 2. it's very unclear when you are to select the from account and then select the to account the screen is just mainly white with no divisions or delineators and i often have to multi click and correct misclicks whereas it used to very simple and clear.would share screenshots but can't even though you can screenshot browser. ps my name's Dave not Gareth :s",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-09T09:41:13",
+   "userName": "David Baker"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-09T06:42:49",
+   "userName": "Golam Mamun"
+  },
+  {
+   "rating": 1,
+   "content": "Horrible new app.... messy, garish UI whereas the old one looked clean and sophisticated. Please change it back! Also a dreadful new feature whereby instead of displaying your account balance the instant the app opens there's now a slight delay where your previous day's balance appears, then updates a few seconds later to take into account recent payments. So pretty much every time you login you physically see money leave your account on screen. Bizarre, unpleasant idea.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-08T21:21:59",
+   "userName": "Gareth Stephens"
+  },
+  {
+   "rating": 1,
+   "content": "\ud83d\udca5security risk.!not good. now if you just shrink the page the app stays open along with other pages that you have just shrunk. u can see all your details still. it used to close ,go blank.",
+   "thumbsUpCount": 14,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-08T18:38:02",
+   "userName": "SJ E"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use safe from scams",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-08T12:37:18",
+   "userName": "GWILYM EDWARDS"
+  },
+  {
+   "rating": 1,
+   "content": "too buggy. I cannot make a payment at all, the app crashes Everytime I try to pay my credit card bill.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-08T12:08:27",
+   "userName": "Michael Page"
   }
  ],
- "record_count": 1497,
- "last_fetch_utc": "2026-09-09T11:50:46.854871+00:00"
+ "record_count": 1504,
+ "last_fetch_utc": "2026-09-10T11:49:12.086758+00:00"
 }

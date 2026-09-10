@@ -4105,8 +4105,80 @@
    "version": "3.73.31",
    "date": "2026-09-07T00:34:10-07:00",
    "author": "Ca1177"
+  },
+  {
+   "rating": 5,
+   "title": "Review",
+   "review": "Excellent service",
+   "version": "3.74.0",
+   "date": "2026-09-09T01:27:56-07:00",
+   "author": "Debbielola"
+  },
+  {
+   "rating": 5,
+   "title": "Works well",
+   "review": "App does what it should   Easy to navigate",
+   "version": "3.74.0",
+   "date": "2026-09-08T22:43:40-07:00",
+   "author": "JC1 UKGB"
+  },
+  {
+   "rating": 1,
+   "title": "Misleading advertising",
+   "review": "I saw a social media ad promising \u00a3500 for opening an account with them, but after I did so, they told me there were conditions attached to receiving the money. They don't deserve it\u2014the ads are misleading.",
+   "version": "3.74.0",
+   "date": "2026-09-08T12:15:45-07:00",
+   "author": "HNH999"
+  },
+  {
+   "rating": 5,
+   "title": "Nice to work with HSBC",
+   "review": "Very easy to used HSBC mobile banking \nHighly recommended",
+   "version": "3.74.0",
+   "date": "2026-09-08T11:24:04-07:00",
+   "author": "anzhar1907"
+  },
+  {
+   "rating": 3,
+   "title": "Works well for payments 700 MB overzied",
+   "review": "The app works well for payments but has become bloated for day to day use at 700MB which makes it slower than it has to be",
+   "version": "3.74.0",
+   "date": "2026-09-08T08:34:22-07:00",
+   "author": "Deabac"
+  },
+  {
+   "rating": 4,
+   "title": "Documents.",
+   "review": "A fairly straightforward app to use, but the bank occasionally tells me I have an important document to read. I can't see it on this app! Apparently, I have to log off and take a different route, I think by using my phone. It shouldn't be so complicated. All info on this app only, please.",
+   "version": "3.74.0",
+   "date": "2026-09-08T07:25:37-07:00",
+   "author": "Geoff 10 Thumbs"
+  },
+  {
+   "rating": 3,
+   "title": "Very slow app",
+   "review": "It\u2019s been very slow since day one. The start up is taking so long you can make a coffee and drink it before it lets you in.",
+   "version": "3.74.0",
+   "date": "2026-09-08T06:01:11-07:00",
+   "author": "MoPK"
+  },
+  {
+   "rating": 2,
+   "title": "Can't apply for bank honest",
+   "review": "I can't apply, the bank won't let you to the next stage honest wrong with your app won't let next stage I tried for a week nothing",
+   "version": "3.74.0",
+   "date": "2026-09-08T04:41:17-07:00",
+   "author": "Selinacharles"
+  },
+  {
+   "rating": 5,
+   "title": "Good service",
+   "review": "I have experienced the good service especially i like how it shows upcoming payments or salary credits.",
+   "version": "3.74.0",
+   "date": "2026-09-08T03:39:13-07:00",
+   "author": "Namita Sheth"
   }
  ],
- "record_count": 513,
- "last_fetch_utc": "2026-09-09T11:50:43.529459+00:00"
+ "record_count": 522,
+ "last_fetch_utc": "2026-09-10T11:49:07.301105+00:00"
 }

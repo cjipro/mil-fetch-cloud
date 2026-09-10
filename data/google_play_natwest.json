@@ -9961,8 +9961,72 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-09-07T11:58:08",
    "userName": "Tanya O'Brien"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-09T11:31:00",
+   "userName": "dave cole"
+  },
+  {
+   "rating": 5,
+   "content": "easy to do good service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-09T08:38:51",
+   "userName": "June Newton"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent mobile and online banking.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-09T06:52:48",
+   "userName": "Shakir \u201cShakir\u201d Ullah"
+  },
+  {
+   "rating": 5,
+   "content": "lovely bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-09T05:32:28",
+   "userName": "Ezeh lilian"
+  },
+  {
+   "rating": 5,
+   "content": "easy.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-09T03:05:04",
+   "userName": "Eileen Meadows"
+  },
+  {
+   "rating": 2,
+   "content": "keeps on freezing and got to download again",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-08T20:27:50",
+   "userName": "Alan Driver"
+  },
+  {
+   "rating": 1,
+   "content": "updated app and ask to register again..if you don't know how to make an app then don't have one",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-08T19:35:10",
+   "userName": "Piyush Sharma"
+  },
+  {
+   "rating": 3,
+   "content": "Does not load, just buffering, so it's totally useless. After reinstall the app is currently working.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-08T13:56:14",
+   "userName": "Nikki Wilson"
   }
  ],
- "record_count": 1245,
- "last_fetch_utc": "2026-09-09T11:50:42.272980+00:00"
+ "record_count": 1253,
+ "last_fetch_utc": "2026-09-10T11:49:05.409980+00:00"
 }

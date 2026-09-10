@@ -9721,8 +9721,64 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-07-27T09:48:42",
    "userName": "Stephen Thompson"
+  },
+  {
+   "rating": 1,
+   "content": "rubbish app, slow not that easy to use. monzo is so much better",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-09T06:53:57",
+   "userName": "Gareth Kuczynski"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to manage account. Clear and concise.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-09T06:30:55",
+   "userName": "Christine Kirkby"
+  },
+  {
+   "rating": 1,
+   "content": "bad bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-08T21:11:32",
+   "userName": "Amer Alhadad"
+  },
+  {
+   "rating": 5,
+   "content": "Very Helpful easy to make your transaction",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-08T20:20:29",
+   "userName": "Talal Alenezi"
+  },
+  {
+   "rating": 3,
+   "content": "Very useful facility when it works. Can't fill whole oblong with cheque so takes a while for it to accept best photo.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-08T15:24:26",
+   "userName": "Sue Walton"
+  },
+  {
+   "rating": 5,
+   "content": "excellent transfer of funds to third party.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-08T14:47:48",
+   "userName": "Sylvia Roberts"
+  },
+  {
+   "rating": 5,
+   "content": "love this HSBC app. so easy to use and navigate round",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-08T13:31:30",
+   "userName": "Elaine Barker"
   }
  ],
- "record_count": 1215,
- "last_fetch_utc": "2026-09-09T11:50:44.222548+00:00"
+ "record_count": 1222,
+ "last_fetch_utc": "2026-09-10T11:49:08.013230+00:00"
 }
