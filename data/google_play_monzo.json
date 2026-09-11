@@ -9873,8 +9873,48 @@
    "reviewCreatedVersion": "7.41.0",
    "at": "2026-09-08T12:31:43",
    "userName": "James McCormack"
+  },
+  {
+   "rating": 1,
+   "content": "aggressive full screen ads when I'm trying to access my account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-10T09:42:48",
+   "userName": "David Bascelli"
+  },
+  {
+   "rating": 5,
+   "content": "monzo for me is perfect very reliable I never incounter any problems with regards to my account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-09T20:15:00",
+   "userName": "Nenet Sarmiento"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank. Moved to Monzo about 3 months ago. Excellent easy to use App.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-09T16:02:50",
+   "userName": "Sharon Evans"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank and easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-09T15:24:19",
+   "userName": "Stewart Warren"
+  },
+  {
+   "rating": 1,
+   "content": "can't updte",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.35.0",
+   "at": "2026-09-09T12:25:49",
+   "userName": "LETITIA SD"
   }
  ],
- "record_count": 1234,
- "last_fetch_utc": "2026-09-10T11:49:09.274862+00:00"
+ "record_count": 1239,
+ "last_fetch_utc": "2026-09-11T11:48:17.665103+00:00"
 }
