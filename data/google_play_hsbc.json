@@ -9825,8 +9825,72 @@
    "reviewCreatedVersion": "3.73.31",
    "at": "2026-09-09T13:42:56",
    "userName": "Baz"
+  },
+  {
+   "rating": 5,
+   "content": "user friendly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-11T06:57:15",
+   "userName": "Segun Oke"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-10T20:52:11",
+   "userName": "Giri Raj"
+  },
+  {
+   "rating": 5,
+   "content": "much better to talk to her than machine very helpful thanks Hilary",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-10T19:38:38",
+   "userName": "hilary clarke"
+  },
+  {
+   "rating": 5,
+   "content": "very helpful all staff and helps a lot in sorting any issues regarding banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-10T16:14:14",
+   "userName": "kamal sandhu"
+  },
+  {
+   "rating": 3,
+   "content": "The way they store payees is rubbish. You cant delete old ones you only use once, but have so many payees it will delete ones you use more than once.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-10T16:10:04",
+   "userName": "Gawain Barton"
+  },
+  {
+   "rating": 4,
+   "content": "I found excellent service every time's when am using. Thanks hsbc",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-10T15:11:32",
+   "userName": "Khalid Fahim"
+  },
+  {
+   "rating": 5,
+   "content": "first time used very pleased with info given",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-10T14:21:11",
+   "userName": "maria zynski"
+  },
+  {
+   "rating": 5,
+   "content": "quick and simple to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-10T12:36:45",
+   "userName": "Terence Carine"
   }
  ],
- "record_count": 1228,
- "last_fetch_utc": "2026-09-11T11:48:16.519874+00:00"
+ "record_count": 1236,
+ "last_fetch_utc": "2026-09-12T11:15:03.459058+00:00"
 }
