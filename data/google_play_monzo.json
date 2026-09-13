@@ -9985,8 +9985,56 @@
    "reviewCreatedVersion": null,
    "at": "2026-09-10T13:46:36",
    "userName": "Fran Majella"
+  },
+  {
+   "rating": 5,
+   "content": "Easy and best in bussiness",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.40.0",
+   "at": "2026-09-12T12:13:43",
+   "userName": "Raman Deep"
+  },
+  {
+   "rating": 1,
+   "content": "I would give the bank app 5\u2605 but the latest UI design is terrible, definitely not user friendly.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-11T16:32:02",
+   "userName": "Alan O'Dowd"
+  },
+  {
+   "rating": 5,
+   "content": "Best personal and business bank accounts ive had so so much so my teen has her own to",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-11T16:21:03",
+   "userName": "Dave Martin"
+  },
+  {
+   "rating": 5,
+   "content": "the best bank in the world",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.37.0",
+   "at": "2026-09-11T16:05:20",
+   "userName": "Jazz A"
+  },
+  {
+   "rating": 5,
+   "content": "This monzo make my life easier \ud83d\ude0c . I love it \ud83d\ude00",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-11T15:47:25",
+   "userName": "Summer Cekanaviciene"
+  },
+  {
+   "rating": 1,
+   "content": "my daughter sent me the link uploaded the app now all it says is we're confirming your details. it usually takes 5 minutes to an hour but sometimes up to 48 hours 4 days later still saying the same thing but on my daughter's link her end says is need to finish set up well how can I do that if you dont process across ???",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-11T12:08:02",
+   "userName": "Roy 'JINKSY' Jinks"
   }
  ],
- "record_count": 1248,
- "last_fetch_utc": "2026-09-12T11:15:04.166606+00:00"
+ "record_count": 1254,
+ "last_fetch_utc": "2026-09-13T12:16:36.347947+00:00"
 }

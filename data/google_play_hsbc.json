@@ -9889,8 +9889,104 @@
    "reviewCreatedVersion": "3.73.31",
    "at": "2026-09-10T12:36:45",
    "userName": "Terence Carine"
+  },
+  {
+   "rating": 3,
+   "content": "Was working well enough until now. up until recently the app working as well as you can expect and was fairly easy to navigate, although it was quite difficult to find the budgeting options, and even those are very limited. But I had the app setup inside my Samsung's Secure Folder for extra security. Now though, the app doesn't launch due to \"an unsecured virtual environment\" which is the whole point of the secure folder, so it doesn't get affected by MALWARE! Very disappointed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-12T08:27:22",
+   "userName": "Claudio Di Giacomo"
+  },
+  {
+   "rating": 5,
+   "content": "Very easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-12T07:26:23",
+   "userName": "kate highfield"
+  },
+  {
+   "rating": 1,
+   "content": "please support multi-language for user experience",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-12T04:33:08",
+   "userName": "Waddy Boy"
+  },
+  {
+   "rating": 4,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-11T19:20:54",
+   "userName": "Enoch Ajayi"
+  },
+  {
+   "rating": 5,
+   "content": "nice app,easy to use. thank you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-11T17:44:20",
+   "userName": "remus ditei"
+  },
+  {
+   "rating": 5,
+   "content": "Great app, always worked without issues.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-11T17:07:59",
+   "userName": "Mickey B"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-11T16:50:36",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic for all your banking needs",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-11T15:52:26",
+   "userName": "Chris Fay"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-11T15:42:26",
+   "userName": "Kate Jauncey"
+  },
+  {
+   "rating": 3,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-11T15:20:12",
+   "userName": "Stephen Tochukwu"
+  },
+  {
+   "rating": 5,
+   "content": "User friendly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-11T14:56:32",
+   "userName": "Djaba Ayernor"
+  },
+  {
+   "rating": 5,
+   "content": "Works as needed",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-11T14:02:55",
+   "userName": "Ignorant Hussy"
   }
  ],
- "record_count": 1236,
- "last_fetch_utc": "2026-09-12T11:15:03.459058+00:00"
+ "record_count": 1248,
+ "last_fetch_utc": "2026-09-13T12:16:35.130986+00:00"
 }

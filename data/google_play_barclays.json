@@ -12641,8 +12641,344 @@
    "reviewCreatedVersion": "8.27.4",
    "at": "2026-09-10T12:01:54",
    "userName": "Mr Vantage"
+  },
+  {
+   "rating": 4,
+   "content": "Nice app with an easy interface. But needs to be full landscape for tablets. Hence only 4 stars.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-12T11:40:10",
+   "userName": "neil gregan"
+  },
+  {
+   "rating": 5,
+   "content": "Lovely app! easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T11:25:03",
+   "userName": "Jason Da Silveira"
+  },
+  {
+   "rating": 5,
+   "content": "The app is straight forward to use once you get the hang of it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.21.0",
+   "at": "2026-09-12T09:27:52",
+   "userName": "Diana Downer"
+  },
+  {
+   "rating": 1,
+   "content": "The calendar view of standing orders has been removed in the latest update but the screen with the last standing order payments remains. This is duplicate information and can be checked in the main log of transactions. Please restore the calendar view feature in the next update. The card icons are too big, their colours seem to have been picked randomly so they don't match the physical cards. What was the point in that? Functionality is the most important feature of an app for its users.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T09:06:38",
+   "userName": "Zs H"
+  },
+  {
+   "rating": 1,
+   "content": "don't like new updates",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T09:03:23",
+   "userName": "Monicuw"
+  },
+  {
+   "rating": 1,
+   "content": "The app gives less info and more clicks to get to things. Notifications are not synced with the data. In general it is rubbish and frustrating using it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T09:01:16",
+   "userName": "Anne"
+  },
+  {
+   "rating": 1,
+   "content": "Edited for the 6th time 12/9/26. Another horrendous update. How have you managed to make it even more unreadable for people with learning difficulties, like dyslexia? Harsh colour contrasts, nasty, squat capital letters, horrible graphics. It's literally hurting my brain. Seriously considering switching to another bank, because I genuinely can't stand to look at this app now.",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T08:58:10",
+   "userName": "Sarah Wicks"
+  },
+  {
+   "rating": 2,
+   "content": "App used to be easily the best I'd seen of banking apps. But the latest update removes the best feature. There used to be a rolling balance after every transaction. That is gone and I can't see a setting to put it back. That made budgeting and working out what you'd spent and why so much easier. Please put it back. Your \"improvements\" are not better.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T08:20:24",
+   "userName": "Anthony Mitchell"
+  },
+  {
+   "rating": 2,
+   "content": "They changed it, now it sucks.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T08:16:01",
+   "userName": "Benjamin James"
+  },
+  {
+   "rating": 3,
+   "content": "In July 2026, I updated to Android 16 software then the Barlcays app won't let me log in. In September 2026, I diagnosed the issue with Claude and it suspected apps that have permission enabled for \"display over app\" were conflicting against the Barlcays app security. The only app I had this enabled on was my password vault Trukey, which I find useful for autofilling log in details. When I turned this off the Barclays app worked again. It's a shame because I benefit from Trukey autofill a lot.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T08:09:30",
+   "userName": "Nathan Gibbons"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T08:06:56",
+   "userName": "Dub Waite"
+  },
+  {
+   "rating": 3,
+   "content": "It's fine until you need to make an international payment. That part of the app is riddled with frustrating glitches.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T07:48:21",
+   "userName": "Stephen"
+  },
+  {
+   "rating": 1,
+   "content": "ROLL IT BACK NOW!!! Latest update looks like a children's app. It's impossible to tell how much money is in my account! because you have changed to CASH FLOW in statements and not BALANCE TOTAL at end of day! Take the crayons off the developers. It's not faster and simpler as the message i received in app says. It takes me more clicks to do what I want now. Ridiculous, Amateurish App. I'm taking my money out the bank today and looking elsewhere. feels like my accounts hacked not app updated.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T07:36:33",
+   "userName": "Sylvie Smith"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to pay money out or between accounts",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T07:06:08",
+   "userName": "alawi edros"
+  },
+  {
+   "rating": 1,
+   "content": "no support if travelling abroad on holiday. also conveyancer Integrar is very strict",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-12T04:24:30",
+   "userName": "Waddy Boy"
+  },
+  {
+   "rating": 1,
+   "content": "After working for over a year, the app is now randomly freezing on my phone and to add insult to injury Barclays sent a message saying that they are updating it so that it is 'smarter, faster and easier'. Well, you have failed an all 3. IF IT 'AINT BROKE DON'T FIX IT. I will have to start looking for another bank.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-12T04:20:47",
+   "userName": "Nick Holt"
+  },
+  {
+   "rating": 1,
+   "content": "The recent update made the app worse in every way. Typing the passcode takes a long time because the app can't keep up, which means I have to work harder to hide my code from people who might be looking, and the new UI is extremely clunky and awkward to navigate. It's bloody awful, and if I wasn't forced to use this app, I would uninstall it.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-12T01:13:14",
+   "userName": "Elise Nelson"
+  },
+  {
+   "rating": 1,
+   "content": "this app was great till the update I could see how much I was spending what was coming in and out every day and see the balance. now its horrible it just says plus or minus, how is that helpful. needs to change back soon or I'm moving my money",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T21:29:17",
+   "userName": "dan earl"
+  },
+  {
+   "rating": 5,
+   "content": "amazing service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T21:08:44",
+   "userName": "Mervin Muyepa"
+  },
+  {
+   "rating": 1,
+   "content": "since the update this is rubbish",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T19:36:19",
+   "userName": "Adam Jones"
+  },
+  {
+   "rating": 1,
+   "content": "Hate this change, looks like it's gone back to the 90's \ud83d\ude48\ud83d\ude48\ud83d\ude48",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T19:07:08",
+   "userName": "K Warren"
+  },
+  {
+   "rating": 1,
+   "content": "don't like this new look, its horrible and feels false like its not real",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T18:46:28",
+   "userName": "Deanne Adams"
+  },
+  {
+   "rating": 2,
+   "content": "unnecessary updates frequently",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T18:11:06",
+   "userName": "Anon"
+  },
+  {
+   "rating": 1,
+   "content": "A good app ruined. Before the most recent update, it used to be an intuitive app to navigate and transfer funds between your accounts. Now you have to go through several steps when before you could do it in one. Why they changed a brilliant app I don't know. It looks awful now too. Very dated appearance. All in all a massive step down from the previous version of this app.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T18:08:09",
+   "userName": "L"
+  },
+  {
+   "rating": 3,
+   "content": "transfer from to account is clunky",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T16:40:59",
+   "userName": "Alistair"
+  },
+  {
+   "rating": 1,
+   "content": "Not feeling update log out was one button now its three buttons your just waisting my time that I'll never get back why complicate the simple option Time waisting",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T16:39:31",
+   "userName": "David Bush"
+  },
+  {
+   "rating": 5,
+   "content": "really easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T16:39:19",
+   "userName": "mags rule"
+  },
+  {
+   "rating": 1,
+   "content": "New app is terrible.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.26.2",
+   "at": "2026-09-11T16:33:14",
+   "userName": "Paul Reilly"
+  },
+  {
+   "rating": 1,
+   "content": "Nooooo, wtaf have you done? There was nothing wrong with the App. Please please please please reinstate the calendar view for upcoming payments. That was probably the most important feature of the App. All we're left with is the list of DDs, the date they were last PAID not when they're DUE (big difference). The calendar gave me a very simple outline of what was coming out and when. When you're living bill to bill it's helpful to have a tool like the calendar that helps budgeting.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T16:24:42",
+   "userName": "Sharon Pitt"
+  },
+  {
+   "rating": 1,
+   "content": "Worse interface than before",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T16:16:35",
+   "userName": "DY Kim"
+  },
+  {
+   "rating": 1,
+   "content": "The new version is awful and so hard to use! Can only see three accounts now without clicking to see more and no option to hide accounts at all, so hard to see what money is where which is why I liked the app so much before. Transfers are harder to manage, actually everything feels harder. As an autistic user this is too much of a big change, please can we have the option to go back to the old interface if we want to? I'm considering changes banks completely to one with an easier to use app!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T16:11:08",
+   "userName": "Harriet Frank"
+  },
+  {
+   "rating": 4,
+   "content": "Great app, but has lost 1 star because of the new update. what's happened to running balances? please bring it back!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T15:55:38",
+   "userName": "balal ahmed"
+  },
+  {
+   "rating": 1,
+   "content": "No longer gives up to date balance when viewing transactions. Really REALLY annoying.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T14:48:26",
+   "userName": "Worthsome"
+  },
+  {
+   "rating": 1,
+   "content": "lately you have to call them to do anything. such a waste of time. and nobody wants to talk to an AI",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T13:38:53",
+   "userName": "Silvia C"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T13:36:43",
+   "userName": "wui gty"
+  },
+  {
+   "rating": 5,
+   "content": "deal with problems or scams professionally & quickly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T13:32:48",
+   "userName": "Brian F"
+  },
+  {
+   "rating": 1,
+   "content": "Terrible app. It won't let me close my account!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T13:19:38",
+   "userName": "Jamie Reeves"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T13:07:12",
+   "userName": "Susan Noble"
+  },
+  {
+   "rating": 1,
+   "content": "03-Oct-2025: It crashes immediately it is opened. Edit: Your own docs state that Android 8+ is supported making your comment irrelevant. If I were to do as you say, I have 2 options: 1) go into debt to buy a new phone; 2) hack the phone. Which are you suggesting I do?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T12:59:08",
+   "userName": "Kaal Alexander Rosser"
+  },
+  {
+   "rating": 5,
+   "content": "The Best",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T12:46:28",
+   "userName": "ANJUM IQBAL"
+  },
+  {
+   "rating": 1,
+   "content": "moving everything about so i no longer recognize where i am and whee i need to go makes me uncomfortable that scammers might be online, not able to see evolution of balance, makes it difficult for older people and those with poor sight. been with barclays for 50 yrs, thinking about moving.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T12:28:54",
+   "userName": "Nicole Heywood"
+  },
+  {
+   "rating": 1,
+   "content": "Why change the previous app into an all-white large fonts, and excessive whitespace? Transactions now require clicking 3 times: the 1st screen shows 3 transactions with the rest hidden till tap the top one; the 2nd click displays 6 transactions, and then you click 'see all transactions.' The entire screen wasted, with an unnecessarily large layout and cluttered items below the transactions. I suggest the home screen display all transactions. Add a 'Useful Links' tab between 'Home' and 'Products.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-09-11T12:23:20",
+   "userName": "S K"
   }
  ],
- "record_count": 1580,
- "last_fetch_utc": "2026-09-12T11:15:05.651883+00:00"
+ "record_count": 1622,
+ "last_fetch_utc": "2026-09-13T12:16:38.584429+00:00"
 }
