@@ -5017,8 +5017,56 @@
    "version": "7.69.0",
    "date": "2026-09-09T01:51:54-07:00",
    "author": "Welshwarrior248."
+  },
+  {
+   "rating": 3,
+   "title": "Needs more work",
+   "review": "Would be great if it actually displayed the credit card account like it\u2019s supposed to do.",
+   "version": "7.70.0",
+   "date": "2026-09-13T01:51:31-07:00",
+   "author": "Morgai"
+  },
+  {
+   "rating": 5,
+   "title": "Banking",
+   "review": "Brilliant service can\u2019t fault this bank definitely 5 star",
+   "version": "7.70.0",
+   "date": "2026-09-12T21:42:06-07:00",
+   "author": "Greenfingers79"
+  },
+  {
+   "rating": 4,
+   "title": "No more notifications",
+   "review": "I used to get notifications every time money went in or out of my account, but for the past few weeks I haven't been getting anything. I have notifications turned on for immediate delivery in my phone, also notifications are turned on in the NatWest app, but I've not had one for ages now. Nothing on my screen, no sounds, not a peep. I'm pretty sure it's not something I've done... Any ideas? I'm using iPhone SE 3rd gen with latest update. \nOtherwise, great app.",
+   "version": "7.70.0",
+   "date": "2026-09-12T17:56:41-07:00",
+   "author": "PabloFezzz"
+  },
+  {
+   "rating": 4,
+   "title": "Great",
+   "review": "Quick and so easy",
+   "version": "7.70.0",
+   "date": "2026-09-12T10:26:47-07:00",
+   "author": "Fluffalove"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "The service provider Natwest is one of the best I know and I am happy to have account with them thanks \ud83d\ude4f",
+   "version": "7.70.0",
+   "date": "2026-09-12T07:31:02-07:00",
+   "author": "Hossien khandaroy"
+  },
+  {
+   "rating": 5,
+   "title": "Very easy to use and it has worked well for many yeas",
+   "review": "No complicated process to go through. Reliable and efficient, thank you",
+   "version": "7.70.0",
+   "date": "2026-09-12T05:00:01-07:00",
+   "author": "Abu Hoque"
   }
  ],
- "record_count": 627,
- "last_fetch_utc": "2026-09-13T12:16:32.088434+00:00"
+ "record_count": 633,
+ "last_fetch_utc": "2026-09-14T13:21:01.345848+00:00"
 }

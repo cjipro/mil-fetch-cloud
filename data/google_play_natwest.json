@@ -10385,8 +10385,80 @@
    "reviewCreatedVersion": "07.69.0000.36742.0",
    "at": "2026-09-11T12:40:42",
    "userName": "J A"
+  },
+  {
+   "rating": 1,
+   "content": "can't access features",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-13T09:27:30",
+   "userName": "Tejas Vijayan"
+  },
+  {
+   "rating": 1,
+   "content": "apo refuses to work keeps telling.to try later logs in once every 6 trys been a customer for ages",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-13T08:03:31",
+   "userName": "dave smith"
+  },
+  {
+   "rating": 5,
+   "content": "Has improved since my last review it's now a full 5 stars",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-09-13T05:23:37",
+   "userName": "Gareth Preston (Strober)"
+  },
+  {
+   "rating": 1,
+   "content": "trying to report an unauthorised payment and your chat bot not helping",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-12T22:23:10",
+   "userName": "Josh Bean"
+  },
+  {
+   "rating": 3,
+   "content": "nice app but terrible on a tablet. why have you not implemented landscape mode. its just awful on a tablet.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-12T22:04:46",
+   "userName": "neil gregan"
+  },
+  {
+   "rating": 1,
+   "content": "awful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-12T19:51:07",
+   "userName": "Philip Dodd"
+  },
+  {
+   "rating": 5,
+   "content": "Great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-12T17:57:02",
+   "userName": "Darren Blake"
+  },
+  {
+   "rating": 4,
+   "content": "stop moving things around in the app please.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-12T15:09:07",
+   "userName": "Lee \u201cleeb.cubot69\u201d Beck"
+  },
+  {
+   "rating": 1,
+   "content": "Really disappointed with this update. The credit card payment button used to be easy to find on the credit card page \u2014 now it's hidden in a sneaky small, non intuitive menu especially without any prompt if the user doesn't see the update news post. This makes no sense for something people need to do regularly (and often urgently, to avoid interest/late fees). If anything, features tied to paying off credit debt should be made easier to find, not harder. Feels like a step backwards in usability.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-07-23T15:51:51",
+   "userName": "Ryan"
   }
  ],
- "record_count": 1298,
- "last_fetch_utc": "2026-09-13T12:16:32.710575+00:00"
+ "record_count": 1307,
+ "last_fetch_utc": "2026-09-14T13:21:02.578475+00:00"
 }

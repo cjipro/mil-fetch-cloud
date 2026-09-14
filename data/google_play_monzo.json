@@ -10033,8 +10033,24 @@
    "reviewCreatedVersion": "7.42.0",
    "at": "2026-09-11T12:08:02",
    "userName": "Roy 'JINKSY' Jinks"
+  },
+  {
+   "rating": 5,
+   "content": "great app/bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-13T03:26:47",
+   "userName": "joe garci"
+  },
+  {
+   "rating": 4,
+   "content": "pretty good just a few navigating issues",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-12T14:17:57",
+   "userName": "CuppaTea"
   }
  ],
- "record_count": 1254,
- "last_fetch_utc": "2026-09-13T12:16:36.347947+00:00"
+ "record_count": 1256,
+ "last_fetch_utc": "2026-09-14T13:21:07.501599+00:00"
 }
