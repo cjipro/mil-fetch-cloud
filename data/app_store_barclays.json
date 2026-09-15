@@ -5305,8 +5305,88 @@
    "version": "3.75.7",
    "date": "2026-09-12T00:32:59-07:00",
    "author": "Prendergast62"
+  },
+  {
+   "rating": 1,
+   "title": "New UI",
+   "review": "The updated UI on the app is useless. Things now that were easily accessible on the homepage now require extra scrolling or clicking. \nAlso the Calendar View for future scheduled payments has been removed - why???\n\nUpdate: the more I use this the worse it becomes. As others have mentioned useful information like daily balances are no longer there - why not? Barclaycard payment date is no longer visible - why not? The use of childish icons are a distraction - why? The lack of performance and responsiveness. \nThe seeming lack of any quality control and removal of useful and pertinent information is just staggering and suggests the people making these decisions and changes are not users of the app.",
+   "version": "3.75.7",
+   "date": "2026-09-13T14:05:23-07:00",
+   "author": "TobyTumnus"
+  },
+  {
+   "rating": 1,
+   "title": "Update is really bad",
+   "review": "I always use the running balances alongside my transactions to compare how I am managing my money each month. They have just updated the app and removed this feature. Now I have to download pdf statements and trawl through them. Really poor update.",
+   "version": "3.75.7",
+   "date": "2026-09-13T08:52:14-07:00",
+   "author": "Bobby Nuisance"
+  },
+  {
+   "rating": 1,
+   "title": "New layout",
+   "review": "New layout in app is terrible, when typing can\u2019t see what you\u2019re typing!",
+   "version": "3.75.7",
+   "date": "2026-09-13T08:05:35-07:00",
+   "author": "Kossy74"
+  },
+  {
+   "rating": 2,
+   "title": "I hate the new update",
+   "review": "I hate the new update it\u2019s ugly and reminds of the TSB apps. I also hate the new transfer process before I was able to select the account I was sending to but now the order of the account determines this . I have this please revert back I\u2019m upset at the new update",
+   "version": "3.75.7",
+   "date": "2026-09-13T06:51:14-07:00",
+   "author": "Los_Santosy"
+  },
+  {
+   "rating": 1,
+   "title": "New app is rubbish",
+   "review": "I really don\u2019t like this new app layout at all",
+   "version": "3.75.7",
+   "date": "2026-09-13T06:20:04-07:00",
+   "author": "Sonz1815"
+  },
+  {
+   "rating": 1,
+   "title": "What\u2019s happened to running daily balance",
+   "review": "Have used the app for many years and it\u2019s been very\ngood. But since the latest update transactions daily listing has lost daily balance to keep track of spending /budgeting -can this be brought back asap!",
+   "version": "3.75.7",
+   "date": "2026-09-13T05:07:08-07:00",
+   "author": "Tennis bomb"
+  },
+  {
+   "rating": 4,
+   "title": "App",
+   "review": "Although the new updated app is ok, I really didn\u2019t see the need to change it, yet another thing to try and get used to, my way of thinking is, if it\u2019s not broken don\u2019t fix it?",
+   "version": "3.75.7",
+   "date": "2026-09-13T04:52:53-07:00",
+   "author": "This nick name is already used?"
+  },
+  {
+   "rating": 4,
+   "title": "Good but one small problem...",
+   "review": "Great app but it doesn't let you copy and paste bank details from elsewhere which is very annoying and can lead to mistakes in entering account number / sort code etc.",
+   "version": "3.75.7",
+   "date": "2026-09-13T04:34:21-07:00",
+   "author": "Ben_7RP"
+  },
+  {
+   "rating": 1,
+   "title": "Slow app all the time",
+   "review": "Why is this app sooooo slow",
+   "version": "3.75.7",
+   "date": "2026-09-13T04:01:46-07:00",
+   "author": "blackollie77"
+  },
+  {
+   "rating": 1,
+   "title": "Ruined by update",
+   "review": "What the **** were they thinking about?  The latest update is awful.  Making transfers between accounts is totally illogical and takes twice as long,  and the font is so large it\u2019s impossible to scan transaction lists by eye.  Come on people - think of the user rather than trying to look cool. Grrr.",
+   "version": "3.75.7",
+   "date": "2026-09-13T03:38:31-07:00",
+   "author": "aDavidH"
   }
  ],
- "record_count": 663,
- "last_fetch_utc": "2026-09-14T13:21:09.699518+00:00"
+ "record_count": 673,
+ "last_fetch_utc": "2026-09-15T12:07:41.623768+00:00"
 }

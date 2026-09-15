@@ -3657,8 +3657,40 @@
    "version": "8.0.0",
    "date": "2026-09-12T23:33:09-07:00",
    "author": "Greenelectric"
+  },
+  {
+   "rating": 2,
+   "title": "No iPad app",
+   "review": "I am 9 and my Dad won\u2019t let me have a phone. It should be an iPad app with a big display.",
+   "version": "8.0.0",
+   "date": "2026-09-13T12:48:27-07:00",
+   "author": "EmiGirlJuno"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent bank all round",
+   "review": "Monzo really makes banking easier, especially compared to traditional banks. The app has great UX and makes it easy to review payments, get statements, send and receive money. I wouldn\u2019t consider another bank in the UK.",
+   "version": "8.0.0",
+   "date": "2026-09-13T12:39:21-07:00",
+   "author": "juliavanderriet"
+  },
+  {
+   "rating": 5,
+   "title": "App works well",
+   "review": "App works well, some extra features that my other banking app doesn\u2019t have so yes very happy",
+   "version": "8.0.0",
+   "date": "2026-09-13T09:23:37-07:00",
+   "author": "Jimjimb"
+  },
+  {
+   "rating": 1,
+   "title": "Payment",
+   "review": "I think this app is normally good but recently it\u2019s been a bit of a joke like with the bacs payments if you can see it in your feed you should be able to acquire it straight away and I have started a dispute as I got charged twice for something and they are not giving me my upfront refund which is there company policy. I\u2019m pretty shocked as I thought this was a good bank to be with but recently they have been no help what so ever",
+   "version": "8.0.0",
+   "date": "2026-09-13T07:28:16-07:00",
+   "author": "Sndkfkviovoe"
   }
  ],
- "record_count": 457,
- "last_fetch_utc": "2026-09-14T13:21:06.423595+00:00"
+ "record_count": 461,
+ "last_fetch_utc": "2026-09-15T12:07:36.181763+00:00"
 }

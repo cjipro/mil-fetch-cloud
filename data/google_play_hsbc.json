@@ -10033,8 +10033,56 @@
    "reviewCreatedVersion": "3.73.31",
    "at": "2026-09-12T13:14:29",
    "userName": "michael gallacher"
+  },
+  {
+   "rating": 5,
+   "content": "Very easy.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-14T10:44:14",
+   "userName": "Pamela Hicks"
+  },
+  {
+   "rating": 1,
+   "content": "the app is not working properly is crashing, crashing \ud83d\ude20",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-14T08:55:02",
+   "userName": "Robert Ozga"
+  },
+  {
+   "rating": 5,
+   "content": "No 1 Bank in the world",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-14T02:20:07",
+   "userName": "Muhammad Ruhul Amin"
+  },
+  {
+   "rating": 1,
+   "content": "I have had to lower my rating from 2 Stars to 1. The latest issue won't allow me to log in as it is behind my Samsung secure folder. has worked for years before. it previously wouldn't let me log in if I used a non standard keyboard on my phone. I don't have any other problems with financial apps and this experience is making me move accounts as I can't be randomly locked out my account with no notice.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-13T21:44:53",
+   "userName": "Ross Helliwell"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-13T19:11:57",
+   "userName": "maurice press"
+  },
+  {
+   "rating": 1,
+   "content": "Muhammed Junab Ali",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-13T16:35:37",
+   "userName": "Muhammed Ali"
   }
  ],
- "record_count": 1254,
- "last_fetch_utc": "2026-09-14T13:21:05.795866+00:00"
+ "record_count": 1260,
+ "last_fetch_utc": "2026-09-15T12:07:35.399867+00:00"
 }

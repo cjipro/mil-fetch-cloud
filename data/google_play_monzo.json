@@ -10049,8 +10049,32 @@
    "reviewCreatedVersion": "7.42.0",
    "at": "2026-09-12T14:17:57",
    "userName": "CuppaTea"
+  },
+  {
+   "rating": 1,
+   "content": "stop begging me for a review",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-14T03:15:52",
+   "userName": "Darryn Campbell"
+  },
+  {
+   "rating": 5,
+   "content": "best bank for kids and parents and adults! I loved it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-13T20:17:41",
+   "userName": "Coby Manning"
+  },
+  {
+   "rating": 1,
+   "content": "The bank used to be great, everything ran smoothly and everything sensibly laid out on a single tab. Then Monzo must have given the intern control of the layout, because now they have stuck savings account on an entirely separate tab - making the app need 2-3 times as long to use, and removing the feature of \"all my money on a single page\". I'd suggest rethink this design feature ASAP",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-13T17:41:11",
+   "userName": "Paul Murphy"
   }
  ],
- "record_count": 1256,
- "last_fetch_utc": "2026-09-14T13:21:07.501599+00:00"
+ "record_count": 1259,
+ "last_fetch_utc": "2026-09-15T12:07:37.947483+00:00"
 }

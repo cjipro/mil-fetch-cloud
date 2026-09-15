@@ -10457,8 +10457,88 @@
    "reviewCreatedVersion": "07.68.0000.33733.0",
    "at": "2026-07-23T15:51:51",
    "userName": "Ryan"
+  },
+  {
+   "rating": 3,
+   "content": "find ir hard to navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-14T10:07:55",
+   "userName": "Lorraine Corso"
+  },
+  {
+   "rating": 1,
+   "content": "After app devs fixed the crash on clicking approvals button, now it crashes after i click the main account. update 14.9.26: AT has replied asking me to again contact support via the help chat in the app. meanwhile my phone has only 800mb free and now the app crashes immediately after entering pin. so I can't use Cora in the app. iirc the Cora on the website doesn't work for these help requests so I am now stuck till i can find time to tediously find and delete unneeded files and free more space.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-14T09:19:12",
+   "userName": "Art Rahman"
+  },
+  {
+   "rating": 1,
+   "content": "the physical bank was much better! can't even change my phone number, never get an useful answer from cora",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-14T09:18:19",
+   "userName": "The Grays"
+  },
+  {
+   "rating": 5,
+   "content": "great app. very easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-14T08:59:44",
+   "userName": "Simon Gore"
+  },
+  {
+   "rating": 2,
+   "content": "notifications are not always reliable.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-14T05:45:39",
+   "userName": "Eraine Mercado"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent service from everyone. Totally professional and very helpful and I would recommend Nat West to anyone and everyone.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-14T00:44:52",
+   "userName": "R Howell"
+  },
+  {
+   "rating": 1,
+   "content": "Card control payments do not work on the new visa credit card . After numerous calls to customer services they finally informed me that the problem is at visa's end . This was weeks ago ! Still not working. This is helping fraudsters.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-13T17:01:36",
+   "userName": "Mike Rhodes"
+  },
+  {
+   "rating": 1,
+   "content": "The app makes no sense, I have been trying to do a current account switch for about an hr, I cannot find how to do it! Utter rubbish!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-13T16:38:07",
+   "userName": "Daniel Sutton"
+  },
+  {
+   "rating": 5,
+   "content": "excellent app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-13T16:08:56",
+   "userName": "Vijay Shah"
+  },
+  {
+   "rating": 4,
+   "content": "for the first time in years my bank was actually hacked, luckily got refunded",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-13T15:38:58",
+   "userName": "sue kimmins"
   }
  ],
- "record_count": 1307,
- "last_fetch_utc": "2026-09-14T13:21:02.578475+00:00"
+ "record_count": 1317,
+ "last_fetch_utc": "2026-09-15T12:07:30.408968+00:00"
 }

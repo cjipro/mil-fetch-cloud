@@ -4601,8 +4601,32 @@
    "version": "3.74.0",
    "date": "2026-09-12T01:33:58-07:00",
    "author": "St*p"
+  },
+  {
+   "rating": 5,
+   "title": "Brilliant",
+   "review": "Never any issues, can\u2019t fault it 1 bit",
+   "version": "3.74.0",
+   "date": "2026-09-13T11:54:03-07:00",
+   "author": "Kdawg111187676"
+  },
+  {
+   "rating": 3,
+   "title": "HSBC App",
+   "review": "Hello \nI have everything at my fingertips with online banking which I view through my bank app.\nI am notified of money coming out so keep a track of my payments. \nI thoroughly recommend it.",
+   "version": "3.74.0",
+   "date": "2026-09-13T08:59:21-07:00",
+   "author": "SheenaGC"
+  },
+  {
+   "rating": 1,
+   "title": "Too big to fail fast but slowly it will",
+   "review": "Just moved all my savings to Monzo. After years of them trying to improve the app there is some slow progress but there is no comparison regarding the app. Last straw was their customer service not giving a ff about a small problem I needed to solve. Arrogance costs. Bye.",
+   "version": "3.74.0",
+   "date": "2026-09-13T07:46:09-07:00",
+   "author": "<| DA |>"
   }
  ],
- "record_count": 575,
- "last_fetch_utc": "2026-09-14T13:21:04.600896+00:00"
+ "record_count": 578,
+ "last_fetch_utc": "2026-09-15T12:07:33.885029+00:00"
 }

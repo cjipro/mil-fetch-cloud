@@ -5065,8 +5065,72 @@
    "version": "7.70.0",
    "date": "2026-09-12T05:00:01-07:00",
    "author": "Abu Hoque"
+  },
+  {
+   "rating": 5,
+   "title": "Y",
+   "review": "Great",
+   "version": "7.70.0",
+   "date": "2026-09-13T23:38:23-07:00",
+   "author": "Ben Gl0"
+  },
+  {
+   "rating": 2,
+   "title": "Why facial recognition?",
+   "review": "I really detest the requirement to use facial recognition for authorising payments. It makes me uncomfortable, especially if I\u2019m in a public place: holding my phone up to my face makes it obvious to anyone else what I\u2019m doing, and it\u2019s even worse for someone like me with a tremor who struggles to hold the phone still. Please reconsider your policy on this and allow us to use fingerprint recognition instead, as all other banks do.",
+   "version": "7.70.0",
+   "date": "2026-09-13T23:10:36-07:00",
+   "author": "Pilgrim"
+  },
+  {
+   "rating": 1,
+   "title": "I\u2019m really FED UP at being asked for a review every time I use the app !!",
+   "review": "I don\u2019t enjoy using the Natwest app, it\u2019s a tool.\nVery fed up with constantly being asked to review and whether I\u2019m enjoying using it. \nI don\u2019t, but as you\u2019ve no branches left anymore, I have no choice.",
+   "version": "7.70.0",
+   "date": "2026-09-13T22:09:42-07:00",
+   "author": "bartat22"
+  },
+  {
+   "rating": 5,
+   "title": "Just Awesome",
+   "review": "Amazing application you would typically expect these functionality to be in a fintech, but NatWest mobile banking app rivals any fintech.",
+   "version": "7.70.0",
+   "date": "2026-09-13T21:48:10-07:00",
+   "author": "Jbrai007"
+  },
+  {
+   "rating": 5,
+   "title": "Odinanwa Oba",
+   "review": "Amazing service, easy to use and faster in solving financial issues",
+   "version": "7.70.0",
+   "date": "2026-09-13T16:40:23-07:00",
+   "author": "Tmoney Odinanwa Oba"
+  },
+  {
+   "rating": 5,
+   "title": "Making transactions",
+   "review": "Seamless and effortlessly to navigate \ud83d\udc4d\ud83c\udffe",
+   "version": "7.70.0",
+   "date": "2026-09-13T14:09:05-07:00",
+   "author": "Lauryn olivia"
+  },
+  {
+   "rating": 5,
+   "title": "Satisfied",
+   "review": "This app is super simple and user friendly.",
+   "version": "7.70.0",
+   "date": "2026-09-13T07:09:28-07:00",
+   "author": "The_offset_offender"
+  },
+  {
+   "rating": 5,
+   "title": "It\u2019s a banking app",
+   "review": "It does all the things I need a banking app to do. Like tell me how broke I am.",
+   "version": "7.70.0",
+   "date": "2026-09-13T04:09:30-07:00",
+   "author": "indianaJoe"
   }
  ],
- "record_count": 633,
- "last_fetch_utc": "2026-09-14T13:21:01.345848+00:00"
+ "record_count": 641,
+ "last_fetch_utc": "2026-09-15T12:07:28.852491+00:00"
 }
