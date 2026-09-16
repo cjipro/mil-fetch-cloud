@@ -10081,8 +10081,112 @@
    "reviewCreatedVersion": "3.73.31",
    "at": "2026-09-13T16:35:37",
    "userName": "Muhammed Ali"
+  },
+  {
+   "rating": 1,
+   "content": "cannot use the app from Samsung secure folder",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T11:39:00",
+   "userName": "connie Gould"
+  },
+  {
+   "rating": 5,
+   "content": "quick and easy access with security comfort.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T10:54:56",
+   "userName": "Mo Scott"
+  },
+  {
+   "rating": 5,
+   "content": "Exceptional service! After suffering poor service and silliness from four major banks in the last year, HSBC is simply the best!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T09:43:21",
+   "userName": "Paul Bourne"
+  },
+  {
+   "rating": 5,
+   "content": "Straight forward transfer.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T07:51:16",
+   "userName": "Lyn Holland"
+  },
+  {
+   "rating": 1,
+   "content": "This app was 5 star app until today, when they have disabled logging in from Secure Folder on Samsung (which is the most secure area in the phone protected by Samsung Knox). Apparently, virtual space apps are not permitted. All my other banking apps work fine from Secure Folder except HSBC. It is a bit weird that HSBC are making the app less secure by putting in extra \"security\" restrictions. Disappointing....",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T07:36:17",
+   "userName": "Surya Reddy"
+  },
+  {
+   "rating": 1,
+   "content": "I hold several premier bank accounts and the HSBC app is by far the worst. At setup date of birth requires use of a calendar, just allow direct keyboard entry to save scrolling. Pressing the back button doesn't close the app. App suddenly stopped working inside Samsung secure folder, forcing install in the open unsecured area, so the app is less secure if my phone is snatched. Balance font is huge with no option to obscure it. Transactions cover multiple lines with lots of white space.",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T07:15:15",
+   "userName": "J T"
+  },
+  {
+   "rating": 1,
+   "content": "Recent update broke my install - the app is installed in my Samsung Secure folder for extra security. Now the app says it can't be installed in a virtual space. Unfortunately all three allowed installs are taken up and now I can't reinstall anywhere or log on to my laptop without access to the mobile app. All options to reset without the mobile app have been removed!!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-14T23:10:07",
+   "userName": "Roy McLaren"
+  },
+  {
+   "rating": 5,
+   "content": "Good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-14T18:33:22",
+   "userName": "Shaiksha Vali Bethapalli"
+  },
+  {
+   "rating": 5,
+   "content": "makes life easier what else to say",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-14T17:59:15",
+   "userName": "BIROL"
+  },
+  {
+   "rating": 5,
+   "content": "Perfect for all my banking needs.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-14T17:39:04",
+   "userName": "David Rhodes"
+  },
+  {
+   "rating": 1,
+   "content": "Suddenly unable to use with android private space, so you are encouraging me to make using the app less secure by having to load it on my main app page. Appalling excuse for 'security'.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-14T17:25:27",
+   "userName": "Chris"
+  },
+  {
+   "rating": 1,
+   "content": "HSBC uk stopped working within the Samsung secure folder to now force the users to expose the app in the public folder and home screen. this is the most anti security feature I've seen masked as security feature. A very badly implemented feature that instead of finding a way to prevent cloning the app or protect against it just makes the use of the HSBC uk app more insecure for Samsung users. nicely done guys!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-14T16:17:06",
+   "userName": "Exploring The World"
+  },
+  {
+   "rating": 1,
+   "content": "cant be used with samsung secure folder - i will switch my bank because of this",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-14T15:33:17",
+   "userName": "V S"
   }
  ],
- "record_count": 1260,
- "last_fetch_utc": "2026-09-15T12:07:35.399867+00:00"
+ "record_count": 1273,
+ "last_fetch_utc": "2026-09-16T12:02:38.283284+00:00"
 }
