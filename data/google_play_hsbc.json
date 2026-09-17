@@ -10185,8 +10185,120 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-14T15:33:17",
    "userName": "V S"
+  },
+  {
+   "rating": 4,
+   "content": "Very easy and convenient app to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-16T11:01:17",
+   "userName": "Ian Cooper"
+  },
+  {
+   "rating": 1,
+   "content": "Trying to log onto a new device as got rid of my old phone. Need to remove a device to use the app. To use online banking like I've been told, I need to approve from the app. That I cant log into.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-16T10:07:45",
+   "userName": "Harry Parkinson"
+  },
+  {
+   "rating": 1,
+   "content": "I have had to lower my rating from 2 Stars to 1. The latest issue won't allow me to log in as it is behind my Samsung secure folder. has worked for years before. it previously wouldn't let me log in if I used a non standard keyboard on my phone. I don't have any other problems with financial apps and this experience is making me move accounts as I can't be randomly locked out my account with no notice. other review have said the same. I shouldn't have to reach out to u as should be easy to test",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-16T09:12:00",
+   "userName": "Ross Helliwell"
+  },
+  {
+   "rating": 5,
+   "content": "excellent banking service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-16T08:03:01",
+   "userName": "Janet Harris"
+  },
+  {
+   "rating": 1,
+   "content": "broken on samsung secure folder - app has been working fine on samsung s22 secure folder up to last week - now is not starting anymore - secure folder is samsung native - not harmful virtual app -",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-16T06:52:51",
+   "userName": "fammi_1_macchiato"
+  },
+  {
+   "rating": 1,
+   "content": "App needs updating... Very difficult to get it to load when accessing via the app... Always needs 4 or 5 tries still like it 4 months later.... Only stays on opening screen for a second before logs off.... Maybe a program error someone needs to check",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-16T06:37:17",
+   "userName": "Stu art"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-16T06:31:08",
+   "userName": "Ian Healey"
+  },
+  {
+   "rating": 1,
+   "content": "With their recent update they completely cut me off my account! The application that has been installed in Samsung secure folder, a super safe environment, now cannot be opened and only gives a cryptic useless message of \"virtual space apps\". Moreover, there is absolutely no way to install another copy of the app outside of secure folder, because in order to activate it, you need a code from the previous copy. No other verification options work. YOU JUST CUT OFF MY ACCOUNT!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T23:41:36",
+   "userName": "Rafal G"
+  },
+  {
+   "rating": 1,
+   "content": "Can no longer use app. Latest update prevents app being used with Smart Keyboard Pro an app that I purchased from Google playstore..message says either uninstall Smart Keyboard Pro or use device keyboard and then app shuts...why would I want to uninstall an app I paid for ? App also has a security flaw allowing Biometrics to authorize bank transfers....transferring money should be pin authorize only to prevent vulnerable people being exploited whilst asleep...HSBC fraud prevention is useless.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T22:33:00",
+   "userName": "OneDayAtaTime"
+  },
+  {
+   "rating": 5,
+   "content": "Thank you very much for your support through the years. HSBC is the best bank in the world!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-15T21:51:27",
+   "userName": "Yelena"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T19:09:45",
+   "userName": "Louis Topesa"
+  },
+  {
+   "rating": 1,
+   "content": "The app is awful. I keep trying to apply for a current account through the app, it sends me to the website which tells me to apply in the app...it is a never ending loop!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T18:46:19",
+   "userName": "Toni Moles"
+  },
+  {
+   "rating": 3,
+   "content": "1. No fast balance. 2. Tapping on a transaction to see details GIVES NO EXTRA DETAILS?! 3. Payees disappear after a while of non-use (WHY?!) 4. No payee management to speak of (only delete). Should be able to manage them like contacts.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T16:27:35",
+   "userName": "Bartosz Borne"
+  },
+  {
+   "rating": 1,
+   "content": "not working after update. usually a good app but every now and again an update will stop it from working. always happens at the most inconvenient time. dont have this problem with any other banking app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T16:11:34",
+   "userName": "craig murray"
   }
  ],
- "record_count": 1273,
- "last_fetch_utc": "2026-09-16T12:02:38.283284+00:00"
+ "record_count": 1287,
+ "last_fetch_utc": "2026-09-17T12:05:35.870856+00:00"
 }
