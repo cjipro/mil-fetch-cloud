@@ -4713,8 +4713,56 @@
    "version": "3.74.0",
    "date": "2026-09-14T05:31:54-07:00",
    "author": "ModernRussian"
+  },
+  {
+   "rating": 1,
+   "title": "Repeatedly locks out users on iOS beta builds",
+   "review": "Time after time, year after year, this app becomes unusable due to changes to its completely incorrect and broken \u201cjailbreak detection\u201d. This happened again with the most recent iOS beta and this is the nearly 10th time in 5 years. One of the worst major developers and repeat offenders. No matter how many times they get contacted, they do not follow Apple\u2019s best practices. \n\nThis cannot be relied on and it\u2019s better to get a physical key if you want to reliably bank with them.",
+   "version": "3.74.0",
+   "date": "2026-09-16T14:46:36-07:00",
+   "author": "NomadicPenguin"
+  },
+  {
+   "rating": 5,
+   "title": "Quick & Easy",
+   "review": "Updated always with my incoming & outgoings",
+   "version": "3.74.0",
+   "date": "2026-09-16T12:12:30-07:00",
+   "author": "RRRBs"
+  },
+  {
+   "rating": 5,
+   "title": "Good",
+   "review": "Very good",
+   "version": "3.74.0",
+   "date": "2026-09-16T11:18:59-07:00",
+   "author": "Aliu bald"
+  },
+  {
+   "rating": 5,
+   "title": "Mrs",
+   "review": "The app is so easy to use. I love the Face ID as it\u2019s so easy to gain access to my accounts. It is very easy to pay another person if you know their bank details!",
+   "version": "3.74.0",
+   "date": "2026-09-16T06:14:01-07:00",
+   "author": "Gin077"
+  },
+  {
+   "rating": 5,
+   "title": "Great but could be excellent",
+   "review": "The app however is great.  Would like a save the change facility to help promote saving when using the HSBC debit card.  The  spending insights could be slightly better in design to see better options and spending.  For example  on the main home page.  A spent today balance and spent this month so far balance. Starling offer this and this would be a great addition to the banking app.  \nPlease can we have this\nHelps people see what there spent in the current month period\nAlso pots to separate money etc.",
+   "version": "3.74.0",
+   "date": "2026-09-16T03:46:20-07:00",
+   "author": "cathlablad"
+  },
+  {
+   "rating": 5,
+   "title": "Best bank",
+   "review": "Best among the rest. Service, app and customer service is topnotch.",
+   "version": "3.74.0",
+   "date": "2026-09-16T01:39:52-07:00",
+   "author": "armsurd2k"
   }
  ],
- "record_count": 589,
- "last_fetch_utc": "2026-09-17T12:05:34.481531+00:00"
+ "record_count": 595,
+ "last_fetch_utc": "2026-09-18T11:48:36.477610+00:00"
 }
