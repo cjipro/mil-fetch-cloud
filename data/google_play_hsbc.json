@@ -10369,8 +10369,112 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-16T12:07:54",
    "userName": "Tipou Sultan"
+  },
+  {
+   "rating": 1,
+   "content": "Since the update on September the application is incompatible with private space. Private Space is an official Android security feature, not a rooting, cloning, or virtualization tool. Blocking the HSBC app in Private Space prevents customers from using an additional layer of protection for banking applications. Please don't paste template answers, I don't use Samsung, I have Google Pixel",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T11:18:51",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T09:01:55",
+   "userName": "Jason"
+  },
+  {
+   "rating": 1,
+   "content": "EDIT: No longer works in Samsung Knox Secure Folder due to HSBC\u2019s \u201cvirtual space\u201d restriction. Secure Folder was my extra security layer. HSBC says the change protects customers yet it was introduced without warning and has left me with no app or account access and no fraud notifications. Well done app team! Meanwhile HSBC Business still works fine on the same phone. If this app team keeps adding disproportionate restrictions that lock me out of my own account I\u2019ll be changing bank ASAP.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T09:00:41",
+   "userName": "Rich Wiltshire"
+  },
+  {
+   "rating": 1,
+   "content": "Says go on app to allow to connect to mobile banking and app doesn't show the approval box the mobile Internet says it will create to continue.. Pointless circle.. Only wanted to turn on online statements rather than via post and app alone has no setting for this.. Very poor, plus app crashes and takes 10 attempts to load each time you use it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T08:41:58",
+   "userName": "Wdb db"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T00:27:52",
+   "userName": "Muhammad Binyamin"
+  },
+  {
+   "rating": 1,
+   "content": "App has been updated to block use in Samsung Secure Folder. This provides an additional layer of security on my phone, and reduced the risk of me being forced to unlock my banking app if ever I was mugged. I called to complain and told it was a policy change to make me more secure. Madness. Because of this change I am now locked out of my banking via both app and browser for 5-10 working days whilst HSBC send me an authentication token. No warning. No consideration of customer impact.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-17T22:02:11",
+   "userName": "Mark L"
+  },
+  {
+   "rating": 1,
+   "content": "The new process to approve credit card payments with visa is really poor. it fails 100% of the time.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-17T20:12:34",
+   "userName": "Matt Kirton"
+  },
+  {
+   "rating": 5,
+   "content": "Simple, flexible.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-17T20:08:30",
+   "userName": "Therese Coffey"
+  },
+  {
+   "rating": 1,
+   "content": "Does not work in Samsung Knox Secure Folder anymore as it is being flagged as a virtual space app. Well done for the developer who came up with this idea, and forgot to make an exception for Knox. Cannot access my account anymore.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-17T20:00:54",
+   "userName": "Andras Durucz"
+  },
+  {
+   "rating": 5,
+   "content": "Well set out on each page. Interesting ideas suggestions at last.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-17T19:00:01",
+   "userName": "Brian Martin"
+  },
+  {
+   "rating": 4,
+   "content": "Quick process",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-17T18:15:52",
+   "userName": "user"
+  },
+  {
+   "rating": 1,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-17T13:18:29",
+   "userName": "Rahul Singh"
+  },
+  {
+   "rating": 5,
+   "content": "No 1 Bank in the world",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-14T02:20:07",
+   "userName": "Ruhul Amin Tipu"
   }
  ],
- "record_count": 1296,
- "last_fetch_utc": "2026-09-18T11:48:37.088665+00:00"
+ "record_count": 1309,
+ "last_fetch_utc": "2026-09-19T11:32:07.423567+00:00"
 }

@@ -10257,8 +10257,136 @@
    "reviewCreatedVersion": "8.0.0",
    "at": "2026-09-16T15:36:40",
    "userName": "carla newstead"
+  },
+  {
+   "rating": 5,
+   "content": "love it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-18T10:21:37",
+   "userName": "Phil Waller"
+  },
+  {
+   "rating": 1,
+   "content": "new update now app doesn't work great eh",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.36.0",
+   "at": "2026-09-18T10:14:52",
+   "userName": "Ricky Hornsby"
+  },
+  {
+   "rating": 4,
+   "content": "I am a new customer, so navigating my way. I am confused as to why we need 4 cards to operate 2 x Personal A/cs and 1 x Deposit A/c, too many cards create risk in my opinion......Mike.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-18T02:59:12",
+   "userName": "Mike Leyden"
+  },
+  {
+   "rating": 5,
+   "content": "awesome banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T19:01:57",
+   "userName": "Elliot Williams"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant Bank. I love it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T18:11:18",
+   "userName": "Barbara Lockett"
+  },
+  {
+   "rating": 3,
+   "content": "fix the barclaycard integration, it goes to open a website looking for the barclaycard app on my phone rather than just opening barclays which is the same app as barclaycard",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T18:08:46",
+   "userName": "Luna Jay"
+  },
+  {
+   "rating": 5,
+   "content": "great bank been with them since day 1 , never had any issues or anything",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-17T17:33:43",
+   "userName": "Robert Ramsden"
+  },
+  {
+   "rating": 5,
+   "content": "this is the absolute best bank so far!!!!! \ud83d\ude0d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T17:26:45",
+   "userName": "Praise Chris"
+  },
+  {
+   "rating": 5,
+   "content": "awesome amazing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T17:20:11",
+   "userName": "Jim Lloyd Rivera"
+  },
+  {
+   "rating": 5,
+   "content": "I've had a few cards but Monzo is by far the best",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T16:10:09",
+   "userName": "Ben Rooney"
+  },
+  {
+   "rating": 4,
+   "content": "very helpfull and quick and esay to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T15:35:22",
+   "userName": "Christine reilly"
+  },
+  {
+   "rating": 5,
+   "content": "OK there is no comparison this bank and it's app are top tier!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T15:11:26",
+   "userName": "Kelly Wale"
+  },
+  {
+   "rating": 5,
+   "content": "very good banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T15:09:30",
+   "userName": "mark \u201cMinty\u201d burness"
+  },
+  {
+   "rating": 1,
+   "content": "Lost my bank card and they refused to do anything about the thief trying to use it so I switched bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "4.50.0",
+   "at": "2026-09-17T14:47:59",
+   "userName": "Mimi"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic banking app, love monzo banking. its great for budgeting and easy to use, it would be helpful if you could have weekly spending caps on each pot and virtual card you make, it would definitely help me with spending and budget control more.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T13:08:45",
+   "userName": "Chelsea Wilson"
+  },
+  {
+   "rating": 5,
+   "content": "loving the banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.37.0",
+   "at": "2026-09-17T12:27:21",
+   "userName": "Dean Jones"
   }
  ],
- "record_count": 1282,
- "last_fetch_utc": "2026-09-18T11:48:37.775424+00:00"
+ "record_count": 1298,
+ "last_fetch_utc": "2026-09-19T11:32:09.613696+00:00"
 }

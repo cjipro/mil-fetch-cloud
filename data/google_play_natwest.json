@@ -10793,8 +10793,112 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-09-16T12:15:58",
    "userName": "Phil Smith"
+  },
+  {
+   "rating": 5,
+   "content": "verygood \ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-18T11:26:00",
+   "userName": "Yousef Abogomah"
+  },
+  {
+   "rating": 5,
+   "content": "always been able to manage my own accounts",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-18T09:17:26",
+   "userName": "Mandy Carter-Fielding"
+  },
+  {
+   "rating": 2,
+   "content": "Not able to update my app so can't use my online account and no banks near where I live has anyone else had problems or is it just me",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.67.0000.31083.0",
+   "at": "2026-09-18T07:27:53",
+   "userName": "Michelle Foster"
+  },
+  {
+   "rating": 1,
+   "content": "NatWest decided to add my card to Google pay and now i cannot remove it. how about me making decisions about my money, accounts and cards?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-18T06:19:16",
+   "userName": "Mihaela"
+  },
+  {
+   "rating": 5,
+   "content": "the site is very easy to use, highly efficient and recommended.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-18T04:29:01",
+   "userName": "Tony Chung"
+  },
+  {
+   "rating": 5,
+   "content": "natwest is very helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-18T03:55:28",
+   "userName": "Susan Daley"
+  },
+  {
+   "rating": 1,
+   "content": "Spoke to someone on the phone who said it would be sorted by this afternoon but it is still the same. Cannot open or join account. Whenever I try to open or join an account I just get \"Test Content NW\" appearing on the screen. The apps I have for Santander, Lloyds and Halifax work so much better.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-17T19:49:55",
+   "userName": "P J"
+  },
+  {
+   "rating": 1,
+   "content": "Don't feel the need to update. More spying and nonsense",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-09-17T19:18:53",
+   "userName": "Me G"
+  },
+  {
+   "rating": 5,
+   "content": "excellent no problems",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-17T17:12:42",
+   "userName": "Michael Hickling"
+  },
+  {
+   "rating": 1,
+   "content": "every time it will not update",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-17T14:49:01",
+   "userName": "victor carr"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-17T13:46:12",
+   "userName": "Shirley Chiloane"
+  },
+  {
+   "rating": 2,
+   "content": "The app mostly works well, however NatWest have removed the ability to pay a credit card directly from another bank account, at some point between my last statement and this one. Why would you make it harder to pay? I don't want to pay by direct debit, which is now the only option available in the app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-17T12:07:03",
+   "userName": "Will Nickell"
+  },
+  {
+   "rating": 1,
+   "content": "Signing into this app after getting a new phone is impossible. It wants information that I have had no reason to use since I set it up on my last phone so it's not memorised, but it won't let me copy and paste from my secure password storage. This means I have to write it all down on paper, which I don't want to do because that's insecure. Massively shortsighted!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-17T11:59:57",
+   "userName": "T K Briggs"
   }
  ],
- "record_count": 1349,
- "last_fetch_utc": "2026-09-18T11:48:34.642310+00:00"
+ "record_count": 1362,
+ "last_fetch_utc": "2026-09-19T11:32:03.313552+00:00"
 }
