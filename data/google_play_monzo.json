@@ -10385,8 +10385,48 @@
    "reviewCreatedVersion": "7.37.0",
    "at": "2026-09-17T12:27:21",
    "userName": "Dean Jones"
+  },
+  {
+   "rating": 5,
+   "content": "very good .",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-19T09:46:55",
+   "userName": "Sandra Fowler"
+  },
+  {
+   "rating": 5,
+   "content": "best bank by far",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-19T07:07:11",
+   "userName": "Woody Danda"
+  },
+  {
+   "rating": 5,
+   "content": "Love the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-18T21:56:53",
+   "userName": "Mia Grant"
+  },
+  {
+   "rating": 5,
+   "content": "Such a simple app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-18T19:28:58",
+   "userName": "Paul Brosnan"
+  },
+  {
+   "rating": 5,
+   "content": "exceptional \u2734\ufe0f all works",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-18T15:10:03",
+   "userName": "Mr SkyRunner"
   }
  ],
- "record_count": 1298,
- "last_fetch_utc": "2026-09-19T11:32:09.613696+00:00"
+ "record_count": 1303,
+ "last_fetch_utc": "2026-09-20T11:48:14.070362+00:00"
 }

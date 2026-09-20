@@ -10473,8 +10473,72 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-14T02:20:07",
    "userName": "Ruhul Amin Tipu"
+  },
+  {
+   "rating": 1,
+   "content": "After latest update it now crashes every time I try to activate biometrics. EDIT: I tried again this morning and I was able to enable biometrics without it crashing.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T10:58:36",
+   "userName": "Swipe650"
+  },
+  {
+   "rating": 4,
+   "content": "good!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T03:17:42",
+   "userName": "Jay Stevenson"
+  },
+  {
+   "rating": 1,
+   "content": "can no longer log in as I can't access my banking as I have other apps downloaded from other marketplaces than googles. I will have to switch banks.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T19:05:12",
+   "userName": "hamish"
+  },
+  {
+   "rating": 5,
+   "content": "quick service and I love the security checka.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T17:11:06",
+   "userName": "stewart addison"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T15:18:40",
+   "userName": "John Elo"
+  },
+  {
+   "rating": 1,
+   "content": "new app update this morning now the app won't initialise it says I have a virtual space app installed which of course I don't no way of logging onto the app and no way of logging on to internet banking because of course you need a security code from the app to do it If you make changes like this can you notify us in advance please?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T15:00:36",
+   "userName": "James Smith"
+  },
+  {
+   "rating": 4,
+   "content": "Good bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T14:07:03",
+   "userName": "Gary Moses"
+  },
+  {
+   "rating": 4,
+   "content": "second time lucky now I can use me mobile to track my account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T13:45:04",
+   "userName": "Darren Barley"
   }
  ],
- "record_count": 1309,
- "last_fetch_utc": "2026-09-19T11:32:07.423567+00:00"
+ "record_count": 1317,
+ "last_fetch_utc": "2026-09-20T11:48:13.050405+00:00"
 }
