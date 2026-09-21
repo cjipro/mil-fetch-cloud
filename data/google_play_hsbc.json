@@ -10537,8 +10537,112 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-18T13:45:04",
    "userName": "Darren Barley"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T12:15:59",
+   "userName": "erick Oja"
+  },
+  {
+   "rating": 5,
+   "content": "good one\ud83d\udc95\ud83d\udca5",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T11:41:25",
+   "userName": "Raam Official"
+  },
+  {
+   "rating": 5,
+   "content": "Nice HSBC BANK \ud83c\udfe6\ud83c\udfe7",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T10:44:49",
+   "userName": "steve u"
+  },
+  {
+   "rating": 1,
+   "content": "I have been using HSBC app in Samsung Secure Folder for 10+ years without issues.After the September 2026 update, I now get a \u201cSecurity issue detected\u201d error. HSBC Customer Care confirmed the app no longer works in Secure Folder. This forces customers to use their banking app in the main phone environment, raising genuine privacy and security concerns.HSBC should urgently review this change and restore Secure Folder compatibility so customers can continue banking securely and with peace of mind",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T08:49:31",
+   "userName": "Prabhu F"
+  },
+  {
+   "rating": 1,
+   "content": "The app now refuses to run inside Samsung Secure Folder, where I have used HSBC for around six years. Secure Folder gives my financial apps a separate PIN-protected environment and allows them to be hidden from the normal phone interface. HSBC has removed this additional layer of physical-access security without warning. I now have to move my banking app into the normal phone environment and potentially re-register it simply to access my account If HSBC believes Secure Folder interferes wilth it",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-20T05:20:58",
+   "userName": "Kris Fire"
+  },
+  {
+   "rating": 1,
+   "content": "Used to be super, now no longer works inside Secure Folder on Samsung (I just get a message saying Unsecured Virtual Environment, and it's blocked for security). I keep it in my secure folder so it's more secure but after the latest update it's no longer supported, ironic really that the latest security upate has actually made it less secure :( Ridiculous and disappointing. on the new version installed outside the folder, it won't display transaction history and logs out every minute or so :(",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T03:27:22",
+   "userName": "Thomas Bennett"
+  },
+  {
+   "rating": 1,
+   "content": "cant use this app because HSBC wants to control what I install on my device. guess im finding another bank that isnt so ridiculously controlling. never used to be like this.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T21:16:53",
+   "userName": "Jason"
+  },
+  {
+   "rating": 1,
+   "content": "EDIT2: No longer works in Samsung Knox Secure Folder due to HSBC\u2019s \u201cvirtual space\u201d restriction. Secure Folder was my extra security layer. HSBC says this protects customers, yet it was introduced without warning & has left me with no app/account access or fraud notifications. Well done app team! Meanwhile HSBC Business works fine on the same phone, and iPhone users are not subject to the same device checks. If these disproportionate restrictions keep locking me out, I\u2019ll be changing bank ASAP.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T16:55:44",
+   "userName": "Rich Wiltshire"
+  },
+  {
+   "rating": 1,
+   "content": "The app was working fine until it got updated recently. The app was installed inside the Samsung secure folder for extra security. Now, cannot open the app or access my account. It come up with a an unsecured virtual environment or space apps has been installed. Nothing has changed. If anything it is HSBS app that has changed. Someone should look at this URGENTLY. This is ridiculous. The secure folder is to protect from malaware and nobody can access it for security. REPAIR IT URGENTLY!!!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T16:54:58",
+   "userName": "Roopesh Vaghjee"
+  },
+  {
+   "rating": 2,
+   "content": "Can't set up biometrics. App crashes when I try since the latest update",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T15:15:47",
+   "userName": "K. Gall75"
+  },
+  {
+   "rating": 1,
+   "content": "terrible !",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.69.0",
+   "at": "2026-09-19T14:59:02",
+   "userName": "Ivan Burdfield"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use, lots of facilities, live chat if needed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T13:01:49",
+   "userName": "Amanda McClellan"
+  },
+  {
+   "rating": 5,
+   "content": "very good app...user experience wise and very appropriate layout. performance can be improved.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-19T12:30:35",
+   "userName": "Sadaquemalak E. C."
   }
  ],
- "record_count": 1317,
- "last_fetch_utc": "2026-09-20T11:48:13.050405+00:00"
+ "record_count": 1330,
+ "last_fetch_utc": "2026-09-21T13:21:10.578192+00:00"
 }
