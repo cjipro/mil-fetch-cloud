@@ -10641,8 +10641,64 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-19T12:30:35",
    "userName": "Sadaquemalak E. C."
+  },
+  {
+   "rating": 4,
+   "content": "been using app several years usually works",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-21T10:13:51",
+   "userName": "michael barnes"
+  },
+  {
+   "rating": 4,
+   "content": "all in all it's a good app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-21T09:26:14",
+   "userName": "Michael Laycock"
+  },
+  {
+   "rating": 1,
+   "content": "I can't use FUTO, Heliboard or fcitx5 keyboards, which don't gather and can't share data, yet data hoover Gboard is ok? Absolutely ridiculous to attack customers wanting privacy.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-21T06:26:44",
+   "userName": "B. Bluebriz"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T23:19:20",
+   "userName": "Shaista Jawaid"
+  },
+  {
+   "rating": 5,
+   "content": "Good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T21:44:30",
+   "userName": "Oli box"
+  },
+  {
+   "rating": 5,
+   "content": "Fantastic app, does all I need.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-20T18:29:39",
+   "userName": "Dave McKay"
+  },
+  {
+   "rating": 1,
+   "content": "\"Apply for account in app\" doesn't work because I have an old HSBC log in. If I try to sign up for an account, it fails because I have an old log in. if I'm logged into the old log in, and click on current accounts, it takes me to the website. Click on apply, it opens up the Play Store to download the app I already have installed. Only accounts opened in app quality for switch bonus, so this is useless for me.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T18:27:56",
+   "userName": "Alun Millard"
   }
  ],
- "record_count": 1330,
- "last_fetch_utc": "2026-09-21T13:21:10.578192+00:00"
+ "record_count": 1337,
+ "last_fetch_utc": "2026-09-22T12:02:18.903655+00:00"
 }

@@ -11009,8 +11009,88 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-09-19T12:12:54",
    "userName": "Chris Griffiths"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic service everytime thanks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-21T10:57:34",
+   "userName": "Ken Sexton"
+  },
+  {
+   "rating": 5,
+   "content": "don't want my phone used for public review",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-21T10:48:42",
+   "userName": "Shelby Gibson"
+  },
+  {
+   "rating": 1,
+   "content": "face recognition is dire",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-21T10:13:33",
+   "userName": "peter woods"
+  },
+  {
+   "rating": 4,
+   "content": "I'd like to use the loyalty card function, but it doesn't allow me to have duplicate cards for one supplier. Also I want to be able to name them and add notes and photos. Then it would provide the basic info that apps like Klarna provide, but without all the sales blurb.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-21T08:43:59",
+   "userName": "David Bayley"
+  },
+  {
+   "rating": 1,
+   "content": "What happened to this wonderful app on the last upgrade!!!! You made my home screen ace and easy to access everything until you find out every time you go to pay, even if you are in a different account when you select to pay, it defaults back to the first account listed. I've paid from the wrong account (and I have business accounts) so many times its embarrassing now",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-20T20:04:05",
+   "userName": "Jennifer copley"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent Bank!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-20T16:52:00",
+   "userName": "Brenda Jackson"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to use & understand",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-20T16:50:45",
+   "userName": "hazel smith"
+  },
+  {
+   "rating": 5,
+   "content": "always reliable",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-20T16:31:46",
+   "userName": "Willow Bean"
+  },
+  {
+   "rating": 1,
+   "content": "can't pay in a cheque - service unavailable",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-09-20T15:03:49",
+   "userName": "Len"
+  },
+  {
+   "rating": 5,
+   "content": "works for me \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-20T13:31:26",
+   "userName": "andrew woodcock"
   }
  ],
- "record_count": 1376,
- "last_fetch_utc": "2026-09-21T13:21:07.530908+00:00"
+ "record_count": 1386,
+ "last_fetch_utc": "2026-09-22T12:02:16.934096+00:00"
 }
