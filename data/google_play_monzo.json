@@ -10489,8 +10489,64 @@
    "reviewCreatedVersion": "8.1.0",
    "at": "2026-09-21T00:22:55",
    "userName": "Karen Gwyther"
+  },
+  {
+   "rating": 5,
+   "content": "Need get back my account please",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "5.92.0",
+   "at": "2026-09-21T22:39:17",
+   "userName": "Riad Tari"
+  },
+  {
+   "rating": 5,
+   "content": "\u00b0Best bank app. \u00b0Easy to set up. \u00b0Give it a try.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-21T21:02:36",
+   "userName": "Ruman"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-21T15:29:12",
+   "userName": "Dan Hooks"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant safe bank. highly recommend.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-21T15:02:01",
+   "userName": "Andrea New"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank out there never had an issue and support staff very friendly and extremely helpful I highly recommend",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-21T15:01:53",
+   "userName": "Michael crawford"
+  },
+  {
+   "rating": 1,
+   "content": "Weatherspoon's order chopping between apps....seems to have ordered/paid twice....How difficult can it be Monzo? Very confusing. must try harder.New security sending emails. What's the point? I never forget my fingerprint. cannot pay to another Monzo account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-21T13:49:43",
+   "userName": "Adie Weston"
+  },
+  {
+   "rating": 3,
+   "content": "Love Monzo's banking app and services, really fantastic.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-21T13:35:54",
+   "userName": "Jonathan Brady"
   }
  ],
- "record_count": 1311,
- "last_fetch_utc": "2026-09-22T12:02:19.773240+00:00"
+ "record_count": 1318,
+ "last_fetch_utc": "2026-09-23T12:09:42.509307+00:00"
 }
