@@ -10545,8 +10545,40 @@
    "reviewCreatedVersion": "8.0.0",
    "at": "2026-09-21T13:35:54",
    "userName": "Jonathan Brady"
+  },
+  {
+   "rating": 1,
+   "content": "Please let me remove trends and upcoming from my home screen! I don't want or need these things taking up space! Also the new blue debit cards are a terrible colour! Looks like something kids at school would make by accident by mixing up lots of paint. Where is a strong dark holographic blue like the old blue cards?",
+   "thumbsUpCount": 24,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-23T12:09:05",
+   "userName": "adrian51gray"
+  },
+  {
+   "rating": 5,
+   "content": "The best banking company in UK, by far.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-22T18:11:41",
+   "userName": "Ionut Vornicescu"
+  },
+  {
+   "rating": 5,
+   "content": "This is an amazing bank, enough said.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-22T16:20:42",
+   "userName": "Steven Foster"
+  },
+  {
+   "rating": 5,
+   "content": "Great Bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-22T15:56:08",
+   "userName": "Przemyslaw Kuciak"
   }
  ],
- "record_count": 1318,
- "last_fetch_utc": "2026-09-23T12:09:42.509307+00:00"
+ "record_count": 1322,
+ "last_fetch_utc": "2026-09-24T12:11:36.634031+00:00"
 }

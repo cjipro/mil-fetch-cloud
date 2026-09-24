@@ -11225,8 +11225,88 @@
    "reviewCreatedVersion": "07.66.0000.28954.0",
    "at": "2026-09-21T12:07:52",
    "userName": "Mark Francis"
+  },
+  {
+   "rating": 5,
+   "content": "Very helpful CS! James",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-23T12:05:32",
+   "userName": "Andrew Miller"
+  },
+  {
+   "rating": 1,
+   "content": "extremely annoying who the hell designed it, lack of customer perception.everything is effort.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-23T10:37:38",
+   "userName": "David whiteley"
+  },
+  {
+   "rating": 3,
+   "content": "how often does a person have to update this darn stupid Application.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.67.0000.31083.0",
+   "at": "2026-09-23T10:29:14",
+   "userName": "Val K"
+  },
+  {
+   "rating": 5,
+   "content": "whyi can I not update my mobile banking?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.34.0000.5.0",
+   "at": "2026-09-23T06:40:01",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-22T18:55:36",
+   "userName": "royston archer"
+  },
+  {
+   "rating": 1,
+   "content": "This app sends me a notification for every transaction of a society account that I haven't been a signatory on for more than ten years (long before installing the app). And there's no way to stop the notifications coming (receipt for uninstalling,) since the account is not registered in the app or online banking. Still worse, the bank has been notified several months ago about this bizarre problem but still hasn't fixed it. Very worrying considering that this is NatWest.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-22T18:25:47",
+   "userName": "Salman Samson Rogers"
+  },
+  {
+   "rating": 1,
+   "content": "I applied to open a bank account but was unable to do so. No reason or explanation, poor customer service.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-22T18:06:15",
+   "userName": "Florin"
+  },
+  {
+   "rating": 5,
+   "content": "Outstanding service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-22T17:02:19",
+   "userName": "bosun ajayi"
+  },
+  {
+   "rating": 5,
+   "content": "makes life easier once sorted properly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-22T15:34:14",
+   "userName": "Iris Phillips"
+  },
+  {
+   "rating": 1,
+   "content": "the app is rubbish , can't even pay a bill keeps saying I've spent my limit for today and I haven't spent anything",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-22T13:42:33",
+   "userName": "Tim Bailey"
   }
  ],
- "record_count": 1403,
- "last_fetch_utc": "2026-09-23T12:09:37.610429+00:00"
+ "record_count": 1413,
+ "last_fetch_utc": "2026-09-24T12:11:33.265111+00:00"
 }

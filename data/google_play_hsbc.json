@@ -10809,8 +10809,144 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-14T15:33:17",
    "userName": "V G"
+  },
+  {
+   "rating": 4,
+   "content": "The app seems to run slowly when you open app, it goes through many pages before opening the security page.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-23T11:44:48",
+   "userName": "Peter Houghton"
+  },
+  {
+   "rating": 5,
+   "content": "fine \ud83d\ude0a",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-23T11:27:00",
+   "userName": "Maria Jones"
+  },
+  {
+   "rating": 1,
+   "content": "not working fed up of this app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-23T10:39:43",
+   "userName": "Judith West"
+  },
+  {
+   "rating": 5,
+   "content": "Works great.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-23T09:29:25",
+   "userName": "John Mpaso"
+  },
+  {
+   "rating": 1,
+   "content": "Crashes a lot. Contacted the developers with the crash report. No response. A banking app should be the most reliable app on my phone not the least!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-23T09:12:41",
+   "userName": "Connor"
+  },
+  {
+   "rating": 1,
+   "content": "updated 100% but then failed to install, now unable to use the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-23T09:02:59",
+   "userName": "Kim"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-23T08:34:13",
+   "userName": "Liz Smirk"
+  },
+  {
+   "rating": 2,
+   "content": "will not fast load can ot get on banking app very slow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-23T08:31:48",
+   "userName": "Kevin Laws"
+  },
+  {
+   "rating": 1,
+   "content": "still one star. still no fast balance. update won't 'finalise' or whatever. gimps.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-23T08:29:17",
+   "userName": "Daniel Eaves"
+  },
+  {
+   "rating": 1,
+   "content": "Rubbish, App fails to provide \"Open\", once updated, so now I can't access my account, and I'm on holiday, so can't make urgent payments etc. Unless! :0( And the original App, won't function, just says Update What a Joke !...",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-23T06:45:05",
+   "userName": "chris whipps"
+  },
+  {
+   "rating": 5,
+   "content": "east to navigate through",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-23T05:03:29",
+   "userName": "Gerard Conway"
+  },
+  {
+   "rating": 1,
+   "content": "App stopped working (doesn't open) after last update but no error messages. so can't even use online backing as need app to logon. Local branch is now a digital branch so have completely lost access to my account!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-22T18:44:18",
+   "userName": "Graham Bertram"
+  },
+  {
+   "rating": 5,
+   "content": "fast and easy transactions",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-22T18:31:15",
+   "userName": "Sharon Cerson"
+  },
+  {
+   "rating": 1,
+   "content": "very poor",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-22T17:33:29",
+   "userName": "dave bolton"
+  },
+  {
+   "rating": 1,
+   "content": "I cannot use it inside secure older anymore. The recent updates wanna make me leave HSBC.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-22T15:23:20",
+   "userName": "Sonam Kumar"
+  },
+  {
+   "rating": 5,
+   "content": "seeing all your accounts on one page is magic",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-22T15:14:15",
+   "userName": "steel bosgrove"
+  },
+  {
+   "rating": 2,
+   "content": "Not a great app at all",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-22T13:05:29",
+   "userName": "Lewis Heard"
   }
  ],
- "record_count": 1351,
- "last_fetch_utc": "2026-09-23T12:09:41.211805+00:00"
+ "record_count": 1368,
+ "last_fetch_utc": "2026-09-24T12:11:35.971216+00:00"
 }

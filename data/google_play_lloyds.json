@@ -28681,8 +28681,552 @@
    "reviewCreatedVersion": "193.03",
    "at": "2026-09-21T12:06:56",
    "userName": "Ian Thomson"
+  },
+  {
+   "rating": 1,
+   "content": "Asked to migrate from the Halifax app. Encountered the exact same issues as the Halifax app with the \"temporary\" issues logging in.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T11:56:49",
+   "userName": "Andrew McCrudden"
+  },
+  {
+   "rating": 2,
+   "content": "Need to handle all use cases! Please sort out your basic use cases (and error handling!). If app notifications are already turned on, your app should be able to cope with that, not make the user turn them off so your app can prompt for user to turn them on...as only way to actually make it in to the app! Also been in release with this issue for waaaayyy longer than an oops we missed that setting (if it should ever make it beyond beta in the first place).",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T11:52:25",
+   "userName": "E J"
+  },
+  {
+   "rating": 5,
+   "content": "it works and helps me.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T11:49:03",
+   "userName": "andy lobb"
+  },
+  {
+   "rating": 5,
+   "content": "very easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T11:40:00",
+   "userName": "Carol Anne Wright"
+  },
+  {
+   "rating": 5,
+   "content": "absolutely fine",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T11:32:58",
+   "userName": "Patrick Hembrough"
+  },
+  {
+   "rating": 1,
+   "content": "always connection error and fails to retrieve account details with drop down red banner most times...absolute rubbish! Haven't been able to access my info for weeks now!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T11:30:21",
+   "userName": "David Lavery"
+  },
+  {
+   "rating": 5,
+   "content": "fast quick and easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T11:08:43",
+   "userName": "Laraine Ford"
+  },
+  {
+   "rating": 5,
+   "content": "Great app with tonnes of useful features. love the benefits of my account too!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T10:52:23",
+   "userName": "Sunil Kandola"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T10:40:58",
+   "userName": "Nick Poulson"
+  },
+  {
+   "rating": 1,
+   "content": "i'd like to know if my last payment when though today. I hope it did !! please let me know",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T10:24:49",
+   "userName": "Daphne Wilson"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use and fast",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T10:20:40",
+   "userName": "telen ikros"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T10:16:24",
+   "userName": "Jon Hall"
+  },
+  {
+   "rating": 1,
+   "content": "My original account was with Halifax and everything just worked. Since the switch to Lloyds I cannot verify card payments using the Lloyds app. No notifications appear.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T09:56:50",
+   "userName": "P mobile"
+  },
+  {
+   "rating": 5,
+   "content": "no problems",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T09:43:57",
+   "userName": "Robert Vitty"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T09:03:51",
+   "userName": "Diane Hingley"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T08:55:37",
+   "userName": "Peter Reed"
+  },
+  {
+   "rating": 5,
+   "content": "all ok......",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T08:48:11",
+   "userName": "SAB"
+  },
+  {
+   "rating": 5,
+   "content": "just a fabtastic way to keep in control of your money",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T08:42:41",
+   "userName": "Andrew Tierney"
+  },
+  {
+   "rating": 5,
+   "content": "perfect",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T08:24:12",
+   "userName": "Stanislav Mirovskiy"
+  },
+  {
+   "rating": 1,
+   "content": "App does not fully work. it says i cannot get notifications on my device as they are not enabled,they are.it also says that I cannot turn them on in the app as there is a technical issue with it. should NEVER have moved from Halifax app as it was perfect. I am now thinking of moving bank because this app does not function as it should.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T08:03:05",
+   "userName": "Ian J"
+  },
+  {
+   "rating": 1,
+   "content": "They do have the world's pathetic way of communication. If you need any support, they do provide over Message. You just have to keep an eye on your phone as you don't know when the message will appear. They simply say, they will message us in next 30 mins, if you reply with info they ask they go away again. Even in all surveys they are last. And they don't know why they are last....??? clap on their smartness...",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T07:16:41",
+   "userName": "Bhagat Singh"
+  },
+  {
+   "rating": 5,
+   "content": "smooth and simple app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T07:14:23",
+   "userName": "Navan Girl Guides"
+  },
+  {
+   "rating": 5,
+   "content": "Extremely easy to navigate. Definitely recommend this app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T07:13:31",
+   "userName": "Marjorie Bucknor"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to use never had a problem",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T07:07:35",
+   "userName": "Philip Reid"
+  },
+  {
+   "rating": 5,
+   "content": "it is good because if anything goes wrong, we are well supported. problems ate always solved",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T06:46:36",
+   "userName": "Gillian Hulme"
+  },
+  {
+   "rating": 2,
+   "content": "worse than Halifax app high cpu usage and battery drain.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.03",
+   "at": "2026-09-23T05:55:03",
+   "userName": "STEVE ALLAN."
+  },
+  {
+   "rating": 5,
+   "content": "does what I need with no fuss and no waiting. it'll do.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T05:36:15",
+   "userName": "CliveN"
+  },
+  {
+   "rating": 1,
+   "content": "Awful app. Worked fine to begin with since switching from Halifax app. Now logs me in and gives an error about logging in. Halifax app had similar glitches, time to find a bank which can offer a half decent app. Not good enough Lloyds.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T01:58:50",
+   "userName": "Stephen Hewitt"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use,very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T01:15:47",
+   "userName": "Jimmy Oneill"
+  },
+  {
+   "rating": 5,
+   "content": "Good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-23T01:05:00",
+   "userName": "mrIceblink"
+  },
+  {
+   "rating": 3,
+   "content": "Has too many times when you have to log off and log back on again, and it's sometimes very slow to respond",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T22:13:56",
+   "userName": "TREV m"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T22:07:52",
+   "userName": "Alan Langstreth"
+  },
+  {
+   "rating": 1,
+   "content": "only changed over a few weeks ago and already having problems logging in. Never happened with the halifax",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T20:50:19",
+   "userName": "Gary"
+  },
+  {
+   "rating": 1,
+   "content": "Was forced to move from Halifax app. No longer have access to saved payees.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-22T20:43:11",
+   "userName": "Eden Andrews"
+  },
+  {
+   "rating": 5,
+   "content": "an best security xx",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.03",
+   "at": "2026-09-22T20:10:13",
+   "userName": "Mark Wilde DROIDDRAGON"
+  },
+  {
+   "rating": 2,
+   "content": "I don't like the colours, grey dark",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T19:53:36",
+   "userName": "Mark Richardson"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T19:49:02",
+   "userName": "Anna Mariya Shijo"
+  },
+  {
+   "rating": 3,
+   "content": "It's alright",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T19:48:56",
+   "userName": "Mariusz Dziaczynski"
+  },
+  {
+   "rating": 4,
+   "content": "great app really easy to set up great savings account but hate the fact you barley make interest. but other than that it's great.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T19:11:48",
+   "userName": "James Allman"
+  },
+  {
+   "rating": 5,
+   "content": "it was really easy to transfer money",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T19:10:45",
+   "userName": "Sue Craig"
+  },
+  {
+   "rating": 2,
+   "content": "this spp works for a few days then stops working and i have to set it up again from scratch",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T18:55:11",
+   "userName": "kerry mrs.willie@hotmail.co.uk"
+  },
+  {
+   "rating": 5,
+   "content": "just started but seems good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T18:47:56",
+   "userName": "P B"
+  },
+  {
+   "rating": 5,
+   "content": "moving from Halifax to Lloyd's was made so easy, found the banking very easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T18:36:30",
+   "userName": "Dianne Heslop"
+  },
+  {
+   "rating": 5,
+   "content": "Just right very simple thank goodness for a dinassour person.!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T17:45:10",
+   "userName": "Kathy Higgs"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T17:24:35",
+   "userName": "Paddy Kelly"
+  },
+  {
+   "rating": 1,
+   "content": "I recently asked/forced to move from Halifax to Lloyds, I tried every thing but the Lloyds mobile banking app decides not to work on my Honour Magic 3, every banking app works on the phone except this app, so now what shall I do, do I need to change my expensive phone just so for this app to work? very disappointed!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-22T17:24:12",
+   "userName": "eskndir asrat"
+  },
+  {
+   "rating": 2,
+   "content": "Still having to go through three (correction its 4) welcome screens just to get to the actual banking app - why? Takes me longer to log on than the actual reason I logged in for!.Bring back the Halfax App !",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T17:12:02",
+   "userName": "PAUL H"
+  },
+  {
+   "rating": 1,
+   "content": "keeps crashing & have to delete app download again happens every week never never had a problem with halifax app,been with halifax over 40 years now thinking off moving banks because getting stressed & when it happens I think is it a SCAM",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T17:02:59",
+   "userName": "Gary Ramsden"
+  },
+  {
+   "rating": 1,
+   "content": "Not a patch on the Halifax app. Not once has the Halifax app been unusable but sadly we had to switch to Lloyd's and in 2 weeks I've managed to log on less than a handful of times, all I've got this past week is a red banner saying sorry we're having technical issues... Not good for a housebound person needing to pay bills with no idea of what's in bank!!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T16:38:17",
+   "userName": "Emma Reynolds"
+  },
+  {
+   "rating": 4,
+   "content": "Some of the instruction on the app could be clearer but generally easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T16:29:57",
+   "userName": "Brian Howell"
+  },
+  {
+   "rating": 1,
+   "content": "Can't pay for food because the bank won't let me what a joke",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T16:25:17",
+   "userName": "valerie elaine booth"
+  },
+  {
+   "rating": 5,
+   "content": "i like this app used it for years, makes banking so easy and has good security.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T16:11:09",
+   "userName": "John"
+  },
+  {
+   "rating": 5,
+   "content": "Very easy to use. Simple which is the best way to use this app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T15:41:43",
+   "userName": "james taylor"
+  },
+  {
+   "rating": 5,
+   "content": "My experience is it was very easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T15:35:24",
+   "userName": "Linda Bujnowski"
+  },
+  {
+   "rating": 5,
+   "content": "eady to use, rxcellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T15:25:36",
+   "userName": "Carolyn Morgan"
+  },
+  {
+   "rating": 5,
+   "content": "I can now navigate around this app and it's easy for even an old man like me \ud83d\ude05",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T15:23:23",
+   "userName": "Derek Blundell"
+  },
+  {
+   "rating": 1,
+   "content": "Very poor App compared to the Halifax App",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T15:14:23",
+   "userName": "John Owen"
+  },
+  {
+   "rating": 1,
+   "content": "Just transferred from Halifax, it didn't transfer payee details.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T14:54:16",
+   "userName": "Daniel Razeen"
+  },
+  {
+   "rating": 5,
+   "content": "so easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T14:43:41",
+   "userName": "Malcolm Gibson"
+  },
+  {
+   "rating": 5,
+   "content": "its great for keeping tabs on my spending as I'm spendaholic",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T14:36:03",
+   "userName": "Debbie Vass"
+  },
+  {
+   "rating": 5,
+   "content": "lovely",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "171.03",
+   "at": "2026-09-22T14:32:34",
+   "userName": "Aybak Chalato"
+  },
+  {
+   "rating": 3,
+   "content": "The Lloyds app has been having glitches, even though I have the latest version. I can\u2019t seem to view my PIN. When I select \u201cView PIN\u201d, it flashes up too quickly for me to actually see it. This has been happening for a couple of months now. Another issue I\u2019m having is that I\u2019m unable to add new recipients when I want to make a payment. After adding a new recipient, the page just keeps loading and doesn\u2019t allow me to enter details such as the amount or payment reference. This is frustrating.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T14:28:56",
+   "userName": "Ntokozo S Rukwava"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T13:59:38",
+   "userName": "Lynn Whiteley Whiteley"
+  },
+  {
+   "rating": 2,
+   "content": "What's up? I've been unable to get past the promotional screens for 2 days, and I really need to do things with my bank account!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T13:47:07",
+   "userName": "Cait Hurley"
+  },
+  {
+   "rating": 4,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T13:31:40",
+   "userName": "Musbau Ajimobi"
+  },
+  {
+   "rating": 5,
+   "content": "very easy yo use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T13:18:51",
+   "userName": "Rachel O'Brien"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T12:56:16",
+   "userName": "Lynda Stonier"
+  },
+  {
+   "rating": 1,
+   "content": "sent round the houses and stil didntl get the account i wanted",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-22T12:42:48",
+   "userName": "Jane Ricco"
   }
  ],
- "record_count": 3585,
- "last_fetch_utc": "2026-09-23T12:09:38.734605+00:00"
+ "record_count": 3653,
+ "last_fetch_utc": "2026-09-24T12:11:35.130841+00:00"
 }
