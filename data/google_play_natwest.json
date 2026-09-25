@@ -11305,8 +11305,64 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-09-22T13:42:33",
    "userName": "Tim Bailey"
+  },
+  {
+   "rating": 4,
+   "content": "Suggestions: 1. Allow me to insert a short comment against each transaction. 2. If a refund is received, show me the new amount required to clear the balance for that period (and avoid fees).",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-24T08:34:47",
+   "userName": "Derek A"
+  },
+  {
+   "rating": 5,
+   "content": "The Natwest app is easy to use and they still have high street branches. Help and support are readily available and the staff are very friendly and helpful!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-24T04:53:13",
+   "userName": "Cher-Delyse King"
+  },
+  {
+   "rating": 5,
+   "content": "Always good and very helpful and efficient, always seen very quickly, happy to help.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-23T20:08:41",
+   "userName": "Mark Phelps"
+  },
+  {
+   "rating": 1,
+   "content": "i had mobile banking until once it did not recognise my fingerprint -no option of password just locked out ! As i don.t live in the uk i ve been unable to use this service for months even after many calls to customer service !I.ve been relying on posted statements to keep me informed ! Can u look into tgis ,Thank you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-23T19:10:42",
+   "userName": "Nicki Anderson"
+  },
+  {
+   "rating": 1,
+   "content": "Rubbish",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-23T18:47:17",
+   "userName": "Roy Vas"
+  },
+  {
+   "rating": 1,
+   "content": "when . I'm trying to pay an invoice and your system transfers me to your online system so I don't know if what I want to pay has been paid even after I approved it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-23T16:33:10",
+   "userName": "David Mitchell"
+  },
+  {
+   "rating": 5,
+   "content": "app works generally well can't think of anything to complain about",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-23T16:07:49",
+   "userName": "Oxenfree B"
   }
  ],
- "record_count": 1413,
- "last_fetch_utc": "2026-09-24T12:11:33.265111+00:00"
+ "record_count": 1420,
+ "last_fetch_utc": "2026-09-25T12:13:42.627074+00:00"
 }
