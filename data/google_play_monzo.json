@@ -10745,8 +10745,48 @@
    "reviewCreatedVersion": "8.1.0",
    "at": "2026-09-24T14:30:34",
    "userName": "Amir Uddin"
+  },
+  {
+   "rating": 5,
+   "content": "Best banking app ever!!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-26T09:27:25",
+   "userName": "Stuart Williams"
+  },
+  {
+   "rating": 5,
+   "content": "Can't fault it, easy to you and ideal",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-25T17:34:25",
+   "userName": "Nakitta Bell"
+  },
+  {
+   "rating": 5,
+   "content": "Easy and clear to use. The app is smooth and not overly cluttered.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-25T16:59:27",
+   "userName": "Dan Lee"
+  },
+  {
+   "rating": 5,
+   "content": "great!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-25T15:40:22",
+   "userName": "Heather Dawn Walker"
+  },
+  {
+   "rating": 5,
+   "content": "Helps so much with organising my funds brilliant, wish I had this 50 years ago",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-25T15:06:33",
+   "userName": "Martin Nigel Fisher"
   }
  ],
- "record_count": 1343,
- "last_fetch_utc": "2026-09-26T11:46:44.217117+00:00"
+ "record_count": 1348,
+ "last_fetch_utc": "2026-09-27T12:26:43.051727+00:00"
 }
