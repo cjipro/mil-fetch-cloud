@@ -30753,8 +30753,496 @@
    "reviewCreatedVersion": "193.03",
    "at": "2026-09-25T12:29:32",
    "userName": "Angelo Faria"
+  },
+  {
+   "rating": 5,
+   "content": "well designed and easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T13:47:24",
+   "userName": "Jim Curtis"
+  },
+  {
+   "rating": 2,
+   "content": "Makes me go through four screens of \"Discovering your app\" every time I use it. Does not seem to be any way to turn that off.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T13:23:33",
+   "userName": "Simon Anderson"
+  },
+  {
+   "rating": 1,
+   "content": "Bank keeps blaming your phones for being rooted , but it's just that they need to update more promptly when android updates are implemented. Customer service doesn't have a clue when you called them",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T12:25:11",
+   "userName": "Simon Eden"
+  },
+  {
+   "rating": 1,
+   "content": "A payment was taken from my account for a service I have never signed up for, never used and never agreed to. I contacted my bank immediately to report it, expecting them to protect my account and deal with the unauthorised payment. Instead, I was basically told to do the bank's job for them and contact the company myself to unsubscribe from something I never signed up to in the first place. What makes this even worse is that the bank seems unwilling to completely block the company from taking a",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T12:24:43",
+   "userName": "Lee Harv"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T12:05:37",
+   "userName": "Abdul Wahab"
+  },
+  {
+   "rating": 1,
+   "content": "Trying to switch from Halifax app but lloyds app keeps crashing... Honor magic 6 Pro",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T11:25:47",
+   "userName": "Turbo.ronnie.c9c"
+  },
+  {
+   "rating": 4,
+   "content": "very good once I'd got through. I don't like AI !!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T11:15:54",
+   "userName": "Richard Graves"
+  },
+  {
+   "rating": 1,
+   "content": "Halifax migration broken on Android. The app fails to authorise online payments because Halifax domains are missing from the Android App Links manifest. When shopping online, 3DS payment checks open the web browser instead of the app, leaving you trapped on a page telling you to open the app. Android Supported Web Addresses only lists lloydsbank domains and excludes Halifax. Developers must update the AndroidManifest intent filters and assetlinks to include Halifax links immediately.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T11:03:14",
+   "userName": "Imran Bashir"
+  },
+  {
+   "rating": 4,
+   "content": "Runs better than it used to. Can be a bit nannyish over payments to my wife.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T10:59:39",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "great app, easy to use. do all my banking on here",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T10:49:31",
+   "userName": "Andrea"
+  },
+  {
+   "rating": 3,
+   "content": "The Halifax one was better",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T10:42:27",
+   "userName": "Tony Morgan"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to use when moving money to other accounts",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T10:26:09",
+   "userName": "Gill Moore"
+  },
+  {
+   "rating": 1,
+   "content": "transferred from Halifax and this is a real step backwards. Please just put the account information on one screen in an uncluttered and clear view. For a good example of this see the Halifax app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T09:52:55",
+   "userName": "Brian Lawson"
+  },
+  {
+   "rating": 5,
+   "content": "fast and efficient, very reliable and secure.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T09:52:48",
+   "userName": "Steven Larkin"
+  },
+  {
+   "rating": 5,
+   "content": "It is pretty much straightforward a d easy to use you can search through the app to find transaction information etc I would recommend this bank and app to anybody. You can also pop by Halifax and I think bank of Scotland if needed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T09:38:54",
+   "userName": "Darren Easom (D_easom 87)"
+  },
+  {
+   "rating": 5,
+   "content": "so simple.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T09:15:27",
+   "userName": "Philip Gibbs"
+  },
+  {
+   "rating": 4,
+   "content": "Good app, UI changes periodically mainly for the better.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T09:06:56",
+   "userName": "James Lemon"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T08:50:15",
+   "userName": "pete henderson"
+  },
+  {
+   "rating": 2,
+   "content": "Why has the future (pending) payments feature been made available on desktop only and not in the app for the savings accounts, it is now more difficult to track if a payment has been set up. Please can this feature return as it makes life so much easier. Also, it groups transactions into months rather than by specific date, much more difficult to keep track of payment dates, even though date is displayed below the amount.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T08:24:01",
+   "userName": "Jeffrey Monk"
+  },
+  {
+   "rating": 5,
+   "content": "all good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T08:10:32",
+   "userName": "Sue Smith"
+  },
+  {
+   "rating": 5,
+   "content": "fast and efficient",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T08:00:57",
+   "userName": "Charles Gagin"
+  },
+  {
+   "rating": 1,
+   "content": "keeps crashing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T07:28:40",
+   "userName": "Linda Graham"
+  },
+  {
+   "rating": 5,
+   "content": "Always do my transactions or checking acccounts is quck and easy.thank you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T07:28:02",
+   "userName": "Dace Marshall"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T07:24:29",
+   "userName": "Robert Walker"
+  },
+  {
+   "rating": 5,
+   "content": "satisfaction.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T07:14:28",
+   "userName": "funmilayo babatunde"
+  },
+  {
+   "rating": 2,
+   "content": "I am trying to set up a standing order to my chase account, been trying for a few days now. keep getting a message saying \"We are having technical problems. logging in again may fix the issue, but if this doesn't help, please try again later \" I'm am going to drag the laptop out, to try and set up the standing order from there, but if the technical issues persist I will have to change banks as all these technical issues are becoming very tedious now!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T07:12:58",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "so easy to use much easier than I thought. love it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T06:24:51",
+   "userName": "Clare Hilton"
+  },
+  {
+   "rating": 5,
+   "content": "easy and straightforward",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-27T04:08:31",
+   "userName": "Grace Perkins"
+  },
+  {
+   "rating": 5,
+   "content": "using now as moved over from Halifax..... its ok, very similar so not too bad.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-27T01:46:34",
+   "userName": "Domonic Gregory"
+  },
+  {
+   "rating": 3,
+   "content": "Generally an 'ok' banking app, but I've had a few reoccurring problems recently, with not being able to turn on notifications to my mobile phone, from this app.. Very annoying.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T22:51:19",
+   "userName": "Aaron Parkinson"
+  },
+  {
+   "rating": 1,
+   "content": "absolute Junk. forcefully transferred over from Halifax. first couple of weeks fine. try logging in today. I can't why? a common issue with how BADLY PROGRAMMED this junk app is. trying to claim my phone is jailbroken or rooted. No it's a common false positive. so I am back to the online banking as opposed to apps. sort this junk out",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-26T22:05:53",
+   "userName": "Sean Miller"
+  },
+  {
+   "rating": 1,
+   "content": "Ridiculous, I just started using the Lloyds app, as I had because I'm a Halifax user who now needs to move over, and the first time using it, trying to move money between accounts and guess what it doesn't work, an error message keeps appearing USELESS!!! never had an issue with the Halifax app never.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T21:06:11",
+   "userName": "Amit Panja"
+  },
+  {
+   "rating": 5,
+   "content": "very good service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T20:40:37",
+   "userName": "Susan sharp"
+  },
+  {
+   "rating": 5,
+   "content": "the app is easy to use so I can manage all my banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T19:48:16",
+   "userName": "Judith Watson"
+  },
+  {
+   "rating": 5,
+   "content": "Good \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T18:28:04",
+   "userName": "Ahsan Khan"
+  },
+  {
+   "rating": 5,
+   "content": "easy to navigate and been very reliable so far from moving over from Halifax",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T18:07:52",
+   "userName": "Lone Wolf"
+  },
+  {
+   "rating": 1,
+   "content": "Lost access to my bank accounts. Following the migration from Halifax mobile app into Lloyds mobile app, I can no longer access my accounts due to a glitch in the system which crashes after asking the user to 'turn on. otifocations\". Quite frankly, security, accessibility and reliability should not be compromised in a banking app. I expect better from my bank. Clearly I will have to find it elsewhere.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T17:59:49",
+   "userName": "Germ\u00e1n Fern\u00e1ndez"
+  },
+  {
+   "rating": 5,
+   "content": "very good bank & app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T17:46:34",
+   "userName": "Nadeem Anwar"
+  },
+  {
+   "rating": 1,
+   "content": "I have a refund from a holiday firm leaving my credit card account in around \u00a3500 credit, half of which needs to go to a partner. There appears to be no easy way to move this money out of the credit card account - I cannot pay half the \u00a3500 to the partner directly. This is my money and I should be able to use it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T17:22:42",
+   "userName": "Anne Holland"
+  },
+  {
+   "rating": 4,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T17:10:46",
+   "userName": "Sri Vignesh"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to access and use, everything in one place, all accounts, CCD's, loans, mortgage etc. You decide the amount of interaction you want and the use of the tools available.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T16:55:15",
+   "userName": "Ben"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T16:46:27",
+   "userName": "Claire Wildman"
+  },
+  {
+   "rating": 1,
+   "content": "I have started using this app because I was with Halifax and you knew rebranding... I am continuing to rate this app as I did the Halifax app which is to say it started at five stars and loses one star every time it asks me to rate it as I hate that so much. The Halifax app was at negative four stars at the time of change which means that this app is now down to negative five.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-26T16:35:58",
+   "userName": "Graham Robertson"
+  },
+  {
+   "rating": 1,
+   "content": "Don't be fooled by their \"digital banking\". Updated data via app, yet they mailed paper forms. The app assigns random PINs, blocks cards, and blocks screenshots. Agent solved nothing and refused the transcript. Wouldn't recommend to my worst enemy. Disgraceful after 4 years as a customer. Spare yourself problems. Edited after the bank's reply: Completely dishonest, they don't let you have the chat and worse, asked me to screenshot the chat, which is impossible. Run away from this bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-26T15:59:12",
+   "userName": "Rock UK"
+  },
+  {
+   "rating": 4,
+   "content": "pretty good,now switched from the Halifax app to Lloyd's. No problem so far,and I never had any problems with the Halifax app.Seems one of the better banking apps.HSBC is abysmal btw as a comparison!.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T15:45:28",
+   "userName": "david fairhead"
+  },
+  {
+   "rating": 1,
+   "content": "Constantly failing to work. No problems with Halifax app since being forced to use the Lloyds one its issue after issue",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-26T15:33:51",
+   "userName": "Aaron Darch"
+  },
+  {
+   "rating": 1,
+   "content": "there playing crack ol's with customers",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T15:32:52",
+   "userName": "Shin Baines"
+  },
+  {
+   "rating": 5,
+   "content": "Great Banking and Financial Experience! \ud83e\udd73",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-26T15:29:34",
+   "userName": "Jeremiah Ogundele"
+  },
+  {
+   "rating": 5,
+   "content": "Great app, easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T15:25:51",
+   "userName": "Anthony Burkard"
+  },
+  {
+   "rating": 4,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T15:23:38",
+   "userName": "lynN lane"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use & save app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T15:13:35",
+   "userName": "Barbara Davis"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use and navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-26T15:03:33",
+   "userName": "Frank Hanlon"
+  },
+  {
+   "rating": 1,
+   "content": "Have been using the App for years with no issue, but have not been able to use for the past few weeks. Keep getting error messages. Have uninstalled and reinstalled but hasn't fixed the problem. Called into the Branch, who acknowledged the problem but offered no solution. apparently, it's a problem with some, but not all, Android phones. Not the end of the world going via the website but is tedious.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-26T14:44:20",
+   "userName": "John Corlett"
+  },
+  {
+   "rating": 4,
+   "content": "\"I have used this app for a while now. I appreciate its efficiency and how well it functions I would be confident introducing it to others.\"",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "194.05",
+   "at": "2026-09-26T14:42:29",
+   "userName": "Bounty0x. bass"
+  },
+  {
+   "rating": 1,
+   "content": "frequently crashes saying there's some technical error. I was forced to switch to this from Halifax and ever since I'm not able to use it when I want. I use pixel 7a if anyone from tech team wants to fix this. it's annoyance seriously making me think it's time to switch to another bank if I can't use Halifax app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T14:11:43",
+   "userName": "N Business"
+  },
+  {
+   "rating": 1,
+   "content": "Recently transferred from Halifax. Have only managed to access the app twice in 15 attempts over several days. My summary - it's unfit for purpose. Bring back the superb Halifax app which I never had an issue with in all the years I used it! Time to up your game Lloyd's or I'm moving my accounts elsewhere.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T13:54:42",
+   "userName": "lorna Jones"
+  },
+  {
+   "rating": 5,
+   "content": "Simple, easy and secure",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T13:09:17",
+   "userName": "Adrian Dunlop"
+  },
+  {
+   "rating": 3,
+   "content": "Although the app does most things well, when you freeze a card or part of it, it can take 48 hrs to unfreeze. for security I freeze my cards when i'm not using them which saves them being used if they get cloned or a site i;ve used is hacked, the 48 hr wait means that you have to keep checking to start using them, which also means using the freeze options in this app is frustrating and anoying if you just want to deposit funds i.e the national lottery, there are enough checks in place without",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T12:39:21",
+   "userName": "MARTIN RIGBY"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent App",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T12:27:24",
+   "userName": "Maverick"
+  },
+  {
+   "rating": 5,
+   "content": "Does all I need from a phone banking app - straightforward and intuitive to navigate, updates rapidly, and secure. It's clear that the bank listens to feedback, and their phone service is as good as any similar updated 27/12/2021 - same views still hold! And again 22/03/22 works gr8 4me\ud83d\ude0e\u263a\ufe0f it'd be useful to have a calculator option within the app, if that's possible?",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T12:10:52",
+   "userName": "Mark Kelly"
+  },
+  {
+   "rating": 5,
+   "content": "thanks it's super",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "193.03",
+   "at": "2026-09-26T12:07:32",
+   "userName": "Abul Hossen"
   }
  ],
- "record_count": 3844,
- "last_fetch_utc": "2026-09-27T12:26:40.486972+00:00"
+ "record_count": 3905,
+ "last_fetch_utc": "2026-09-28T14:28:13.819400+00:00"
 }
