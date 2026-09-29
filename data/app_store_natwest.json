@@ -6337,8 +6337,32 @@
    "version": "7.70.0",
    "date": "2026-09-25T02:27:34-07:00",
    "author": "haqsaidul"
+  },
+  {
+   "rating": 5,
+   "title": "Highly recommend",
+   "review": "Easy to use",
+   "version": "7.70.0",
+   "date": "2026-09-27T11:52:12-07:00",
+   "author": "njies yow"
+  },
+  {
+   "rating": 5,
+   "title": "Mostly works",
+   "review": "Sep 2026: transaction approval notifications don't disappear once you've approved them. \n\nMarch 2025: iphone SE, the \"my transactions\" screen only has a tiny scrollable area, max 2 transactions visible at once. Rest of the screen space taken up with account details. Annoying. \n\nFeb 2024 update: credit card disappeared from app. Fixed in half a day (problem reported by many). Sep 2021: front screen (before logging in with passcode) has \u201cNe...elp\u201d as the right hand text. The left text is \u201cNear me\u201d. Surely there\u2019s room to spell it out? Assuming it\u2019s a truncated \u201cNeed help\u201d! Also just discovered a tip somewhere about the moving blocks I mentioned in March, and turning on some general accessibility setting on the phone settings rather than the app settings. March 2021: I find the moving animated NW blocks behind the passcode screen very distracting when trying to enter my passcode. Almost like a moving target (although obviously the number keys pad doesn\u2019t move) Latest update of early Feb 2021 (7.3.0) seems to have made most of the text in the app harder to read/less contrasty/thinner/fainter",
+   "version": "7.70.0",
+   "date": "2026-09-27T11:45:45-07:00",
+   "author": "Tomsk"
+  },
+  {
+   "rating": 5,
+   "title": "Saving",
+   "review": "Good way of making you save .",
+   "version": "7.70.0",
+   "date": "2026-09-27T04:34:10-07:00",
+   "author": "Molly winky"
   }
  ],
- "record_count": 792,
- "last_fetch_utc": "2026-09-28T14:28:12.158527+00:00"
+ "record_count": 795,
+ "last_fetch_utc": "2026-09-29T13:19:19.018903+00:00"
 }

@@ -11657,8 +11657,96 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-09-26T12:36:22",
    "userName": "Mike Feeney"
+  },
+  {
+   "rating": 2,
+   "content": "Poor UX choice. App in Samsung Secure Folder suddenly stopped working after recent updates. Reasoning: a 'security risk' due to virtual space apps. Understandable as an InfoSec decision, but this ironically reduces the security factor by banning locally ringfenced spaces with an additional password. No prior warning or comms - imagine waking up & finding out you're locked out of the app one day. Can't reach your own money, as online banking also needs OTP codes generated in the app. Pls fix.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-28T12:44:20",
+   "userName": "\u30d7\u30ed\u5875\u660e\u6e1b\u30b9\u30fc\u30eb\u3059\u308b\u58eb"
+  },
+  {
+   "rating": 3,
+   "content": "not impressed with changes",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-09-28T09:56:35",
+   "userName": "Ian Ward"
+  },
+  {
+   "rating": 1,
+   "content": "itsnot allowing me to download?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-28T09:34:18",
+   "userName": "Stephen Nixon"
+  },
+  {
+   "rating": 4,
+   "content": "I love my online banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-28T08:19:32",
+   "userName": "Patricia Flint"
+  },
+  {
+   "rating": 1,
+   "content": "Locked out due to ban on virtual spaces, no given way to log in even after reinstall. Embarrassingly bad.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-28T02:37:15",
+   "userName": "Jan Tomljanovic"
+  },
+  {
+   "rating": 1,
+   "content": "piece of garbage stopped launching in the private space with no prior communication, locking me out of my account entirely while travelling; including web login since that also requires the mobile app. I will switch to a different bank the first chance I get. One where the security department knows what they're doing.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-28T00:18:16",
+   "userName": "Eilidh"
+  },
+  {
+   "rating": 1,
+   "content": "The app needs significant improvement. Whenever I try to access my bank statements, it shows \"Service not available\". As a long-term HSBC customer, I find this quite disappointing and it is making me consider moving my salary account. Newer banks like Monzo provide a much smoother experience, and I hope HSBC can improve its app to the same standard.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-27T18:39:55",
+   "userName": "SONU S JOHN"
+  },
+  {
+   "rating": 1,
+   "content": "Why do you have to keep finding new ways to stop people from using their banking app? Secure Folder and Private Space are essential. Enough with the random ways to prevent people from using the app!!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-27T18:06:26",
+   "userName": "Diego"
+  },
+  {
+   "rating": 1,
+   "content": "I am trying to update the HSBC app and being constantly told that the phone I'm using hasn't enough storage to continue. I have freed up as much space as is necessary and still not able to update. Utterly stuck and unable to go forward to access my bank account. Not good. Emily.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-09-27T16:46:40",
+   "userName": "Khris taylor wright"
+  },
+  {
+   "rating": 1,
+   "content": "App installed on my Samsung Secure Folder. I'm now blocked from my banking.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-27T16:15:48",
+   "userName": "Ahmed Chowdhury"
+  },
+  {
+   "rating": 4,
+   "content": "It's quite good for being a bank app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-09-27T16:14:01",
+   "userName": "Eduardo Tapia"
   }
  ],
- "record_count": 1457,
- "last_fetch_utc": "2026-09-28T14:28:15.270248+00:00"
+ "record_count": 1468,
+ "last_fetch_utc": "2026-09-29T13:19:24.167313+00:00"
 }

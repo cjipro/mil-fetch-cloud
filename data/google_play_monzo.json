@@ -10825,8 +10825,24 @@
    "reviewCreatedVersion": "8.1.0",
    "at": "2026-09-26T16:23:06",
    "userName": "AYO"
+  },
+  {
+   "rating": 5,
+   "content": "absolutely brilliant \ud83d\udc4f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-28T12:35:42",
+   "userName": "Tracy Parker"
+  },
+  {
+   "rating": 2,
+   "content": "The new feature of updating new card details with merchants is too obscure and It should be clear to choose if i want it and not automatically do it. theres no way to disable it now, and my card was updated with merchants I don't use anymore or want anything to do with them ! disappointed",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "7.41.0",
+   "at": "2026-09-05T10:41:19",
+   "userName": "A Google user"
   }
  ],
- "record_count": 1353,
- "last_fetch_utc": "2026-09-28T14:28:18.755972+00:00"
+ "record_count": 1355,
+ "last_fetch_utc": "2026-09-29T13:19:25.949285+00:00"
 }
