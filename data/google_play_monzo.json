@@ -10841,8 +10841,80 @@
    "reviewCreatedVersion": "7.41.0",
    "at": "2026-09-05T10:41:19",
    "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "Just opened a new monzo card and so easy to do.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T11:57:56",
+   "userName": "Kim Burden"
+  },
+  {
+   "rating": 1,
+   "content": "extremely low cash deposit. terrible",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-29T09:38:06",
+   "userName": "StarScream7ZZ"
+  },
+  {
+   "rating": 1,
+   "content": "The bank might be good, I can't tell because the app is so bad I can't sign in.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T05:14:59",
+   "userName": "Dave Smith"
+  },
+  {
+   "rating": 5,
+   "content": "very flexible and easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-28T23:56:39",
+   "userName": "Christopher Hughes"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-28T21:55:26",
+   "userName": "william price"
+  },
+  {
+   "rating": 1,
+   "content": "Doesn't work on my device",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-28T17:45:27",
+   "userName": "Simon Howells"
+  },
+  {
+   "rating": 5,
+   "content": "One of the bank app and very protective of frauds and unsubscription payments. This app has saved my money countless number of times. Bank with Monzo for your financial protection and ease of transactions.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-28T16:40:37",
+   "userName": "Wall"
+  },
+  {
+   "rating": 5,
+   "content": "amazing bank cannot recommend enough",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-28T16:09:39",
+   "userName": "Anne Hammond"
+  },
+  {
+   "rating": 5,
+   "content": "Monzo is so much better than the old high street banking.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-28T15:08:45",
+   "userName": "Jeremy Herd"
   }
  ],
- "record_count": 1355,
- "last_fetch_utc": "2026-09-29T13:19:25.949285+00:00"
+ "record_count": 1364,
+ "last_fetch_utc": "2026-09-30T13:00:17.624788+00:00"
 }
