@@ -11713,8 +11713,80 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-09-28T13:20:32",
    "userName": "nonsuch Lions"
+  },
+  {
+   "rating": 1,
+   "content": "cant sign into app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-30T12:48:42",
+   "userName": "Ashley Rock"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use, never had a problem.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-30T12:38:05",
+   "userName": "Martin Shuttleworth"
+  },
+  {
+   "rating": 1,
+   "content": "4448 hours wait to tfr from chatbot to person",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-30T09:19:43",
+   "userName": "Ruskins Trees"
+  },
+  {
+   "rating": 5,
+   "content": "Good \u2705\u2705\u2705\u2705\u2705",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-30T09:03:14",
+   "userName": "Mbamalu Valentino"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use and notifications are instant on my phone",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-30T08:05:23",
+   "userName": "Paul Hunter"
+  },
+  {
+   "rating": 1,
+   "content": "the \"Ai\" helper doesn't give the right instructions, and I wouldn't call it Ai it's more of an auto reply bot. the deposit a cheque function doesn't work either.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-30T07:27:57",
+   "userName": "Bandicoot IX"
+  },
+  {
+   "rating": 5,
+   "content": "handled my case brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-30T03:39:33",
+   "userName": "Simon Croston"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic customer service 10 out of 10",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-09-29T20:55:40",
+   "userName": "Chris Watson"
+  },
+  {
+   "rating": 1,
+   "content": "Nice app but terrible on a tablet and not suitable for people with poor vision. Why have you not implemented full screen landscape mode? It is awful on a tablet. Natwest replied and asked me to discuss this with cora in there app but this useless a.i tool does not have a clue what am talking about which left me totally frustrated. They then replied asking me to discuss it over the phone. Why? Ask your developers to fix it and stop asking me to contact a.i or telephone. Hence why now 1 star.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-09-21T17:04:36",
+   "userName": "Neil Gregan"
   }
  ],
- "record_count": 1464,
- "last_fetch_utc": "2026-09-30T13:00:03.487856+00:00"
+ "record_count": 1473,
+ "last_fetch_utc": "2026-10-01T13:53:46.678958+00:00"
 }

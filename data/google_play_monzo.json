@@ -10913,8 +10913,104 @@
    "reviewCreatedVersion": "8.1.0",
    "at": "2026-09-28T15:08:45",
    "userName": "Jeremy Herd"
+  },
+  {
+   "rating": 5,
+   "content": "very happy with you \ud83d\ude0a xx",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-30T11:51:40",
+   "userName": "Sue Giles"
+  },
+  {
+   "rating": 5,
+   "content": "Efficient And Reliable",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-29T20:28:51",
+   "userName": "Lydia"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank, great app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T18:50:33",
+   "userName": "Wes Humphreys"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank. Easy to use. Friendly customer service and good saving rates. 100% recommend",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T18:35:31",
+   "userName": "C B"
+  },
+  {
+   "rating": 5,
+   "content": "Absolutely the best and most user friendly bank app in the entire market. No other Bank app come near to Monzo. Absolutely beast of a Bank! Thank you for all the services.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T17:44:04",
+   "userName": "Raphael Barros"
+  },
+  {
+   "rating": 5,
+   "content": "One of the best bank's I've ever used. Highly recommended.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T17:20:23",
+   "userName": "Jason Ferguson"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant bank.. helpful little extras to help manage your money",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T17:18:36",
+   "userName": "Vanessa Delo"
+  },
+  {
+   "rating": 5,
+   "content": "Top \ud83d\udc4f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-29T17:17:10",
+   "userName": "Jen Mitchinson"
+  },
+  {
+   "rating": 5,
+   "content": "monzo is great,simple to use and a must to have especially when travelling abroad",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-29T16:13:04",
+   "userName": "John Brew"
+  },
+  {
+   "rating": 5,
+   "content": "I love thos banking system and it's app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T15:44:09",
+   "userName": "Mark Lane"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use, reliable and full of great features that are allowing me to be more in control of my finances.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-09-29T15:03:35",
+   "userName": "K Mason"
+  },
+  {
+   "rating": 5,
+   "content": "I need help creating a new account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-09-29T13:44:58",
+   "userName": "Jon Boyle"
   }
  ],
- "record_count": 1364,
- "last_fetch_utc": "2026-09-30T13:00:17.624788+00:00"
+ "record_count": 1376,
+ "last_fetch_utc": "2026-10-01T13:53:51.133397+00:00"
 }
