@@ -12097,8 +12097,112 @@
    "reviewCreatedVersion": null,
    "at": "2026-09-30T14:00:35",
    "userName": "Robert Gillis"
+  },
+  {
+   "rating": 4,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-02T10:54:15",
+   "userName": "Alan Lees"
+  },
+  {
+   "rating": 1,
+   "content": "The bank app is the most useless. it's so terrible. Even the customer service is in the abyss. It's a total shame and disgrace that a bank of this magnitude can't get a simple thing right. I regret downloading the app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-02T08:07:55",
+   "userName": "Olukayode Oni"
+  },
+  {
+   "rating": 5,
+   "content": "so easy to make a transfer",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-02T07:38:50",
+   "userName": "Geoffrey Mace"
+  },
+  {
+   "rating": 1,
+   "content": "This update makes me cry, still loading a couple of days, demanding to delete other three apps because of \"lack of memory\", I deleted a lot from my phone including other applications and HSBC still winding, I can't delete applications from my hearing aids or emails! This previous version worked brilliantly, why to update??? 02.10.26: I had to delete A LOT to install the previous update yet just a little while later there's ANOTHER UPDATE which demands even more memory. Frustrating.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-10-02T06:48:18",
+   "userName": "Eva"
+  },
+  {
+   "rating": 1,
+   "content": "it used to be compatible with private space. not anymore",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-02T05:03:58",
+   "userName": "Rejane Franca"
+  },
+  {
+   "rating": 1,
+   "content": "Cannot access app at all as says I need to delete and re download but when I do this, the same issue happens",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-01T22:16:58",
+   "userName": "Dayle Hall"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-01T19:54:00",
+   "userName": "Aaryan Dahatkar"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-01T17:06:50",
+   "userName": "Victor Nwaeke"
+  },
+  {
+   "rating": 1,
+   "content": "can easily hack your account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-01T17:03:17",
+   "userName": "George White"
+  },
+  {
+   "rating": 1,
+   "content": "I can't access my account. Mobile app said it needed update then froze. Foolishly I uninstalled app then tried to reinstall. Now it won't reinstall. HELP.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-01T16:54:22",
+   "userName": "Mary Chipperfield"
+  },
+  {
+   "rating": 5,
+   "content": "Just \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-01T15:55:23",
+   "userName": "Tennyson Lucien"
+  },
+  {
+   "rating": 4,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-01T13:40:19",
+   "userName": "Kat Manson"
+  },
+  {
+   "rating": 1,
+   "content": "why won't this install? i cant get onto my banking. furious",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-10-01T13:39:03",
+   "userName": "Kerri Spencer"
   }
  ],
- "record_count": 1512,
- "last_fetch_utc": "2026-10-02T13:10:27.207897+00:00"
+ "record_count": 1525,
+ "last_fetch_utc": "2026-10-03T12:01:39.420935+00:00"
 }

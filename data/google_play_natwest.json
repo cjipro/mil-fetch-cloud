@@ -12009,8 +12009,104 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-09-30T13:56:35",
    "userName": "Valen's Name"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T11:35:39",
+   "userName": "Noureddine Khelil"
+  },
+  {
+   "rating": 5,
+   "content": "Straightforward & easy.. Thanks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T10:59:02",
+   "userName": "C Loban"
+  },
+  {
+   "rating": 1,
+   "content": "update install doesnt insrall",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.67.0000.31083.0",
+   "at": "2026-10-02T10:09:48",
+   "userName": "Margaret Dean"
+  },
+  {
+   "rating": 5,
+   "content": "lots of accesible information, very useful functionality, informative hints and tips, easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T09:43:03",
+   "userName": "David Lambie"
+  },
+  {
+   "rating": 1,
+   "content": "rubbish",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T06:57:05",
+   "userName": "Paul Morris"
+  },
+  {
+   "rating": 1,
+   "content": "rubbish",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T05:59:17",
+   "userName": "Adam Collins"
+  },
+  {
+   "rating": 5,
+   "content": "great staff very helpful people who care",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-01T23:58:26",
+   "userName": "TOTALLYORANGE audio"
+  },
+  {
+   "rating": 1,
+   "content": "option to search, but no download to pdf or excel",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-01T21:43:19",
+   "userName": "Ripal patel"
+  },
+  {
+   "rating": 1,
+   "content": "terrible app since the recent AI push, getting support is impossible, the in app approval function no longer works for payments. Nobody wants these changes. This was a perfectly good app 1 year ago.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-01T20:08:14",
+   "userName": "Alex"
+  },
+  {
+   "rating": 1,
+   "content": "when you are having hard times, they don't want to help you support you and don't wanna know.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-01T17:44:18",
+   "userName": "TOMMY"
+  },
+  {
+   "rating": 1,
+   "content": "Sign up process is giving me some, we don't understand IT vibes. Your Password can't use special characters, really? is it 1995? Your customer number includes your full date of birth. Yeah, using personal information as a customer number is crazy insecure. And we can't process biometrics ourselves (that much is clear). So we outsource to an extremely annoying third party. I really wish I hadn't done that, as I'm now stuck in \"under review limbo\". Not sure why anybody puts up with this nonsense.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-01T17:22:08",
+   "userName": "Marc Petrie"
+  },
+  {
+   "rating": 5,
+   "content": "Very good, safe and helpful.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-01T14:22:50",
+   "userName": "Fat Dan"
   }
  ],
- "record_count": 1501,
- "last_fetch_utc": "2026-10-02T13:10:24.882541+00:00"
+ "record_count": 1513,
+ "last_fetch_utc": "2026-10-03T12:01:36.329150+00:00"
 }

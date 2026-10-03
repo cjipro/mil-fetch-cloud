@@ -6689,8 +6689,64 @@
    "version": "7.70.0",
    "date": "2026-09-30T11:28:29-07:00",
    "author": "Arsenal north London"
+  },
+  {
+   "rating": 5,
+   "title": "Simple app",
+   "review": "A great simple and reliable app to use.  Just wish it would stop asking me to leave a review for just doing its job !!!!",
+   "version": "7.70.0",
+   "date": "2026-10-01T23:58:45-07:00",
+   "author": "Andrew@don\u2019t ask me again"
+  },
+  {
+   "rating": 1,
+   "title": "Poor account selection when I have more than one account with you in the same app.",
+   "review": "When I have multiple bank accounts with you and I\u2019m in one I want to make a payment from, the app opens the next window and the account I was in and looking to pay from isn\u2019t the one that\u2019s Auto selected to make the payment. \n\nThe amount of times I make a payment from the wrong account because of this poor app design and have to juggle money between accounts if becoming frustrating to say the least. \n\nSuch a poor customer journey and a clear over site on an app that you probably spent literally millions of pounds in development fees and held countless meetings deciding if the colour of purple on the app banner was the right shade of purple for the brand :( \n\nBasic error. \n\nSort it out!!!",
+   "version": "7.70.0",
+   "date": "2026-10-01T13:07:37-07:00",
+   "author": "Man with kids and a dog"
+  },
+  {
+   "rating": 5,
+   "title": "Brilliant app",
+   "review": "Love the app use it multiple times a day.\nOnly thing I would say is it would be better if we could see 6 months back data.",
+   "version": "7.70.0",
+   "date": "2026-10-01T09:55:53-07:00",
+   "author": "Happy user31"
+  },
+  {
+   "rating": 5,
+   "title": "Best of the best",
+   "review": "Without doubt the best UI, easiest to use and most helpful banking app I have ever experienced.",
+   "version": "7.70.0",
+   "date": "2026-10-01T09:39:00-07:00",
+   "author": "Ranched Liberty"
+  },
+  {
+   "rating": 5,
+   "title": "Satisfied",
+   "review": "I am entirely satisfied with the service provided by NatWest.",
+   "version": "7.70.0",
+   "date": "2026-10-01T08:49:03-07:00",
+   "author": "Billy the bum"
+  },
+  {
+   "rating": 5,
+   "title": "Mobile app",
+   "review": "Super easy and quick to use",
+   "version": "7.70.0",
+   "date": "2026-10-01T08:09:37-07:00",
+   "author": "Sul 52"
+  },
+  {
+   "rating": 5,
+   "title": "Great app",
+   "review": "Love this app easy to use and helpful",
+   "version": "7.70.0",
+   "date": "2026-10-01T06:33:13-07:00",
+   "author": "BEw1tch3d"
   }
  ],
- "record_count": 836,
- "last_fetch_utc": "2026-10-02T13:10:24.157752+00:00"
+ "record_count": 843,
+ "last_fetch_utc": "2026-10-03T12:01:35.392498+00:00"
 }
