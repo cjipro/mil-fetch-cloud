@@ -12105,8 +12105,56 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-10-01T14:22:50",
    "userName": "Fat Dan"
+  },
+  {
+   "rating": 5,
+   "content": "Very intelligent and comprehensive app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-03T09:44:35",
+   "userName": "G\u00e9rard Fabrice"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-03T09:31:14",
+   "userName": "Danuthtara Dushyanthi"
+  },
+  {
+   "rating": 5,
+   "content": "great bank!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-03T08:17:52",
+   "userName": "Naima Nuur"
+  },
+  {
+   "rating": 1,
+   "content": "unable to set up a new standing order in the app without sending biometric data to be stored on NatWest servers which \"may be shared with 3rd parties\".",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T22:20:30",
+   "userName": "Christopher Musgrave"
+  },
+  {
+   "rating": 1,
+   "content": "rubbish app. transactions never work online when you go back to the merchant to click 'i have approved in the app' there is always an error. slow as anything and clunky. Halifax was 10/10 i dont even know why I switched.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T16:32:24",
+   "userName": "Kyle R"
+  },
+  {
+   "rating": 5,
+   "content": "I went into the Hoddesdon branch without my card. Sarah was 5 star. and the app was okay too.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-02T14:37:02",
+   "userName": "Phil- T"
   }
  ],
- "record_count": 1513,
- "last_fetch_utc": "2026-10-03T12:01:36.329150+00:00"
+ "record_count": 1519,
+ "last_fetch_utc": "2026-10-04T12:51:00.070781+00:00"
 }

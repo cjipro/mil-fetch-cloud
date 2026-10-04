@@ -12201,8 +12201,128 @@
    "reviewCreatedVersion": "3.72.0",
    "at": "2026-10-01T13:39:03",
    "userName": "Kerri Spencer"
+  },
+  {
+   "rating": 1,
+   "content": "cannot install app - spent 2 days trying, had help from agents and been to my bank branch. Not happy is putting it very politely!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-03T12:24:12",
+   "userName": "Michael Moore"
+  },
+  {
+   "rating": 5,
+   "content": "The process was surprisingly easy. I had a lovely service rep, Kranti who walked me through the process!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T11:43:09",
+   "userName": "Nicola Andrews"
+  },
+  {
+   "rating": 5,
+   "content": "good \ud83d\udc4d nice one",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T11:16:56",
+   "userName": "Elvis Agbai"
+  },
+  {
+   "rating": 1,
+   "content": "cant log in, I need to log on the website and the website sends me back to app for confirmation which never arrives....",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T10:46:10",
+   "userName": "ursu dd"
+  },
+  {
+   "rating": 1,
+   "content": "I was trying to buy an air ticket on line and I needed to access a payment confirmation. When I accessed the HSBC App it required an update, no means of postponing the update at all. uploaded the update and that froze so I still can't access the HSBC site.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-03T09:46:47",
+   "userName": "Jim Buchan"
+  },
+  {
+   "rating": 3,
+   "content": "The chat function for support is an absolute misery. We keep getting disconnected and losing our interaction with the agents. Agent that can only answers hours too late. Shame",
+   "thumbsUpCount": 5,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T09:35:28",
+   "userName": "Adrien Joubert"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant service as always",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T09:13:59",
+   "userName": "Darrell Worthington"
+  },
+  {
+   "rating": 5,
+   "content": "such a great banking app! I can always get my questions answers through customer chat and it's very easy to navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T07:35:37",
+   "userName": "Megan Rashid"
+  },
+  {
+   "rating": 5,
+   "content": "Splendid!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T05:29:29",
+   "userName": "George Ebulue"
+  },
+  {
+   "rating": 5,
+   "content": "perfectly adequate. nothing more to tell.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-02T21:14:01",
+   "userName": "Alan Francis"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-02T17:57:56",
+   "userName": "Ezzat Marzouk"
+  },
+  {
+   "rating": 5,
+   "content": "useful and helps me manage my finances",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-02T16:51:21",
+   "userName": "Mark Migally"
+  },
+  {
+   "rating": 4,
+   "content": "gets the job done",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-02T16:12:42",
+   "userName": "Zaqee"
+  },
+  {
+   "rating": 5,
+   "content": "easy to do not technically minded. First time using update.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-10-02T16:12:00",
+   "userName": "Janine Senior"
+  },
+  {
+   "rating": 1,
+   "content": "The AI chat bot is infuriatingly bad. And when you request to have a human respond, it takes hours before anyone joins the chat. It would be quicker to drive to my local branch, but I suspect it will be closed. Goodbye HSBC, hello Starling.",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-02T14:07:21",
+   "userName": "Oliver Jones"
   }
  ],
- "record_count": 1525,
- "last_fetch_utc": "2026-10-03T12:01:39.420935+00:00"
+ "record_count": 1540,
+ "last_fetch_utc": "2026-10-04T12:51:03.167812+00:00"
 }
