@@ -12321,8 +12321,64 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-02T14:07:21",
    "userName": "Oliver Jones"
+  },
+  {
+   "rating": 2,
+   "content": "No account rename, reorder or dark mode. Sort it out HSBC!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-04T09:17:10",
+   "userName": "Jake"
+  },
+  {
+   "rating": 5,
+   "content": "So easy to transfer money onto the Global Card when needing a certain amount that has been budgeted for. Stops overspending!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-04T08:14:20",
+   "userName": "Rebecca Smith"
+  },
+  {
+   "rating": 4,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T18:54:28",
+   "userName": "Nathan"
+  },
+  {
+   "rating": 1,
+   "content": "was working fine the app updated and has frozen .",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-10-03T14:56:28",
+   "userName": "Martin Davidson"
+  },
+  {
+   "rating": 5,
+   "content": "Greatest",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-03T14:09:07",
+   "userName": "Tamara James"
+  },
+  {
+   "rating": 1,
+   "content": "app is rubbish. totally unusable and a security risk. update: check the signatures, i have just downloaded the most recent version.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-03T13:36:50",
+   "userName": "impe android"
+  },
+  {
+   "rating": 1,
+   "content": "boring and bland gui",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-01T09:56:21",
+   "userName": "GavJP P"
   }
  ],
- "record_count": 1540,
- "last_fetch_utc": "2026-10-04T12:51:03.167812+00:00"
+ "record_count": 1547,
+ "last_fetch_utc": "2026-10-05T15:16:15.750105+00:00"
 }

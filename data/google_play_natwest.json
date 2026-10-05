@@ -12153,8 +12153,56 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-10-02T14:37:02",
    "userName": "Phil- T"
+  },
+  {
+   "rating": 1,
+   "content": "limited daily payment stopped my request",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-04T14:43:10",
+   "userName": "Agata"
+  },
+  {
+   "rating": 5,
+   "content": "best service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-04T14:23:38",
+   "userName": "Jegatheepan Sivagnanam"
+  },
+  {
+   "rating": 5,
+   "content": "usually very good and has no trouble",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-04T08:11:51",
+   "userName": "Pamela Moat"
+  },
+  {
+   "rating": 1,
+   "content": "not a lot when there wasn't any suspicious activity",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-03T18:10:56",
+   "userName": "hasan djemal"
+  },
+  {
+   "rating": 2,
+   "content": "getting over complicated, help features don't help much.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-03T14:36:44",
+   "userName": "Tom Speller"
+  },
+  {
+   "rating": 1,
+   "content": "Pops up review requests in the middle of trying to use it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-03T13:07:36",
+   "userName": "Tony Jenkins"
   }
  ],
- "record_count": 1519,
- "last_fetch_utc": "2026-10-04T12:51:00.070781+00:00"
+ "record_count": 1525,
+ "last_fetch_utc": "2026-10-05T15:16:11.495409+00:00"
 }
