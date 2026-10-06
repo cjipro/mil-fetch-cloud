@@ -4697,8 +4697,24 @@
    "version": "8.3.0",
    "date": "2026-10-03T03:40:34-07:00",
    "author": "Leztok"
+  },
+  {
+   "rating": 4,
+   "title": "Mr Johnson",
+   "review": "I love the way you are protecting your customers . Please keep it up",
+   "version": "8.3.0",
+   "date": "2026-10-04T07:37:28-07:00",
+   "author": "Omo Iya idowu"
+  },
+  {
+   "rating": 5,
+   "title": "Best bank ever",
+   "review": "This is what banking should be like. Simple and built around how people live their life and spend their money",
+   "version": "8.3.0",
+   "date": "2026-10-04T06:52:25-07:00",
+   "author": "Sheesh7"
   }
  ],
- "record_count": 587,
- "last_fetch_utc": "2026-10-05T15:16:16.576327+00:00"
+ "record_count": 589,
+ "last_fetch_utc": "2026-10-06T13:37:22.600056+00:00"
 }

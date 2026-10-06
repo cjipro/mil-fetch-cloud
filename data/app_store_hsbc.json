@@ -6041,8 +6041,40 @@
    "version": "3.74.31",
    "date": "2026-10-03T01:07:36-07:00",
    "author": "Mr TeeGee"
+  },
+  {
+   "rating": 5,
+   "title": "\ud83c\udf3a\ud83c\udf3a\ud83c\udf3a",
+   "review": "\ud83c\udf3a\ud83c\udf3a\ud83c\udf3a",
+   "version": "3.74.31",
+   "date": "2026-10-04T13:50:55-07:00",
+   "author": "Ariabdullahi"
+  },
+  {
+   "rating": 5,
+   "title": "Great Service / Great App",
+   "review": "Very pleased with HSBC. Great service, I.T. that works. Highly recommended.",
+   "version": "3.74.31",
+   "date": "2026-10-04T13:40:42-07:00",
+   "author": "Mystical Prompter"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use",
+   "review": "Always quick and easy to use",
+   "version": "3.74.31",
+   "date": "2026-10-04T09:42:46-07:00",
+   "author": "slowways"
+  },
+  {
+   "rating": 5,
+   "title": "Brilliant app",
+   "review": "I find the HSBC app so useful and also easy to use . Thoroughly recommend the bank and the app",
+   "version": "3.74.31",
+   "date": "2026-10-04T09:25:10-07:00",
+   "author": "Stan666"
   }
  ],
- "record_count": 755,
- "last_fetch_utc": "2026-10-05T15:16:14.613035+00:00"
+ "record_count": 759,
+ "last_fetch_utc": "2026-10-06T13:37:20.543851+00:00"
 }

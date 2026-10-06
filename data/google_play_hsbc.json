@@ -12377,8 +12377,80 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-01T09:56:21",
    "userName": "GavJP P"
+  },
+  {
+   "rating": 5,
+   "content": "better",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-05T11:59:28",
+   "userName": "JEREESH.V. J JULIYAN"
+  },
+  {
+   "rating": 5,
+   "content": "The best bank i have banked with ,never had any problems and have always had good comunications with staff .Many thanks for the years i ive banked with HSBC.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-05T11:24:06",
+   "userName": "Mark"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-05T09:51:18",
+   "userName": "Donna Cattano"
+  },
+  {
+   "rating": 1,
+   "content": "Why won't you allow to keep your app in the Secure Folder anymore? I want another layer of security in case I lose my phone. Why are you forcing your customers to have a more lax security? A Secure Folder has its own password and fingerprint on top of existing phone security. My app is hidden and inaccessible. And now you no longer allow me to use it. ANSWER: where is your notice to customers warning them about getting locked out of their accounts? How do you expect us to access the QR code?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-05T07:14:35",
+   "userName": "I."
+  },
+  {
+   "rating": 5,
+   "content": "Nice and easy to use, the app makes everything so understandable, been using this bank for more than a year now and I haven't got any complaints about it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-05T07:02:01",
+   "userName": "Arin Aras"
+  },
+  {
+   "rating": 5,
+   "content": "Dependable , excellent in transaction.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-05T03:53:40",
+   "userName": "Gbolaga oladini Olatunji"
+  },
+  {
+   "rating": 1,
+   "content": "No longer works in samsung secure folder. Samsung Secure Folder is specifically designed to provide an isolated, protected environment. If HSBC\u2019s app cannot function there, that is an HSBC app limitation \u2014 not a security problem with Secure Folder. Other banking apps can support secure environments. HSBC choosing not to is disappointing, especially when customers are then warned that fraud notifications may be affected. Be transparent: this is an app compatibility limitation.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-05T00:42:13",
+   "userName": "AJAZ AHMED"
+  },
+  {
+   "rating": 1,
+   "content": "still the same old troubles, no push notifications, I was told to phone for help, why should I waste money phoning HSBC, you fixed it on line once, till the next HSBC update, please do it again. thanks.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-04T20:59:29",
+   "userName": "Pops Radish"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-04T17:42:38",
+   "userName": "Damon Grosvenor"
   }
  ],
- "record_count": 1547,
- "last_fetch_utc": "2026-10-05T15:16:15.750105+00:00"
+ "record_count": 1556,
+ "last_fetch_utc": "2026-10-06T13:37:21.890727+00:00"
 }

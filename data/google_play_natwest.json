@@ -12201,8 +12201,40 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-10-03T13:07:36",
    "userName": "Tony Jenkins"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-05T13:33:43",
+   "userName": "George Smith"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-05T12:31:39",
+   "userName": "Oluwafunke Adeyemi"
+  },
+  {
+   "rating": 2,
+   "content": "used to be great, now i cant use it as they keep updating it and i dont have enough storage for updates so can no longer access any information \ud83d\ude43",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-10-05T12:08:23",
+   "userName": "Nicky Freezinn"
+  },
+  {
+   "rating": 2,
+   "content": "AI assistant funnels you too much. Why have you disabled a running balance in the app? It's incredibly useful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-05T10:11:16",
+   "userName": "Timothy Reene"
   }
  ],
- "record_count": 1525,
- "last_fetch_utc": "2026-10-05T15:16:11.495409+00:00"
+ "record_count": 1529,
+ "last_fetch_utc": "2026-10-06T13:37:18.301656+00:00"
 }
