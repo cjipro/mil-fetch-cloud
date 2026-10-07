@@ -12449,8 +12449,56 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-10-04T17:42:38",
    "userName": "Damon Grosvenor"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-06T10:27:22",
+   "userName": "Ian Maynard"
+  },
+  {
+   "rating": 2,
+   "content": "remove the security feature that flags my keyboard as unsafe - makes the app unusable for no good reason",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-06T09:38:23",
+   "userName": "Ollie Brothwood"
+  },
+  {
+   "rating": 5,
+   "content": "I need to log into my account on my phone",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-06T07:00:54",
+   "userName": "Mar\u00e7us Mckoy"
+  },
+  {
+   "rating": 1,
+   "content": "Another rubbish app that does not work. lt said an upgrade was needed. When this was over, it did not give the option to get a logon code for online banking. When I tried to logon using the app, it said that too many devices were registered (even though it had been deleted on all other devices). I can log on to my Santander account after they send a code to my phone. It's a quick, easy and secure system that works well - unlike the retarded HSBC app that is overcomplicated and generally useless",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-05T15:24:53",
+   "userName": "Rob Norton"
+  },
+  {
+   "rating": 1,
+   "content": "was working perfectly, now doesn't",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-05T14:37:22",
+   "userName": "Sonic Skykiller"
+  },
+  {
+   "rating": 1,
+   "content": "slow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-10-05T13:57:09",
+   "userName": "Lynn oseman"
   }
  ],
- "record_count": 1556,
- "last_fetch_utc": "2026-10-06T13:37:21.890727+00:00"
+ "record_count": 1562,
+ "last_fetch_utc": "2026-10-07T13:55:52.551017+00:00"
 }

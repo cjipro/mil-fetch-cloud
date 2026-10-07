@@ -12233,8 +12233,32 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-10-05T10:11:16",
    "userName": "Timothy Reene"
+  },
+  {
+   "rating": 5,
+   "content": "very good bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-06T11:01:02",
+   "userName": "Joshna Patel"
+  },
+  {
+   "rating": 1,
+   "content": "and all of a sudden I cant use my natwest online banking with my phone as the app doesn't work, keeps saying unable to establish a connection. so because of this I can't use desktop site as need to authenticator from app...which doesn't work. sort it asap or I'm gone",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-06T09:43:12",
+   "userName": "Lauren"
+  },
+  {
+   "rating": 1,
+   "content": "terrible sign in functionality, bordering on unusable",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-05T22:26:06",
+   "userName": "Ewan Nicholas"
   }
  ],
- "record_count": 1529,
- "last_fetch_utc": "2026-10-06T13:37:18.301656+00:00"
+ "record_count": 1532,
+ "last_fetch_utc": "2026-10-07T13:55:46.363974+00:00"
 }
