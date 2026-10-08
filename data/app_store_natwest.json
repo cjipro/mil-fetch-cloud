@@ -7089,8 +7089,72 @@
    "version": "7.70.0",
    "date": "2026-10-04T23:59:39-07:00",
    "author": "efrewin68"
+  },
+  {
+   "rating": 5,
+   "title": "Me",
+   "review": "Lovely bank very helpful",
+   "version": "7.70.0",
+   "date": "2026-10-06T23:20:34-07:00",
+   "author": "Peterthwaites"
+  },
+  {
+   "rating": 4,
+   "title": "The cheque paying in facility needs work.",
+   "review": "I\u2019ve been using the app for some years now and find it very good apart from when trying to pay in a cheque. It always takes a number of attempts with a notice appearing saying \u201c We can\u2019t process your cheque right now try again later\u201d. After trying to pay in a cheque multiple times over the last few days I\u2019m going to have to take it in to a branch which takes the shine off what is otherwise a very good app.",
+   "version": "7.70.0",
+   "date": "2026-10-06T13:02:29-07:00",
+   "author": "Barney Truoble"
+  },
+  {
+   "rating": 1,
+   "title": "A disaster",
+   "review": "My iPad has version OS 15.8.8 and the current app support is being withdrawn in mid-November effectively cutting me off from mobile banking services. What am I supposed to do? Am I supposed to discard a perfectly good device which still has 40Gb available because NatWest can\u2019t be bothered to support those of us who can\u2019t see smaller screens and only want basic banking facilities that don\u2019t need all the bells and whistles that are being added unnecessarily? This is NOT progress and definitely NOT looking after customers\u2019 needs.",
+   "version": "7.56.0",
+   "date": "2026-10-06T12:47:15-07:00",
+   "author": "JayEm45"
+  },
+  {
+   "rating": 4,
+   "title": "Good but what has happened to notifications",
+   "review": "Like the app a lot (was a Sainsbury\u2019s bank customer that got moved over and it\u2019s much better than theirs) but over the last week or so, the notifications when payments go out are completely broken, settings checked and app re installed, notifications worked for a day then broke again. Was really useful now not so much.",
+   "version": "7.70.0",
+   "date": "2026-10-06T12:12:34-07:00",
+   "author": "ND-77"
+  },
+  {
+   "rating": 5,
+   "title": "Great app",
+   "review": "5",
+   "version": "7.70.0",
+   "date": "2026-10-06T09:49:47-07:00",
+   "author": "thatsagg"
+  },
+  {
+   "rating": 5,
+   "title": "Nice",
+   "review": "Nice",
+   "version": "7.70.0",
+   "date": "2026-10-06T03:57:06-07:00",
+   "author": "E.B2507"
+  },
+  {
+   "rating": 5,
+   "title": "5 star",
+   "review": "So easy to use reliable, quick and easy, can do all my banking with one bank!!!",
+   "version": "7.70.0",
+   "date": "2026-10-06T02:31:52-07:00",
+   "author": "BeckyRJD"
+  },
+  {
+   "rating": 2,
+   "title": "Daily transfer limit",
+   "review": "The daily transfer limit of \u00a31000.00 is very limiting - and inconvenient in 2026. Many household bills and purchases exceed this threshold which is, no doubt, presented as a safeguard for the customer. However, I suspect this has more to do with limiting NatWest\u2019s liability.\nThe customer should really have greater control and freedom to move their money as they need. This is becoming a recurring problem with my account.",
+   "version": "7.70.0",
+   "date": "2026-10-06T02:29:40-07:00",
+   "author": "Another NatWest customer"
   }
  ],
- "record_count": 886,
- "last_fetch_utc": "2026-10-07T13:55:45.563086+00:00"
+ "record_count": 894,
+ "last_fetch_utc": "2026-10-08T14:01:21.343815+00:00"
 }

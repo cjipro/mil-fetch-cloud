@@ -12257,8 +12257,64 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-10-05T22:26:06",
    "userName": "Ewan Nicholas"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent. Very nice",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-07T13:49:09",
+   "userName": "Sabira"
+  },
+  {
+   "rating": 5,
+   "content": "so simple to use even for me !!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-07T13:36:58",
+   "userName": "The Silver Star"
+  },
+  {
+   "rating": 5,
+   "content": "great bank, perfect service, I can't find fault.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-07T07:10:03",
+   "userName": "steve johnston"
+  },
+  {
+   "rating": 5,
+   "content": "great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-07T01:17:24",
+   "userName": "Robert Flaherty"
+  },
+  {
+   "rating": 1,
+   "content": "Disaster. Nothing works. Unnecessary, unasked for security features make it impossible to withdraw your money. Support is hidden and then when you find it, it is useless. I can't get out of this bank quick enough. But wait I can't because they don't allow me to withdraw my money.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-06T20:37:24",
+   "userName": "Ed Hopkins"
+  },
+  {
+   "rating": 5,
+   "content": "always very helpfull",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-06T18:40:46",
+   "userName": "Hugh Pattison"
+  },
+  {
+   "rating": 4,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-06T17:46:17",
+   "userName": "Yusuf khan"
   }
  ],
- "record_count": 1532,
- "last_fetch_utc": "2026-10-07T13:55:46.363974+00:00"
+ "record_count": 1539,
+ "last_fetch_utc": "2026-10-08T14:01:23.119790+00:00"
 }
