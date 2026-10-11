@@ -12689,8 +12689,72 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-08T14:59:22",
    "userName": "Maria Sheridan"
+  },
+  {
+   "rating": 1,
+   "content": "Removed access in secure folder with no advance warning. Much safer in secure folder when travelling. Now I have to decide whether to close account or go through the painful steps of accessing through Web! Terrible customer service! They have now answered but no apology for not giving notice. Then I could have moved the app in 2 minutes. They don't care. Just want your money. And... it's much more secure to have the app in the secure folder!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-10T12:59:32",
+   "userName": "David McLeod"
+  },
+  {
+   "rating": 1,
+   "content": "Frustrated with the terrible communication by HSBC when it makes a change to its mobile app. This latest change will not allow access when you run the app in Samsung's Knox space. Implemented with no notice to its customers or HSBC support staff. 3 support calls 1 had no idea. the second referred it to IT with a 15 day wait, the third said it's a common problem and just clear your cache (nope) What's even worse is that I also have the app on a very old Samsung S10, in Knox and it works.",
+   "thumbsUpCount": 52,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-10T11:00:46",
+   "userName": "Chris Baylis"
+  },
+  {
+   "rating": 1,
+   "content": "List of things I've seen that HSBC, unlike every other banking app, can't develop a solution for, and will instead block access entirely: - Using an alternative keyboard. - Having a password manager installed. - Other apps installed from outside the Play Store. - App installed in a work profile. - App installed in a Secure Folder.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-10T10:13:54",
+   "userName": "Donald Campbell"
+  },
+  {
+   "rating": 5,
+   "content": "best for safety",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-10-10T08:33:32",
+   "userName": "Rabbi Ahmed Tanvir"
+  },
+  {
+   "rating": 1,
+   "content": "filled with adverts so cant find log in.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-09T22:42:39",
+   "userName": "Paul Redmond"
+  },
+  {
+   "rating": 5,
+   "content": "good experience",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-09T22:42:02",
+   "userName": "Rajender Gajula"
+  },
+  {
+   "rating": 5,
+   "content": "very reliable bank app always up to date",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-09T16:51:49",
+   "userName": "Stephen Mactavish"
+  },
+  {
+   "rating": 5,
+   "content": "ok",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-09T15:05:38",
+   "userName": "Sofrone Mihai iulian"
   }
  ],
- "record_count": 1586,
- "last_fetch_utc": "2026-10-10T13:02:58.390012+00:00"
+ "record_count": 1594,
+ "last_fetch_utc": "2026-10-11T13:31:20.040672+00:00"
 }

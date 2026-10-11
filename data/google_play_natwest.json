@@ -12481,8 +12481,56 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-10-08T14:08:52",
    "userName": "Nancy Seward"
+  },
+  {
+   "rating": 5,
+   "content": "this app makes my banking so much better and easier",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-10T12:06:48",
+   "userName": "Nibble Nibble"
+  },
+  {
+   "rating": 5,
+   "content": "this app protects the card holder from scams and fraud unlike some other cards I've used. I love the ability to use this app for online spends with confidence. I think my trust is placed well knowing I can cancel a direct debit or payment instantly if my account goes overdrawn. because I never go over drawn myself",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-10T11:52:11",
+   "userName": "Christopher GRice"
+  },
+  {
+   "rating": 5,
+   "content": "straightforward and useful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-10T06:41:19",
+   "userName": "Tomas Neeson"
+  },
+  {
+   "rating": 5,
+   "content": "the app works for me! Gives me all the information and services I need.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-09T22:13:24",
+   "userName": "roger woodcock"
+  },
+  {
+   "rating": 5,
+   "content": "It's a super easy app even for the non tech people \ud83d\ude44",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-09T14:25:59",
+   "userName": "David Munro"
+  },
+  {
+   "rating": 1,
+   "content": "nightmare if you lose your phone. all channels lead to either one time passkey or facial recognition. have spent over a week trying to get replacement phone through natwest insurance and meanwhile cant access my bank or card accounts, pay bills etc etc. helpdesk nearly as useless as Cora. finally got through to desk and was told it would take 2 to 3 days to change security protocols.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-09T13:45:38",
+   "userName": "Christopher Battersby"
   }
  ],
- "record_count": 1560,
- "last_fetch_utc": "2026-10-10T13:02:54.563011+00:00"
+ "record_count": 1566,
+ "last_fetch_utc": "2026-10-11T13:31:16.098267+00:00"
 }

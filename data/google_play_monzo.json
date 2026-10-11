@@ -11561,8 +11561,96 @@
    "reviewCreatedVersion": "8.3.0",
    "at": "2026-10-08T14:27:03",
    "userName": "Patrick Brown"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank and app I've ever used",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-10T11:39:11",
+   "userName": "Cosmic Buddhi"
+  },
+  {
+   "rating": 1,
+   "content": "I cannot open the app and cannot access my account im very ungappy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.39.0",
+   "at": "2026-10-09T21:06:30",
+   "userName": "Rhonda Cheng"
+  },
+  {
+   "rating": 1,
+   "content": "blocked from making an urgent transaction until id acknowledged and dismissed an advert for their paid for service.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-09T18:53:52",
+   "userName": "Sam Crisp"
+  },
+  {
+   "rating": 5,
+   "content": "great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-09T18:09:02",
+   "userName": "Sam Cooper"
+  },
+  {
+   "rating": 5,
+   "content": "does everything i need it to. no fuss easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-09T17:31:33",
+   "userName": "Kim Barnett"
+  },
+  {
+   "rating": 5,
+   "content": "So far so good never had any problems \ud83d\udc4c",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-09T17:02:09",
+   "userName": "Kristina Grabauskaite (Kriste)"
+  },
+  {
+   "rating": 5,
+   "content": "I've only been with Monzo for a couple of weeks now, but the app is great and everything seems really simple.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-09T16:47:53",
+   "userName": "Craig Sweaton"
+  },
+  {
+   "rating": 1,
+   "content": "I wanted just to open an account but they ask you how much will deposit or for any future payments. in this case I seriously consider to look for another bank!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-09T16:40:02",
+   "userName": "Dariela Dosigyan"
+  },
+  {
+   "rating": 5,
+   "content": "simply the best very good bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-09T15:09:21",
+   "userName": "jennifer morris"
+  },
+  {
+   "rating": 5,
+   "content": "excellent bank pays you early on the Friday your due paid on the Monday and have excellent customer service extremely helpful and knowledgeable staff",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-09T15:03:36",
+   "userName": "John Simpson"
+  },
+  {
+   "rating": 1,
+   "content": "I can not update app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.33.0",
+   "at": "2026-10-09T13:48:22",
+   "userName": "Mohammad Khademi pirbasti"
   }
  ],
- "record_count": 1445,
- "last_fetch_utc": "2026-10-10T13:02:59.938656+00:00"
+ "record_count": 1456,
+ "last_fetch_utc": "2026-10-11T13:31:21.865301+00:00"
 }
