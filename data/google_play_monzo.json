@@ -11649,8 +11649,40 @@
    "reviewCreatedVersion": "7.33.0",
    "at": "2026-10-09T13:48:22",
    "userName": "Mohammad Khademi pirbasti"
+  },
+  {
+   "rating": 5,
+   "content": "great online banking service. used them for many years.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-11T15:47:37",
+   "userName": "Christian Mills"
+  },
+  {
+   "rating": 5,
+   "content": "Monzo is easy to use and is a good bank. Would highly recommend. 5 stars",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-11T13:43:33",
+   "userName": "Jon Boyle"
+  },
+  {
+   "rating": 5,
+   "content": "this is amazing I would recommend it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-11T12:00:35",
+   "userName": "Catherine Sneddon"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-10T16:10:50",
+   "userName": "Denise Jones"
   }
  ],
- "record_count": 1456,
- "last_fetch_utc": "2026-10-11T13:31:21.865301+00:00"
+ "record_count": 1460,
+ "last_fetch_utc": "2026-10-12T16:06:42.403850+00:00"
 }

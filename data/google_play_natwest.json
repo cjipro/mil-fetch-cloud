@@ -12529,8 +12529,64 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-10-09T13:45:38",
    "userName": "Christopher Battersby"
+  },
+  {
+   "rating": 1,
+   "content": "can't buy stuff from websites on your phone as approval via the app always leads to the website youre trying to buy from crashing. totally useless",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-11T14:58:31",
+   "userName": "Paul Elwell"
+  },
+  {
+   "rating": 1,
+   "content": "wont open",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-11T09:32:41",
+   "userName": "D. Hughes"
+  },
+  {
+   "rating": 5,
+   "content": "once set up and you get used to the app (not easy) I had to do a total reset, it looks good and works.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-11T09:23:44",
+   "userName": "Payl Nyles"
+  },
+  {
+   "rating": 5,
+   "content": "very easy and simple to navigate.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-11T08:38:25",
+   "userName": "clifford starks"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-10T18:49:36",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use and I like the fact that I can deposit a cheque without having to find a local branch which is not very local to me.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-10T18:29:20",
+   "userName": "Rob Borley"
+  },
+  {
+   "rating": 1,
+   "content": "very poor app. Especially as Natwest insist on constantly moving items and modifying the layout.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-10T14:11:15",
+   "userName": "Rob Thomas"
   }
  ],
- "record_count": 1566,
- "last_fetch_utc": "2026-10-11T13:31:16.098267+00:00"
+ "record_count": 1573,
+ "last_fetch_utc": "2026-10-12T16:06:33.053188+00:00"
 }

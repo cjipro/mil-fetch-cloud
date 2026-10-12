@@ -12753,8 +12753,80 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-09T15:05:38",
    "userName": "Sofrone Mihai iulian"
+  },
+  {
+   "rating": 5,
+   "content": "quick easy transferring",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-11T09:09:19",
+   "userName": "Lulu"
+  },
+  {
+   "rating": 1,
+   "content": "Doesn't work...again! With the last update the app doesn't open anymore due to a 3rd party app installed on my phone. And of course to log on to my web account is not possible, because I need to generate a security code on my app to do that. HSBC, since when do you tell me which apps to install on my phone? HSBC, since when do you control my life or my phone and tell me which apps to keep or uninstall? update! Chat people are useless. you wait 10 minutes for a reply.",
+   "thumbsUpCount": 5,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-11T09:00:12",
+   "userName": "Andreas"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-11T05:51:39",
+   "userName": "money money"
+  },
+  {
+   "rating": 5,
+   "content": "great app using this from last 2 years. customer services are all good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-10T19:08:03",
+   "userName": "Mohammed Aslam"
+  },
+  {
+   "rating": 5,
+   "content": "Great app. Great bank.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-10T16:45:15",
+   "userName": "Jessica Rees"
+  },
+  {
+   "rating": 4,
+   "content": "Good app. Would be nice if you could click on the item of spend to remind you where you spent the money and put in notes like the Chase app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-10T16:08:06",
+   "userName": "Gillian Wedderburn"
+  },
+  {
+   "rating": 1,
+   "content": "just need to access my account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-10-10T13:32:45",
+   "userName": "Margaret Hodgson"
+  },
+  {
+   "rating": 5,
+   "content": "great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-18T09:01:55",
+   "userName": "Salt"
+  },
+  {
+   "rating": 1,
+   "content": "Can no longer use app. Latest update prevents app being used with Smart Keyboard Pro an app that I purchased from Google playstore..message says either uninstall Smart Keyboard Pro or use device keyboard and then app shuts...why would I want to uninstall an app I paid for ? App also has a security flaw allowing Biometrics to authorize bank transfers....transferring money should be pin authorize only to prevent vulnerable people being exploited whilst asleep...HSBC fraud prevention is useless.",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T22:33:00",
+   "userName": "Stephen Connolly"
   }
  ],
- "record_count": 1594,
- "last_fetch_utc": "2026-10-11T13:31:20.040672+00:00"
+ "record_count": 1603,
+ "last_fetch_utc": "2026-10-12T16:06:40.170802+00:00"
 }
