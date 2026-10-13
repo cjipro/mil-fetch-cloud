@@ -11681,8 +11681,32 @@
    "reviewCreatedVersion": "8.3.0",
    "at": "2026-10-10T16:10:50",
    "userName": "Denise Jones"
+  },
+  {
+   "rating": 3,
+   "content": "Cumbersome",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-10-12T13:42:52",
+   "userName": "Peter Harewood"
+  },
+  {
+   "rating": 4,
+   "content": "pretty good. I would like to be able to see the category an item has been placed in, in the list of transactions.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-12T06:28:05",
+   "userName": "Brian Orpin"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank. Fantastic apo",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-11T17:23:05",
+   "userName": "Adrian Smith"
   }
  ],
- "record_count": 1460,
- "last_fetch_utc": "2026-10-12T16:06:42.403850+00:00"
+ "record_count": 1463,
+ "last_fetch_utc": "2026-10-13T14:34:25.424648+00:00"
 }

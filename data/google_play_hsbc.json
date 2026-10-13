@@ -12825,8 +12825,56 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-15T22:33:00",
    "userName": "Stephen Connolly"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T12:46:31",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 1,
+   "content": "useless lately, constantly opens I use fingerprint then it will only let me set up biometrics then force close and refuses to open until restart.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T11:31:06",
+   "userName": "dan \u201cDandan\u201d dandan"
+  },
+  {
+   "rating": 5,
+   "content": "Quick and responsive easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T10:31:10",
+   "userName": "SUSAN KING"
+  },
+  {
+   "rating": 5,
+   "content": "Great Bank Great customer service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-12T06:50:12",
+   "userName": "Cathy Haining"
+  },
+  {
+   "rating": 1,
+   "content": "Who decided you can't use the app within the Secure Folder? A proven safer method than installing on the normal user account. Didn't think I'd have to change bank accounts because I can't use the app in a safe way. Sort it out HSBC",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T06:33:16",
+   "userName": "Rusty 87"
+  },
+  {
+   "rating": 1,
+   "content": "everything to do with hsbc is a nightmare phoned up 4 times and visited in bank to update my number and still can't sign up for online banking not to mention the automated loop.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-11T19:06:00",
+   "userName": "Blohsh"
   }
  ],
- "record_count": 1603,
- "last_fetch_utc": "2026-10-12T16:06:40.170802+00:00"
+ "record_count": 1609,
+ "last_fetch_utc": "2026-10-13T14:34:23.749270+00:00"
 }
