@@ -12873,8 +12873,72 @@
    "reviewCreatedVersion": null,
    "at": "2026-10-11T19:06:00",
    "userName": "Blohsh"
+  },
+  {
+   "rating": 1,
+   "content": "After latest update it now crashes after a few days when using biometrics and have to re-enable them using mobile pin. Also since recent updates, I have no option on the login screen to generate a security code for online banking.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-13T09:51:11",
+   "userName": "Swipe650"
+  },
+  {
+   "rating": 1,
+   "content": "Utterly useless. Click link in app to open account, get sent to web page and presented with another link to 'Apply in the app', and that link simply takes you to the play store for the hsbc app. Using their website, the link to apply online brings up a 403 page. Maybe there's something to the rumour of HSBC going under after all - they clearly don't want people making new accounts with them. [e] No, the review already contains a concise step by step replication guide.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-13T08:52:07",
+   "userName": "Pete"
+  },
+  {
+   "rating": 5,
+   "content": "Seriously good app. I usually use one of those PIN creating keypads. As an alternative, I downloaded the app, verified my ID (passport & face scan), and was able to login. Exactly the good mobile banking experience I needed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T20:40:07",
+   "userName": "Conrad Davies"
+  },
+  {
+   "rating": 5,
+   "content": "Awesome",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T15:46:05",
+   "userName": "Royal Jordanian Gwent R.J"
+  },
+  {
+   "rating": 5,
+   "content": "great app, much easier to use than a few years ago",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T15:32:35",
+   "userName": "Sue James"
+  },
+  {
+   "rating": 1,
+   "content": "I've been using the app on my phone for over 12m so I thought I'd download to my tablet. I put in my account number and dob and it froze, the screen shows a mock up of a mobile phone and a QR code. so I tried again with the app open on my phone, thinking it might ask for verification. still nothing. edit : It turned out that one has to rotate the tablet to portrait (which I rarely do) to continue. works fine. it would have helped if this had been made clear.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T15:20:37",
+   "userName": "Vincent L\u2019Estrange"
+  },
+  {
+   "rating": 1,
+   "content": "So HSBC has now decided they don't like my device keyboard and demands I remove it or use default, well it is the default you morons this is a Sony Xperia, and no I won't remove it, I may however find a more competent bank. I am also locked out of my account and despite arguing with them on the phone, they won't do anything. Utterly useless. Speaking of useless, it's the app not your website, absolutely incredible how incompetent everyone at this bank is.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T15:06:47",
+   "userName": "Maiku Ando"
+  },
+  {
+   "rating": 5,
+   "content": "ok",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-12T14:53:45",
+   "userName": "Colin Chilvers"
   }
  ],
- "record_count": 1609,
- "last_fetch_utc": "2026-10-13T14:34:23.749270+00:00"
+ "record_count": 1617,
+ "last_fetch_utc": "2026-10-14T12:22:24.438280+00:00"
 }

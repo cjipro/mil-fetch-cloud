@@ -11705,8 +11705,48 @@
    "reviewCreatedVersion": "8.3.0",
    "at": "2026-10-11T17:23:05",
    "userName": "Adrian Smith"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank ever!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-12T21:50:05",
+   "userName": "Dawn Mcintyre"
+  },
+  {
+   "rating": 1,
+   "content": "Who had the bright idea to change the notification sound, its terrible, please change it back.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-12T20:36:37",
+   "userName": "Jason Lee"
+  },
+  {
+   "rating": 4,
+   "content": "I wanted just to open an account but they ask you how much will deposit or for any future payments. in this case I seriously consider to look for another bank!! update: finally I've message bank card is on the way updating to 4 \ud83c\udf1f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-12T18:16:37",
+   "userName": "Dariela Dosigyan"
+  },
+  {
+   "rating": 5,
+   "content": "I used to have a Monzo account & I absolutely loved it but they're no longer available to the US anymore..\ud83d\ude0f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-12T15:20:32",
+   "userName": "Nicole"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-12T15:13:30",
+   "userName": "Steven Wilson"
   }
  ],
- "record_count": 1463,
- "last_fetch_utc": "2026-10-13T14:34:25.424648+00:00"
+ "record_count": 1468,
+ "last_fetch_utc": "2026-10-14T12:22:26.383254+00:00"
 }
