@@ -9265,8 +9265,96 @@
    "version": "3.76.2",
    "date": "2026-10-11T05:35:45-07:00",
    "author": "Scottyscot"
+  },
+  {
+   "rating": 2,
+   "title": "Frustrating log in experience",
+   "review": "Got stuck in a digital roundabout between this and the website. The app logs in with FaceID - great! - but doesn\u2019t allow me to do what I want to do, suggesting I go to the website. The website asks me to generate a pin from the app only there is no such function on my account. Dead end.",
+   "version": "3.76.2",
+   "date": "2026-10-13T14:05:48-07:00",
+   "author": "michaelarey"
+  },
+  {
+   "rating": 5,
+   "title": "Great New App",
+   "review": "The new app\u2019s a lot easier to work with. It just helps with transferring money over and sending money out. Well done, Barclays",
+   "version": "3.76.2",
+   "date": "2026-10-13T12:19:39-07:00",
+   "author": "Crookie 4921"
+  },
+  {
+   "rating": 2,
+   "title": "New transfer update",
+   "review": "Not good - selects the wrong account every time",
+   "version": "3.76.2",
+   "date": "2026-10-13T09:55:26-07:00",
+   "author": "Is this to stop reviews?"
+  },
+  {
+   "rating": 5,
+   "title": "Perfect",
+   "review": "Absolutely perfect",
+   "version": "3.76.2",
+   "date": "2026-10-13T08:49:46-07:00",
+   "author": "eiclaudius"
+  },
+  {
+   "rating": 1,
+   "title": "Terrible App",
+   "review": "Statements and Documents don\u2019t work and freeze my iPhone",
+   "version": "3.76.2",
+   "date": "2026-10-13T05:10:00-07:00",
+   "author": "All y do h"
+  },
+  {
+   "rating": 3,
+   "title": "Updated app",
+   "review": "I\u2019m finding the new system a little hard to get used to, I found the old version a lot easier",
+   "version": "3.76.2",
+   "date": "2026-10-13T04:10:05-07:00",
+   "author": "AHoulden"
+  },
+  {
+   "rating": 5,
+   "title": "F",
+   "review": "Good service and easy to use",
+   "version": "3.76.2",
+   "date": "2026-10-13T02:18:01-07:00",
+   "author": "Farouq t"
+  },
+  {
+   "rating": 1,
+   "title": "Latest update",
+   "review": "After the latest update it\u2019s gone worse. The way you see your transactions and end balance is awful, just don\u2019t know why change something that wasn\u2019t broke.",
+   "version": "3.76.2",
+   "date": "2026-10-13T02:11:17-07:00",
+   "author": "Jasper\u2019scasper\u2019s"
+  },
+  {
+   "rating": 5,
+   "title": "Mrs",
+   "review": "The App is so quick and easy to use , definitely warrants five stars",
+   "version": "3.76.2",
+   "date": "2026-10-13T01:34:14-07:00",
+   "author": "Mrs E-wing"
+  },
+  {
+   "rating": 2,
+   "title": "Why change the winning horse?",
+   "review": "You have ruined a great app with latest design.",
+   "version": "3.76.2",
+   "date": "2026-10-13T00:32:35-07:00",
+   "author": "MPTrebleClef"
+  },
+  {
+   "rating": 3,
+   "title": "Update horrible",
+   "review": "Do not like the latest update. Font is horrible to read. Actions have moved without explanation.",
+   "version": "3.76.2",
+   "date": "2026-10-12T23:15:25-07:00",
+   "author": "Laneyb1973"
   }
  ],
- "record_count": 1158,
- "last_fetch_utc": "2026-10-14T12:22:29.160286+00:00"
+ "record_count": 1169,
+ "last_fetch_utc": "2026-10-15T12:07:17.777678+00:00"
 }

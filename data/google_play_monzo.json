@@ -11745,8 +11745,56 @@
    "reviewCreatedVersion": "8.3.0",
    "at": "2026-10-12T15:13:30",
    "userName": "Steven Wilson"
+  },
+  {
+   "rating": 1,
+   "content": "closes your account down with no warning",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-14T07:41:27",
+   "userName": "Dylan Kerr"
+  },
+  {
+   "rating": 5,
+   "content": "great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-13T22:26:02",
+   "userName": "Kennedy Ononiwu"
+  },
+  {
+   "rating": 5,
+   "content": "better then all the other banking apps its fun its kinda like social media for banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-13T21:37:56",
+   "userName": "Olu Adesina"
+  },
+  {
+   "rating": 5,
+   "content": "boss",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-13T19:34:28",
+   "userName": "David Ellis"
+  },
+  {
+   "rating": 5,
+   "content": "just the most easiest bank ive ever been with. so simple, no hassles",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-13T15:56:20",
+   "userName": "Donna Clarke"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-13T15:39:27",
+   "userName": "Andrew Norman"
   }
  ],
- "record_count": 1468,
- "last_fetch_utc": "2026-10-14T12:22:26.383254+00:00"
+ "record_count": 1474,
+ "last_fetch_utc": "2026-10-15T12:07:08.296429+00:00"
 }

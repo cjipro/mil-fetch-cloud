@@ -6617,8 +6617,72 @@
    "version": "3.74.31",
    "date": "2026-10-11T07:04:57-07:00",
    "author": "wortsnall"
+  },
+  {
+   "rating": 1,
+   "title": "Slow",
+   "review": "Slowest app ever!!! SLOW SLOW SLOW",
+   "version": "3.75.0",
+   "date": "2026-10-13T09:47:21-07:00",
+   "author": "Metoo aswell"
+  },
+  {
+   "rating": 5,
+   "title": "HSBC UK Mobile Banking",
+   "review": "Brilliant",
+   "version": "3.75.0",
+   "date": "2026-10-13T09:31:34-07:00",
+   "author": "Ryan Tune 2001"
+  },
+  {
+   "rating": 5,
+   "title": "Fast and reliable",
+   "review": "Very fast reliable when setting up an account for the first time",
+   "version": "3.75.0",
+   "date": "2026-10-13T08:39:11-07:00",
+   "author": "Miki0190"
+  },
+  {
+   "rating": 5,
+   "title": "Very useful",
+   "review": "@GreaterKing",
+   "version": "3.75.0",
+   "date": "2026-10-13T07:52:30-07:00",
+   "author": "@god419486"
+  },
+  {
+   "rating": 4,
+   "title": "Transfer details",
+   "review": "Unable to save payee details on the app. I don\u2019t see an option for that. Not user friendly I think.",
+   "version": "3.75.0",
+   "date": "2026-10-13T07:41:07-07:00",
+   "author": "Kel$2046"
+  },
+  {
+   "rating": 1,
+   "title": "Instant Bank Transfer never works!!!",
+   "review": "It asks for scanning QR code on webpages every time you initiate instant bank transfer on your phone. But it is just impossible to scan any QR code with your phone camera when you only have one phone!",
+   "version": "3.75.0",
+   "date": "2026-10-13T07:06:53-07:00",
+   "author": "Pakchoiiii"
+  },
+  {
+   "rating": 1,
+   "title": "Awful bank - they just ignore you, terrible service",
+   "review": "HSBC are rubbish. I hat e the way they continually sending me pop ups asking g for a review. So here\u2019s my review. I hate getting a pop up every time I open the app asking me to write a review. I hope someone from HSBC reads this and takes action.",
+   "version": "3.75.0",
+   "date": "2026-10-13T06:54:58-07:00",
+   "author": "chaucer fan"
+  },
+  {
+   "rating": 1,
+   "title": "Global account",
+   "review": "I have set up a global account, but there seems be no way of paying saved accounts in my normal account. This means I will have to enter payment details all over again - embarrassing and waste of time.",
+   "version": "3.75.0",
+   "date": "2026-10-13T03:34:02-07:00",
+   "author": "Dickie Minto"
   }
  ],
- "record_count": 827,
- "last_fetch_utc": "2026-10-14T12:22:23.399945+00:00"
+ "record_count": 835,
+ "last_fetch_utc": "2026-10-15T12:07:04.473021+00:00"
 }

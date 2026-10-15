@@ -5217,8 +5217,48 @@
    "version": "8.4.0",
    "date": "2026-10-12T02:49:40-07:00",
    "author": "Norfolk person"
+  },
+  {
+   "rating": 5,
+   "title": "Good experience",
+   "review": "Very good experience on using monzo",
+   "version": "8.4.0",
+   "date": "2026-10-13T09:25:57-07:00",
+   "author": "J.C1710"
+  },
+  {
+   "rating": 5,
+   "title": "5 stars",
+   "review": "So helpful!",
+   "version": "8.4.0",
+   "date": "2026-10-13T08:54:49-07:00",
+   "author": "KayCor1"
+  },
+  {
+   "rating": 5,
+   "title": "Top",
+   "review": "Great app",
+   "version": "8.4.0",
+   "date": "2026-10-13T08:48:49-07:00",
+   "author": "Kase Marley"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Best bank in the world",
+   "version": "8.4.0",
+   "date": "2026-10-13T08:40:33-07:00",
+   "author": "Al Kalaam"
+  },
+  {
+   "rating": 5,
+   "title": "Awesome",
+   "review": "Awesome",
+   "version": "8.4.0",
+   "date": "2026-10-13T08:09:04-07:00",
+   "author": "Phillis mc"
   }
  ],
- "record_count": 652,
- "last_fetch_utc": "2026-10-14T12:22:25.195535+00:00"
+ "record_count": 657,
+ "last_fetch_utc": "2026-10-15T12:07:06.831467+00:00"
 }

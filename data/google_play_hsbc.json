@@ -12937,8 +12937,48 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-12T14:53:45",
    "userName": "Colin Chilvers"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use and very helpful q",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-14T08:04:50",
+   "userName": "Tony Vaughan"
+  },
+  {
+   "rating": 1,
+   "content": "App crashes 9 times out of 10 when trying to open it, lacks easy access to info and terrible to navigate.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-13T20:16:29",
+   "userName": "TRON"
+  },
+  {
+   "rating": 1,
+   "content": "It is an awful app that spies on your phone. I have a lot of apps on my phone VERY LEGITIMATE RESPECTED apps that are absolutely essential for my job and hsbc doesn't let me check my account unless I first uninstall all my work apps. This is beyond INSANE, I've never in my life had an app so blatantly invade my privacy Edit: the developer admitted to spying on other apps. My other apps are not interfering in any way whatsoever , they are legitimate apps like kde connect and many others like",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-13T15:57:32",
+   "userName": "Alin Ciocan"
+  },
+  {
+   "rating": 1,
+   "content": "It is completely inaccessible if you have no ID. I had to switch phones due to my old phone's screen cracking, rendering half the screen completely black, so I was unable to scan a QR code. What is the point in having a mobile banking pin if I can't use it to access my own account? This has been an absolute nightmare for months, and for someone with mental health issues who struggles with phone calls, a lot of added stress.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-13T15:51:30",
+   "userName": "Scylla"
+  },
+  {
+   "rating": 1,
+   "content": "Can no longer use app. Latest update prevents app being used with Smart Keyboard Pro an app that I purchased from Google playstore..message says either uninstall Smart Keyboard Pro or use device keyboard and then app shuts...why would I want to uninstall an app I paid for ? App also has a security flaw allowing Biometrics to authorize bank transfers....transferring money should be pin authorize only to prevent vulnerable people being exploited whilst asleep...HSBC fraud prevention is useless.",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-15T22:33:00",
+   "userName": "OnedayataTime"
   }
  ],
- "record_count": 1617,
- "last_fetch_utc": "2026-10-14T12:22:24.438280+00:00"
+ "record_count": 1622,
+ "last_fetch_utc": "2026-10-15T12:07:05.873143+00:00"
 }

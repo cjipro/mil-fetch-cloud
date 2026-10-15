@@ -12657,8 +12657,88 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-12T20:21:15",
    "userName": "Muhammad ismail"
+  },
+  {
+   "rating": 5,
+   "content": "very very helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-14T11:27:13",
+   "userName": "Mohammed rayhan Ahmed"
+  },
+  {
+   "rating": 1,
+   "content": "Switching out resets login process. You are required to supply specific characters of your password which changes each time you need to login. If you apply secure password practices then switching out to your password manager resets the entire login process. Therefore you either need an easy non-complex password or you need to write it down in plaintext so you can avoid switching out. Utterly daft! fix this please!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-14T10:42:10",
+   "userName": "Andrew Hennighan"
+  },
+  {
+   "rating": 3,
+   "content": "not great constantly deregisters and takes ages to set back up",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-14T04:41:25",
+   "userName": "Terri-louise Phelan"
+  },
+  {
+   "rating": 5,
+   "content": "Great for reviewing credit card spend",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-13T19:22:24",
+   "userName": "Julian Harris"
+  },
+  {
+   "rating": 2,
+   "content": "The app is getting slower per update, I could switch to net banking, but that's intentionally made hard to use. Stop trying to add features and and restrictions. Instead focus on better UX for people with low-end devices and smaller storage.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-13T19:13:56",
+   "userName": "Rahul (Rua)"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent yes yes",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-13T18:48:29",
+   "userName": "Jon Tiley"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-10-13T16:07:02",
+   "userName": "Eric Parrack"
+  },
+  {
+   "rating": 1,
+   "content": "Nightmare! furious that I can't access things and I am computer literate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-13T13:16:04",
+   "userName": "Debs Rutter"
+  },
+  {
+   "rating": 1,
+   "content": "can't do balance transfer.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-13T12:46:22",
+   "userName": "Rajul Bhavsar"
+  },
+  {
+   "rating": 5,
+   "content": "easy to navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-13T12:28:19",
+   "userName": "John Margetts"
   }
  ],
- "record_count": 1582,
- "last_fetch_utc": "2026-10-14T12:22:19.075744+00:00"
+ "record_count": 1592,
+ "last_fetch_utc": "2026-10-15T12:07:00.485656+00:00"
 }
