@@ -12737,8 +12737,72 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-13T12:28:19",
    "userName": "John Margetts"
+  },
+  {
+   "rating": 5,
+   "content": "Reliable, easy to use account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-15T09:53:26",
+   "userName": "Alan Sturrock"
+  },
+  {
+   "rating": 4,
+   "content": "Good app. Knocked a star off as cannot see my card details in the app without facial recognition being set up, which my phone isn't able to do or that I want to do.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-15T09:31:27",
+   "userName": "Hayley McCormack"
+  },
+  {
+   "rating": 5,
+   "content": "Though it is too much for an aging brain, it is a well built app. I have difficulties at times to navigate through, it is still a great bank and app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-15T09:26:20",
+   "userName": "Nalliah Sivanathan"
+  },
+  {
+   "rating": 1,
+   "content": "borderline unusable. it keeps resetting every time you background so you cant check details from other apps etc.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-15T09:11:17",
+   "userName": "Allan Bentham"
+  },
+  {
+   "rating": 1,
+   "content": "it doesn't work",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-15T08:44:24",
+   "userName": "Jude Cummins"
+  },
+  {
+   "rating": 1,
+   "content": "The worst login ever. Seems to be back 20 years ago, when they ask you the 3rd, 4th and 11th character of your password. How does this makes it more secure? Never heard of MFA? Are you so old minded? In addition to this the login works only on Web, I cannot figure out why it fails on app. Do not call support, they are extremely slow.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-14T15:16:28",
+   "userName": "Andrea"
+  },
+  {
+   "rating": 5,
+   "content": "Happy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-14T14:14:11",
+   "userName": "Emma Haycox"
+  },
+  {
+   "rating": 2,
+   "content": "Was great until it refuses to open any statements saying try later. Am using the latest version. And I've just changed to paperless, so this is infuriating. Been over a week.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-14T12:25:46",
+   "userName": "Kathryn Stickley"
   }
  ],
- "record_count": 1592,
- "last_fetch_utc": "2026-10-15T12:07:00.485656+00:00"
+ "record_count": 1600,
+ "last_fetch_utc": "2026-10-16T11:54:08.625372+00:00"
 }

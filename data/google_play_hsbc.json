@@ -12977,8 +12977,72 @@
    "reviewCreatedVersion": "3.74.0",
    "at": "2026-09-15T22:33:00",
    "userName": "OnedayataTime"
+  },
+  {
+   "rating": 5,
+   "content": "Amazing!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-15T09:44:10",
+   "userName": "Sneha Pansare"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-15T09:24:33",
+   "userName": "Paul Attwood"
+  },
+  {
+   "rating": 5,
+   "content": "Great banking service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-14T21:33:56",
+   "userName": "Azam Sadiq"
+  },
+  {
+   "rating": 1,
+   "content": "no good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-14T19:44:15",
+   "userName": "Khan Mohammed Nadir"
+  },
+  {
+   "rating": 5,
+   "content": "good \ud83d\udc4d\ud83c\udffd",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-14T18:43:21",
+   "userName": "Abdul Baba"
+  },
+  {
+   "rating": 1,
+   "content": "very poor always quits on you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-14T14:25:37",
+   "userName": "Mick Blast"
+  },
+  {
+   "rating": 3,
+   "content": "navigation is unclear. most of the app is dedicated to promoting additional financial services rather than making day-to-day banking easier.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-14T14:04:57",
+   "userName": "Matt Hiely-Rayner"
+  },
+  {
+   "rating": 5,
+   "content": "Always on point",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-14T12:39:01",
+   "userName": "Onyinyechi"
   }
  ],
- "record_count": 1622,
- "last_fetch_utc": "2026-10-15T12:07:05.873143+00:00"
+ "record_count": 1630,
+ "last_fetch_utc": "2026-10-16T11:54:10.465867+00:00"
 }
