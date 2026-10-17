@@ -11873,8 +11873,64 @@
    "reviewCreatedVersion": null,
    "at": "2026-10-14T14:34:46",
    "userName": "Pete"
+  },
+  {
+   "rating": 4,
+   "content": "so easy to use and very quick to open an account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-16T07:46:31",
+   "userName": "Diane Jenkins"
+  },
+  {
+   "rating": 5,
+   "content": "all positive currently",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-16T05:34:13",
+   "userName": "Claire Latter"
+  },
+  {
+   "rating": 5,
+   "content": "better by far.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-10-15T19:10:49",
+   "userName": "Stephen Bayley"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-15T18:54:22",
+   "userName": "Margaret Swindlehurst"
+  },
+  {
+   "rating": 4,
+   "content": "very nice app has a lot of little features that make your time interacting with this app convenient and wonderful, overall a Very nice app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-15T16:17:53",
+   "userName": "D Ade"
+  },
+  {
+   "rating": 5,
+   "content": "fab banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-15T15:48:13",
+   "userName": "L W"
+  },
+  {
+   "rating": 5,
+   "content": "MONZO. The most fantastic Internet Banking application there is and it's 100% user friendly ensuring it's customers are informed in all aspects of their money. Truly amazing! You will not be disappointed. :-) Download it today.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-15T15:12:10",
+   "userName": "Pauline Treadway"
   }
  ],
- "record_count": 1484,
- "last_fetch_utc": "2026-10-16T11:54:11.261755+00:00"
+ "record_count": 1491,
+ "last_fetch_utc": "2026-10-17T11:10:32.815549+00:00"
 }
