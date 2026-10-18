@@ -11929,8 +11929,80 @@
    "reviewCreatedVersion": "8.4.0",
    "at": "2026-10-15T15:12:10",
    "userName": "Pauline Treadway"
+  },
+  {
+   "rating": 1,
+   "content": "useless, app spent 3 days doing something it said should take between 5mins and an hour. I gave up and deleted it in the end, and that was from an invite link, absolutely useless.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-17T10:22:13",
+   "userName": "James Lynch"
+  },
+  {
+   "rating": 1,
+   "content": "Annoyingly only able to log in on one device! Limits my usage of the banking application",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-17T10:11:33",
+   "userName": "Christian Cunniffe"
+  },
+  {
+   "rating": 5,
+   "content": "it's amazing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-17T05:27:03",
+   "userName": "Moh Browne"
+  },
+  {
+   "rating": 5,
+   "content": "its great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-16T17:38:18",
+   "userName": "Jenson"
+  },
+  {
+   "rating": 5,
+   "content": "well recommended. The bank is not a royalty but walk and work as Royals",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-16T15:23:42",
+   "userName": "Gift Acholonu"
+  },
+  {
+   "rating": 5,
+   "content": "A beautifully designed app, if you struggle to budget and stay on top of your spending- definitely will help you keep everything on track. I would recommend a 1000%",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-16T15:05:59",
+   "userName": "Shanice Scott"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-16T15:01:11",
+   "userName": "Paul Raybould"
+  },
+  {
+   "rating": 5,
+   "content": "My experiences with Monzo Bank are generally split, with strong praise for its app usability and mixed-to-negative feedback regarding customer service and account restrictions.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-16T12:48:04",
+   "userName": "Jasper Maina"
+  },
+  {
+   "rating": 5,
+   "content": "fab banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-15T15:48:13",
+   "userName": "Laura"
   }
  ],
- "record_count": 1491,
- "last_fetch_utc": "2026-10-17T11:10:32.815549+00:00"
+ "record_count": 1500,
+ "last_fetch_utc": "2026-10-18T11:42:26.966593+00:00"
 }

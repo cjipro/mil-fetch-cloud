@@ -13105,8 +13105,64 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-15T16:25:54",
    "userName": "Ailsa Smith"
+  },
+  {
+   "rating": 1,
+   "content": "trying to login the app sends you round, and round in circles - so very, very frustrating. I have wasted over an hour on my registered devices.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.57.0",
+   "at": "2026-10-17T10:52:31",
+   "userName": "Peter Lane"
+  },
+  {
+   "rating": 5,
+   "content": "Best of all the banks by a mile.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-17T09:30:58",
+   "userName": "David Woodward"
+  },
+  {
+   "rating": 5,
+   "content": "great working app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-17T08:41:34",
+   "userName": "Ominence5"
+  },
+  {
+   "rating": 1,
+   "content": "The latest update needs an extremely huge amount of space to update. I've freed up 2GB space, tried multiple times, it gets to 100% and then nothing happens. I need to make an urgent transaction since yesterday, that requires approval in the banking app, but I can't, because it needs an update that can't be done. HSBC has left me in the lurch, without the app, unable to make this transaction and making me spend hours clearing space, deleting other apps I need, and trying again. Please fix, HSBC",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-17T07:06:01",
+   "userName": "Chantara x"
+  },
+  {
+   "rating": 5,
+   "content": "good,works very well",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-16T23:36:07",
+   "userName": "Ipaalo Ndhlovu"
+  },
+  {
+   "rating": 3,
+   "content": "Update in October 2026 has stopped biometric login from working. Now I have to enter my PIN. If I try to re-enable biometric login, the app will crash and the home screen comes up. Also not all account activity produces a notification. So I need to login just to see the notifications I have missed. This app used to be very good. Sad to see it has become this buggy.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-16T17:53:09",
+   "userName": "Graeme Robinson"
+  },
+  {
+   "rating": 4,
+   "content": "It's a handy way to keep track of my bank accounts.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-16T12:00:05",
+   "userName": "Margaret Hall"
   }
  ],
- "record_count": 1638,
- "last_fetch_utc": "2026-10-17T11:10:31.536758+00:00"
+ "record_count": 1645,
+ "last_fetch_utc": "2026-10-18T11:42:25.535910+00:00"
 }
