@@ -13161,8 +13161,88 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-16T12:00:05",
    "userName": "Margaret Hall"
+  },
+  {
+   "rating": 2,
+   "content": "no way to make pots of money within a single account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-18T13:10:53",
+   "userName": "alex jupp"
+  },
+  {
+   "rating": 3,
+   "content": "Do you think you should allow user to pay with QR code or virtual debit card? Hi HSBC, It is the app that I am talking about, not your social media.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-18T13:00:01",
+   "userName": "Dump App"
+  },
+  {
+   "rating": 5,
+   "content": "it's very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-18T11:20:37",
+   "userName": "JOHN_ ALLEN_ISRAEL"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-18T10:42:02",
+   "userName": "Ramins Bolkvadze"
+  },
+  {
+   "rating": 1,
+   "content": "so difficult to deposit a cheque",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-18T09:37:36",
+   "userName": "Judith Edwards"
+  },
+  {
+   "rating": 1,
+   "content": "no way to allow a screenshot, no way to export a transaction in a pdf, no way to see the transaction time, just date. a crippled application.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-17T19:41:49",
+   "userName": "Yaroslav"
+  },
+  {
+   "rating": 5,
+   "content": "Very efficient service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-17T18:41:44",
+   "userName": "Anthony Bertrand"
+  },
+  {
+   "rating": 1,
+   "content": "Rubbish - where is my pin?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-17T17:31:34",
+   "userName": "David Wilburn"
+  },
+  {
+   "rating": 2,
+   "content": "find your nearest branch? the way they are closing branches????? absolute joke. try to get to your nearest branch, and see how long it takes.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-17T14:32:08",
+   "userName": "Ian Bateman"
+  },
+  {
+   "rating": 1,
+   "content": "never works!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-17T12:58:05",
+   "userName": "Clive Stoneman"
   }
  ],
- "record_count": 1645,
- "last_fetch_utc": "2026-10-18T11:42:25.535910+00:00"
+ "record_count": 1655,
+ "last_fetch_utc": "2026-10-19T13:56:52.285665+00:00"
 }
