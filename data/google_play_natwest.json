@@ -13073,8 +13073,80 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-17T15:26:44",
    "userName": "W ill"
+  },
+  {
+   "rating": 5,
+   "content": "great bank great service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-19T11:27:32",
+   "userName": "Alan Wrightson"
+  },
+  {
+   "rating": 4,
+   "content": "Very good app and easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-19T11:05:39",
+   "userName": "Adnan Omar"
+  },
+  {
+   "rating": 5,
+   "content": "I have been with Nat West for over 50 years and have always been very happy with the service I have received. I've now moved on to mobile banking and using the app both of which give me security and up to date information.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-19T07:06:10",
+   "userName": "Isobel Biss"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent bank Brillent thanks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-19T06:00:05",
+   "userName": "MICHAEL ADAMI"
+  },
+  {
+   "rating": 5,
+   "content": "It's excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-18T23:50:11",
+   "userName": "Keith Moffat"
+  },
+  {
+   "rating": 5,
+   "content": "Great app everything is really straightforward to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-18T21:22:40",
+   "userName": "craig"
+  },
+  {
+   "rating": 5,
+   "content": "Great rates",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-18T20:45:15",
+   "userName": "Bazza B"
+  },
+  {
+   "rating": 1,
+   "content": "Absolutely rubbish, will not be using in the future",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-18T16:02:50",
+   "userName": "Paul Hamilton"
+  },
+  {
+   "rating": 5,
+   "content": "very helpful staff at newton abbot branch",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-18T15:47:20",
+   "userName": "Carole Ridley"
   }
  ],
- "record_count": 1634,
- "last_fetch_utc": "2026-10-19T13:56:48.685995+00:00"
+ "record_count": 1643,
+ "last_fetch_utc": "2026-10-20T12:11:38.915163+00:00"
 }

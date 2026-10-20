@@ -6913,8 +6913,64 @@
    "version": "3.75.4",
    "date": "2026-10-17T00:46:30-07:00",
    "author": "Cumbo."
+  },
+  {
+   "rating": 3,
+   "title": "Balance column",
+   "review": "Don\u2019t know why the balance column has been removed, which is very useful to have there.",
+   "version": "3.75.4",
+   "date": "2026-10-18T19:36:34-07:00",
+   "author": "Ismet_Hoti"
+  },
+  {
+   "rating": 3,
+   "title": "Solid Championship mid-table",
+   "review": "Just joined HSBC for specific reasons, and I'm told the app recently had an \"upgrade\". Bless it. Right now it's a mid-table Championship side: decent stadium, no striker.\n\nPayments: want to change the reference on a saved payment? You have to delete it and start again, like sacking the manager after one draw. Monzo and Starling do it in two taps.\n\nSwitching: my payee names came over from my old bank scrambled at least in the app.\n\nSlightly bloated and beige. It's a very reliable filing cabinet. The UX needs some sexiness and a spark, because at the moment it's a first date with an ex who got married then divorced and wants to get back with you but you\u2019re not that interested.\n\nFix the reference editing and the names add a bit of Monzo/Staling spice and you might get promoted - or at least a chance in the playoffs\u2026..",
+   "version": "3.75.4",
+   "date": "2026-10-18T15:44:06-07:00",
+   "author": "Sokuryo125"
+  },
+  {
+   "rating": 5,
+   "title": "Very good service",
+   "review": "I find the whole experience of logging on user-friendly and easy to coordinate. It\u2019s a safe and secure system which can be tailored to your needs.\nA non complicated easy to follow log in. \nKeep up the good work HSBC. I wouldn\u2019t go to any other bank.",
+   "version": "3.75.4",
+   "date": "2026-10-18T10:07:01-07:00",
+   "author": "Jackie O Positive"
+  },
+  {
+   "rating": 5,
+   "title": "Good reliable service",
+   "review": "Good service works efficiently . Easy to   chat with advisor if needing help",
+   "version": "3.75.4",
+   "date": "2026-10-18T06:57:34-07:00",
+   "author": "shopper at 60"
+  },
+  {
+   "rating": 4,
+   "title": "Still working it out",
+   "review": "But getting the hang of it!",
+   "version": "3.75.4",
+   "date": "2026-10-18T03:37:01-07:00",
+   "author": "No name bod"
+  },
+  {
+   "rating": 2,
+   "title": "Can\u2019t pay my credit card balance without a current account?",
+   "review": "Instead of displaying an error message and requiring me to use the chat feature, why not disable the \u201cMake a payment\u201d button for non-current account holders, or provide the account information for me to make payments through my own bank.\n\nOr, implement the feature?",
+   "version": "3.75.4",
+   "date": "2026-10-18T03:19:50-07:00",
+   "author": "spellers82"
+  },
+  {
+   "rating": 1,
+   "title": "Unhappy",
+   "review": "I wanted to make a transfer that exceeded the daily limit by a mere \u00a3850 so the app told me to start a chat to resolve the situation. The operative that I was chatting to spent the entire conversation telling me that I had NOT tried to make a transfer and that the reason I was blocked was a problem with the vendor not HSBC. I repeatedly explained that this was incorrect and his suggestion of \u201cjust trying again\u201d, would not work. In fact he incorrectly told me that I could simply increase the \u00a350000 limit to whatever I wanted via the app! After much discussion he eventually gave me the elusive phone number for HSBC so I could make a traditional phone call to someone more senior. I made the call and gave a lot of sensitive information to a pleasant call handler. She then transferred me to a different department. I got a similarly pleasant person who asked me for the same information again. In addition, he took me through 15 minutes of extra security questions to ensure I wasn\u2019t a fraudster. By the end he knew almost everything about me including how many years I\u2019d lived at my current address which strikes me as an odd fraudster-identifier. Anyway, towards the end of what felt like an endurance event, during which I was asked for the same information several times, I was asked for the 16 digit number on my card. Unfortunately, as I had already explained, I was travelling and my card was at home. I asked if it was something I could access via my app and was told that the caller couldn\u2019t advise me on that. Turns out I could have easily accessed that information via the app but sadly I didn\u2019t try as I thought it was a long shot and the call handler couldn\u2019t advise me on the matter despite likely knowing the answer. So, I was informed that I had failed the security process and was unable to access my own money. The call handler couldn\u2019t confirm what I got wrong. \n\nThe initial on-line chat handler was definitely misinformed about how HSBC operates which is alarming to me. The phone call handlers seemed better informed and pleasant but were clearly tied by HSBC policy wrt helping me access my funds. The whole experience was pretty negative as the overall tone of the HSBC experience was that I was a liar and a potential fraudster rather than a genuine customer kind enough to allow HSBC temporary access to her funds. I have several bank accounts and have banked with one in particular my whole adult life. I have never experienced such difficulty with transferring a larger sum. More importantly, I have never been made to feel that the onus was on me to convince the bank that I am a legitimate customer. In the days of facial recognition technology it\u2019s impossible to believe that I could have had access to the information I did without actually being me. It felt like the massively over inclusive process was designed to protect HSBC from fraud rather than protecting me, the customer. It also stood directly in the way of providing me with a service.  I understand security is a priority but in this case I think you over egged it. I\u2019m sure there is a way to protect your customers whilst making them feel reassured that you are banking hard on their behalf. More customer care work is required to ensure legitimate customers can access their funds and be provided with an actual service. I\u2019m thinking of closing my account. 1 star out of 5.",
+   "version": "3.75.4",
+   "date": "2026-10-18T03:06:00-07:00",
+   "author": "DrKB100!@!"
   }
  ],
- "record_count": 864,
- "last_fetch_utc": "2026-10-19T13:56:51.189597+00:00"
+ "record_count": 871,
+ "last_fetch_utc": "2026-10-20T12:11:42.203670+00:00"
 }

@@ -12057,8 +12057,24 @@
    "reviewCreatedVersion": "8.4.0",
    "at": "2026-10-17T12:52:56",
    "userName": "Hannah Brunsdon"
+  },
+  {
+   "rating": 1,
+   "content": "Good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.35.0",
+   "at": "2026-10-18T17:56:07",
+   "userName": "Ramesh Bahadur"
+  },
+  {
+   "rating": 3,
+   "content": "I love it, but we need under-16 Samsung Wallet support.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-18T15:00:13",
+   "userName": "Josh Dont need to know my last name"
   }
  ],
- "record_count": 1507,
- "last_fetch_utc": "2026-10-19T13:56:53.894698+00:00"
+ "record_count": 1509,
+ "last_fetch_utc": "2026-10-20T12:11:45.165706+00:00"
 }

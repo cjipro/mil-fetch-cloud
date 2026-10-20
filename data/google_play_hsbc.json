@@ -13241,8 +13241,88 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-17T12:58:05",
    "userName": "Clive Stoneman"
+  },
+  {
+   "rating": 1,
+   "content": "Someone decided to update the app, now I have no access to my accounts!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-19T11:09:14",
+   "userName": "Kennisch Enahoro"
+  },
+  {
+   "rating": 5,
+   "content": "Really good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-19T09:44:25",
+   "userName": "Paul Fenner"
+  },
+  {
+   "rating": 2,
+   "content": "taking too long to apply for a current account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-19T09:14:20",
+   "userName": "Jane Ricco"
+  },
+  {
+   "rating": 2,
+   "content": "dont know why this has appeared",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-19T08:22:26",
+   "userName": "Andrew Davey"
+  },
+  {
+   "rating": 1,
+   "content": "oh look I can't get in. it is timing out when I try to upload my id but I can get onto Moneybox , AMEX without any problems. They (HSBC) are reporting no problems. And yes I have cleared my cache , checked the settings, switched my phone off etc What a joke.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-19T07:44:38",
+   "userName": "Leo James Ward"
+  },
+  {
+   "rating": 5,
+   "content": "I would recommend HSBC to anyone asking about in the UK.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-19T05:14:05",
+   "userName": "Fidelis Ajayi"
+  },
+  {
+   "rating": 4,
+   "content": "Hi there I am looking for my account and you appear , I appreciate your help and time thanks a lot",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-19T04:24:32",
+   "userName": "EFTHYMIA HADJIMITSI"
+  },
+  {
+   "rating": 5,
+   "content": "fine",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-18T20:31:07",
+   "userName": "Shailesh Patel"
+  },
+  {
+   "rating": 1,
+   "content": "Good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-10-18T17:55:59",
+   "userName": "Ramesh Bahadur"
+  },
+  {
+   "rating": 4,
+   "content": "Since the recent update, HSBC app will not work in Samsung secure folder, posing a security risk,  anybody that picks up my phone whilst unlocked can SEE my banking app. The best workaround I have found is to hide the app from home or app screen and then use Bixby to launch the app whilst hidden. (voice command). Only works UI 9,android 17.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-18T15:57:11",
+   "userName": "Colin Wells"
   }
  ],
- "record_count": 1655,
- "last_fetch_utc": "2026-10-19T13:56:52.285665+00:00"
+ "record_count": 1665,
+ "last_fetch_utc": "2026-10-20T12:11:43.403568+00:00"
 }
