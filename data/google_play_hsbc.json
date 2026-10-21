@@ -13321,8 +13321,72 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-10-18T15:57:11",
    "userName": "Colin Wells"
+  },
+  {
+   "rating": 5,
+   "content": "nice .very good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-20T12:04:29",
+   "userName": "Michael Smith"
+  },
+  {
+   "rating": 3,
+   "content": "Works well but a bit clunky compared to other banking apps.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-20T11:58:34",
+   "userName": "p h"
+  },
+  {
+   "rating": 5,
+   "content": "best bank by a million miles!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-20T11:48:39",
+   "userName": "Mark Gallastegi-Majda"
+  },
+  {
+   "rating": 5,
+   "content": "always a great quick way on paying bills and transferring monies",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-20T08:32:02",
+   "userName": "Sandra Jackson"
+  },
+  {
+   "rating": 1,
+   "content": "very old fashioned app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-20T07:18:09",
+   "userName": "Shab Syed"
+  },
+  {
+   "rating": 1,
+   "content": "when I set up a new contract with anyone I always either set up a standing order or direct payment so when I opened a new standing order with this bank I was glad I wouldn't have to worry getting cut off my sim card and no phone except for wifi at home and in hsbc branch in Belfast UK and everything was going to plan paid account in june and for the following 3 months then no payment in October 26 there reply no standing order was opened well why pay for 4 months if I didn't set it up RUBBISH!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-20T01:49:10",
+   "userName": "Thomas David McClinton"
+  },
+  {
+   "rating": 3,
+   "content": "Useful but slow.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-19T23:50:36",
+   "userName": "Oluwatobi Oyede"
+  },
+  {
+   "rating": 2,
+   "content": "No option to share receipt of money transfer to the receiver. App UX/UI needs more improvements.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-19T21:20:37",
+   "userName": "Joel GeorgeUK"
   }
  ],
- "record_count": 1665,
- "last_fetch_utc": "2026-10-20T12:11:43.403568+00:00"
+ "record_count": 1673,
+ "last_fetch_utc": "2026-10-21T12:24:48.921269+00:00"
 }

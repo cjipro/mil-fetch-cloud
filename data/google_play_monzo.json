@@ -12073,8 +12073,80 @@
    "reviewCreatedVersion": "8.4.0",
    "at": "2026-10-18T15:00:13",
    "userName": "Josh Dont need to know my last name"
+  },
+  {
+   "rating": 1,
+   "content": "Slow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.12.0",
+   "at": "2026-10-20T10:43:08",
+   "userName": "John Attridge"
+  },
+  {
+   "rating": 5,
+   "content": "have been, am, and will be, using this Bank for some time to come. Even does mobile phones. Extremely easy to use and see just where your money is going. I'd be lost without it now.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-20T08:58:57",
+   "userName": "Peter Charlton"
+  },
+  {
+   "rating": 5,
+   "content": "perfect, like Revolte but seems better",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-19T20:40:03",
+   "userName": "Rachel Murphy"
+  },
+  {
+   "rating": 2,
+   "content": "latest Update 19/10/26 - Dropped to 2 stars now. Still not fixed the security issue when switching between apps, only asks for security pin upon first opening but not when switching between apps. Also can we have the option for the original app sounds back, no one likes these new ones that match your \"sonic brand update\", they just sound wrong and also really quiet.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-19T15:52:40",
+   "userName": "Dean Shepherd"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-19T15:39:16",
+   "userName": "Julie Marriott"
+  },
+  {
+   "rating": 5,
+   "content": "woww u can borrow up to 27,000 pounds",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-19T15:04:49",
+   "userName": "Serenabeverley"
+  },
+  {
+   "rating": 5,
+   "content": "i love it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.2.0",
+   "at": "2026-10-19T15:00:36",
+   "userName": "BABAK M (Bobby)"
+  },
+  {
+   "rating": 1,
+   "content": "Really annoyed by the onboarding, which includes a classic, abusive dark pattern. That says a lot about how they view you and me - like something that's here for them, not the other way around. They force you to accept a free trial of the \u00a33/m 'Extras' level, and tell you how to disable this later. But assuming you still remember by the end, they then insert multiple unnecessary steps to make it hard for you in the hope you will give up.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-19T14:41:27",
+   "userName": "Pixie Pixie"
+  },
+  {
+   "rating": 5,
+   "content": "I lost my Monzo card and ordered it replacement. it was really easy to do and came in 3 days",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-19T13:08:19",
+   "userName": "Ho ho"
   }
  ],
- "record_count": 1509,
- "last_fetch_utc": "2026-10-20T12:11:45.165706+00:00"
+ "record_count": 1518,
+ "last_fetch_utc": "2026-10-21T12:24:50.491658+00:00"
 }
