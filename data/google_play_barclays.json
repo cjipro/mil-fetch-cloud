@@ -21449,8 +21449,488 @@
    "reviewCreatedVersion": "8.28.2",
    "at": "2026-10-19T14:21:50",
    "userName": "Byron Needham"
+  },
+  {
+   "rating": 1,
+   "content": "bad, it has a bug, when first install the app was working perfectly, until 10 min after suddenly doesnt go to credit card and stuck in loading until you terminate it, even u close and reopen same think, I delete it multiple times but still same.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-21T11:57:49",
+   "userName": "Vasileios Dramis"
+  },
+  {
+   "rating": 1,
+   "content": "hate the new app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T11:36:27",
+   "userName": "Robots Unite"
+  },
+  {
+   "rating": 3,
+   "content": "Cannot view any documents. Clicking any document crashes the app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T11:29:45",
+   "userName": "David Bennett"
+  },
+  {
+   "rating": 1,
+   "content": "what have you done to the set out in your app? the new update is horrendous.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-21T11:26:38",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "works perfect",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T10:49:36",
+   "userName": "Carl Canfield"
+  },
+  {
+   "rating": 4,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T10:16:48",
+   "userName": "Tariq Assi"
+  },
+  {
+   "rating": 3,
+   "content": "hard 2 figure what 2",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.22.3",
+   "at": "2026-10-21T09:23:22",
+   "userName": "Shaun Knight"
+  },
+  {
+   "rating": 3,
+   "content": "latest updates a bit of a mixed bag: the thing that is bugging me the most right now is that I used to be able to scroll back through the transactions and see the end-of day balance (so I could easily compare any specific point in the month with a previous month) - that's gone now, replaced by utterly useless 'total of the day'. Please change it back! On the plus side transaction search finally seems to work properly and can now find things I can clearly see with my own eyes!",
+   "thumbsUpCount": 60,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T09:09:17",
+   "userName": "Ian Love"
+  },
+  {
+   "rating": 5,
+   "content": "This app is great and so easy to use. I've banked with Barclays for a very long time, and they've never let me down.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-10-21T09:03:51",
+   "userName": "Ann McCann"
+  },
+  {
+   "rating": 1,
+   "content": "unusable",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T08:42:44",
+   "userName": "Debbie Buckley"
+  },
+  {
+   "rating": 1,
+   "content": "Looks like a 5 yr old made the upgrade Hate it",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-21T08:33:55",
+   "userName": "Sue Turner"
+  },
+  {
+   "rating": 3,
+   "content": "very new to me what im used to but hopefully get the hang of it thank you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.21.0",
+   "at": "2026-10-21T07:17:14",
+   "userName": "Clare Leonard"
+  },
+  {
+   "rating": 1,
+   "content": "only given one star because I can't give zero. New changes with the multi-coloured icons is awful! It hurts my eyes and is visually distracting. Finding it hard to look for what I need. I'm surprised Barclays aren't inclusive enough to consider people with brain processing problems when designing these things. considering changing banks because of it",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T07:13:12",
+   "userName": "Tracy Hughes"
+  },
+  {
+   "rating": 1,
+   "content": "I have an old phone and now cannot access my accounts!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.21.0",
+   "at": "2026-10-21T06:53:40",
+   "userName": "Heather B"
+  },
+  {
+   "rating": 3,
+   "content": "doesn't seem like much of an improvement to me...",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T06:53:31",
+   "userName": "David Pyatt"
+  },
+  {
+   "rating": 4,
+   "content": "Its really useful but I prefer the old layout and look of the app",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T06:20:52",
+   "userName": "Bethan Codd"
+  },
+  {
+   "rating": 2,
+   "content": "The new update is not an improvement. Why can't I see the total pending payments anymore? Just individually... And why do my balances jump around everytime I log in? My balance is higher today than yesterday and I haven't spent anything...",
+   "thumbsUpCount": 4,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T05:54:13",
+   "userName": "Harry 3"
+  },
+  {
+   "rating": 1,
+   "content": "dont like the new version. its not that clear than before. also the barclaycard bit is confusing, before you could differentiate spending by month and what was spent up to payment date...",
+   "thumbsUpCount": 4,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T00:14:44",
+   "userName": "robert varga"
+  },
+  {
+   "rating": 1,
+   "content": "Horribly updated app. Everything is awful, the layout, the fonts, the colours, the options. No closing balance, just makes me super angry. Who worked on this update? it's a complete failure. Bring back the original one! I hate it now",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-21T00:00:50",
+   "userName": "Olga Volc"
+  },
+  {
+   "rating": 1,
+   "content": "New update rolled out - still feels like banking in 2006 - why are screenshots still disabled? Add an option to opt in or out for those that would actually be able to have some functionality.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T22:10:49",
+   "userName": "Ben B"
+  },
+  {
+   "rating": 1,
+   "content": "Who decided this garbage was a suitable replacement for Barclaycard online servicing, or as a useful banking app? Huge icons, lots of white space, and predefined categories that aren't as good as the ones I used to be able to define myself, do not a good experience make. Please bring back the online servicing so that I don't have to endure this pile of steaming manure! This design is a huge mistake, at best. You claim this is better. If you really believe that, you must be delusional.",
+   "thumbsUpCount": 6,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-20T21:32:23",
+   "userName": "M"
+  },
+  {
+   "rating": 5,
+   "content": "Barclays Bank is the Best",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T21:16:05",
+   "userName": "Bee Cha"
+  },
+  {
+   "rating": 3,
+   "content": "Difficult to access",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.20.1",
+   "at": "2026-10-20T21:07:12",
+   "userName": "John Marshall"
+  },
+  {
+   "rating": 4,
+   "content": "Much improved by recent updates",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T20:51:09",
+   "userName": "Roger Jeynes"
+  },
+  {
+   "rating": 1,
+   "content": "Don't update the app. I did and now I can't access my account. it buffers constantly when trying to access specific accounts on the app. Useless.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-20T20:34:51",
+   "userName": "P D"
+  },
+  {
+   "rating": 5,
+   "content": "a very good bank account",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T20:16:19",
+   "userName": "Mark Jones"
+  },
+  {
+   "rating": 2,
+   "content": "ok if it works. on my new phone it sits for 15+ minutes to log in, often prompting me asking if I am still there. Barclays have no solution past uninstalling. I'm going to have to change banks. EDIT AFTER REPLY - Barclays have given me the help page on their site to sort it. i have contacted them multiple times and spoken on the phone with no help. Usless. I'm moving to Monzo.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T20:12:13",
+   "userName": "Peter Leatherland"
+  },
+  {
+   "rating": 2,
+   "content": "new upgrade looks very odd and not nice. i would prefer the old version. thank you",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T19:58:33",
+   "userName": "Sandesh Lawati"
+  },
+  {
+   "rating": 2,
+   "content": "Really hate the updated app. Previously I could see the balance on my account in the transactions list at the end of each day, making it clear how my money was being spent. Now it just gives me a single value at the top. Also, there is an advert for an offer at the top of each page which means I can only see transactions in the bottom half of the page. Please can you provide an option to go back to the old view!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T19:40:58",
+   "userName": "Martin Hampshire"
+  },
+  {
+   "rating": 2,
+   "content": "** Update: this used to be a good app until the recent update. Now if I want to pay someone or transfer money, it takes longer as the account swipe has been removed ** Great app, so simple to use. I never need to use the website and it's possible to call customer services from the app - very, very useful. It definitely needs dark mode though.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T19:34:04",
+   "userName": "Adrian Emmott"
+  },
+  {
+   "rating": 1,
+   "content": "unable to easily check what my balance was for any date in the past, e.g. 60 days ago. The previous version of this app did have this functionality but the new app seems to have removed it. This is a backward step and is not helpful.",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-20T19:22:42",
+   "userName": "Fitzpas1"
+  },
+  {
+   "rating": 1,
+   "content": "update looks ridiculous",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T18:34:31",
+   "userName": "Olu Adedimeji (Olu)"
+  },
+  {
+   "rating": 1,
+   "content": "Big step backwards. Most critical feature to me is to be able to see my balance at the end of each day. This feature has been there for years until this dreadful update. Please repair this massive error immediately. All other banks have this feature.........",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T18:24:22",
+   "userName": "Peter Gare"
+  },
+  {
+   "rating": 5,
+   "content": "Very clear and easy to use app. The app designers have really excelled themselves",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-20T18:13:00",
+   "userName": "Becky Reed"
+  },
+  {
+   "rating": 1,
+   "content": "not very good old app better",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-20T17:46:18",
+   "userName": "edith graham"
+  },
+  {
+   "rating": 1,
+   "content": "Wont work, im fed up with it i just want to acess my account.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.27.3",
+   "at": "2026-10-20T17:45:08",
+   "userName": "Raymond Campbell"
+  },
+  {
+   "rating": 1,
+   "content": "Samsung 23+ with Android 17.... Cant get the app to load. Stuck on barclays loading screen. Tried Barclaycard app and same issue. Deleted app, cleared data, cache, checked conflicting apps. Called Barclays and no one can solve this issue. There is a issue with the app, since the update a lot of users cant login. I give up, going to move my account to another bank.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T17:14:36",
+   "userName": "Amish Patel"
+  },
+  {
+   "rating": 1,
+   "content": "These people aren't real. Someone hacked into my Barclays account and stole my money. I tried calling customer support, but they won't help me the right way. The only option I have left is to take them to court. I'm telling other customers to move their money away from this bad Chinese app bank to somewhere better, or you'll end up upset like me too.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T17:00:36",
+   "userName": "anoop krishnan"
+  },
+  {
+   "rating": 5,
+   "content": "great service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-10-20T16:58:35",
+   "userName": "Darren Doherty"
+  },
+  {
+   "rating": 1,
+   "content": "It was fine until last update. They removed the function to see your balance through the month and made it really confusing",
+   "thumbsUpCount": 12,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-20T16:00:27",
+   "userName": "Gino Franchini"
+  },
+  {
+   "rating": 1,
+   "content": "I've completely changed my review from 5 star to 1 star, the updated new app is horrible ,bordering on child like, who ever came up with this should be sacked, it's horrendous",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T15:58:51",
+   "userName": "Lynne Campbell"
+  },
+  {
+   "rating": 3,
+   "content": "I have now gone from 5 stars down to 3 stars simply because the Barclaycard part of the app is showing an amber alert regarding my next payment which they have already taken from my account. This amber alert should not show after you have received payment. This is an annoyance. Appreciate this is dealt with on the next update.",
+   "thumbsUpCount": 9,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T15:57:17",
+   "userName": "Keith E"
+  },
+  {
+   "rating": 2,
+   "content": "Update following a 5 star review for many years - the new look is ok but not better than ok. I will get used to it but it's no improvement. I won't get used to the way the back button on my phone won't now log out and close. I really dislike this as I no longer know whether the app is securely locked. I hope this will be mended very soon. And the way the app has updates itself looks like my phone has been hacked. Also the new look has dropped the account balance on the transaction list. A pity.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T15:45:24",
+   "userName": "Stephen S"
+  },
+  {
+   "rating": 1,
+   "content": "Not feeling update log out was one button now its three buttons your just waisting my time that I'll never get back why complicate the simple option Time waisting DON'T WORRY the Matrix or the Creator is to be our lives soon apps won't mean a thing KEEP PUSHING BUTTONS",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T15:35:56",
+   "userName": "David Bush"
+  },
+  {
+   "rating": 1,
+   "content": "Hate the latest update. The new layout seems like a step back rather than forward. it looks basic and cheap. and it is hard to find how to do things I used to do easily. Barclays if it ain't broke don't fix it!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T15:07:35",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 1,
+   "content": "The app used to look nice, but now it looks ugly and suspicious. I don't feel safe using it anymore.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T15:01:44",
+   "userName": "Lau Lopes"
+  },
+  {
+   "rating": 1,
+   "content": "The bot keeps saying write your message and then kicks me out while writing! Also, when making a payment, it ALWAYS asking me to fill in the debit card info again and again even after clicking save for future!!! chat option doesn't work and can'tchange my address to a foreign one!! what if you're not in thr UK and trying to pay?! I cant make calls to thr UK at all!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T14:57:51",
+   "userName": "Kinnari Patel"
+  },
+  {
+   "rating": 1,
+   "content": "Keeps locking me out. Have to reinstall for it to work, and then only the once before it locks out again.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T14:18:14",
+   "userName": "James Evans"
+  },
+  {
+   "rating": 4,
+   "content": "There's a need to add a feature that will make previous payments receipts downloadable. I tried to download a particular transaction receipt but couldn't.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T14:09:51",
+   "userName": "Ifeanyi Nwankwo"
+  },
+  {
+   "rating": 2,
+   "content": "Transferring to my own account within the app takes a few taps which used to be just one single swipe. It's not the way forward guys.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:38:14",
+   "userName": "Dave Hernandez"
+  },
+  {
+   "rating": 2,
+   "content": "New updated app version ( rubbish ) always loved how easy to use Barclays app was , the main page, of how much money spent were, everything was clear . Now with new updated version I want to leave Barclays bank as new version just makes no sense and is very hard to use .",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:37:36",
+   "userName": "gabija jumasevaite"
+  },
+  {
+   "rating": 3,
+   "content": "Since the recent update this app doesn't work for me as well as it did. It works but I now need to take more time to do what I want. I don't like the fact that the calendar page no longer exists,it was very useful for me to see when payments were going to be due.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:36:05",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 1,
+   "content": "Oh good you've \"improved\" it, and NOW you stop asking for feedback every five minutes. You've made the home page less useful by reducing the number of accounts to 3 and still can't search in Barclaycard. Why is \"better\" always worse?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.1",
+   "at": "2026-10-20T13:35:01",
+   "userName": "Hat Stand"
+  },
+  {
+   "rating": 3,
+   "content": "Preferred old app as much clearer. Don't know why you have to change a well established layout...?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:34:59",
+   "userName": "Sky Hawk"
+  },
+  {
+   "rating": 5,
+   "content": "easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-20T13:32:14",
+   "userName": "Mick"
+  },
+  {
+   "rating": 3,
+   "content": "Nice app. Very easy to use... After last update it's not looking good anymore. Bring back the old look, this is to bright and annoying \ud83d\ude11",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:30:16",
+   "userName": "Empera Aga"
+  },
+  {
+   "rating": 2,
+   "content": "I personally don't like the update it looks more like a child's banking app in how large the writing is and the simplistic design. I feel that others can see on my banking app much easier from a distance so I do feel my privacy has been compromised slightly. At least it does the same stuff however, really not impressed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:29:24",
+   "userName": "Stephanie Medland"
+  },
+  {
+   "rating": 1,
+   "content": "no need for app changes. the update is awful. I find it so much harder to use. the new layout is horrific and I think after over 15 years as a barclays customer I'm ready to switch to monzo.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:26:24",
+   "userName": "Montana Clark"
+  },
+  {
+   "rating": 1,
+   "content": "Enforced updates prevent APP from working on Samsung",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:07:45",
+   "userName": "annette richardson"
+  },
+  {
+   "rating": 1,
+   "content": "Navigating investments on the Barclays app is clunky and limited. Compared to smoother alternatives, it suffers from endless loading intervals, and inconsistent back buttons. Also, they restrict basic visual performance graphs to premium wealth management tiers; every investor needs clear visual tracking to manage their portfolio effectively. This is a standard industry feature, yet Barclays treats it as an exclusive luxury. Overall, a very poorly-designed app that needs much work.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-10-20T13:05:57",
+   "userName": "Salvatore Giordano"
   }
  ],
- "record_count": 2681,
- "last_fetch_utc": "2026-10-21T12:24:53.943975+00:00"
+ "record_count": 2741,
+ "last_fetch_utc": "2026-10-22T12:25:13.868442+00:00"
 }

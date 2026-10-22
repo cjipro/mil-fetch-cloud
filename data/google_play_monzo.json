@@ -12145,8 +12145,56 @@
    "reviewCreatedVersion": "8.5.0",
    "at": "2026-10-19T13:08:19",
    "userName": "Ho ho"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-20T19:02:06",
+   "userName": "Ian"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-20T18:11:23",
+   "userName": "Jason Donovan"
+  },
+  {
+   "rating": 5,
+   "content": "Awesome service easy and simple to pay friends and bills",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-10-20T15:34:25",
+   "userName": "janpaddy Gordon"
+  },
+  {
+   "rating": 1,
+   "content": "customer service is a joke they make it up as they go along tell you something and then back track minutes later",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-20T15:21:11",
+   "userName": "Andrew O,neill"
+  },
+  {
+   "rating": 5,
+   "content": "I love monzo",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-20T15:00:42",
+   "userName": "Julie Hebbes"
+  },
+  {
+   "rating": 5,
+   "content": "very good banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-09-17T15:09:30",
+   "userName": "mark burness"
   }
  ],
- "record_count": 1518,
- "last_fetch_utc": "2026-10-21T12:24:50.491658+00:00"
+ "record_count": 1524,
+ "last_fetch_utc": "2026-10-22T12:25:10.415418+00:00"
 }

@@ -5601,8 +5601,40 @@
    "version": "8.5.0",
    "date": "2026-10-19T08:04:11-07:00",
    "author": "Liam1295"
+  },
+  {
+   "rating": 1,
+   "title": "Not happy",
+   "review": "Bad coustom service",
+   "version": "8.5.0",
+   "date": "2026-10-20T15:39:47-07:00",
+   "author": "Queens121"
+  },
+  {
+   "rating": 5,
+   "title": "Great customer support",
+   "review": "Best bank I\u2019ve ever used",
+   "version": "8.5.0",
+   "date": "2026-10-20T15:16:51-07:00",
+   "author": "LimiFash"
+  },
+  {
+   "rating": 5,
+   "title": "Ease of use",
+   "review": "It\u2019s so easy to use, almost intuitive\ud83e\udd13",
+   "version": "8.5.0",
+   "date": "2026-10-20T09:34:31-07:00",
+   "author": "jenbatch"
+  },
+  {
+   "rating": 5,
+   "title": "New Monzo account",
+   "review": "Very happy with the my new monoz account",
+   "version": "8.5.0",
+   "date": "2026-10-20T08:01:18-07:00",
+   "author": "Julianwh"
   }
  ],
- "record_count": 700,
- "last_fetch_utc": "2026-10-21T12:24:49.827496+00:00"
+ "record_count": 704,
+ "last_fetch_utc": "2026-10-22T12:25:09.388153+00:00"
 }

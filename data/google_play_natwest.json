@@ -13233,8 +13233,80 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-19T12:56:45",
    "userName": "hannan AH"
+  },
+  {
+   "rating": 1,
+   "content": "so complicated",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-21T11:44:36",
+   "userName": "JD Ness"
+  },
+  {
+   "rating": 1,
+   "content": "Terrible! Tells you what to do if you have a problem, but trying to do it is impossible. Get dizzy being sent in circles.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-21T10:44:22",
+   "userName": "Norman Denning"
+  },
+  {
+   "rating": 5,
+   "content": "spoke to Adela at Natwest absolutely \ud83d\udcaf fabulous thank you Natwest",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.56.0000.4.0",
+   "at": "2026-10-21T10:18:16",
+   "userName": "Donna Burns"
+  },
+  {
+   "rating": 5,
+   "content": "not happy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-21T08:39:59",
+   "userName": "Reece Houghton"
+  },
+  {
+   "rating": 1,
+   "content": "This app implements the insanely over-prudent 'security features' of (i) disabling multitasking, and (ii) unloading the app if you navigate away from it for more than a few nanoseconds. This makes authorising token \u00a30 confirmation transactions (such as the ones PayPal use) and confirming e-mailed passcode during the initial onboarding of the app nigh on impossible without a second device! Do any of fintech app developers actually test their software! Eat the 'dog food' you serve up FFS!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-10-21T06:31:41",
+   "userName": "Lee Hyde"
+  },
+  {
+   "rating": 2,
+   "content": "Poor compared to modern banks. Asks for face and voice approval for authentication? nope. Why does just natwest need it. The UI is bland and boring. No clear benefits with staying with them. Already moved to revolut and monzo and havent looked back and dont miss it at all.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-20T23:05:34",
+   "userName": "_ \u201c\u202aDragonov11011\u202c\u201d _"
+  },
+  {
+   "rating": 1,
+   "content": "straight up can't log in",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-20T21:49:49",
+   "userName": "Jon"
+  },
+  {
+   "rating": 5,
+   "content": "I've been with NatWest for over 50 years and never had any problems",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-20T15:51:19",
+   "userName": "Andy Clay"
+  },
+  {
+   "rating": 5,
+   "content": "OK but my card is at my home address I'm in hospital at the moment",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-20T14:36:08",
+   "userName": "Steven"
   }
  ],
- "record_count": 1654,
- "last_fetch_utc": "2026-10-21T12:24:46.038117+00:00"
+ "record_count": 1663,
+ "last_fetch_utc": "2026-10-22T12:25:05.216486+00:00"
 }
