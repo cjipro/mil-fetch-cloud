@@ -7185,8 +7185,32 @@
    "version": "3.75.4",
    "date": "2026-10-20T01:16:21-07:00",
    "author": "Pianoman gardner"
+  },
+  {
+   "rating": 1,
+   "title": "Number-pad not popping up to enter PIN",
+   "review": "After updating the app, the number pad does not pop up to allow me to enter my PIN Code. I am essentially locked out of the app! \n\nPLEASE FIX THIS ASAP!\n\nI will update my review if a fix for this has been administered.",
+   "version": "3.75.4",
+   "date": "2026-10-21T14:15:25-07:00",
+   "author": "App Criticism"
+  },
+  {
+   "rating": 5,
+   "title": "Great bank",
+   "review": "Perfect banking always",
+   "version": "3.75.4",
+   "date": "2026-10-21T10:07:20-07:00",
+   "author": "Odun"
+  },
+  {
+   "rating": 5,
+   "title": "Easy",
+   "review": "So easy to use",
+   "version": "3.75.4",
+   "date": "2026-10-21T03:47:12-07:00",
+   "author": "tillyparrot"
   }
  ],
- "record_count": 898,
- "last_fetch_utc": "2026-10-22T12:25:07.737205+00:00"
+ "record_count": 901,
+ "last_fetch_utc": "2026-10-23T12:06:37.397903+00:00"
 }

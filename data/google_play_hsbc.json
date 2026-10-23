@@ -13457,8 +13457,80 @@
    "reviewCreatedVersion": "3.74.31",
    "at": "2026-10-20T13:43:30",
    "userName": "anne burton"
+  },
+  {
+   "rating": 5,
+   "content": "works well",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-22T10:53:00",
+   "userName": "richard porter"
+  },
+  {
+   "rating": 1,
+   "content": "Face recognition step in setup is useless.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-22T10:49:36",
+   "userName": "Dilbag Sokhi"
+  },
+  {
+   "rating": 4,
+   "content": "nice",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.71.31",
+   "at": "2026-10-22T01:17:00",
+   "userName": "Dil Muhammad Sajid"
+  },
+  {
+   "rating": 1,
+   "content": "The app had been working fine until a month ago. Now it crashes every time I try to open it. You cannot access your account on a browser as it requires you to use the app to confirm your id. I have cleared the cache and restarted my phone - still no joy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-21T23:35:57",
+   "userName": "ella shek"
+  },
+  {
+   "rating": 5,
+   "content": "fast and easy to access",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-21T18:18:19",
+   "userName": "Tanphija"
+  },
+  {
+   "rating": 4,
+   "content": "Find your 'local' bank..none in 1200 square miles..",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-21T17:18:33",
+   "userName": "Al JR"
+  },
+  {
+   "rating": 5,
+   "content": "THE BEST FOREVER",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-21T16:50:34",
+   "userName": "Salah Sfrtabi"
+  },
+  {
+   "rating": 4,
+   "content": "works ok, need PC to see investdirect though.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-21T16:04:23",
+   "userName": "Andrew Layton"
+  },
+  {
+   "rating": 5,
+   "content": "quick and efficient",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-21T15:27:38",
+   "userName": "Nenad Obradovic"
   }
  ],
- "record_count": 1682,
- "last_fetch_utc": "2026-10-22T12:25:08.685695+00:00"
+ "record_count": 1691,
+ "last_fetch_utc": "2026-10-23T12:06:38.144588+00:00"
 }

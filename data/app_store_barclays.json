@@ -10793,8 +10793,80 @@
    "version": "3.76.2",
    "date": "2026-10-20T00:13:31-07:00",
    "author": "Bird food mum."
+  },
+  {
+   "rating": 5,
+   "title": "The new Update",
+   "review": "The new update is absolutely phenomenal, the app looks so much better, modern and easier to use now.",
+   "version": "3.77.5",
+   "date": "2026-10-21T18:07:29-07:00",
+   "author": "The_Boss_18"
+  },
+  {
+   "rating": 1,
+   "title": "Rubbish.",
+   "review": "Unable to transfer from one of my Barclays Accounts.",
+   "version": "3.77.5",
+   "date": "2026-10-21T13:21:00-07:00",
+   "author": "\u2018Him"
+  },
+  {
+   "rating": 1,
+   "title": "Overdraft",
+   "review": "Not happy about overdraft",
+   "version": "3.77.5",
+   "date": "2026-10-21T12:00:38-07:00",
+   "author": "Paul 63?"
+  },
+  {
+   "rating": 1,
+   "title": "Awful app update",
+   "review": "Please revert back to old UI.\nThis is a HUGE step backward, before it felt spacious and de cluttered. Now it\u2019s too much going on.",
+   "version": "3.77.5",
+   "date": "2026-10-21T11:14:51-07:00",
+   "author": "MattYIz"
+  },
+  {
+   "rating": 5,
+   "title": "Sham",
+   "review": "Brilliant live this app",
+   "version": "3.77.5",
+   "date": "2026-10-21T10:32:48-07:00",
+   "author": "shamshine"
+  },
+  {
+   "rating": 5,
+   "title": "Love it",
+   "review": "Very nice and easy \ud83d\ude4f\ud83c\udffb",
+   "version": "3.77.5",
+   "date": "2026-10-21T09:31:39-07:00",
+   "author": "Lucy_silva"
+  },
+  {
+   "rating": 1,
+   "title": "New App",
+   "review": "New app is not as user friendly as the previous version. Poor upgrade",
+   "version": "3.77.5",
+   "date": "2026-10-21T06:51:57-07:00",
+   "author": "Stene J"
+  },
+  {
+   "rating": 2,
+   "title": "I don\u2019t like updated version",
+   "review": "Bring the old version please",
+   "version": "3.76.2",
+   "date": "2026-10-21T05:10:19-07:00",
+   "author": "IreneLsn"
+  },
+  {
+   "rating": 1,
+   "title": "App redesign complete fail",
+   "review": "Wow. The app redesign is completely awful.\nThe way your current account balance is now displayed compared to transactions is garbage.\nThe credit card tab is also garbage. Can\u2019t easily see when payment is due and how much.\nEverything used to be so clear.\nWhoever did the new design and whoever signed it off both need firing.",
+   "version": "3.76.2",
+   "date": "2026-10-21T03:48:54-07:00",
+   "author": "Fed up user 1"
   }
  ],
- "record_count": 1349,
- "last_fetch_utc": "2026-10-22T12:25:12.792482+00:00"
+ "record_count": 1358,
+ "last_fetch_utc": "2026-10-23T12:06:42.413544+00:00"
 }
