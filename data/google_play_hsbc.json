@@ -13577,8 +13577,48 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-10-22T16:58:53",
    "userName": "Andrea Chapman"
+  },
+  {
+   "rating": 5,
+   "content": "amazing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-24T09:00:58",
+   "userName": "James Fitzgerald"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-23T19:49:44",
+   "userName": "Kevin Morton"
+  },
+  {
+   "rating": 5,
+   "content": "I love this banking app, easy to use, easy to track your money going in and out, thank you. The only issue now is I'm not getting any push notifications about my transactions. Please can you fix this problem. Thank you. The only problem is I am not getting any notifications on my phone now. I don't know why, can you help please? Recently I have been getting spam emails about taking money out of my account. I forwarded the emails to them. I called them a nice lady helped me. Thank you.",
+   "thumbsUpCount": 12,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-23T19:36:06",
+   "userName": "Michael"
+  },
+  {
+   "rating": 1,
+   "content": "I tried to open account through the app. but the only link \"apply through the app\" leads to app store. I already have the app. have mortgage with them. but no option to open account? the chat is some bot not responding to questions just popping the same message over and over no matter what I write. Useless and not helpful.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-23T17:07:45",
+   "userName": "Iwona Pirch"
+  },
+  {
+   "rating": 1,
+   "content": "Impossible to open an account. I want to open a current account. I click the link, it takes me to a webpage. that has an \"Apply in app\" button, I click that and it takes me to the app store, I click open, and I'm back at the start. Chat are completely incapable of helping. Can't apply on the website either.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-23T14:12:10",
+   "userName": "Tom Bridges"
   }
  ],
- "record_count": 1697,
- "last_fetch_utc": "2026-10-24T11:37:52.886583+00:00"
+ "record_count": 1702,
+ "last_fetch_utc": "2026-10-25T11:59:09.363119+00:00"
 }
