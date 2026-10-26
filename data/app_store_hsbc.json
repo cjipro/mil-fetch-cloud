@@ -7313,8 +7313,56 @@
    "version": "3.75.4",
    "date": "2026-10-22T01:29:42-07:00",
    "author": "Sajushah"
+  },
+  {
+   "rating": 5,
+   "title": "Review",
+   "review": "I fine this app easy",
+   "version": "3.75.4",
+   "date": "2026-10-25T03:11:40-07:00",
+   "author": "No mor worries"
+  },
+  {
+   "rating": 5,
+   "title": "Easy Banking",
+   "review": "HSBC Banking app is easy to use and navigate. Very fast to load as well",
+   "version": "3.75.4",
+   "date": "2026-10-24T12:47:18-07:00",
+   "author": "BIJZEE"
+  },
+  {
+   "rating": 3,
+   "title": "Cashless ATM",
+   "review": "Wish we could do what other banks offered such as contactless atm hsbc is moving slow in that space and when I don\u2019t have my card I believe another way of taking out money without having to go to a bank with my id to take out \u00a310 would be a great benefit to the system",
+   "version": "3.75.4",
+   "date": "2026-10-24T12:45:14-07:00",
+   "author": "DetectiveGoogle"
+  },
+  {
+   "rating": 5,
+   "title": "HSBC",
+   "review": "Very easy to access",
+   "version": "3.75.4",
+   "date": "2026-10-24T03:32:42-07:00",
+   "author": "Anonymous spender"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use",
+   "review": "Very helpful",
+   "version": "3.75.4",
+   "date": "2026-10-24T02:49:08-07:00",
+   "author": "BigJim2k"
+  },
+  {
+   "rating": 5,
+   "title": "Banking made easy",
+   "review": "Excellent bank",
+   "version": "3.75.4",
+   "date": "2026-10-24T02:47:42-07:00",
+   "author": "Memeniat"
   }
  ],
- "record_count": 914,
- "last_fetch_utc": "2026-10-25T11:59:08.351993+00:00"
+ "record_count": 920,
+ "last_fetch_utc": "2026-10-26T13:34:10.123458+00:00"
 }

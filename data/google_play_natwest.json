@@ -13545,8 +13545,64 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-23T14:51:38",
    "userName": "Syed Sabbir"
+  },
+  {
+   "rating": 1,
+   "content": "The login flow does not allow you to switch apps or it resets, but the password inputs are split and random. This means if you use a password manager and can't remember 20 characters and their exact position it's basically impossible to login.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-25T12:58:06",
+   "userName": "Matt Pye"
+  },
+  {
+   "rating": 5,
+   "content": "Banking app easy to install",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-25T12:35:58",
+   "userName": "Lynne Lewis"
+  },
+  {
+   "rating": 5,
+   "content": "Not a west online banking, great quality\\nReally helpful uneasily understood to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.63.0000.24686.0",
+   "at": "2026-10-25T10:12:45",
+   "userName": "Kiran CAT'S' MOM"
+  },
+  {
+   "rating": 1,
+   "content": "Terrible customer service. 2 1hr waits in a queue without response.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-25T07:07:02",
+   "userName": "ME"
+  },
+  {
+   "rating": 1,
+   "content": "The latest update has made it a factor of 3-4 slower than the previous version for no - so far as I can discover - additional functionality. Now nearly 500MB in size - by far the largest app on my tablet - for no additional functionality. Why?",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-24T21:39:13",
+   "userName": "Peter"
+  },
+  {
+   "rating": 2,
+   "content": "I have no idea how these things get hacked: it's my account and I can't get access! I'm afraid the criminals have won: it's now impossible to bank effectively - lift up that mattress again.......",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-24T19:03:27",
+   "userName": "Martin Sandeman"
+  },
+  {
+   "rating": 1,
+   "content": "App often fails to recognise/authenticate my device, and requires as much as 4 different login details to access. I forgot one, so the account recovery took about half an hour because it resets your progress if you spend more than 60 seconds away from the device.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-24T18:31:25",
+   "userName": "Joe Mackinnon"
   }
  ],
- "record_count": 1693,
- "last_fetch_utc": "2026-10-25T11:59:06.050777+00:00"
+ "record_count": 1700,
+ "last_fetch_utc": "2026-10-26T13:34:06.529543+00:00"
 }
