@@ -12449,8 +12449,64 @@
    "reviewCreatedVersion": "8.5.0",
    "at": "2026-10-25T10:06:19",
    "userName": "Natalie Clark"
+  },
+  {
+   "rating": 5,
+   "content": "great app, easy to use. monzo is also an amazing bank, better than few other I am with and used",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-26T12:40:08",
+   "userName": "Prim4l"
+  },
+  {
+   "rating": 5,
+   "content": "Best banking app i have and use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-26T08:04:45",
+   "userName": "Tom Martin"
+  },
+  {
+   "rating": 5,
+   "content": "So easy to use!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-25T22:31:26",
+   "userName": "James Ho"
+  },
+  {
+   "rating": 1,
+   "content": "Annoyingly only able to log in on one device! Limits my usage of the banking application, and still no fix, or response! Like HELLO! REVOLUT CALLING.....!",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-25T19:11:00",
+   "userName": "Christian Cunniffe"
+  },
+  {
+   "rating": 5,
+   "content": "The app is so easy to do what you need. 10/10.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-25T18:09:05",
+   "userName": "D-on"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant bank, very happy with them. Their app is great and easy to use. Was very easy to open up an account with Monzo, so definitely recommend! My only recommendation is for the app developers to optimise this app for the Samsung Fold Z 8, then it'll be perfect. At the moment there's black bars around the edges, and when using the internal screen, the app spreads out which doesn't look the best.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-25T16:03:56",
+   "userName": "Saffron Dallimore"
+  },
+  {
+   "rating": 1,
+   "content": "They closed my account without a reason so not happy about that",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-25T13:52:56",
+   "userName": "Parhana Hussain"
   }
  ],
- "record_count": 1556,
- "last_fetch_utc": "2026-10-26T13:34:13.578073+00:00"
+ "record_count": 1563,
+ "last_fetch_utc": "2026-10-27T12:40:15.817511+00:00"
 }

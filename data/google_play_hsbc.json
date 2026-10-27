@@ -13681,8 +13681,80 @@
    "reviewCreatedVersion": null,
    "at": "2026-10-24T14:09:53",
    "userName": "Nic Morgan"
+  },
+  {
+   "rating": 5,
+   "content": "Always so helpfull",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-26T12:16:55",
+   "userName": "keith williams"
+  },
+  {
+   "rating": 1,
+   "content": "I have two banking apps. HSBC keeps telling me to update my app, then declines due to lack of storage, whereas another banking app gets updated with no issues.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-26T11:11:40",
+   "userName": "nisha"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-26T10:32:40",
+   "userName": "Andy \u201cspida\u201d"
+  },
+  {
+   "rating": 1,
+   "content": "Impossible to get past the video upload selfie verification, it fails every time with an error (\"unstable connection.\") I am a website developer by trade so I can verify that my connection is not in any way unstable. There seems to be no other way to get online, so I am now completely locked out of my account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-25T19:39:40",
+   "userName": "Graeme Anthony"
+  },
+  {
+   "rating": 1,
+   "content": "Without warning you can now no longer use the HSBC app in the Samsung 'Secure Folder' where I have it installed. This means I now have no access to my accounts. Absolute joke. I note your dismissive response with no offer to help me get this issue resolved. Your advert says \"Everything is Premier when your bank account is\" Nothing is even acceptable about this, let alone Premier. Goodbye HSBC. Hello Barclays Premier. \ud83d\udc4b",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-25T17:35:45",
+   "userName": "T C"
+  },
+  {
+   "rating": 5,
+   "content": "it just makes sense to have the app for HSBC on your phone convenient very easy to use and anyone can quickly use the app effectively and without hassle",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-25T15:28:39",
+   "userName": "Scott"
+  },
+  {
+   "rating": 1,
+   "content": "Frustrating. Open the app and it says that it has been downloaded from an unofficial source. Uninstall the app and download from here on Google store and it says the same thing! So go onto the HSBC website to contact someone and I have to log in. Go to log in and guess what? It needs me to log into the mobile app to verify it's me! Even on the chat it gives me other ways of contacting HSBC, but chat!!!!!! aghhhh",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-25T14:19:35",
+   "userName": "Curly Porter"
+  },
+  {
+   "rating": 1,
+   "content": "Has anyone else had major issues trying to verify your ID on this mobile app? I've tried several times and the app keeps hanging or crashing after I've uploaded my ID and face scan. Incredibly frustrating and no help to verify when I called customer services. Can customers verify their ID in a bank branch still? otherwise customers in this position are unable to use their approved accounts. Make it make sense.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-25T14:01:37",
+   "userName": "Deborah C"
+  },
+  {
+   "rating": 5,
+   "content": "HSBC has made honest transactions very smooth",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-09-25T19:16:41",
+   "userName": "Kim Amayo"
   }
  ],
- "record_count": 1710,
- "last_fetch_utc": "2026-10-26T13:34:11.384687+00:00"
+ "record_count": 1719,
+ "last_fetch_utc": "2026-10-27T12:40:13.805474+00:00"
 }

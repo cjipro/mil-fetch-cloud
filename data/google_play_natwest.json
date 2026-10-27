@@ -13601,8 +13601,56 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-24T18:31:25",
    "userName": "Joe Mackinnon"
+  },
+  {
+   "rating": 1,
+   "content": "What's the point of having a running balance if it does not include a pending transactions ? it used to. now NatWest just likes getting me overdrawn. I cannot keep track of my money. Would give this app 5 stars if it showed immediate outgoings. Cannot show money or payments that have been spent even though it reflects in your how much you spend limit. The bank says it is because not all shops etc take payment straight away. Not good enough has the bank knows you have used your card",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-26T11:40:56",
+   "userName": "jenni"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-26T10:46:29",
+   "userName": "Zoe Davis"
+  },
+  {
+   "rating": 5,
+   "content": "I'm a technophobe but find this incredibly easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-26T10:04:09",
+   "userName": "Kevin Debbage"
+  },
+  {
+   "rating": 5,
+   "content": "Great Bank,what can I say",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-26T07:42:22",
+   "userName": "Asta Juskeviciute"
+  },
+  {
+   "rating": 2,
+   "content": "Easy to use and notifications telling me to make a payment just because I am near the limit is patronising. I know how much I've spent and don't need to either pay you or phone because I'm struggling- because I haven't exceeded the limit and I am not struggling.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-26T00:32:09",
+   "userName": "Sally Horobin"
+  },
+  {
+   "rating": 1,
+   "content": "The app gets bigger and slower than ever. Now it boasts \"third party cookies\" for added functionality. There was me thinking my money, and data, were safe with NatWest, but apparently not.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-25T22:28:18",
+   "userName": "Peter Brothers"
   }
  ],
- "record_count": 1700,
- "last_fetch_utc": "2026-10-26T13:34:06.529543+00:00"
+ "record_count": 1706,
+ "last_fetch_utc": "2026-10-27T12:40:10.608213+00:00"
 }

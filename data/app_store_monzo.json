@@ -5889,8 +5889,32 @@
    "version": "8.6.0",
    "date": "2026-10-24T13:27:03-07:00",
    "author": "mAaasddddfgg"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent",
+   "review": "Simply amazing",
+   "version": "8.6.0",
+   "date": "2026-10-25T11:35:18-07:00",
+   "author": "GStam83"
+  },
+  {
+   "rating": 1,
+   "title": "Terrible customer service",
+   "review": "Monzo were great until I had a problem. No telephone customer service and the in app chat is terrible on a phone and they ask the same questions day after day but do not solve my issue. Bank to a high street bank that has a telephone number.",
+   "version": "8.6.0",
+   "date": "2026-10-25T09:57:16-07:00",
+   "author": "Zato660"
+  },
+  {
+   "rating": 1,
+   "title": "Dont get this bank",
+   "review": "Worse banking app ever not even a real bank and glitches every 2 business days and more",
+   "version": "8.6.0",
+   "date": "2026-10-25T06:32:14-07:00",
+   "author": "la.ssephine"
   }
  ],
- "record_count": 736,
- "last_fetch_utc": "2026-10-26T13:34:12.370053+00:00"
+ "record_count": 739,
+ "last_fetch_utc": "2026-10-27T12:40:14.739928+00:00"
 }
