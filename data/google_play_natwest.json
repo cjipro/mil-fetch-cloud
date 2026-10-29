@@ -13729,8 +13729,56 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-26T14:50:03",
    "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank I've ever had.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-28T13:21:32",
+   "userName": "Kevin Lobb"
+  },
+  {
+   "rating": 5,
+   "content": "Drop my phone, totally wrecked screen and thus can't use it. Barclays won't run on this new device (android 16?) so can't use them anymore - HSBC wants a photo ID check, which after 5 times trying to get it working (keeps failing to either take a picture: hold still, but nothing happens) or their app just locks up. Get this app to get NatWest again and LUCKILY as they use the good old passcodes etc for account access (which I wrote down) I'm back in the app again without any problems. \ud83d\udc4d10/10",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-28T11:35:14",
+   "userName": "Xperia"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use and alerts are fantastic",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-28T11:10:20",
+   "userName": "Max Sherwood"
+  },
+  {
+   "rating": 5,
+   "content": "new phone: redo app! Easy! Don't know what I was worried about.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-28T08:30:09",
+   "userName": "Gordon Gotch"
+  },
+  {
+   "rating": 2,
+   "content": "App doesn't allow you to view documents properly on a bigger screen. One is forced to read important legal documents on this tiny screen. It also keeps logging you off with no way of continuing where you left off",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-27T18:03:09",
+   "userName": "Nii Buckle"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.67.0000.31083.0",
+   "at": "2026-10-27T16:11:34",
+   "userName": "Alison Ogrady"
   }
  ],
- "record_count": 1716,
- "last_fetch_utc": "2026-10-28T13:31:28.931652+00:00"
+ "record_count": 1722,
+ "last_fetch_utc": "2026-10-29T13:43:23.638077+00:00"
 }

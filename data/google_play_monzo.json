@@ -12577,8 +12577,48 @@
    "reviewCreatedVersion": "8.5.0",
    "at": "2026-10-26T17:43:01",
    "userName": "Ahrimanne Z"
+  },
+  {
+   "rating": 5,
+   "content": "Best mobile phone app so far",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.0.0",
+   "at": "2026-10-28T13:17:53",
+   "userName": "Technicator"
+  },
+  {
+   "rating": 1,
+   "content": "cant download on my phone",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-28T07:04:36",
+   "userName": "Hellfire Corner"
+  },
+  {
+   "rating": 3,
+   "content": "would be nice if you had more choice of notification sounds and be able to change them",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-10-27T18:11:28",
+   "userName": "Helen Johnston"
+  },
+  {
+   "rating": 5,
+   "content": "great app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-10-27T18:03:41",
+   "userName": "Tyrone Ice"
+  },
+  {
+   "rating": 5,
+   "content": "ONLY 1 WORD AWESOME",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-10-27T16:52:37",
+   "userName": "Stumpy Nick"
   }
  ],
- "record_count": 1572,
- "last_fetch_utc": "2026-10-28T13:31:36.536814+00:00"
+ "record_count": 1577,
+ "last_fetch_utc": "2026-10-29T13:43:30.849735+00:00"
 }
