@@ -12617,8 +12617,64 @@
    "reviewCreatedVersion": "8.6.0",
    "at": "2026-10-27T16:52:37",
    "userName": "Stumpy Nick"
+  },
+  {
+   "rating": 3,
+   "content": "Don't much about it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-10-29T05:23:40",
+   "userName": "June Sherman"
+  },
+  {
+   "rating": 1,
+   "content": "Not available in South Africa",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-29T02:34:14",
+   "userName": "Joseph Noah"
+  },
+  {
+   "rating": 5,
+   "content": "simple to use however can be issues if you use a tablet and a phone at the same time \ud83e\udd23",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-10-28T20:21:39",
+   "userName": "Scott Mace"
+  },
+  {
+   "rating": 5,
+   "content": "best banking app about",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-10-28T17:02:36",
+   "userName": "Caodhan Graffin"
+  },
+  {
+   "rating": 5,
+   "content": "early payday can't complain",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-10-28T16:49:13",
+   "userName": "Nathan Weyenberg"
+  },
+  {
+   "rating": 5,
+   "content": "Monzo Bank is the best in all aspects. I will recommend to everyone.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-28T16:32:33",
+   "userName": "Chidi Festus O."
+  },
+  {
+   "rating": 5,
+   "content": "really good, easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-10-28T16:00:54",
+   "userName": "Alan Van Outten"
   }
  ],
- "record_count": 1577,
- "last_fetch_utc": "2026-10-29T13:43:30.849735+00:00"
+ "record_count": 1584,
+ "last_fetch_utc": "2026-10-30T13:34:19.762986+00:00"
 }

@@ -13873,8 +13873,48 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-10-27T15:48:22",
    "userName": "Outspoken"
+  },
+  {
+   "rating": 2,
+   "content": "so slow. they need to strip it back so it runs faster",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-29T10:32:45",
+   "userName": "Ben Hughes"
+  },
+  {
+   "rating": 3,
+   "content": "good app just takes AGES to load and use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-29T08:12:55",
+   "userName": "Milo Locke"
+  },
+  {
+   "rating": 1,
+   "content": "Got issues logging in recently (1-2weeks). It just keeps loading and doesn't let me in after scanning my face. I have tried reinstalling and it still doesn't work.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-28T21:34:28",
+   "userName": "Tiffany Lui"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service.100%satisfied.Wish all the best in future.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-28T16:15:41",
+   "userName": "Beemol Renny"
+  },
+  {
+   "rating": 4,
+   "content": "photo capture for cheque deposit very hit and miss",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-28T16:14:14",
+   "userName": "Simon Borns"
   }
  ],
- "record_count": 1734,
- "last_fetch_utc": "2026-10-29T13:43:28.452999+00:00"
+ "record_count": 1739,
+ "last_fetch_utc": "2026-10-30T13:34:17.619467+00:00"
 }
