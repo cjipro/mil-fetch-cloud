@@ -13865,8 +13865,72 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-28T14:52:40",
    "userName": "Craig Brown"
+  },
+  {
+   "rating": 2,
+   "content": "Ok when it's working, but when it screws up it really screws up, 1st issue this morning was it didn't recognize my fingerprints, then my password and I'm locked out, re set it all up and now the damn app keeps throwing a connection error yet a speed test tells me im getting 41.9mbps download and 8.91mbps upload, so now unable to even use the app, wife had an update recently and then another to fix issues so i tried a fresh instal and it's still the same error. Update: it was vodfone going down",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-30T12:42:43",
+   "userName": "david choonage"
+  },
+  {
+   "rating": 3,
+   "content": "service not working",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-30T10:43:23",
+   "userName": "Gordon Steel"
+  },
+  {
+   "rating": 5,
+   "content": "Great payment options very flexible to help paying off credit card. Highly recommend",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-30T09:19:13",
+   "userName": "Paul Rowan"
+  },
+  {
+   "rating": 1,
+   "content": "in app approvals are broken since the new update",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-30T08:48:29",
+   "userName": "Saara Ailasmaa"
+  },
+  {
+   "rating": 1,
+   "content": "it takes too long for the account to open and not aesthetically in terms of colours on the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-30T08:20:00",
+   "userName": "Gyamfi Kwabena"
+  },
+  {
+   "rating": 2,
+   "content": "Easy to use but the constant 'reminders' that you can't get rid of are seriously annoying.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-30T00:38:30",
+   "userName": "Gary Stephens"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-29T18:53:28",
+   "userName": "paul davies"
+  },
+  {
+   "rating": 1,
+   "content": "Cora misinterprets requests and if you are not careful the bank will act upon misinterpreted requests at your disadvantage. Not happy dealing with a digital agent when it comes to banking matters. Seriously disappointed with this.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-29T14:48:16",
+   "userName": "David Hvass"
   }
  ],
- "record_count": 1733,
- "last_fetch_utc": "2026-10-30T13:34:12.022411+00:00"
+ "record_count": 1741,
+ "last_fetch_utc": "2026-10-31T13:03:40.462941+00:00"
 }

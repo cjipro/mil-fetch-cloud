@@ -13913,8 +13913,80 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-10-28T16:14:14",
    "userName": "Simon Borns"
+  },
+  {
+   "rating": 1,
+   "content": "Applied for and was granted a credit card. When the card arrived I install & try to set up the app, as instructed. After going through the annoying id checks, app tells me that I don't have an account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-30T10:52:28",
+   "userName": "Andy Glaves"
+  },
+  {
+   "rating": 2,
+   "content": "Very annoying. It only remembers a few payee's, and what's worse is every time you pay someone it repeats that payee in a stored slot. So you end up constantly having to re add accounts over and over. So basic and dumb.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-30T10:13:07",
+   "userName": "Mark Daw"
+  },
+  {
+   "rating": 5,
+   "content": "always banked with you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-30T04:49:19",
+   "userName": "Sarah"
+  },
+  {
+   "rating": 5,
+   "content": "excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-29T20:29:40",
+   "userName": "Azhar Ahmed"
+  },
+  {
+   "rating": 5,
+   "content": "\ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-29T20:10:43",
+   "userName": "Christine Riley"
+  },
+  {
+   "rating": 5,
+   "content": "fantastic service and staff",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-29T19:32:14",
+   "userName": "Luke Rushbrook"
+  },
+  {
+   "rating": 2,
+   "content": "app kept on crashing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-10-29T16:50:33",
+   "userName": "tzivia glick"
+  },
+  {
+   "rating": 5,
+   "content": "Great service been with HSBC for many years, always healpful and friendly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-29T16:34:06",
+   "userName": "Ned Kelly"
+  },
+  {
+   "rating": 1,
+   "content": "I'm having trouble accessing my bank account as my keypad is failing to work, I thought that opening the app would give me access as I require, instead I'm asked to give an evaluation of your app - MOST INAPPROPRIATE! Perhaps you should think more about aiding your customers and less about what I perceive to be a poor performance! I have also attempted to change the for laptop without success! Finally, your sign is is pathetic, to have to remove the asterisks before typing in date of birth!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-10-29T15:11:12",
+   "userName": "AnnandDavid Ross-Smith"
   }
  ],
- "record_count": 1739,
- "last_fetch_utc": "2026-10-30T13:34:17.619467+00:00"
+ "record_count": 1748,
+ "last_fetch_utc": "2026-10-31T13:03:43.928438+00:00"
 }
