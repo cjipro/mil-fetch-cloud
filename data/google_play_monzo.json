@@ -12849,8 +12849,48 @@
    "reviewCreatedVersion": "8.6.0",
    "at": "2026-10-30T13:41:14",
    "userName": "Fatima Yasin"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-01T14:11:28",
+   "userName": "Storm Soul"
+  },
+  {
+   "rating": 5,
+   "content": "Great idea \ud83d\udca1 \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-01T12:31:02",
+   "userName": "Lee Ellis"
+  },
+  {
+   "rating": 5,
+   "content": "I have been told Monzo is a good card.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-01T11:26:28",
+   "userName": "Ian Armitt"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use, easy to read. layout is great. What you need is right in front. Gives you a lot of information you might need.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-01T11:08:46",
+   "userName": "Hanah"
+  },
+  {
+   "rating": 4,
+   "content": "Good experience - no savings rates worth investing tho sadly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-11-01T07:53:37",
+   "userName": "Russell Rice"
   }
  ],
- "record_count": 1606,
- "last_fetch_utc": "2026-11-01T13:47:15.660792+00:00"
+ "record_count": 1611,
+ "last_fetch_utc": "2026-11-02T16:33:15.156253+00:00"
 }

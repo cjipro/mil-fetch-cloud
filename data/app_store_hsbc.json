@@ -7889,8 +7889,24 @@
    "version": "3.75.30",
    "date": "2026-10-29T23:50:27-07:00",
    "author": "AVRAAM C"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent Banking App",
+   "review": "I am very happy with the HSBC mobile banking app. It is easy to use, secure and convenient. I can check my balance, make payments and manage my money quickly. Everything works smoothly and saves me time. Highly recommended!",
+   "version": "3.75.30",
+   "date": "2026-10-31T08:59:56-07:00",
+   "author": "ionelaflorentina.1"
+  },
+  {
+   "rating": 2,
+   "title": "Very poor chat support",
+   "review": "I often have problems with the app. Sometimes too slow to open. Today had a problem with a payment - app has lost my support chat and now the chat feature isn't working at all. Not impressed.",
+   "version": "3.75.30",
+   "date": "2026-10-31T04:55:28-07:00",
+   "author": "JaffaBob"
   }
  ],
- "record_count": 986,
- "last_fetch_utc": "2026-11-01T13:47:13.552331+00:00"
+ "record_count": 988,
+ "last_fetch_utc": "2026-11-02T16:33:11.631155+00:00"
 }

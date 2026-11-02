@@ -14041,8 +14041,40 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-30T13:11:46",
    "userName": "Madeleine Milne"
+  },
+  {
+   "rating": 1,
+   "content": "I cannot look at my card details in app without submitting my biometric information. I do not trust companies with this but now I also cannot use the app as I was able to previously",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-11-01T13:46:30",
+   "userName": "Amanda"
+  },
+  {
+   "rating": 5,
+   "content": "I have been a customer for over 25 years. I would definitely recommend the NatWest to everyone. Never had a problem with you, staff always polite, friendly, and helpful. Speedy to resolve any problems.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-31T21:15:49",
+   "userName": "Leanne Halyburton"
+  },
+  {
+   "rating": 1,
+   "content": "It's incredibly frustrating how hard it is to log in, it needs too many details and every time the screen turns off (because you are searching for all those details on notes, your wallet..) it asks to start again. Plus, once it gets blocked, the mobile website platform to recover your account is inefficient. You'd claim that it's important to make it hard for security reasons, but Revolut or Monzo, for example have way smoother processes, it would be great if you solved this",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-31T17:39:53",
+   "userName": "Daniela Olaya Ochoa"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to login..",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-31T15:10:06",
+   "userName": "mahejabin chawakwala"
   }
  ],
- "record_count": 1755,
- "last_fetch_utc": "2026-11-01T13:47:11.399764+00:00"
+ "record_count": 1759,
+ "last_fetch_utc": "2026-11-02T16:33:08.004181+00:00"
 }
