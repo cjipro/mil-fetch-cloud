@@ -14081,8 +14081,32 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-10-31T14:48:58",
    "userName": "Jimmy Rizzo"
+  },
+  {
+   "rating": 5,
+   "content": "very good communication and patience",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-11-02T09:18:15",
+   "userName": "Safaa Jaber"
+  },
+  {
+   "rating": 1,
+   "content": "I don't want to continuously update my app to use my online banking. If it continues I'm going to change my Bank It's ridiculous",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.73.31",
+   "at": "2026-11-01T19:30:25",
+   "userName": "Richard McLaren"
+  },
+  {
+   "rating": 2,
+   "content": "constantly needs more storage and updating, otherwise I can't access at all",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-01T19:17:36",
+   "userName": "Deepa Selvaraj"
   }
  ],
- "record_count": 1760,
- "last_fetch_utc": "2026-11-02T16:33:12.426746+00:00"
+ "record_count": 1763,
+ "last_fetch_utc": "2026-11-03T14:39:18.679090+00:00"
 }
