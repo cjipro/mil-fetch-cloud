@@ -14105,8 +14105,48 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-11-01T19:17:36",
    "userName": "Deepa Selvaraj"
+  },
+  {
+   "rating": 4,
+   "content": "I wanted a normal current account not a basic one",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-03T11:49:15",
+   "userName": "Mohammed Khan"
+  },
+  {
+   "rating": 5,
+   "content": "it was fine",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-03T11:35:57",
+   "userName": "Lanre Odunfa"
+  },
+  {
+   "rating": 1,
+   "content": "Shocking \ud83d\ude33",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.72.0",
+   "at": "2026-11-02T19:00:50",
+   "userName": "James Kerr"
+  },
+  {
+   "rating": 5,
+   "content": "it good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-11-02T16:12:07",
+   "userName": "Fletcher Salsbury"
+  },
+  {
+   "rating": 5,
+   "content": "Very easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-02T15:36:33",
+   "userName": "Jessica Ogden"
   }
  ],
- "record_count": 1763,
- "last_fetch_utc": "2026-11-03T14:39:18.679090+00:00"
+ "record_count": 1768,
+ "last_fetch_utc": "2026-11-04T14:52:32.591720+00:00"
 }
