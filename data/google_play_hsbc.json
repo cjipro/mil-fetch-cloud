@@ -14145,8 +14145,56 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-11-02T15:36:33",
    "userName": "Jessica Ogden"
+  },
+  {
+   "rating": 1,
+   "content": "Clowns prevent the app from being used in Android Private Spaces.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-04T11:24:11",
+   "userName": "Drew"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use and good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-04T09:56:19",
+   "userName": "Sowriharan Manoharan"
+  },
+  {
+   "rating": 5,
+   "content": "\ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-03T21:07:30",
+   "userName": "Ronak Patel"
+  },
+  {
+   "rating": 1,
+   "content": "cannot deposit cheques",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-03T19:03:40",
+   "userName": "David Sterland"
+  },
+  {
+   "rating": 1,
+   "content": "unable to use and assistant is....no assistance. real rubbish.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-03T17:48:03",
+   "userName": "Brendan O'Kane"
+  },
+  {
+   "rating": 1,
+   "content": "Easily the most frustrating sign up experience I've ever had for any app. I've been through the process 3 times now and still can't get it to work. Useless!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-03T15:49:51",
+   "userName": "Clarissa Linnitt"
   }
  ],
- "record_count": 1768,
- "last_fetch_utc": "2026-11-04T14:52:32.591720+00:00"
+ "record_count": 1774,
+ "last_fetch_utc": "2026-11-05T14:57:38.096120+00:00"
 }
