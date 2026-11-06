@@ -13073,8 +13073,72 @@
    "reviewCreatedVersion": "8.5.0",
    "at": "2026-11-03T16:01:42",
    "userName": "maddforit maddforit (maddforit)"
+  },
+  {
+   "rating": 1,
+   "content": "Perfection",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-05T01:12:48",
+   "userName": "Dovydas Ganys"
+  },
+  {
+   "rating": 5,
+   "content": "by far the best banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-04T20:36:54",
+   "userName": "Andrew Marr"
+  },
+  {
+   "rating": 5,
+   "content": "Reliable banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.3.0",
+   "at": "2026-11-04T18:04:13",
+   "userName": "Nana Holy"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank ive ever had, so many useful tools to manage your money",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-04T17:13:14",
+   "userName": "Simon Griffiths"
+  },
+  {
+   "rating": 5,
+   "content": "so easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-04T17:12:26",
+   "userName": "David Sweetman"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-04T17:01:30",
+   "userName": "Dean Wells"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.26.0",
+   "at": "2026-11-04T16:18:06",
+   "userName": "Max Stacey"
+  },
+  {
+   "rating": 4,
+   "content": "pretty good just a few navigating issues",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.42.0",
+   "at": "2026-09-12T14:17:57",
+   "userName": "Simon"
   }
  ],
- "record_count": 1634,
- "last_fetch_utc": "2026-11-05T14:57:40.554711+00:00"
+ "record_count": 1642,
+ "last_fetch_utc": "2026-11-06T14:36:43.515301+00:00"
 }

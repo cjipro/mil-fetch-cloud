@@ -14193,8 +14193,104 @@
    "reviewCreatedVersion": "3.75.4",
    "at": "2026-11-03T15:49:51",
    "userName": "Clarissa Linnitt"
+  },
+  {
+   "rating": 3,
+   "content": "too slow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-05T14:23:41",
+   "userName": "Sandra Burrows"
+  },
+  {
+   "rating": 4,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-05T14:09:15",
+   "userName": "Shamema Khan"
+  },
+  {
+   "rating": 1,
+   "content": "too many glitches and loops.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-05T10:20:41",
+   "userName": "Paul"
+  },
+  {
+   "rating": 3,
+   "content": "Clunky compared to 2 other banking apps I use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-05T08:56:30",
+   "userName": "Martin Whitehorn"
+  },
+  {
+   "rating": 1,
+   "content": "I still can't use private keyboards, yet gboard is fine? Make it make sense, I wouldn't trust Google as far as I could throw them.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-05T08:50:25",
+   "userName": "B. Bluebriz"
+  },
+  {
+   "rating": 5,
+   "content": "Great app. Available 24/7 and works smoothly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-05T07:06:02",
+   "userName": "Dave Chapman"
+  },
+  {
+   "rating": 5,
+   "content": "So simple to use the app to make overseas payments.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-05T05:13:55",
+   "userName": "Tom Bainbridge"
+  },
+  {
+   "rating": 5,
+   "content": "the best bank account in the world \ud83c\udf0e \ud83d\udc4c",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-05T00:35:25",
+   "userName": "salvatore Abruzzo"
+  },
+  {
+   "rating": 4,
+   "content": "Great bank with excellent service. i have been with them for a few decades. just the app is a bit of let down especially the invest direct part . It doesn't allow investment via app and don't show profit and loss on investments. sad to see basic features missing from an otherwise great app. please would be great if you improve the invest direct interface.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-04T17:44:37",
+   "userName": "Jamshaid Yousuf"
+  },
+  {
+   "rating": 5,
+   "content": "simple and convenient.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-04T17:30:49",
+   "userName": "John Rosser"
+  },
+  {
+   "rating": 1,
+   "content": "doesn't work!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.69.0",
+   "at": "2026-11-04T17:17:44",
+   "userName": "Adam Edkins"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-04T16:18:58",
+   "userName": "Darren Lewis"
   }
  ],
- "record_count": 1774,
- "last_fetch_utc": "2026-11-05T14:57:38.096120+00:00"
+ "record_count": 1786,
+ "last_fetch_utc": "2026-11-06T14:36:38.582358+00:00"
 }
