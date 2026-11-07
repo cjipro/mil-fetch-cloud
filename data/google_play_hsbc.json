@@ -14289,8 +14289,88 @@
    "reviewCreatedVersion": "3.75.30",
    "at": "2026-11-04T16:18:58",
    "userName": "Darren Lewis"
+  },
+  {
+   "rating": 3,
+   "content": "Easy to use, BUT cannot register; fails to send verification code. I gave my credit-card number, sent a selfie and photos of my driving licence, then was told I'd receive a pin code on my mobile...15 minutes later I was still waiting for the code, and when I returned to the app and requested another code, it had timed out and I would have to start again. So at present the app is useless to me. (the code arrived half an hour later!) Update: sorted over the phone - talking to a human.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-06T10:44:38",
+   "userName": "Michael King"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-06T10:20:23",
+   "userName": "Mahendiran Rocky"
+  },
+  {
+   "rating": 5,
+   "content": "edit: Thanks for getting back to me! Turns out it was just an issue on my end with my device. I also wanted to mention that while the HSBC app supports cheque deposits, I couldn\u2019t deposit the cheque sent by the DVLA because it has a completely blank back, which prevented the app from completing the scan.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-06T08:49:39",
+   "userName": "Derin Pancrabas"
+  },
+  {
+   "rating": 4,
+   "content": "Easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-06T08:37:33",
+   "userName": "Tim Laundy"
+  },
+  {
+   "rating": 1,
+   "content": "Absolute rubbish app... I'd give it minus stars if I could.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-06T07:12:06",
+   "userName": "Sally Sedgemore"
+  },
+  {
+   "rating": 5,
+   "content": "Really good bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-11-06T05:08:45",
+   "userName": "MICHAEL POOLEY"
+  },
+  {
+   "rating": 4,
+   "content": "Very good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.0",
+   "at": "2026-11-06T02:37:27",
+   "userName": "Norman Brown"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-05T20:32:17",
+   "userName": "Ng\u1ecdt Ng\u00f4"
+  },
+  {
+   "rating": 1,
+   "content": "horrible ux",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-05T20:18:26",
+   "userName": "ws cheng"
+  },
+  {
+   "rating": 5,
+   "content": "very easy and straight forward to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-05T17:43:42",
+   "userName": "Lisa Richmond"
   }
  ],
- "record_count": 1786,
- "last_fetch_utc": "2026-11-06T14:36:38.582358+00:00"
+ "record_count": 1796,
+ "last_fetch_utc": "2026-11-07T13:32:50.721834+00:00"
 }

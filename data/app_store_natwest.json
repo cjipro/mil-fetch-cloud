@@ -10049,8 +10049,64 @@
    "version": "7.71.0",
    "date": "2026-10-31T14:38:39-07:00",
    "author": "DR WALIZADAH"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Great bank makes life so much better",
+   "version": "7.72.0",
+   "date": "2026-11-05T10:55:47-07:00",
+   "author": "Iceman 123456"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "NatWest is the best",
+   "version": "7.72.0",
+   "date": "2026-11-05T09:18:37-07:00",
+   "author": "topwestb"
+  },
+  {
+   "rating": 5,
+   "title": "Good functionality",
+   "review": "Relatively easy to use for a septuagenarian.",
+   "version": "7.72.0",
+   "date": "2026-11-05T09:13:41-07:00",
+   "author": "BJPF22653"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "I love my NatWest",
+   "version": "7.72.0",
+   "date": "2026-11-05T05:56:40-07:00",
+   "author": "J. Salamipour"
+  },
+  {
+   "rating": 5,
+   "title": "Saj",
+   "review": "Excellent app",
+   "version": "7.72.0",
+   "date": "2026-11-05T05:33:48-07:00",
+   "author": "Gashanghaf"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Very good",
+   "version": "7.72.0",
+   "date": "2026-11-05T04:27:31-07:00",
+   "author": "Kuganeswaran"
+  },
+  {
+   "rating": 1,
+   "title": "Bad GUI",
+   "review": "Tough to use, slow processing, forcing to use biometrics \nTerrible overall experience compared to other apps",
+   "version": "7.72.0",
+   "date": "2026-11-05T04:10:09-07:00",
+   "author": "Clegg1223"
   }
  ],
- "record_count": 1256,
- "last_fetch_utc": "2026-11-06T14:36:33.842152+00:00"
+ "record_count": 1263,
+ "last_fetch_utc": "2026-11-07T13:32:45.981583+00:00"
 }

@@ -14377,8 +14377,96 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-11-04T17:27:56",
    "userName": "Paul Anderson"
+  },
+  {
+   "rating": 5,
+   "content": "makes life easier",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-06T12:01:08",
+   "userName": "Steven Shanks"
+  },
+  {
+   "rating": 1,
+   "content": "Hi, I'm wondering if there is a known issue with the Deposit Cheque feature on Android version 15 and App version 07.72.0000.46402.0? When i try to deposit a cheque my phone take the picture but the say the following:- Error Reading Document boundaries ate not in an acceptable size. please capture the document again. Its a normal personal cheque however the boundaries on the app seem to be the wrong size rectangle to capture the cheque?",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-06T11:04:12",
+   "userName": "Robert Dunning"
+  },
+  {
+   "rating": 5,
+   "content": "so easy to use and trustworthy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-06T10:17:00",
+   "userName": "Carol Mccaffrey"
+  },
+  {
+   "rating": 5,
+   "content": "has a few problems but overall a decent app has improved",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-06T05:38:17",
+   "userName": "Keith Wooster"
+  },
+  {
+   "rating": 4,
+   "content": "Up until recently I've had no issues with the app at all, and always liked the new updates. UNFORTUNATELY... I really needed to reorder my accounts as I've changed how they're used. But the edit button on the accounts has disappeared and nothing seems to work to reorder them - including drag and drop. I'm now stuck with an (inactive) ISA at the top of the list.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-05T22:48:11",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 1,
+   "content": "how the hell do I approve a payment from my own computer!!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-11-05T21:05:09",
+   "userName": "Mike Jones"
+  },
+  {
+   "rating": 5,
+   "content": "Easy-to-use continually improving",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-11-05T16:53:49",
+   "userName": "John Graham"
+  },
+  {
+   "rating": 1,
+   "content": "wanted a joint account, alli got was Cora giving me my bank details, totally useless",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-11-05T15:44:20",
+   "userName": "linda cass"
+  },
+  {
+   "rating": 1,
+   "content": "app too big, takes up too much storage",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-05T15:35:32",
+   "userName": "Felix Butcher"
+  },
+  {
+   "rating": 4,
+   "content": "it's ok. Don't expect to be able to deposit a cheque! It has the functionality - but it rarely ever works . If you can finally get it to accept the photo of the cheque is good enough ( after maybe 20 attempts) , you then get the message \" We can't process your request at this time , please try again later ! \".",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-05T15:33:47",
+   "userName": "S M P"
+  },
+  {
+   "rating": 1,
+   "content": "Was fine until the update. Now with the mandatory face and voice ID I cant do anything. I cant access my cards without setting up this new biometric ID and the app crashes whenever I try. Horrendous",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-05T14:39:15",
+   "userName": "Emma VM"
   }
  ],
- "record_count": 1797,
- "last_fetch_utc": "2026-11-06T14:36:34.794340+00:00"
+ "record_count": 1808,
+ "last_fetch_utc": "2026-11-07T13:32:47.066973+00:00"
 }

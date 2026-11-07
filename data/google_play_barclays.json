@@ -24761,8 +24761,112 @@
    "reviewCreatedVersion": "8.29.5",
    "at": "2026-11-04T15:46:02",
    "userName": "Philip Collins"
+  },
+  {
+   "rating": 5,
+   "content": "Am i now on my new account",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.5",
+   "at": "2026-11-06T13:13:27",
+   "userName": "Jennifer Williams"
+  },
+  {
+   "rating": 1,
+   "content": "constantly down.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-06T10:26:31",
+   "userName": "jamie"
+  },
+  {
+   "rating": 1,
+   "content": "I hate it since the last update as they no longer have the calendar option to see what direct debit comes out on what day of the month. This made budgeting way harder",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.5",
+   "at": "2026-11-06T09:12:24",
+   "userName": "Ana Venczel"
+  },
+  {
+   "rating": 5,
+   "content": "Andrew good thanks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-06T09:06:36",
+   "userName": "Andrew \u201cAnd\u201d Burgess"
+  },
+  {
+   "rating": 1,
+   "content": "dosent work on more secure grapheneos, thanks!!!! still. New interface horrible, cluttered, confusing and cluttered. Stop relying on AI as well. If its not broken stop trying to fix it",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-06T08:29:29",
+   "userName": "ME me"
+  },
+  {
+   "rating": 5,
+   "content": "ap is a bit slow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.28.2",
+   "at": "2026-11-06T08:16:38",
+   "userName": "Clive Pincott"
+  },
+  {
+   "rating": 5,
+   "content": "Cannot click \"OK\" when setting up my debit card as the default contactless payment method. Whenever I log in I get alerted to change this but cannot confirm at the end... This is very frustrating. Update: app has been working great so I changed my review after the initial issues.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.5",
+   "at": "2026-11-05T22:57:03",
+   "userName": "Tiago Fonseca"
+  },
+  {
+   "rating": 5,
+   "content": "very easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.5",
+   "at": "2026-11-05T22:27:56",
+   "userName": "Shasikala Prabakaran"
+  },
+  {
+   "rating": 1,
+   "content": "Stopped working with my Amex app, trying to pay my bill and Barclays app used to open and now it doesnt",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-05T22:23:41",
+   "userName": "Patrick"
+  },
+  {
+   "rating": 5,
+   "content": "excellent barclays APP..SO user friendly and safe",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-05T19:43:48",
+   "userName": "Philip Jones Agbozo"
+  },
+  {
+   "rating": 1,
+   "content": "CAN SOMEONE get this app to work. Keeps hanging on Barclays loading page. Can login after deleting or clearing data but after that keep having to delete and start again. Lastest android update version 17 and every other app works apart from Barclays. Its a disgrace. Called Barclays and you cant fix it and loads of other people having same issue.",
+   "thumbsUpCount": 7,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-05T18:14:54",
+   "userName": "Amish Patel"
+  },
+  {
+   "rating": 3,
+   "content": "preferred the old app, cant work out how to check my direct debits on calender view since its changed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.5",
+   "at": "2026-11-05T16:29:57",
+   "userName": "Reece Ainsworth Atherton"
+  },
+  {
+   "rating": 1,
+   "content": "another update, no fix. id like to quickly look at the account, see the balance, and see how the balance went down since the last time my wage went in. so i can easily identify areas where im overspending . and scrolling back further to see the balance at each wage deposit to get an idea of trend, example a few months to put extra aside to cover Christmas.",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-05T15:54:30",
+   "userName": "Gbollocks Lbollocks"
   }
  ],
- "record_count": 3095,
- "last_fetch_utc": "2026-11-06T14:36:47.035193+00:00"
+ "record_count": 3108,
+ "last_fetch_utc": "2026-11-07T13:32:56.207522+00:00"
 }

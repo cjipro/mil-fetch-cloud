@@ -13137,8 +13137,80 @@
    "reviewCreatedVersion": "7.42.0",
    "at": "2026-09-12T14:17:57",
    "userName": "Simon"
+  },
+  {
+   "rating": 2,
+   "content": "hello.im try to dowlonding monzo online banking is not work",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-06T13:31:15",
+   "userName": "Mikulas Lazok"
+  },
+  {
+   "rating": 5,
+   "content": "thankyou great super",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-11-06T05:23:59",
+   "userName": "saturday samsooey"
+  },
+  {
+   "rating": 1,
+   "content": "doesn't always give me a notification when i go into overdraft",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-06T00:38:55",
+   "userName": "Zayd Hafesji"
+  },
+  {
+   "rating": 1,
+   "content": "You tried to make me open an account without explaining anything. That's bad business so I won't be dealing with you. Customer service? Where's that I can't see it. Why would I give my money to cowboys? Answer these questions and I might consider it. I don't work with AI I work with people. So shove your fake bank.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-06T00:14:11",
+   "userName": "Torden Alderson"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-05T20:20:37",
+   "userName": "MOHAMMED ARSHAD KHAN"
+  },
+  {
+   "rating": 1,
+   "content": "very bad costumer service ,money messing from my account and they don't care at all",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-05T20:06:37",
+   "userName": "Wissem Mastouri"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-05T19:00:19",
+   "userName": "EVANS KIPCHUMBA"
+  },
+  {
+   "rating": 5,
+   "content": "the best!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-05T17:24:34",
+   "userName": "Eliza Williams"
+  },
+  {
+   "rating": 5,
+   "content": "perfect for everything.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-05T16:09:54",
+   "userName": "Daniel Mcgrandles"
   }
  ],
- "record_count": 1642,
- "last_fetch_utc": "2026-11-06T14:36:43.515301+00:00"
+ "record_count": 1651,
+ "last_fetch_utc": "2026-11-07T13:32:52.266508+00:00"
 }
