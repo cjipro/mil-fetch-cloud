@@ -13209,8 +13209,56 @@
    "reviewCreatedVersion": "8.7.0",
    "at": "2026-11-05T16:09:54",
    "userName": "Daniel Mcgrandles"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-07T11:40:18",
+   "userName": "Jo Mason"
+  },
+  {
+   "rating": 1,
+   "content": "to many problems with direct debit",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "7.14.0",
+   "at": "2026-11-06T23:17:45",
+   "userName": "Oliver Overstolz"
+  },
+  {
+   "rating": 3,
+   "content": "An assault and senses and doesn't support foldables. Upsells and ads for products everywhere you look. Doesn't support my foldable screen size, inside or out.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-06T23:00:30",
+   "userName": "Ben Vallack"
+  },
+  {
+   "rating": 5,
+   "content": "Special!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-06T18:49:25",
+   "userName": "Susan Mhango"
+  },
+  {
+   "rating": 5,
+   "content": "simple and efficient.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-06T18:39:50",
+   "userName": "Carminda Faria"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent services!!!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.5.0",
+   "at": "2026-10-23T19:16:44",
+   "userName": "Mirela Rumega"
   }
  ],
- "record_count": 1651,
- "last_fetch_utc": "2026-11-07T13:32:52.266508+00:00"
+ "record_count": 1657,
+ "last_fetch_utc": "2026-11-08T13:51:14.898798+00:00"
 }

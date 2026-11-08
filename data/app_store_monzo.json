@@ -6633,8 +6633,32 @@
    "version": "8.8.0",
    "date": "2026-11-05T08:12:11-07:00",
    "author": "SLOANY-B-"
+  },
+  {
+   "rating": 5,
+   "title": "Best banking app",
+   "review": "This app is brilliant. So many features other banking apps don\u2019t have! Everyone should be with Monzo!",
+   "version": "8.8.0",
+   "date": "2026-11-06T22:46:33-07:00",
+   "author": "Emmalovesmonzo"
+  },
+  {
+   "rating": 5,
+   "title": "Amazing",
+   "review": "I love you guys!!!",
+   "version": "8.8.0",
+   "date": "2026-11-06T08:30:26-07:00",
+   "author": "8ballninja"
+  },
+  {
+   "rating": 5,
+   "title": "Great bank",
+   "review": "Never have I ever since I opened my first bank account at the age of 17 has there ever been a bank that you can get paid early, it has been such a help in the past when I have had no money \nThank you so much Monzo",
+   "version": "8.8.0",
+   "date": "2026-11-06T08:18:38-07:00",
+   "author": "Bobby0451"
   }
  ],
- "record_count": 829,
- "last_fetch_utc": "2026-11-07T13:32:51.391147+00:00"
+ "record_count": 832,
+ "last_fetch_utc": "2026-11-08T13:51:14.119674+00:00"
 }
