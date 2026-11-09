@@ -14425,8 +14425,32 @@
    "reviewCreatedVersion": "3.75.30",
    "at": "2026-11-06T14:28:57",
    "userName": "Aruwei Ephraim"
+  },
+  {
+   "rating": 1,
+   "content": "This patronising app refuses to launch due while an app I wrote MY SELF and installed on MY PHONE. Because my app uses an accessibility service. Disgusting. Condescending.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-08T14:43:57",
+   "userName": "Danny French"
+  },
+  {
+   "rating": 2,
+   "content": "A nightmare paying a cheque in through app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-08T11:49:49",
+   "userName": "Brian Clark"
+  },
+  {
+   "rating": 5,
+   "content": "money",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-07T14:00:49",
+   "userName": "Dylan McDonald"
   }
  ],
- "record_count": 1803,
- "last_fetch_utc": "2026-11-08T13:51:13.547390+00:00"
+ "record_count": 1806,
+ "last_fetch_utc": "2026-11-09T16:51:13.973841+00:00"
 }

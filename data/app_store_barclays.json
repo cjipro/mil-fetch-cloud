@@ -13321,8 +13321,104 @@
    "version": "3.78.5",
    "date": "2026-11-05T22:05:58-07:00",
    "author": "Gabby 12345678910 x"
+  },
+  {
+   "rating": 2,
+   "title": "Transfer screen",
+   "review": "The new transfer screen is so confusing compared to the old one",
+   "version": "3.78.5",
+   "date": "2026-11-07T13:50:48-07:00",
+   "author": "Bod the devil"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent",
+   "review": "Uncluttered and easy to use",
+   "version": "3.78.5",
+   "date": "2026-11-07T12:46:21-07:00",
+   "author": "Veryfastcar"
+  },
+  {
+   "rating": 1,
+   "title": "Fraud",
+   "review": "Barclays Helping fraud costumers money",
+   "version": "3.78.5",
+   "date": "2026-11-07T12:38:45-07:00",
+   "author": "JACUSIA"
+  },
+  {
+   "rating": 5,
+   "title": "Banking",
+   "review": "Feel quite secure using this app the new style app is impressive",
+   "version": "3.78.5",
+   "date": "2026-11-07T12:24:48-07:00",
+   "author": "Mo Mo 1966"
+  },
+  {
+   "rating": 5,
+   "title": "Very helpful",
+   "review": "Always at hand to help with any query/issue you may encounter on day to day banking. The team are always friendly and listen thoroughly to your issue and deal with it accordingly and promptly. Great job guys \ud83d\udc4d\ud83c\udffb",
+   "version": "3.78.5",
+   "date": "2026-11-07T08:49:29-07:00",
+   "author": "Pemar9981"
+  },
+  {
+   "rating": 1,
+   "title": "Can\u2019t add multiple accounts",
+   "review": "Trying to add my mortgage account and business account, turned out to be a nightmare",
+   "version": "3.78.5",
+   "date": "2026-11-07T08:25:40-07:00",
+   "author": "takearun"
+  },
+  {
+   "rating": 2,
+   "title": "Payment calendar gone with update",
+   "review": "Really annoyed that the payment calendar is no longer there. Scheduled payments only shows already deducted payments, not upcoming ones, so the ability to plan kind of goes out the window.",
+   "version": "3.78.5",
+   "date": "2026-11-07T08:23:29-07:00",
+   "author": "Lmo68352610"
+  },
+  {
+   "rating": 1,
+   "title": "Balance",
+   "review": "App needs to revert back to see balance at the end of each day. Awful upgrade have reverted back to paper statements",
+   "version": "3.78.5",
+   "date": "2026-11-07T07:46:20-07:00",
+   "author": "Bubble948"
+  },
+  {
+   "rating": 2,
+   "title": "The new update",
+   "review": "Not very good since the new update, the UI is poor now and feels like they have fallen to the minimalistic trend. What we had worked and nobody complained. Always have to fix something that isn\u2019t broken. Since the update have been considering moving my complete banking to Revolut.",
+   "version": "3.78.5",
+   "date": "2026-11-07T06:54:14-07:00",
+   "author": "201Nm"
+  },
+  {
+   "rating": 4,
+   "title": "Good app but no dark mode",
+   "review": "The app is reliable and works well. \n\nThe new design is good - however, no dark mode option or option to remove accounts. \n\nAlso, when setting up a new device the account order is lost so have to do that again \n\nOtherwise very good but dark mode is needed now",
+   "version": "3.78.5",
+   "date": "2026-11-07T06:35:10-07:00",
+   "author": "clever_trevor"
+  },
+  {
+   "rating": 5,
+   "title": "Mr M J Purple",
+   "review": "A good app.",
+   "version": "3.78.5",
+   "date": "2026-11-07T06:24:32-07:00",
+   "author": "Williepurps"
+  },
+  {
+   "rating": 5,
+   "title": "Gnb",
+   "review": "Always seems fast efficient and safe",
+   "version": "3.78.5",
+   "date": "2026-11-07T04:00:28-07:00",
+   "author": "Zxajhra"
   }
  ],
- "record_count": 1665,
- "last_fetch_utc": "2026-11-08T13:51:17.305609+00:00"
+ "record_count": 1677,
+ "last_fetch_utc": "2026-11-09T16:51:18.890241+00:00"
 }

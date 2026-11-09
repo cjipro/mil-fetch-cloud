@@ -13257,8 +13257,40 @@
    "reviewCreatedVersion": "8.5.0",
    "at": "2026-10-23T19:16:44",
    "userName": "Mirela Rumega"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-08T10:44:02",
+   "userName": "Sabri Ozer"
+  },
+  {
+   "rating": 5,
+   "content": "very suitable app experience",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-07T17:58:49",
+   "userName": "Mark Lord"
+  },
+  {
+   "rating": 1,
+   "content": "Avoid at all costs! Monzo completely fails to take fraud seriously. I was charged by a high-street merchant I didn\u2019t visit, and the merchant itself confirmed they had no record of the transaction. Despite this proof, Monzo refused to recognize it as fraud and left me out of pocket. Your money is not safe with this bank.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-07T15:41:12",
+   "userName": "Aileen Cooney"
+  },
+  {
+   "rating": 5,
+   "content": "great coustomer service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-07T14:58:36",
+   "userName": "Ghazi Ahmed"
   }
  ],
- "record_count": 1657,
- "last_fetch_utc": "2026-11-08T13:51:14.898798+00:00"
+ "record_count": 1661,
+ "last_fetch_utc": "2026-11-09T16:51:15.787102+00:00"
 }

@@ -14545,8 +14545,48 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-11-06T16:08:51",
    "userName": "Paul"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant service thank all staff",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-08T16:29:29",
+   "userName": "James Patrick"
+  },
+  {
+   "rating": 3,
+   "content": "payments and transfers not very intuitive compared to other banks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-08T08:11:58",
+   "userName": "richard burden"
+  },
+  {
+   "rating": 5,
+   "content": "The online banking system is very easy to use and secure, I'm able to carry out all my financial transactions easily and quickly.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-08T07:51:37",
+   "userName": "Andy Miller"
+  },
+  {
+   "rating": 1,
+   "content": "theres definitely something wrong with operators of rhis app...first no warnings before any kind of disruptive issues but after...2nd never can send you update info...plus service charges are frequently on time by bank...",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-08T02:37:17",
+   "userName": "Waseem Iqbal"
+  },
+  {
+   "rating": 1,
+   "content": "hopeless. I tried to pay off my card by transfer, NatWest returned it. Tried again through the app and can't even get to input bank details. If this isn't resolved, they will be charging me interest against my will",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-07T16:32:25",
+   "userName": "Stephanie Whitehouse"
   }
  ],
- "record_count": 1818,
- "last_fetch_utc": "2026-11-08T13:51:10.796258+00:00"
+ "record_count": 1823,
+ "last_fetch_utc": "2026-11-09T16:51:10.184242+00:00"
 }

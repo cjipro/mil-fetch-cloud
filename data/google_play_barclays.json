@@ -25065,8 +25065,112 @@
    "reviewCreatedVersion": "8.29.6",
    "at": "2026-11-06T13:51:07",
    "userName": "Sonia Martins"
+  },
+  {
+   "rating": 5,
+   "content": "old app was better, lost a lot of payee details",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-08T16:20:58",
+   "userName": "P Bea"
+  },
+  {
+   "rating": 1,
+   "content": "my account details are failing to load so I can't check my balance. after a couple of weeks at least and the app is still not working. totally unacceptable.",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-08T15:33:11",
+   "userName": "Tracy Wade"
+  },
+  {
+   "rating": 3,
+   "content": "yehy, at last works with grapheneos,thanks. Need to clear cache. Pity new interface horrible, cluttered, confusing and cluttered. Stop relying on AI as well. If its not broken stop trying to fix it",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-08T12:38:35",
+   "userName": "ME me"
+  },
+  {
+   "rating": 1,
+   "content": "the new refreshed app is very confusing and quite awful actually; it's not very easy to use. I keep getting the wrong bank account choice when I want to transfer or pay someone. Old one was very easy/simple. I am not sure what you have done to make the pay and transfer part so awkward to use now but it's the worst feature. The font change is hard for eyes as well. Terrible changes all round really and it was an absolutely fantastic app, better than most of my banks.. no now, terrible to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-08T12:11:56",
+   "userName": "Danita W (Tigertailor)"
+  },
+  {
+   "rating": 5,
+   "content": "thanks for keep me safe",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-08T09:32:01",
+   "userName": "doreen mothersill"
+  },
+  {
+   "rating": 1,
+   "content": "preferred the previous set up. harder to read now",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-08T08:52:17",
+   "userName": "Helen Watts"
+  },
+  {
+   "rating": 4,
+   "content": "very easy to do",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-11-07T22:17:01",
+   "userName": "Roger Cope"
+  },
+  {
+   "rating": 3,
+   "content": "overly complicated about scams",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-07T21:58:17",
+   "userName": "zak stuart"
+  },
+  {
+   "rating": 5,
+   "content": "Good one",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.22.3",
+   "at": "2026-11-07T20:39:40",
+   "userName": "Edith Catherall"
+  },
+  {
+   "rating": 1,
+   "content": "Terrible - they don't tell you what your historical balance is, so it's really tricky to keep track of monthly spending",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-07T17:16:30",
+   "userName": "Alice Robinson"
+  },
+  {
+   "rating": 2,
+   "content": "It was good, but after the latest updates, it's asking for detail checks that you can not complete or confirm!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-07T15:26:05",
+   "userName": "A Wattonite"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-07T15:05:05",
+   "userName": "Habibur Rahman"
+  },
+  {
+   "rating": 1,
+   "content": "dont fix what is not broken ... was good easy to navigate before ...now ruined",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-07T14:39:01",
+   "userName": "lojkas 8"
   }
  ],
- "record_count": 3133,
- "last_fetch_utc": "2026-11-08T13:51:18.079240+00:00"
+ "record_count": 3146,
+ "last_fetch_utc": "2026-11-09T16:51:19.605329+00:00"
 }
