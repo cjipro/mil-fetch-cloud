@@ -13289,8 +13289,32 @@
    "reviewCreatedVersion": "8.7.0",
    "at": "2026-11-07T14:58:36",
    "userName": "Ghazi Ahmed"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-09T11:38:30",
+   "userName": "fallah fuad"
+  },
+  {
+   "rating": 4,
+   "content": "very fast and reliable transactions",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-08T22:04:01",
+   "userName": "Harry France"
+  },
+  {
+   "rating": 1,
+   "content": "I changed location before the card arrived. I've been trying to change my address and request another card, but the address section is not editable. I am really stucked.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-08T17:50:35",
+   "userName": "Shobayo Grace"
   }
  ],
- "record_count": 1661,
- "last_fetch_utc": "2026-11-09T16:51:15.787102+00:00"
+ "record_count": 1664,
+ "last_fetch_utc": "2026-11-10T15:14:08.771861+00:00"
 }

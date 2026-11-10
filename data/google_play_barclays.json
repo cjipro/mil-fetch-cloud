@@ -25169,8 +25169,88 @@
    "reviewCreatedVersion": "8.29.6",
    "at": "2026-11-07T14:39:01",
    "userName": "lojkas 8"
+  },
+  {
+   "rating": 1,
+   "content": "one of the worst banking apps in existence, you can tell the clowns at Barclays have messed up and are simply trying to limp along rather than fix this absurd two bit app they created",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-09T14:56:03",
+   "userName": "Razwan Arshad"
+  },
+  {
+   "rating": 1,
+   "content": "Latest update update is awful. Missing the running total as others have stated and before you mention the 'balance after transaction' which is an extra click + scroll to see. I have seen many times now that the transactions order is not correct for a day. So then even on a day with only outgoing transactions I must click into multiple transactions to find the one with the lowest 'balance after transaction' to see that days closing balance. please fix the order issue and reintroduce running total",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-09T10:51:08",
+   "userName": "Chris L"
+  },
+  {
+   "rating": 5,
+   "content": "Great easy and convenience bank Barclays no.1",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.27.4",
+   "at": "2026-11-09T09:18:32",
+   "userName": "Honick Sarpong"
+  },
+  {
+   "rating": 5,
+   "content": "it's very reassuring to check it out",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-09T08:16:34",
+   "userName": "Ruth Shadbolt"
+  },
+  {
+   "rating": 1,
+   "content": "Preferred the old App as this one does not show a balance after each transaction when looking at recent transactions.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-09T08:14:40",
+   "userName": "Keith Turner"
+  },
+  {
+   "rating": 5,
+   "content": "Seamless and easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-09T05:39:52",
+   "userName": "Emmanuel Fasosin"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-09T05:11:00",
+   "userName": "Silviu Rosu"
+  },
+  {
+   "rating": 1,
+   "content": "Banks are always developing and introducing new things.. but this is the first time I see this bank doing a renewal to go back a hundred years like barclays banks . Open barclays App, I need 10 minutes for it to open I will also transfer from this bank barclays bank to another bank so that many people will come out I never supposed rich beacuse always selfish \ud83d\udcaf I will barclays bank soon please ever one do that",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-08T22:14:35",
+   "userName": "Reimon Gubraiel"
+  },
+  {
+   "rating": 1,
+   "content": "All almost as bad as Barclays itself. I live in the U.S. I have been locked out of the app and online banking for 3 weeks now. My debit card expired. They didn't automatically send me a new one but sent me a text message which when I reply goes nowhere. Had an account for 40 plus years, not for much longer!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.29.5",
+   "at": "2026-11-08T18:30:55",
+   "userName": "The Brit Knits"
+  },
+  {
+   "rating": 1,
+   "content": "hopeless",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.29.6",
+   "at": "2026-11-08T17:56:43",
+   "userName": "Graham Ford"
   }
  ],
- "record_count": 3146,
- "last_fetch_utc": "2026-11-09T16:51:19.605329+00:00"
+ "record_count": 3156,
+ "last_fetch_utc": "2026-11-10T15:14:12.459763+00:00"
 }

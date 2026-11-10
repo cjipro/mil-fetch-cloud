@@ -17385,8 +17385,104 @@
    "version": "196.05",
    "date": "2026-11-07T04:13:46-07:00",
    "author": "Steviebenn"
+  },
+  {
+   "rating": 5,
+   "title": "Great App",
+   "review": "Love this app as it\u2019s easy to use and very handy",
+   "version": "196.05",
+   "date": "2026-11-08T16:45:03-07:00",
+   "author": "eddie skid"
+  },
+  {
+   "rating": 5,
+   "title": "Reliable",
+   "review": "Always there when you need it.",
+   "version": "196.05",
+   "date": "2026-11-08T16:32:52-07:00",
+   "author": "SirRealistUK"
+  },
+  {
+   "rating": 2,
+   "title": "Slow",
+   "review": "This app is the slowest to open out of all my banking apps. Transferring money from my Lloyds account to my old Halifax account no longer allows me to provide a reference. \nReally hate using this app as it\u2019s so clunky.",
+   "version": "196.05",
+   "date": "2026-11-08T16:01:13-07:00",
+   "author": "Oonspoons"
+  },
+  {
+   "rating": 2,
+   "title": "Comment",
+   "review": "I feel the Service is not very speedy to give you an example if I purchased something online and you require a confirmation of this purchase it can take up to half an hour to get the confirmation to be able to go into the app so it\u2019s quite quite slow. I feel Halifax was much faster.",
+   "version": "196.05",
+   "date": "2026-11-08T13:52:22-07:00",
+   "author": "silcarkia"
+  },
+  {
+   "rating": 5,
+   "title": "Transfer",
+   "review": "Quick and easy to follow.",
+   "version": "196.05",
+   "date": "2026-11-08T13:15:49-07:00",
+   "author": "Dimwit also"
+  },
+  {
+   "rating": 1,
+   "title": "Too many error messages",
+   "review": "Compared to the Halifax app the LLoyds app is poor. Almost every time I log on something doesn\u2019t load or when I go to send a payment it says sorry try again later.",
+   "version": "196.05",
+   "date": "2026-11-08T13:15:08-07:00",
+   "author": "LC2276cc"
+  },
+  {
+   "rating": 2,
+   "title": "New app",
+   "review": "Slow slow slow",
+   "version": "196.05",
+   "date": "2026-11-08T12:54:46-07:00",
+   "author": "taff_draper"
+  },
+  {
+   "rating": 5,
+   "title": "Always excellent",
+   "review": "Good service and speedy.",
+   "version": "196.05",
+   "date": "2026-11-08T08:58:08-07:00",
+   "author": "Calgarylass"
+  },
+  {
+   "rating": 5,
+   "title": "The best",
+   "review": "10/10",
+   "version": "196.05",
+   "date": "2026-11-08T08:55:44-07:00",
+   "author": "Tefooooo1"
+  },
+  {
+   "rating": 1,
+   "title": "Lloyds doesn\u2019t work in Europe",
+   "review": "Terrible app.  Won\u2019t function in Europe.  Lloyds are global con artists & amateurs.   I have 11 complaints in.  No action on any of them.  Disgrace",
+   "version": "196.05",
+   "date": "2026-11-08T08:20:02-07:00",
+   "author": "Lordsulk"
+  },
+  {
+   "rating": 3,
+   "title": "Loading app",
+   "review": "Takes too long to load up to log in very frustrating",
+   "version": "196.05",
+   "date": "2026-11-08T03:13:07-07:00",
+   "author": "DJmorg's"
+  },
+  {
+   "rating": 2,
+   "title": "Amex transfer",
+   "review": "I couldn\u2019t pay my Amex Transfer today because it said Lloyds was \u201cunavailable\u201d.  Also have tried to transfer to Virgin ISA and that wouldn\u2019t happen either?",
+   "version": "196.05",
+   "date": "2026-11-08T02:38:16-07:00",
+   "author": "Jo KV"
   }
  ],
- "record_count": 2173,
- "last_fetch_utc": "2026-11-09T16:51:11.125960+00:00"
+ "record_count": 2185,
+ "last_fetch_utc": "2026-11-10T15:14:04.215963+00:00"
 }

@@ -14449,8 +14449,56 @@
    "reviewCreatedVersion": "3.75.30",
    "at": "2026-11-07T14:00:49",
    "userName": "Dylan McDonald"
+  },
+  {
+   "rating": 2,
+   "content": "tel others",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-09T12:00:40",
+   "userName": "storm lovell"
+  },
+  {
+   "rating": 2,
+   "content": "Just started an account switch, not impressed so far. Took me ages to work out where the switch option was. Can't open a regular saver via the app as it opens up links in the browser, and then the authorisation requirement via the app doesn't prompt me. The app also opens slower than all other banking apps I've tried. I think I'll just take the switch bonus and leave.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-09T11:22:00",
+   "userName": "Shadowside"
+  },
+  {
+   "rating": 5,
+   "content": "very good \ud83d\udc4d app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.4",
+   "at": "2026-11-09T09:34:10",
+   "userName": "Monique Martin"
+  },
+  {
+   "rating": 1,
+   "content": "no. good app i can't open no work for me",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-09T00:07:14",
+   "userName": "Khan Mohammed Nadir"
+  },
+  {
+   "rating": 5,
+   "content": "\"Maybank2 is an excellent banking platform. Fast transactions, easy navigation, and secure services make it one of the best banking apps I have used. Highly recommended!\"",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-08T22:28:08",
+   "userName": "Anna Nickloes"
+  },
+  {
+   "rating": 5,
+   "content": "Amazing Bank World No 1 Bank Nice customer support Better then other Banks Like Wise, Monzo, Lloyd's, HSBC has own Level \ud83c\udf9a\ufe0f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.74.31",
+   "at": "2026-10-01T01:20:56",
+   "userName": "MALAIKA SARFRAZ"
   }
  ],
- "record_count": 1806,
- "last_fetch_utc": "2026-11-09T16:51:13.973841+00:00"
+ "record_count": 1812,
+ "last_fetch_utc": "2026-11-10T15:14:06.997129+00:00"
 }
