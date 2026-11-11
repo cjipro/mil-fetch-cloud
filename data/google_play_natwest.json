@@ -14697,8 +14697,64 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-08T17:14:55",
    "userName": "Gintaras Morkunas"
+  },
+  {
+   "rating": 1,
+   "content": "Great up until unnecessary updates are required which are a pain in the arse to install. Will stop using app if these updates continue.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-11-10T11:13:53",
+   "userName": "Stephen Wilson"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use business account.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-10T11:02:21",
+   "userName": "Vet Eran"
+  },
+  {
+   "rating": 5,
+   "content": "Very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-10T09:06:57",
+   "userName": "colin markham"
+  },
+  {
+   "rating": 1,
+   "content": "very unfriendedly app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-10T07:48:42",
+   "userName": "Peter"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-09T19:01:03",
+   "userName": "Martin Muaka"
+  },
+  {
+   "rating": 5,
+   "content": "the BEST High St Bank in MY opinion",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-09T16:59:20",
+   "userName": "Pete Harris"
+  },
+  {
+   "rating": 5,
+   "content": "very helpful and clear guidance on setting up my now new account with all new information. Thank you",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-09T16:51:08",
+   "userName": "FarmFoods Blueberries"
   }
  ],
- "record_count": 1837,
- "last_fetch_utc": "2026-11-10T15:14:03.217604+00:00"
+ "record_count": 1844,
+ "last_fetch_utc": "2026-11-11T14:42:37.875136+00:00"
 }

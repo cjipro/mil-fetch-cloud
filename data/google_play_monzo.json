@@ -13313,8 +13313,48 @@
    "reviewCreatedVersion": "8.7.0",
    "at": "2026-11-08T17:50:35",
    "userName": "Shobayo Grace"
+  },
+  {
+   "rating": 5,
+   "content": "amazing bank amazing app highly recommended",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-10T11:06:05",
+   "userName": "Steve Taylor"
+  },
+  {
+   "rating": 3,
+   "content": "dropped from a 5 because of the zilch \u00a3100 limit.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-10T09:01:58",
+   "userName": "Adam Smith"
+  },
+  {
+   "rating": 3,
+   "content": "my monzo app hadnt updated my balance since Friday 6th Nov. please fix your app Monzo",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-10T06:54:07",
+   "userName": "Nick Triker"
+  },
+  {
+   "rating": 1,
+   "content": "DISGRACEFUL BANKING SERVICE. A failed \u00a3425 purchase remained on Monzo Flex with scheduled repayments despite written confirmation from the retailer. I spent 15+ HOURS chasing support, receiving generic scripts, repeated instructions and no resolution. Monzo registered a callback I never requested, then claimed senior management could ONLY be reached by phone. Formally reported to the FCA. Behind the polished app is an appalling lack of competence, accountability and respect for customers.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.4.0",
+   "at": "2026-11-10T00:27:53",
+   "userName": "Roman"
+  },
+  {
+   "rating": 5,
+   "content": "I love Monzo, all my family uses it too, it's so easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-09T17:07:20",
+   "userName": "Queen Bee"
   }
  ],
- "record_count": 1664,
- "last_fetch_utc": "2026-11-10T15:14:08.771861+00:00"
+ "record_count": 1669,
+ "last_fetch_utc": "2026-11-11T14:42:40.228795+00:00"
 }
