@@ -13353,8 +13353,88 @@
    "reviewCreatedVersion": "8.8.0",
    "at": "2026-11-09T17:07:20",
    "userName": "Queen Bee"
+  },
+  {
+   "rating": 5,
+   "content": "good to be there",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-11T15:14:42",
+   "userName": "Barbara Miles"
+  },
+  {
+   "rating": 1,
+   "content": "latest update, latest bunch of useless pointless and actually detrimental side effects, now my savings pots have been moved elsewhere in the app to some crud called grow. so thanks for making my life just that tiny bit more complicated, thanks for nothing. here's a free tip for you Monzo. STOP CHANGING THINGS FOR THE SAKE OF IT making us take more taps to do a function is not making things more efficient!",
+   "thumbsUpCount": 5,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-11T10:58:09",
+   "userName": "J J"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.6.0",
+   "at": "2026-11-11T03:14:35",
+   "userName": "Sandesh Ghatane"
+  },
+  {
+   "rating": 5,
+   "content": "Very Very good quality",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-11T00:52:00",
+   "userName": "James Mcguinness"
+  },
+  {
+   "rating": 5,
+   "content": "superb",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-10T18:48:33",
+   "userName": "Mark Thorpe"
+  },
+  {
+   "rating": 5,
+   "content": "Does a great job",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-10T17:46:08",
+   "userName": "Sylvan Brown"
+  },
+  {
+   "rating": 5,
+   "content": "the best banking app and bank ive ever used so easy to pay for things send money and I love the saving pots u can make up brilliant",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-10T17:10:27",
+   "userName": "Dee Barton"
+  },
+  {
+   "rating": 5,
+   "content": "wait",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-10T16:32:09",
+   "userName": "Ehan Pandarakkottil"
+  },
+  {
+   "rating": 5,
+   "content": "great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-10T16:30:59",
+   "userName": "Mike Donoghue"
+  },
+  {
+   "rating": 5,
+   "content": "Ultimately good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.7.0",
+   "at": "2026-11-10T16:11:17",
+   "userName": "Amin Hussein"
   }
  ],
- "record_count": 1669,
- "last_fetch_utc": "2026-11-11T14:42:40.228795+00:00"
+ "record_count": 1679,
+ "last_fetch_utc": "2026-11-12T15:35:33.003911+00:00"
 }

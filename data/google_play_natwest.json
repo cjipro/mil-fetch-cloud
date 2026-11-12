@@ -14753,8 +14753,80 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-09T16:51:08",
    "userName": "FarmFoods Blueberries"
+  },
+  {
+   "rating": 3,
+   "content": "New update is nice, but where's the Edit button gone? Can't rearrange my accounts order anymore",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-11T14:48:24",
+   "userName": "Tobias Wilson"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-11T13:48:55",
+   "userName": "Pamela Young"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-11T07:10:38",
+   "userName": "Glyn Pritchard"
+  },
+  {
+   "rating": 1,
+   "content": "Too much security face scanning. Monzo and other apps don't require it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-11-11T04:57:50",
+   "userName": "Bob T"
+  },
+  {
+   "rating": 5,
+   "content": "Good \ud83d\udc4d",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-10T22:13:42",
+   "userName": "Mary Otumfo"
+  },
+  {
+   "rating": 5,
+   "content": "I love the natwest app it's accurate and easy to use!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-10T21:54:48",
+   "userName": "Yetunde Arasanmi"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-10T20:19:53",
+   "userName": "Colin Padley"
+  },
+  {
+   "rating": 3,
+   "content": "Keep having to re-login (as if I've just got the app) practically every month. It's incredibly frustrating. Please fix this problem!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-10T19:30:59",
+   "userName": "Milo Horsey"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent app. Thank you.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-10T14:43:03",
+   "userName": "David Hunter"
   }
  ],
- "record_count": 1844,
- "last_fetch_utc": "2026-11-11T14:42:37.875136+00:00"
+ "record_count": 1853,
+ "last_fetch_utc": "2026-11-12T15:35:30.455270+00:00"
 }
