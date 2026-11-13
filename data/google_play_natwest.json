@@ -14825,8 +14825,88 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-10T14:43:03",
    "userName": "David Hunter"
+  },
+  {
+   "rating": 4,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-12T14:41:12",
+   "userName": "Adel Al-Nazi"
+  },
+  {
+   "rating": 5,
+   "content": "lenghty call and took some time to connect to an operator, but he was extremely helpful once we did. Very patient too with my slower IT skills!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-12T12:19:43",
+   "userName": "Bronwen Elphick"
+  },
+  {
+   "rating": 4,
+   "content": "perfectly good with the slight annoyance that the log-out isn't easily accessed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-12T11:27:47",
+   "userName": "Nick Lea"
+  },
+  {
+   "rating": 1,
+   "content": "I can never uodate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-11-12T08:56:20",
+   "userName": "Catherine Schofield"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use and navigate",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-12T07:39:43",
+   "userName": "sam Morgan"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-12T07:00:40",
+   "userName": "Craig Davies"
+  },
+  {
+   "rating": 1,
+   "content": "Was all good until they started expecting biometrics for everything now. it isn't worth using most of the time as I can not trust them with my biometric information. this is not about security this is about collecting personal data for their own uses.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-11T23:38:42",
+   "userName": "James Billington"
+  },
+  {
+   "rating": 5,
+   "content": "first impressions after starting app. looking good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-11T20:48:00",
+   "userName": "mark edwards"
+  },
+  {
+   "rating": 1,
+   "content": "The longest, worst designed login flow I've ever had the displeasure of going through.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-11T20:35:05",
+   "userName": "Steve Richmond"
+  },
+  {
+   "rating": 1,
+   "content": "what use is this? I only want to pay the window cleaner, not go through all this stuff.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.68.0000.33733.0",
+   "at": "2026-11-11T16:13:24",
+   "userName": "Janet Harris"
   }
  ],
- "record_count": 1853,
- "last_fetch_utc": "2026-11-12T15:35:30.455270+00:00"
+ "record_count": 1863,
+ "last_fetch_utc": "2026-11-13T14:54:12.009151+00:00"
 }

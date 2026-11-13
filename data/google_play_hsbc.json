@@ -14673,8 +14673,48 @@
    "reviewCreatedVersion": null,
    "at": "2026-11-10T16:04:32",
    "userName": "Masum Rana"
+  },
+  {
+   "rating": 3,
+   "content": "cannot export confirmations of transactions",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-12T11:54:19",
+   "userName": "Mike Vasiljevs"
+  },
+  {
+   "rating": 1,
+   "content": "Cheque deposit DOES NOT WORK EVER. Cheque flat? Yes. On Dark surface? Yes. Ensure no shadows? Yes. Cheque within framing? Yes. App: Hold over document. Me: It is! *repeat ten times* *app times out requiring new log in* *repeat ten more times* App: *finally takes image* App: Document not valid dimensions. Me: *throws phone out of window*",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-12T11:44:11",
+   "userName": "Matt Calvert"
+  },
+  {
+   "rating": 4,
+   "content": "Latest update changes to money transfers is not as smooth as previous version. It's over complicated, a little confusing and not well thought out. Notification either not working or slow to notify.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-12T04:52:29",
+   "userName": "Andrew Sutcliffe"
+  },
+  {
+   "rating": 1,
+   "content": "The HSBC app doesn't allow me to open it due to the fact that I have an accessibility app 'Cube ARC Helper' installed on my phone to help with notes and things like that, that I need because of my disabilities. feels very discriminatory of the fact that I either have to choose being able to use my HSBC banking app or not being able to have an accessibility app installed on my phone. please sort this asap. Also please allow screenshots within app, it's so frustrating not being able to do this!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-11T22:38:56",
+   "userName": "Kurt Davis"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank very helpful.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-11T17:38:45",
+   "userName": "John Devenish"
   }
  ],
- "record_count": 1834,
- "last_fetch_utc": "2026-11-12T15:35:32.296948+00:00"
+ "record_count": 1839,
+ "last_fetch_utc": "2026-11-13T14:54:15.415368+00:00"
 }

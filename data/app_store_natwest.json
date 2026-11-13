@@ -10433,8 +10433,536 @@
    "version": "7.72.0",
    "date": "2026-11-08T00:31:43-07:00",
    "author": "Based in Devon"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use",
+   "review": "Needed to transfer money and found it easy to use",
+   "version": "7.72.0",
+   "date": "2026-11-12T02:26:55-07:00",
+   "author": "Budgepudney"
+  },
+  {
+   "rating": 1,
+   "title": "Does not update",
+   "review": "Tried, tried and tried but does not work",
+   "version": "7.56.0",
+   "date": "2026-11-12T01:43:38-07:00",
+   "author": "gtrewasfhnjk"
+  },
+  {
+   "rating": 1,
+   "title": "Dave",
+   "review": "Since the update I can no longer do banking on my phone. Thanks",
+   "version": "7.56.0",
+   "date": "2026-11-12T00:59:54-07:00",
+   "author": "sp billy"
+  },
+  {
+   "rating": 1,
+   "title": "short sighted update",
+   "review": "my phone cannot support ios16. i have now lost access to my online banking. I cannot afford a new phone.",
+   "version": "7.56.0",
+   "date": "2026-11-12T00:25:08-07:00",
+   "author": "Winnie the Who"
+  },
+  {
+   "rating": 1,
+   "title": "They stopped support for older iOS devices",
+   "review": "NatWest no longer supports older iOS devices which are on the latest available iOS (15.8) so if you have for example an iPad Air 2 expect to no longer be able to bank with the NatWest app you had.",
+   "version": "7.56.0",
+   "date": "2026-11-11T23:35:56-07:00",
+   "author": "honest reporting in"
+  },
+  {
+   "rating": 5,
+   "title": "It\u2019s a Banker",
+   "review": "Terrible am unable to access my bank statement or transactions as I\u2019m house bound bin withe th Nat West system for 70 years since the District Bank n now may have to change I\u2019m aghast at the inability to find my accounts",
+   "version": "7.56.0",
+   "date": "2026-11-11T22:26:36-07:00",
+   "author": "Fatteee"
+  },
+  {
+   "rating": 1,
+   "title": "Stupid",
+   "review": "Some people can\u2019t afford phones with the new update so I guess now they can\u2019t use there banking app \u2026. Shame on you natwest",
+   "version": "7.56.0",
+   "date": "2026-11-11T18:04:07-07:00",
+   "author": "hsjiiuib"
+  },
+  {
+   "rating": 1,
+   "title": "App not supported",
+   "review": "How am I supposed to send money now",
+   "version": "7.56.0",
+   "date": "2026-11-11T16:35:49-07:00",
+   "author": "goober gubbins"
+  },
+  {
+   "rating": 1,
+   "title": "Thanks for changing app now I can\u2019t use it",
+   "review": "Trash",
+   "version": "7.56.0",
+   "date": "2026-11-11T16:14:35-07:00",
+   "author": "fastburt"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent Service",
+   "review": "NatWest mobile App is brilliant, easy to use and covers many services.\nMuch easier than going to the bank personally apart from some other services that need to visit the bank.",
+   "version": "7.72.0",
+   "date": "2026-11-11T14:25:15-07:00",
+   "author": "Tina Aziz"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "Very good",
+   "version": "7.72.0",
+   "date": "2026-11-11T12:37:09-07:00",
+   "author": "Kuganeswaran"
+  },
+  {
+   "rating": 5,
+   "title": "Mr rayfield",
+   "review": "Decent user friendly app.",
+   "version": "7.72.0",
+   "date": "2026-11-11T08:02:02-07:00",
+   "author": "Peteray83"
+  },
+  {
+   "rating": 5,
+   "title": "Brilliant and so helpful, still extremely helpful blessings to you all",
+   "review": "I have used this App for years and it is so helpful and saves so much time\u2026.especially as nearly all banks have closed sadly.",
+   "version": "7.72.0",
+   "date": "2026-11-11T06:26:53-07:00",
+   "author": "Susannah MG"
+  },
+  {
+   "rating": 2,
+   "title": "Pots!",
+   "review": "I\u2019m enjoying using pots they\u2019re very helpful for budgeting but I\u2019d really like to be able to link them to multiple accounts or have the option to choose which pot to take money from when paying with the card associated with the pot account when using my phone. The transferring back and forth is irritating and a bit stressful if you\u2019ve not done the transfer before shopping.",
+   "version": "7.72.0",
+   "date": "2026-11-11T05:01:52-07:00",
+   "author": "Boss1975"
+  },
+  {
+   "rating": 3,
+   "title": "Pin has been reset",
+   "review": "Used this app for years and today the pin I\u2019ve always used is no longer accepted.   App upgrade or iOS upgrade?  Or a means to get users to revalidate?",
+   "version": "7.72.0",
+   "date": "2026-11-11T04:33:29-07:00",
+   "author": "mbswinnow"
+  },
+  {
+   "rating": 5,
+   "title": "NatWest bank is so safe and easy to use mobile banking.",
+   "review": "The best mobile banking and also safe and secure.",
+   "version": "7.72.0",
+   "date": "2026-11-11T03:33:45-07:00",
+   "author": "Irinabcc"
+  },
+  {
+   "rating": 5,
+   "title": "iPhone Duo update",
+   "review": "Needs major redesign and support for iPhone Duo",
+   "version": "7.72.0",
+   "date": "2026-11-11T02:48:30-07:00",
+   "author": "Arif_Khalifa"
+  },
+  {
+   "rating": 5,
+   "title": "Easy and helpful",
+   "review": "The app is easy to use and offers features that I find really useful, such as roundups and separate named pots to keep money aside.",
+   "version": "7.72.0",
+   "date": "2026-11-11T01:47:35-07:00",
+   "author": "Aidskjdjf"
+  },
+  {
+   "rating": 1,
+   "title": "BIOMETRIC LOG ON IS A JOKE",
+   "review": "Would not accept my already set up voice recording. Had to completely re-do, only to be told that the website was down! Complete rubbish from NWB \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+   "version": "7.72.0",
+   "date": "2026-11-11T01:36:59-07:00",
+   "author": "CRAPSERVIC"
+  },
+  {
+   "rating": 5,
+   "title": "Loyalty",
+   "review": "Started banking in 2001 and never thought of  changing bank\nExcellent service, low interest rate, fe good offers",
+   "version": "7.72.0",
+   "date": "2026-11-11T01:08:05-07:00",
+   "author": "Marltrillo"
+  },
+  {
+   "rating": 5,
+   "title": "Easy",
+   "review": "This is such an easy app to use. Very quick and easy.",
+   "version": "7.72.0",
+   "date": "2026-11-11T00:51:03-07:00",
+   "author": "Kevs Choice"
+  },
+  {
+   "rating": 5,
+   "title": "Efficient",
+   "review": "Easy to use",
+   "version": "7.72.0",
+   "date": "2026-11-11T00:24:30-07:00",
+   "author": "Margy 2451"
+  },
+  {
+   "rating": 1,
+   "title": "Critical alerts/push notifications not working",
+   "review": "Critical alerts/push notifications not working and their technical team refuse to do a specialist investigation into the faults despite complaining and ticking off all their usual technical checks. I\u2019m sure other people likely have the same fault but NatWest aren\u2019t interested in resolving it.",
+   "version": "7.72.0",
+   "date": "2026-11-10T22:55:23-07:00",
+   "author": "Sanders567"
+  },
+  {
+   "rating": 4,
+   "title": "Phone banking",
+   "review": "It is scary.  Just how easy it is to make payments and potentially make mistakes.  \nUsing the laptop seems awkward in comparison but it seems more controllable, less irrevocably instant. I suppose like everything else it\u2019s a matter of trust.",
+   "version": "7.72.0",
+   "date": "2026-11-10T20:11:19-07:00",
+   "author": "Lidl Larry"
+  },
+  {
+   "rating": 5,
+   "title": "Responsive and useful",
+   "review": "Great app transforms banking -use it every day.",
+   "version": "7.72.0",
+   "date": "2026-11-10T12:57:13-07:00",
+   "author": "AndyD"
+  },
+  {
+   "rating": 5,
+   "title": "Mr Gulzar Ahmed",
+   "review": "Best Service",
+   "version": "7.72.0",
+   "date": "2026-11-10T11:45:27-07:00",
+   "author": "KG WARRAICH"
+  },
+  {
+   "rating": 1,
+   "title": "Slow",
+   "review": "It takes so long for the app to open. It\u2019s always loading",
+   "version": "7.72.0",
+   "date": "2026-11-10T11:13:58-07:00",
+   "author": "Ik18ik"
+  },
+  {
+   "rating": 2,
+   "title": "Review of transfer money",
+   "review": "Review\nI think it\u2019s very bad at transfers between accounts it \nnever selects what I ask",
+   "version": "7.72.0",
+   "date": "2026-11-10T11:11:08-07:00",
+   "author": "a Longton lass"
+  },
+  {
+   "rating": 1,
+   "title": "Annoyed by request for review",
+   "review": "Every time I log onto online banking I am requested to complete service review and despite doing so every time it continues. Frustrated which is s shame as online banking system is fab and do easy to navigate.",
+   "version": "7.72.0",
+   "date": "2026-11-10T09:56:32-07:00",
+   "author": "Gfhua"
+  },
+  {
+   "rating": 4,
+   "title": "Easy to use",
+   "review": "The app is easy to use. My only issue is trying to find the statement section.",
+   "version": "7.72.0",
+   "date": "2026-11-10T09:03:41-07:00",
+   "author": "southend susie"
+  },
+  {
+   "rating": 5,
+   "title": "Helpful",
+   "review": "So helpful and easy to use",
+   "version": "7.72.0",
+   "date": "2026-11-10T08:27:42-07:00",
+   "author": "Rararahdhdybejdb"
+  },
+  {
+   "rating": 5,
+   "title": "Good",
+   "review": "Good",
+   "version": "7.72.0",
+   "date": "2026-11-10T08:06:56-07:00",
+   "author": "Azmataz7689"
+  },
+  {
+   "rating": 1,
+   "title": "Payments within account selected",
+   "review": "This new app is so annoying! I expect that when I select an account then go to payment method that the transfer is from the account I\u2019m in but this not the case it takes it from the first account you have listed. It\u2019s so easy to forget to swipe so making a complete mess of my accounts. Can you change it that if you are in a certain account and go to payment method someone it goes from the account that I am . Please for me! Before I have a breakdown and throw my phone across the kitchen which might accidentally hit my husband as forgotten my HRT this morning!",
+   "version": "7.72.0",
+   "date": "2026-11-10T07:22:53-07:00",
+   "author": "Lavinia CP"
+  },
+  {
+   "rating": 1,
+   "title": "Review",
+   "review": "Every time I use the app it wants a review. Stop asking for reviews!!!!",
+   "version": "7.72.0",
+   "date": "2026-11-10T05:06:04-07:00",
+   "author": "Rammieib"
+  },
+  {
+   "rating": 5,
+   "title": "Simple",
+   "review": "Very easy to use and I feel safe with the mobile and online security.",
+   "version": "7.72.0",
+   "date": "2026-11-10T04:32:10-07:00",
+   "author": "Deevyman"
+  },
+  {
+   "rating": 5,
+   "title": "Great",
+   "review": "Easy to use. Good information and lots of features",
+   "version": "7.72.0",
+   "date": "2026-11-10T03:43:40-07:00",
+   "author": "CRETHerd"
+  },
+  {
+   "rating": 5,
+   "title": "Faultless app, excellent customer service",
+   "review": "Super reliable app, very responsive customer service",
+   "version": "7.72.0",
+   "date": "2026-11-10T00:49:39-07:00",
+   "author": "Drey1969"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use",
+   "review": "Easy to use - reliable notifications",
+   "version": "7.72.0",
+   "date": "2026-11-09T23:53:28-07:00",
+   "author": "frances kolgate"
+  },
+  {
+   "rating": 5,
+   "title": "App",
+   "review": "App so easy to use even for someone like me",
+   "version": "7.72.0",
+   "date": "2026-11-09T23:37:04-07:00",
+   "author": "kracken11"
+  },
+  {
+   "rating": 5,
+   "title": "Very supportive and protective",
+   "review": "NatWest has an eagle eye over my accounts and ready to assist me in any way.",
+   "version": "7.72.0",
+   "date": "2026-11-09T23:01:12-07:00",
+   "author": "man of galilee"
+  },
+  {
+   "rating": 5,
+   "title": "Straight forward",
+   "review": "Secure and easy to see status of payments and use whilst on the go.",
+   "version": "7.72.0",
+   "date": "2026-11-09T21:36:36-07:00",
+   "author": "Trace. aka Trev"
+  },
+  {
+   "rating": 5,
+   "title": "NatWest",
+   "review": "I like mobile banking",
+   "version": "7.72.0",
+   "date": "2026-11-09T20:51:29-07:00",
+   "author": "BIG STU 1975"
+  },
+  {
+   "rating": 1,
+   "title": "M",
+   "review": "Fed up with the feedback screen popping up every time",
+   "version": "7.72.0",
+   "date": "2026-11-09T20:11:20-07:00",
+   "author": "eeyore97"
+  },
+  {
+   "rating": 5,
+   "title": "Mr",
+   "review": "ALBA",
+   "version": "7.72.0",
+   "date": "2026-11-09T18:50:04-07:00",
+   "author": "carlos jiojio"
+  },
+  {
+   "rating": 5,
+   "title": "Neio",
+   "review": "Very quick and efficient",
+   "version": "7.72.0",
+   "date": "2026-11-09T13:54:02-07:00",
+   "author": "neiid2"
+  },
+  {
+   "rating": 5,
+   "title": "Tofik shaikh",
+   "review": "Good",
+   "version": "7.72.0",
+   "date": "2026-11-09T11:52:56-07:00",
+   "author": "Tofikahmed"
+  },
+  {
+   "rating": 5,
+   "title": "Always helpful!",
+   "review": "Always friendly advice given when I go into bank.",
+   "version": "7.72.0",
+   "date": "2026-11-09T11:38:15-07:00",
+   "author": "Sopmia"
+  },
+  {
+   "rating": 5,
+   "title": "Good",
+   "review": "Excellent App.\ud83d\udc4d\ud83c\udffc",
+   "version": "7.72.0",
+   "date": "2026-11-09T11:23:23-07:00",
+   "author": "Fitzy1950"
+  },
+  {
+   "rating": 5,
+   "title": "Recent banking",
+   "review": "All running smoothly. Thanks. For personal and business banking.",
+   "version": "7.72.0",
+   "date": "2026-11-09T10:16:06-07:00",
+   "author": "dadellis"
+  },
+  {
+   "rating": 4,
+   "title": "Easy to use",
+   "review": "Normal transactions are easy sometimes however if you have a query it is frustrating especially as we no longer have a branch to help us",
+   "version": "7.72.0",
+   "date": "2026-11-09T08:42:14-07:00",
+   "author": "olebut"
+  },
+  {
+   "rating": 5,
+   "title": "Great App",
+   "review": "I mean the app does what you need it to do in a user friendly way",
+   "version": "7.72.0",
+   "date": "2026-11-09T07:51:50-07:00",
+   "author": "Bunnika"
+  },
+  {
+   "rating": 1,
+   "title": "Biometric approval freezes and blocks my transfer",
+   "review": "I\u2019m trying to make an international transfer from my NatWest account. I can log in and enter the payment details, but when I reach biometric approval, the app gets stuck on a loading screen. I still haven\u2019t been able to send the payment.\n\nI\u2019m in China, and NatWest\u2019s verification texts aren\u2019t reaching my registered number either. I rely on the app to make payments while I\u2019m abroad. Please fix the approval screen and give customers a reliable way to complete a transfer when it gets stuck.",
+   "version": "7.72.0",
+   "date": "2026-11-09T07:48:08-07:00",
+   "author": "alexsubzppoonj"
+  },
+  {
+   "rating": 1,
+   "title": "App update",
+   "review": "Apparently in 3 days time my iPad (which has nothing wrong with it) will no longer support the Nat West app. Thanks Nat West.",
+   "version": "7.56.0",
+   "date": "2026-11-09T07:32:58-07:00",
+   "author": "B1nx1"
+  },
+  {
+   "rating": 5,
+   "title": "Review",
+   "review": "Fast and easy to navigate and use",
+   "version": "7.72.0",
+   "date": "2026-11-09T07:10:12-07:00",
+   "author": "Debbie303"
+  },
+  {
+   "rating": 4,
+   "title": "Banking",
+   "review": "The app is both useful and user friendly I was never going to use a app but NatWest changed that for me and the fraud team are excellent \ud83d\udc4d\ud83c\udffb",
+   "version": "7.72.0",
+   "date": "2026-11-09T05:53:07-07:00",
+   "author": "claretseahawk"
+  },
+  {
+   "rating": 4,
+   "title": "Good but",
+   "review": "It would be helpful if I could see adhoc payments I\u2019ve set up for a future date instead of trying to remember if I\u2019ve done it. Really annoying",
+   "version": "7.72.0",
+   "date": "2026-11-09T05:51:50-07:00",
+   "author": "Jane Cheshire"
+  },
+  {
+   "rating": 5,
+   "title": "Best Banking App",
+   "review": "Works perfectly on my iPad.",
+   "version": "7.72.0",
+   "date": "2026-11-09T04:37:20-07:00",
+   "author": "srydigital"
+  },
+  {
+   "rating": 5,
+   "title": "Great",
+   "review": "Outstanding banking",
+   "version": "7.72.0",
+   "date": "2026-11-09T04:09:58-07:00",
+   "author": "Hong Kong pooey"
+  },
+  {
+   "rating": 4,
+   "title": "Ok",
+   "review": "Ok",
+   "version": "7.72.0",
+   "date": "2026-11-09T03:24:12-07:00",
+   "author": "Gtafanmiam"
+  },
+  {
+   "rating": 1,
+   "title": "Customer communication",
+   "review": "Changed bank withdrawal limits without communication",
+   "version": "7.72.0",
+   "date": "2026-11-09T02:24:48-07:00",
+   "author": "greyhoundblue"
+  },
+  {
+   "rating": 5,
+   "title": "NatWest App",
+   "review": "Easy to use.",
+   "version": "7.72.0",
+   "date": "2026-11-09T01:40:40-07:00",
+   "author": "Spuckle2"
+  },
+  {
+   "rating": 5,
+   "title": "Colin",
+   "review": "Excellent service",
+   "version": "7.72.0",
+   "date": "2026-11-09T01:39:53-07:00",
+   "author": "Blues city25"
+  },
+  {
+   "rating": 5,
+   "title": "A blessing for OAP\u2019s",
+   "review": "When bank branches are closing or difficult to get too online is a blessing.",
+   "version": "7.72.0",
+   "date": "2026-11-09T01:09:32-07:00",
+   "author": "wish i hsdnt chosen hp"
+  },
+  {
+   "rating": 5,
+   "title": "Brilliant",
+   "review": "This app has made banking so easy .",
+   "version": "7.72.0",
+   "date": "2026-11-09T00:18:24-07:00",
+   "author": "anjharm"
+  },
+  {
+   "rating": 5,
+   "title": "Easy",
+   "review": "Good app, easy to use",
+   "version": "7.72.0",
+   "date": "2026-11-09T00:17:31-07:00",
+   "author": "APC CLEANING"
+  },
+  {
+   "rating": 5,
+   "title": "Mobile Banking",
+   "review": "Simple an excellent app",
+   "version": "7.72.0",
+   "date": "2026-11-08T23:31:00-07:00",
+   "author": "Not tech savi"
   }
  ],
- "record_count": 1304,
- "last_fetch_utc": "2026-11-10T15:14:02.052490+00:00"
+ "record_count": 1370,
+ "last_fetch_utc": "2026-11-13T14:54:10.943180+00:00"
 }
