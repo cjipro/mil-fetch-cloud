@@ -8889,8 +8889,48 @@
    "version": "3.75.4",
    "date": "2026-10-25T04:25:35-07:00",
    "author": "AJZ37"
+  },
+  {
+   "rating": 5,
+   "title": "Great app",
+   "review": "Best app out of all the banking apps, simple and straightforward to use",
+   "version": "3.76.0",
+   "date": "2026-11-12T12:21:32-07:00",
+   "author": "Xxcolsxx"
+  },
+  {
+   "rating": 5,
+   "title": "Efficient as always",
+   "review": "-",
+   "version": "3.76.0",
+   "date": "2026-11-12T11:54:36-07:00",
+   "author": "Tenfoot Wizard"
+  },
+  {
+   "rating": 1,
+   "title": "Payees list is poor",
+   "review": "Old payees are lost after a certain number. Same payees are saved twice when adding a different reference and payments to credit cards are saved as payees so u have to add someone again if u want to pay them. We should also have an option to check all previous transfers to the same account or name.",
+   "version": "3.76.0",
+   "date": "2026-11-12T11:42:36-07:00",
+   "author": "rudizzie"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent bank",
+   "review": "I\u2019ve been with HSBC , Midland bank since I was 17. I\u2019m now 75.  They have always served me well and great managers have been an asset",
+   "version": "3.76.0",
+   "date": "2026-11-12T08:54:40-07:00",
+   "author": "Dion Wales"
+  },
+  {
+   "rating": 3,
+   "title": "bus",
+   "review": "doesn\u2019t work for buses",
+   "version": "3.76.0",
+   "date": "2026-11-12T08:48:42-07:00",
+   "author": "buspusherin"
   }
  ],
- "record_count": 1111,
- "last_fetch_utc": "2026-11-13T14:54:14.319146+00:00"
+ "record_count": 1116,
+ "last_fetch_utc": "2026-11-14T13:47:07.333813+00:00"
 }

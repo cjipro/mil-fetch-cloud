@@ -14713,8 +14713,80 @@
    "reviewCreatedVersion": "3.75.30",
    "at": "2026-11-11T17:38:45",
    "userName": "John Devenish"
+  },
+  {
+   "rating": 1,
+   "content": "not recommended",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-13T08:53:26",
+   "userName": "Dmitry Pozdniakov"
+  },
+  {
+   "rating": 5,
+   "content": "Your service is very good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-13T08:44:27",
+   "userName": "Simon Njuguna"
+  },
+  {
+   "rating": 5,
+   "content": "Been with HSBC for years. They have been helpful whenever I have needed it. The phones are always answered and you aren't left hanging on for ages like a lot of others. Security is tight. I would not be with any other bank.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-13T08:22:49",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 1,
+   "content": "Now seems to crash whenever I try to do anything financial, which seems like a flaw in a banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-13T07:48:37",
+   "userName": "Chris Wignall"
+  },
+  {
+   "rating": 2,
+   "content": "App is okay and would give 4* if not for the fact they are treating all private spaces within phones the same way. Samsung Knox Secure Folder is my preferred location for banking apps due to the additional layer of security. Come on HSBC developers, I appreciate not all private spaces are as good as Knox, but please build into the HSBC App access for users specifically of Samsung phones for users who prefer to use Knox/Secure Folder!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-12T22:22:58",
+   "userName": "Andy B"
+  },
+  {
+   "rating": 4,
+   "content": "Having used the app for many years, since the last update a few days ago I have lost important payees and have been unable to reinstate them. When I try to access the payees the app says \"Unable to proceed\"",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-12T20:53:00",
+   "userName": "Denis Allen"
+  },
+  {
+   "rating": 2,
+   "content": "since the latest update, when you go to transfer money the amount shown on the transfer screen doesn't match up with the actual amount in the account. I just spent on my card in a shop, balance on the app showed correct amount, when I got home to do a transfer the transfer amount screen still showed the previous balance? not great if you can't even get the numbers to match!",
+   "thumbsUpCount": 10,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-12T18:29:37",
+   "userName": "Andy Crayden"
+  },
+  {
+   "rating": 2,
+   "content": "new update is horrble i cant transfer money bc it wont stop loading",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-12T16:43:27",
+   "userName": "Ihsoti"
+  },
+  {
+   "rating": 5,
+   "content": "Great bank, been with them over 40 years.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-12T15:04:22",
+   "userName": "Gail Maden"
   }
  ],
- "record_count": 1839,
- "last_fetch_utc": "2026-11-13T14:54:15.415368+00:00"
+ "record_count": 1848,
+ "last_fetch_utc": "2026-11-14T13:47:07.928377+00:00"
 }

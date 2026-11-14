@@ -14073,8 +14073,72 @@
    "version": "3.78.5",
    "date": "2026-11-09T02:35:46-07:00",
    "author": "grauntyjijo"
+  },
+  {
+   "rating": 1,
+   "title": "Why getting an statement should take 2 days?!",
+   "review": "It\u2019s so disappointing. Other banking apps give you instant on demand up to date statement but you need to wait a couple of days for Barclays to run a simple database query for you. Awful",
+   "version": "3.78.7",
+   "date": "2026-11-12T14:32:31-07:00",
+   "author": "MrPJSAN\u013012"
+  },
+  {
+   "rating": 1,
+   "title": "Running balance removed",
+   "review": "The app updated and the running balance has been removed. Before, it would show you your balance before and after transactions, which was really helpful. Now it doesn\u2019t, it only shows your current balance on the homepage and then a separate page for transactions, which has a daily +/- balance shown for every day. To view your balance after a transaction, you have to click every single transaction. This makes the app pretty pointless for me as that was a main feature for me, and it helped to track my outgoings and available spends versus where I was at in the month, so I am just going to start using another bank with an app is designed to be used by real people who spend their money.",
+   "version": "3.78.7",
+   "date": "2026-11-12T14:05:01-07:00",
+   "author": "Lkhfsayeb"
+  },
+  {
+   "rating": 1,
+   "title": "Ruined after update",
+   "review": "The previous app experience was great but now ruined by rubbish layout and format. Please bring back the old format?",
+   "version": "3.78.7",
+   "date": "2026-11-12T12:50:01-07:00",
+   "author": "iBeep"
+  },
+  {
+   "rating": 2,
+   "title": "Constant bugs",
+   "review": "00002 - every time I open this app. It fails. Constantly trying to work with Barclays and the app. But riddled with developer errors. Please fix asap",
+   "version": "3.78.7",
+   "date": "2026-11-12T11:26:44-07:00",
+   "author": "Retroshrek"
+  },
+  {
+   "rating": 1,
+   "title": "Bad for statements",
+   "review": "Comparing this app to one like revolut\u2026 I\u2019m trying to do something very simple like download a custom statement date range\u2026 nope not possible I have to deal with the statements that have already been made - they can\u2019t just make a now one for a custom date range containing selected information.. revolut can ! I hope Barclays updates soon, as I\u2019m tempted to just migrate everything to revolut which has greatly modernised and has much better a.i tools that are very helpful. I tried using the message feature and got stuck in a loop and was not helped at all, it didn\u2019t even offer to put me in contact with a bank help staff. Much updating is needed!",
+   "version": "3.78.7",
+   "date": "2026-11-12T11:06:55-07:00",
+   "author": "Dave2day1"
+  },
+  {
+   "rating": 5,
+   "title": "Fabulous",
+   "review": "What a find I resisted but had to pay in a cheque and so glad the app is fabulous.",
+   "version": "3.78.7",
+   "date": "2026-11-12T06:35:34-07:00",
+   "author": "Parskeet"
+  },
+  {
+   "rating": 2,
+   "title": "Annoying",
+   "review": "I only get \u00a30.01 interest every 3 months i you have a juniors account you cant transfer any money, and I haven\u2019t been able to go into my account ever since I got my Barclays account",
+   "version": "3.78.7",
+   "date": "2026-11-12T06:22:38-07:00",
+   "author": "Itswhite W-h-i-T"
+  },
+  {
+   "rating": 5,
+   "title": "Barclays Currently Account Ap",
+   "review": "Extreme quick and really Easley to use, took longer to write this review than to make a payment.",
+   "version": "3.78.7",
+   "date": "2026-11-12T06:19:12-07:00",
+   "author": "Just as I always will be"
   }
  ],
- "record_count": 1759,
- "last_fetch_utc": "2026-11-13T14:54:19.818136+00:00"
+ "record_count": 1767,
+ "last_fetch_utc": "2026-11-14T13:47:12.144467+00:00"
 }
