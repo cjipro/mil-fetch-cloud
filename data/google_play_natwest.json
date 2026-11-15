@@ -15001,8 +15001,48 @@
    "reviewCreatedVersion": "07.70.0000.39862.0",
    "at": "2026-11-12T17:25:22",
    "userName": "Zainab Mansaray"
+  },
+  {
+   "rating": 1,
+   "content": "Cannot upgrade the app at all so Cannot get on to my bank information. It worked brilliantly before",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-11-14T14:01:29",
+   "userName": "Audrey Baranski"
+  },
+  {
+   "rating": 5,
+   "content": "a Banking App that's easy and simple, that works as it should",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-14T12:43:22",
+   "userName": "Danny Embrey"
+  },
+  {
+   "rating": 1,
+   "content": "dreadful issues getting through on phone...endless auto questions!!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-13T17:00:09",
+   "userName": "Helen"
+  },
+  {
+   "rating": 2,
+   "content": "impossible to download statements. Produces pdf with 0 bytes. Had to switch to paper statements.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-13T15:24:27",
+   "userName": "Neil Williamson"
+  },
+  {
+   "rating": 1,
+   "content": "I wanted to see my account info urgently...but all the app wanted me to do is update settings ....not impressed",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-13T13:58:34",
+   "userName": "Paul Nagle"
   }
  ],
- "record_count": 1875,
- "last_fetch_utc": "2026-11-14T13:47:05.108389+00:00"
+ "record_count": 1880,
+ "last_fetch_utc": "2026-11-15T14:18:02.627983+00:00"
 }

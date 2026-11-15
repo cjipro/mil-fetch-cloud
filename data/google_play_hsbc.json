@@ -14785,8 +14785,32 @@
    "reviewCreatedVersion": "3.75.30",
    "at": "2026-11-12T15:04:22",
    "userName": "Gail Maden"
+  },
+  {
+   "rating": 5,
+   "content": "the best of all I have ever had and still works perfectly fine abroad",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-14T12:58:04",
+   "userName": "John Nzyoki"
+  },
+  {
+   "rating": 5,
+   "content": "excellent service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-13T19:56:29",
+   "userName": "Bibi Peerally"
+  },
+  {
+   "rating": 1,
+   "content": "can't access or even open the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-13T19:53:09",
+   "userName": "alan denton"
   }
  ],
- "record_count": 1848,
- "last_fetch_utc": "2026-11-14T13:47:07.928377+00:00"
+ "record_count": 1851,
+ "last_fetch_utc": "2026-11-15T14:18:05.048332+00:00"
 }
