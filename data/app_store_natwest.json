@@ -11337,8 +11337,112 @@
    "version": "7.56.0",
    "date": "2026-11-12T17:11:54-07:00",
    "author": "gazatron82"
+  },
+  {
+   "rating": 1,
+   "title": "Verifying Device Issue",
+   "review": "App is ok. However\u2026.the constant \u2018Verifying your device\u2019 every single time you open the app is slowing the app down. Sometimes I can\u2019t even log in to use it, and I\u2019ve got often got 2 bars and 5G. It\u2019s a bloody annoying issue NatWest.\n\nAnd recently, although the PIN code gets keyed in correctly, your app says it\u2019s incorrect repeatedly and then locks the app.",
+   "version": "7.72.0",
+   "date": "2026-11-15T02:16:26-07:00",
+   "author": "Saddlesore1331"
+  },
+  {
+   "rating": 1,
+   "title": "Locked out on iPhone Duo as app doesn\u2019t support new phones",
+   "review": "The app doesn\u2019t support biometrics on an iPhone Duo. I think this may be related to the inside camera not being suitable for biometrics but has resulted me in me being locked out of my account.",
+   "version": "7.72.0",
+   "date": "2026-11-15T01:19:14-07:00",
+   "author": "iWillo"
+  },
+  {
+   "rating": 1,
+   "title": "Rubbish",
+   "review": "The app won\u2019t update",
+   "version": "7.56.0",
+   "date": "2026-11-15T01:07:35-07:00",
+   "author": "johnnnybosh"
+  },
+  {
+   "rating": 1,
+   "title": "Log in bug",
+   "review": "I can't even log in because when I switch back and forth to my password manager on my iPhone to enter the password, the log in process resets to the beginning, and I have to enter all the info again.\n\nThen it also won't let me log in with Face ID, it needs to set up its own biometrics which is a bad UX.",
+   "version": "7.72.0",
+   "date": "2026-11-15T00:44:29-07:00",
+   "author": "Fred_srfc"
+  },
+  {
+   "rating": 5,
+   "title": "Easy",
+   "review": "I find the app really easy to use but would be good if there was a branch to visit, shame the one in my town closed down",
+   "version": "7.72.0",
+   "date": "2026-11-15T00:05:21-07:00",
+   "author": "Ejays Dad"
+  },
+  {
+   "rating": 1,
+   "title": "Updated app",
+   "review": "I can\u2019t rate it as my iPad apparently is now too old so I can\u2019t do online banking on it now! Does anyone ever consider that people can\u2019t always afford to buy new tablets to accommodate these things?",
+   "version": "7.56.0",
+   "date": "2026-11-14T13:51:15-07:00",
+   "author": "Howmanywouldyoulike?"
+  },
+  {
+   "rating": 1,
+   "title": "App update",
+   "review": "I have an older phone and cannot update the app, when I try to log in on the web site im asked to verify using the app which I can\u2019t update. So now I have lost access to online banking.",
+   "version": "7.56.0",
+   "date": "2026-11-14T08:31:55-07:00",
+   "author": "Jon cross01"
+  },
+  {
+   "rating": 5,
+   "title": "Mrs. Narmin Hewazy",
+   "review": "Very good service always",
+   "version": "7.72.0",
+   "date": "2026-11-14T07:47:17-07:00",
+   "author": "Narmin Hewazy"
+  },
+  {
+   "rating": 1,
+   "title": "A waste of time",
+   "review": "I have banked with NatWest since 1968 . I have the app on my iPhone and iPad . ON the latter device I have been told repeatedly to upgrade because the app is no longer supported . I have tried repeatedly to perform this task without any progress at all . It\u2019s a waste of my time . Total rubbish",
+   "version": "7.56.0",
+   "date": "2026-11-14T07:37:51-07:00",
+   "author": "judgejenni"
+  },
+  {
+   "rating": 5,
+   "title": "Helpful",
+   "review": "Easy to use",
+   "version": "7.72.0",
+   "date": "2026-11-14T07:10:07-07:00",
+   "author": "Niccibird"
+  },
+  {
+   "rating": 5,
+   "title": "Bank accounts",
+   "review": "This bank is amazing, I am new in the UK but I could open a current account and get a credit card and a loan , I could open savings bank accounts easily to reach my goals, using the app is very easy I am very happy because I don't need to go to a branch and I can do everything I need at home very easily and quickly, it is wonderful, I believe it is the best mobile banking",
+   "version": "7.72.0",
+   "date": "2026-11-14T04:52:07-07:00",
+   "author": "moti5943"
+  },
+  {
+   "rating": 4,
+   "title": "Mrs Sam Leeds",
+   "review": "I do have to say that the NatWest app is easy, efficient, well set out. and I have enjoyed being a customer of the NatWest bank for 35 plus years",
+   "version": "7.72.0",
+   "date": "2026-11-14T04:44:43-07:00",
+   "author": "Samthewoman"
+  },
+  {
+   "rating": 4,
+   "title": "The best",
+   "review": "Nat West has always made me feel safe with my money .I have been with them for over forty years .Brilliant People always helpful I am happy .I am 74 now an a lot of things like this update make it hard for me to understand these updates are being unkind to me now am getting frustrated and older",
+   "version": "7.72.0",
+   "date": "2026-11-14T03:49:58-07:00",
+   "author": "9platoon"
   }
  ],
- "record_count": 1417,
- "last_fetch_utc": "2026-11-15T14:18:01.796731+00:00"
+ "record_count": 1430,
+ "last_fetch_utc": "2026-11-16T16:25:05.459884+00:00"
 }

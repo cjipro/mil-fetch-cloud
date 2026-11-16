@@ -6921,8 +6921,24 @@
    "version": "8.9.0",
    "date": "2026-11-13T09:28:58-07:00",
    "author": "Aunty Sab"
+  },
+  {
+   "rating": 5,
+   "title": "Fabulous service",
+   "review": "Easy platform to save, control your finances and top tips to grow your wealth",
+   "version": "8.9.1",
+   "date": "2026-11-15T02:06:51-07:00",
+   "author": "Designerss1"
+  },
+  {
+   "rating": 5,
+   "title": "Lovely stuff",
+   "review": "Monzo is fab. Have used it for years and can't imagine using anything else.",
+   "version": "8.9.1",
+   "date": "2026-11-14T12:26:54-07:00",
+   "author": "Poite1983"
   }
  ],
- "record_count": 865,
- "last_fetch_utc": "2026-11-15T14:18:05.566083+00:00"
+ "record_count": 867,
+ "last_fetch_utc": "2026-11-16T16:25:11.251519+00:00"
 }

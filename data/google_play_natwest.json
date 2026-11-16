@@ -15041,8 +15041,72 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-13T13:58:34",
    "userName": "Paul Nagle"
+  },
+  {
+   "rating": 1,
+   "content": "Very disappointed with NatWest's Android app. The constant pressure to use biometric authentication is unacceptable. Customers should have the freedom to choose how they access their own bank accounts. Biometrics should be optional, not pushed at every opportunity. Fingerprints and facial data are extremely sensitive personal information and cannot simply be changed like a password. Stop forcing technology on customers and start respecting their privacy and freedom of choice.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-15T12:08:26",
+   "userName": "Olo Bolo"
+  },
+  {
+   "rating": 5,
+   "content": "does everything I need",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-15T11:56:47",
+   "userName": "Michael Waters"
+  },
+  {
+   "rating": 5,
+   "content": "Amazing interface, very easy to use and set up",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-15T11:26:40",
+   "userName": "Emmanuel Efunwoye"
+  },
+  {
+   "rating": 5,
+   "content": "nice easy to use app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-15T11:12:28",
+   "userName": "M K"
+  },
+  {
+   "rating": 5,
+   "content": "Very easy to use and helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-15T01:40:21",
+   "userName": "Cthulhu's Mum"
+  },
+  {
+   "rating": 5,
+   "content": "Super easy app to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-14T22:33:17",
+   "userName": "Amazon Charlie"
+  },
+  {
+   "rating": 2,
+   "content": "never told me I couldn't transfer from certain cards, and still unable to use card after following instructions",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-14T17:44:40",
+   "userName": "lee richards"
+  },
+  {
+   "rating": 5,
+   "content": "Not a west online banking, great quality\\nReally helpful uneasily understood to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.63.0000.24686.0",
+   "at": "2026-10-25T10:12:45",
+   "userName": "Kiran CraZy cat mOmma"
   }
  ],
- "record_count": 1880,
- "last_fetch_utc": "2026-11-15T14:18:02.627983+00:00"
+ "record_count": 1888,
+ "last_fetch_utc": "2026-11-16T16:25:06.391771+00:00"
 }

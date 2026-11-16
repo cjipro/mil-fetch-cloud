@@ -13617,8 +13617,24 @@
    "reviewCreatedVersion": "8.8.0",
    "at": "2026-11-13T15:02:09",
    "userName": "Afolabi Gabriel"
+  },
+  {
+   "rating": 5,
+   "content": "very good and reliable",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-15T16:23:50",
+   "userName": "Dexter"
+  },
+  {
+   "rating": 5,
+   "content": "Good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.1.0",
+   "at": "2026-11-14T22:42:32",
+   "userName": "AQsa Ali"
   }
  ],
- "record_count": 1702,
- "last_fetch_utc": "2026-11-15T14:18:06.261042+00:00"
+ "record_count": 1704,
+ "last_fetch_utc": "2026-11-16T16:25:11.965994+00:00"
 }

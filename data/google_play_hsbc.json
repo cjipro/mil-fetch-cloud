@@ -14809,8 +14809,64 @@
    "reviewCreatedVersion": "3.75.30",
    "at": "2026-11-13T19:53:09",
    "userName": "alan denton"
+  },
+  {
+   "rating": 5,
+   "content": "Easy but safe to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-15T15:03:46",
+   "userName": "Vanessa Brown"
+  },
+  {
+   "rating": 3,
+   "content": "closing branches",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-15T11:04:16",
+   "userName": "john rowe"
+  },
+  {
+   "rating": 5,
+   "content": "Good banking App. Promotes confidence as it is easy to see balances and be aware of money going out of accounts.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-15T09:53:04",
+   "userName": "Carl Collins"
+  },
+  {
+   "rating": 4,
+   "content": "please stop changing things your not monzo your better dont change what good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-15T07:06:48",
+   "userName": "W Cheese"
+  },
+  {
+   "rating": 1,
+   "content": "It's been broken, can't even pay my Barclaycard balance... please sort this, it's been broken and it wasn't me that dropped it on the floor!\ud83d\ude44",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-14T23:34:53",
+   "userName": "Mike Mackenzie"
+  },
+  {
+   "rating": 1,
+   "content": "piece of sh it. Now they even asking for reason why I sending money. f ck off",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-14T21:22:56",
+   "userName": "Daniel Dominiak"
+  },
+  {
+   "rating": 3,
+   "content": "poor with the notifications, half of the time I don't receive them",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-14T14:26:08",
+   "userName": "Rebellious K"
   }
  ],
- "record_count": 1851,
- "last_fetch_utc": "2026-11-15T14:18:05.048332+00:00"
+ "record_count": 1858,
+ "last_fetch_utc": "2026-11-16T16:25:09.940953+00:00"
 }
