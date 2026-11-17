@@ -9065,8 +9065,88 @@
    "version": "3.76.0",
    "date": "2026-11-14T03:10:25-07:00",
    "author": "Kkkjjjppp58"
+  },
+  {
+   "rating": 5,
+   "title": "Great speed",
+   "review": "Very happy with the transactions speed",
+   "version": "3.76.0",
+   "date": "2026-11-15T23:59:14-07:00",
+   "author": "Theo0015"
+  },
+  {
+   "rating": 5,
+   "title": "Flexible Banking",
+   "review": "HSBC is excellent and provides very flexible, reliable, and secure banking services.",
+   "version": "3.76.0",
+   "date": "2026-11-15T22:30:05-07:00",
+   "author": "ernserns"
+  },
+  {
+   "rating": 1,
+   "title": "Terrible update",
+   "review": "I have been using this app for 6y, recently I downloaded the most recent version- it is just very \u201cnot\u201d smart update when it comes to transfer between my own accounts. \nFirst, it requires multiple steps. Second, if i pick one account to transfer FROM, the same account will still appear in the list of accounts which for transfer TO- which I really find it really inappropriate and not smart at all. Third, during transfers, the balance shows ALL (including pending balance) I really find it very odd that I still can see the total balance including pending balance when I transfer. For example, it may show \u00a3200 on transfer list, while I only have \u00a310 in actual balance ( this is during the transfers between accounts) \nI am not sure why HSBC made this unreasonable update!!! And i regret updating this application and I hope IT team to review this, please",
+   "version": "3.76.0",
+   "date": "2026-11-15T22:23:00-07:00",
+   "author": "Mmeseh"
+  },
+  {
+   "rating": 5,
+   "title": "Bank loyalty",
+   "review": "I\u2019ve been with HSBC for over 20 years. I feel the bank has really looked after me. The Bank is fair and the help, when I\u2019ve had a query, has always been reliable. Customer support staff are well trained, knowledgeable and provide gold standard service in a friendly manner.",
+   "version": "3.76.0",
+   "date": "2026-11-15T21:52:22-07:00",
+   "author": "Funny world52"
+  },
+  {
+   "rating": 5,
+   "title": "Rogah",
+   "review": "Easy to access good stuff",
+   "version": "3.76.0",
+   "date": "2026-11-15T16:05:15-07:00",
+   "author": "Sciacoma"
+  },
+  {
+   "rating": 1,
+   "title": "Horrendous experience",
+   "review": "The combination of the HSBC App and web site is torturous.  I forgot my user name and it sends me to the web site which then sends me to the app round and around. Their security is completely clunky and unsolvable. I have  spent an hour just trying to pay a bill.",
+   "version": "3.76.0",
+   "date": "2026-11-15T14:01:27-07:00",
+   "author": "521 frustrated"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use",
+   "review": "The app is easy to use.All info easy to find and it\u2019s easy to carry out most transactions.",
+   "version": "3.76.0",
+   "date": "2026-11-15T11:30:55-07:00",
+   "author": "teview32546790"
+  },
+  {
+   "rating": 1,
+   "title": "I Gave One Star To Make The Review Request Go Away",
+   "review": "I Gave One Star To Make The Review Request Go Away.",
+   "version": "3.76.0",
+   "date": "2026-11-15T10:11:48-07:00",
+   "author": "George Feathers"
+  },
+  {
+   "rating": 5,
+   "title": "Excellent",
+   "review": "Excellent Service, it is very secure online bank. Thank you for your service.",
+   "version": "3.76.0",
+   "date": "2026-11-15T06:40:29-07:00",
+   "author": "SafOsman"
+  },
+  {
+   "rating": 5,
+   "title": "Great service",
+   "review": "Great service and customer support",
+   "version": "3.76.0",
+   "date": "2026-11-15T05:55:53-07:00",
+   "author": "Izegaegbe"
   }
  ],
- "record_count": 1133,
- "last_fetch_utc": "2026-11-16T16:25:09.179226+00:00"
+ "record_count": 1143,
+ "last_fetch_utc": "2026-11-17T16:28:56.303269+00:00"
 }

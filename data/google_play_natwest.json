@@ -15105,8 +15105,40 @@
    "reviewCreatedVersion": "07.63.0000.24686.0",
    "at": "2026-10-25T10:12:45",
    "userName": "Kiran CraZy cat mOmma"
+  },
+  {
+   "rating": 5,
+   "content": "very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-16T13:32:26",
+   "userName": "Susan Mills"
+  },
+  {
+   "rating": 5,
+   "content": "All good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-16T12:12:31",
+   "userName": "Christine Smith"
+  },
+  {
+   "rating": 5,
+   "content": "Great online banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-16T10:07:09",
+   "userName": "Paul Dickinson"
+  },
+  {
+   "rating": 1,
+   "content": "Where's the Edit button gone? Can't rearrange my accounts order anymore. Bloody joke, thinking of moving banks now as no one at Natwest can actually help with app support",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-15T18:36:35",
+   "userName": "Tobias Wilson"
   }
  ],
- "record_count": 1888,
- "last_fetch_utc": "2026-11-16T16:25:06.391771+00:00"
+ "record_count": 1892,
+ "last_fetch_utc": "2026-11-17T16:28:53.076684+00:00"
 }
