@@ -13665,8 +13665,72 @@
    "reviewCreatedVersion": null,
    "at": "2026-11-15T16:41:23",
    "userName": "Andrea Flanagan"
+  },
+  {
+   "rating": 5,
+   "content": "Recently Monzo has introduced profile, friends can link to you vice verse,. I think this is a security risk and I don't want it but there is no way to remove it. I may have to switch banks",
+   "thumbsUpCount": 2,
+   "reviewCreatedVersion": "8.9.0",
+   "at": "2026-11-17T15:09:35",
+   "userName": "Damian"
+  },
+  {
+   "rating": 3,
+   "content": "Still no galaxy fold8 optimization \ud83e\udd26\u200d\u2642\ufe0f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.9.0",
+   "at": "2026-11-16T20:01:29",
+   "userName": "Rob V"
+  },
+  {
+   "rating": 5,
+   "content": "amazing it helps you save and holds your money to keep its safe i rate it a 10/10",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-16T19:05:25",
+   "userName": "Caiden Campbell"
+  },
+  {
+   "rating": 5,
+   "content": "good service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-16T18:18:18",
+   "userName": "Azhagu Thenmozhi"
+  },
+  {
+   "rating": 5,
+   "content": "I can confidently tell you Monzo is one of the Top tier banks in the UK. Exceptionally services, one of the best banking apps out there and they have helped me save more since joining them. With Monzo, you are at peace.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.9.0",
+   "at": "2026-11-16T18:11:27",
+   "userName": "Paul Maduagwu"
+  },
+  {
+   "rating": 5,
+   "content": "best banking app ever, immediate action and have saved me from fraud on multiple occasions, i m greatful for the service they provide. keep up the good work",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-16T17:32:17",
+   "userName": "Ashish Prasai"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant thanks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-16T17:16:06",
+   "userName": "Goldentrailrider"
+  },
+  {
+   "rating": 1,
+   "content": "Have to scan my face to get to my money? Why. I am uncomfortable providing a video selfie and having biometric facial data stored by Monzo. I would like to know whether there is an alternative way to verify my identity, such as using my passport, driving licence or other existing identification. Please also explain how long my video selfie would be retained, whether biometric facial data is extracted from it, and whether I can request its deletion afterwards.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.8.0",
+   "at": "2026-11-16T16:31:20",
+   "userName": "Jorgen Byde"
   }
  ],
- "record_count": 1708,
- "last_fetch_utc": "2026-11-17T16:28:59.211073+00:00"
+ "record_count": 1716,
+ "last_fetch_utc": "2026-11-18T15:57:56.665667+00:00"
 }
