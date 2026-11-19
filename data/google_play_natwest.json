@@ -15225,8 +15225,96 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-16T16:44:09",
    "userName": "Charlotte Ince-Wright"
+  },
+  {
+   "rating": 5,
+   "content": "nat west very helpful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-18T14:49:14",
+   "userName": "LOIS MILES"
+  },
+  {
+   "rating": 5,
+   "content": "fine",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-18T12:09:22",
+   "userName": "Carole Barratt"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-18T11:20:01",
+   "userName": "Lynda O'Connor"
+  },
+  {
+   "rating": 5,
+   "content": "love the security aspects of the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-18T10:37:13",
+   "userName": "Mick Andrews"
+  },
+  {
+   "rating": 1,
+   "content": "Absolutely dreadful login experience. Devs: Assume one is using a password manager and has to switch between entering credentials and reading credentials. You'll then see what is broken.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-18T10:25:27",
+   "userName": "Tex Ranger"
+  },
+  {
+   "rating": 1,
+   "content": "awful bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.11.0000.21.0",
+   "at": "2026-11-18T05:55:32",
+   "userName": "James Reeve"
+  },
+  {
+   "rating": 1,
+   "content": "App locked me out. I had to clear all cache and force stop in settings and then repeatedly attempt to login before I got into the app again.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-18T05:05:06",
+   "userName": "James Lewis"
+  },
+  {
+   "rating": 2,
+   "content": "Remove the forced biometric approval to use certain features, I shouldn't be required to use it as I already have my fingerprint saved, that's more than enough security.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-17T20:12:35",
+   "userName": "Elliott Smith"
+  },
+  {
+   "rating": 1,
+   "content": "Stop Pushing Biometric Authentication! Very disappointed with NatWest's Android app. In response to your reply: I have NEVER activated biometrics, so there is nothing to remove in my settings. Yet every time I make a bank transfer, the app asks me to enable biometric authentication. Your suggested solution is irrelevant. I simply want these repeated prompts to stop. Respect customers' privacy and freedom of choice!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-17T19:19:51",
+   "userName": "Olo Bolo"
+  },
+  {
+   "rating": 1,
+   "content": "poor communication. I never agreed a minimum payment. Web site is not user friendly. Doesn't have HSBC bank in list. Very poor.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-17T17:38:23",
+   "userName": "John Duffin"
+  },
+  {
+   "rating": 1,
+   "content": "So useless! I had to approve a transaction, opened the app, approved it, it then said go back to the site I was on and absolutely nothing was approved. Did this half a dozen times to no avail. Useless app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-17T16:45:19",
+   "userName": "Malcolm Ewing"
   }
  ],
- "record_count": 1903,
- "last_fetch_utc": "2026-11-18T15:57:53.914744+00:00"
+ "record_count": 1914,
+ "last_fetch_utc": "2026-11-19T16:03:26.895992+00:00"
 }
