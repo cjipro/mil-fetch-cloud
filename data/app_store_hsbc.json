@@ -9321,8 +9321,64 @@
    "version": "3.76.0",
    "date": "2026-11-16T01:38:25-07:00",
    "author": "Croc31"
+  },
+  {
+   "rating": 5,
+   "title": "L\ud83c\udf38 blossom",
+   "review": "Excellent service worth 5 stars",
+   "version": "3.76.30",
+   "date": "2026-11-19T02:51:43-07:00",
+   "author": "L\ud83c\udf38 blossom"
+  },
+  {
+   "rating": 5,
+   "title": "Easy to use",
+   "review": "The HSBC app is easy to use. All transactions are .clearly detailed and updated",
+   "version": "3.76.30",
+   "date": "2026-11-18T22:27:11-07:00",
+   "author": "Horrendous seat charges"
+  },
+  {
+   "rating": 4,
+   "title": "Mobile Banking",
+   "review": "I find the HSBC mobile amazing.  The ease of use and the security makes this app one of my top ranking apps\u2026 and I have used a lot.",
+   "version": "3.76.30",
+   "date": "2026-11-18T21:06:07-07:00",
+   "author": "Mrs Lady Chi"
+  },
+  {
+   "rating": 5,
+   "title": "Amazingly Simple!",
+   "review": "A seamless app that\u2019s a total breeze to use. What more can I say? Never had a spot of trouble. Occasional down-time, but always well notified.",
+   "version": "3.76.30",
+   "date": "2026-11-18T14:38:19-07:00",
+   "author": "artist.steveslimm"
+  },
+  {
+   "rating": 5,
+   "title": "Good",
+   "review": "It\u2019s very good and easy to pay with",
+   "version": "3.76.30",
+   "date": "2026-11-18T14:02:46-07:00",
+   "author": "brayen gombar"
+  },
+  {
+   "rating": 5,
+   "title": "Amazing",
+   "review": "It\u2019s absolutely amazing,it\u2019s so easy to pay someone or a business and to transfer between accounts!!!\ud83d\udc4c\ud83d\udc4d",
+   "version": "3.76.30",
+   "date": "2026-11-18T12:50:14-07:00",
+   "author": "Fullback1914"
+  },
+  {
+   "rating": 1,
+   "title": "Could be improved",
+   "review": "A dark mode is missing and the balance to the account could be clearer for each transaction",
+   "version": "3.76.30",
+   "date": "2026-11-18T11:47:02-07:00",
+   "author": "Anis91$"
   }
  ],
- "record_count": 1165,
- "last_fetch_utc": "2026-11-19T16:03:30.693863+00:00"
+ "record_count": 1172,
+ "last_fetch_utc": "2026-11-20T15:45:26.801116+00:00"
 }

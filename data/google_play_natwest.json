@@ -15313,8 +15313,88 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-17T16:45:19",
    "userName": "Malcolm Ewing"
+  },
+  {
+   "rating": 1,
+   "content": "stop moving things in the app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T13:51:32",
+   "userName": "Stephen P"
+  },
+  {
+   "rating": 5,
+   "content": "the Scam service works well",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T12:24:51",
+   "userName": "Grenville Holmes"
+  },
+  {
+   "rating": 2,
+   "content": "Get cash option is hidden if current account A is empty, but you want money from current account B (not a savings account) surely the option should be available on both accounts",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T10:58:19",
+   "userName": "Michael Monks"
+  },
+  {
+   "rating": 5,
+   "content": "Great product",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T10:27:51",
+   "userName": "Nicholas Cherry"
+  },
+  {
+   "rating": 5,
+   "content": "it is ok",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T10:03:17",
+   "userName": "Artem Gulenco"
+  },
+  {
+   "rating": 5,
+   "content": "\ud83d\ude03",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T09:27:06",
+   "userName": "Emerald Green"
+  },
+  {
+   "rating": 5,
+   "content": "great all round!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T08:38:43",
+   "userName": "Martin Curtis"
+  },
+  {
+   "rating": 1,
+   "content": "Horrible app! So many broken parts. Widgets for example, instead of doing what the widget says, it just reopens the widget menu, meaning you still have to do things manually anyway. Total bloody mess. I have no issues with the bank itself, but seriously considering changing bank due to this bloody app! It just doesn't work properly.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-18T23:58:11",
+   "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "really not happy with this bank .",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.70.0000.39862.0",
+   "at": "2026-11-18T17:42:23",
+   "userName": "rose pope"
+  },
+  {
+   "rating": 2,
+   "content": "Poor compared to modern banks. Asks for face and voice approval for authentication? nope. Why does just natwest need it. The UI is bland and boring. No clear benefits with staying with them. Already moved to revolut and monzo and havent looked back and dont miss it at all.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.71.0000.42882.0",
+   "at": "2026-10-20T23:05:34",
+   "userName": "Milo T"
   }
  ],
- "record_count": 1914,
- "last_fetch_utc": "2026-11-19T16:03:26.895992+00:00"
+ "record_count": 1924,
+ "last_fetch_utc": "2026-11-20T15:45:23.461865+00:00"
 }

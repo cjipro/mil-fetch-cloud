@@ -54377,8 +54377,288 @@
    "reviewCreatedVersion": "10.155",
    "at": "2026-11-15T16:11:27",
    "userName": "A Google user"
+  },
+  {
+   "rating": 5,
+   "content": "nice",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T15:40:03",
+   "userName": "Max Mix"
+  },
+  {
+   "rating": 5,
+   "content": "love it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T15:28:10",
+   "userName": "Elton Kurima"
+  },
+  {
+   "rating": 1,
+   "content": "Aplikacja wcale nie dzia\u0142a na nowym telefonie.. za ka\u017cdym razem o uruchomieniu pojawia si\u0119 \"Please, check your internet connection and try again\".. Jest zatem zupe\u0142nie bezu\u017cyteczna!",
+   "thumbsUpCount": 3,
+   "reviewCreatedVersion": "9.5.2",
+   "at": "2026-11-19T15:10:49",
+   "userName": "BeeLee MTJS"
+  },
+  {
+   "rating": 5,
+   "content": "very good, 6 years I have been working with Revolut and no complaints whatsoever",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T15:07:18",
+   "userName": "F\u00e1bio"
+  },
+  {
+   "rating": 5,
+   "content": "No issues, easy to use.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T14:46:42",
+   "userName": "Diane Murphy Richmond"
+  },
+  {
+   "rating": 5,
+   "content": "tr\u00e8s bonne application de banque",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T14:28:14",
+   "userName": "Oma Oma"
+  },
+  {
+   "rating": 5,
+   "content": "very handy banking",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T14:00:19",
+   "userName": "Neil Bulfin"
+  },
+  {
+   "rating": 5,
+   "content": "Good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.155",
+   "at": "2026-11-19T13:56:31",
+   "userName": "Zbigniew Wybraniec"
+  },
+  {
+   "rating": 5,
+   "content": "good so far",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T12:54:29",
+   "userName": "Niall Noonan"
+  },
+  {
+   "rating": 5,
+   "content": "good banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T12:16:47",
+   "userName": "Synxfloat"
+  },
+  {
+   "rating": 5,
+   "content": "best transferring saving and swapping banking app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T11:00:03",
+   "userName": "FOTIS OROLOGAS"
+  },
+  {
+   "rating": 4,
+   "content": "Extremely useful for international transfers when home is one country, work is a second country, and you're operating in a third country.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T10:38:13",
+   "userName": "Martin Vestergaard"
+  },
+  {
+   "rating": 5,
+   "content": "Very good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T09:54:50",
+   "userName": "johan pregl"
+  },
+  {
+   "rating": 5,
+   "content": "nice",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T09:14:19",
+   "userName": "Moner Lago"
+  },
+  {
+   "rating": 4,
+   "content": "works as intended I suppose, nothing really bad to say... just wish I had more money to use it.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T08:43:36",
+   "userName": "Cody Walsh"
+  },
+  {
+   "rating": 1,
+   "content": "this app is terrible amount of money inside and after the recent update or I don't know what they did I haven't been able to login it just freezes crashes and it's really slow",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T08:38:15",
+   "userName": "Omar Zaid"
+  },
+  {
+   "rating": 5,
+   "content": "Trusted",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T06:53:38",
+   "userName": "Ricardo Leverock"
+  },
+  {
+   "rating": 4,
+   "content": "Regular good app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T06:08:29",
+   "userName": "Kaikobad Hassan Khan"
+  },
+  {
+   "rating": 1,
+   "content": "I previously have had a great experience with both Revolut and its app, but the discussion about lack of support for GrapheneOS has made me aware that Revolut unfortunately has insufficient security. Apparently, it runs extremely old, unpatched Android versions which indicate a very relaxed approach to keeping your data (and money) safe. As a security-conscious GrapheneOS user I unfortunately expect to limit my use of what would otherwise funtionally great service and app going forward.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T04:21:33",
+   "userName": "Petter Ris\u00f8e"
+  },
+  {
+   "rating": 5,
+   "content": "11-18-2026 Downloaded app, put my social security number and other information into the app.They asked for my picture.They can't approve that I share my picture seven times or more already. So now they have all my information , but they won't let me use the app. after wrote this tried one more time and went through . thanks. Plant fruittrees vegetables berries everywhere freely growing sharing creating life freedom foundation of air and food seeds grow more freely everywhere in the universe",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T01:13:28",
+   "userName": "Stefan William Sampo"
+  },
+  {
+   "rating": 2,
+   "content": "app freezes, wont let me login",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T00:50:28",
+   "userName": "Duane"
+  },
+  {
+   "rating": 5,
+   "content": "very good service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-19T00:03:17",
+   "userName": "NASIR MUNSHI"
+  },
+  {
+   "rating": 1,
+   "content": "Revolut does not protect its customer's interests. Revolut only wants to take, while the people working at Revolut do not have the knowledge or experience of real bank employees. With Revolut, it is easy to become a victim of fraud. Fortunately, there are plenty of real banks that actually protect their customers, so there is no reason to take the risk with this one. If you want your money to be secure, go to a real bank. With Revolut, it's easy to lose your money.",
+   "thumbsUpCount": 8,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-18T23:15:20",
+   "userName": "Ivan Brovkin"
+  },
+  {
+   "rating": 5,
+   "content": "Brilliant app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T22:55:48",
+   "userName": "Mike \u0139emmon"
+  },
+  {
+   "rating": 5,
+   "content": "best bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T22:47:49",
+   "userName": "Ionut Zapototchi"
+  },
+  {
+   "rating": 5,
+   "content": "exelent",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-18T22:36:11",
+   "userName": "Junior Yayo"
+  },
+  {
+   "rating": 5,
+   "content": "amazing",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T22:31:56",
+   "userName": "Abdallah Mahmoud"
+  },
+  {
+   "rating": 5,
+   "content": "super app, i love the fact that i can have different accounts in one app, a pro account for my business, joint account for partners and even investment options.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T22:02:44",
+   "userName": "Doyin Coker"
+  },
+  {
+   "rating": 1,
+   "content": "I'm very disappointed! I'm suddenly notified that my account will be closed. I'm not even provided any specific reason why. Please be aware after using it for a few years they will just see you email you and say your account will be closed. Poor service!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T21:37:18",
+   "userName": "Anqa Zain"
+  },
+  {
+   "rating": 2,
+   "content": "this is not responding my phone",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T20:56:30",
+   "userName": "Honey Sunny"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to use and very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T20:54:51",
+   "userName": "Jozeph Zambaux"
+  },
+  {
+   "rating": 5,
+   "content": "on of the better online banking apps",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T20:51:00",
+   "userName": "nadeem malik"
+  },
+  {
+   "rating": 1,
+   "content": "too difficult to use and will not verify identity. this app is worthless, if you improve it I will try it again. zero stars",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-18T19:49:35",
+   "userName": "lakewolf sunrise"
+  },
+  {
+   "rating": 5,
+   "content": "Great",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T18:36:39",
+   "userName": "Rachel Smith"
+  },
+  {
+   "rating": 3,
+   "content": "it is hard to order a card on line and they want take my picture so I will try something else",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "10.156",
+   "at": "2026-11-18T18:18:54",
+   "userName": "Cosandra Norman"
   }
  ],
- "record_count": 6797,
- "last_fetch_utc": "2026-11-19T16:03:37.322170+00:00"
+ "record_count": 6832,
+ "last_fetch_utc": "2026-11-20T15:45:32.017694+00:00"
 }

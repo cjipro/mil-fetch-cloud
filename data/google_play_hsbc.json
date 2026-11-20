@@ -14985,8 +14985,80 @@
    "reviewCreatedVersion": "3.75.30",
    "at": "2026-11-18T01:20:28",
    "userName": "Sitar Hamadamin"
+  },
+  {
+   "rating": 5,
+   "content": "Truly Excellent App.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-19T15:23:34",
+   "userName": "MICHAEL BOTTOMLEY"
+  },
+  {
+   "rating": 3,
+   "content": "This is a pretty good app but it needs to be better. Please make security choices easier to find and action. Currently it is only possible to limit bank transactions to \u00a31000. Yes, that's ONE THOUSAND POUNDS! Maybe bank staff and app developers think that \u00a31000 is pocket money but I'm pretty sure the rest of us believe that to be a lot of cash. And it's so hard to find some security options, it's necessary to click back and forth, back and forth to find certain options.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-19T12:59:18",
+   "userName": "K P"
+  },
+  {
+   "rating": 5,
+   "content": "very good always happy with the service",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-19T12:20:17",
+   "userName": "Joan Perkins"
+  },
+  {
+   "rating": 5,
+   "content": "so easy \ud83d\ude0a",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-19T10:00:07",
+   "userName": "Paula Turac"
+  },
+  {
+   "rating": 5,
+   "content": "can't fault Hsbc so far, its been quite a few months now and no issues \ud83d\udc4d\ud83c\udffb",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.30",
+   "at": "2026-11-19T09:19:11",
+   "userName": "Paul Harrison"
+  },
+  {
+   "rating": 5,
+   "content": "good bank ,been using it for 4 years now",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-18T21:45:18",
+   "userName": "Lee Mutembwa"
+  },
+  {
+   "rating": 1,
+   "content": "Doesn't work at all because I have 1 app not from the app store.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-18T18:33:42",
+   "userName": "Jonathan Bunce"
+  },
+  {
+   "rating": 5,
+   "content": "it's pretty good, does everything I'd want a banking app to do so 5 \u2b50.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-18T17:56:05",
+   "userName": "Whittington Whit"
+  },
+  {
+   "rating": 1,
+   "content": "The HSBC app doesn't allow me to open it due to the fact that I have an accessibility app 'Cube ARC Helper' installed on my phone to help with notes and things like that, that I need because of my disabilities. feels very discriminatory of the fact that I either have to choose being able to use my HSBC banking app or not being able to have an accessibility app installed on my phone. please sort this asap. Also please allow screenshots within app, it's so frustrating not being able to do this!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-11T22:38:56",
+   "userName": "K U R T"
   }
  ],
- "record_count": 1873,
- "last_fetch_utc": "2026-11-19T16:03:31.945189+00:00"
+ "record_count": 1882,
+ "last_fetch_utc": "2026-11-20T15:45:27.741607+00:00"
 }
