@@ -15393,8 +15393,88 @@
    "reviewCreatedVersion": "07.71.0000.42882.0",
    "at": "2026-10-20T23:05:34",
    "userName": "Milo T"
+  },
+  {
+   "rating": 3,
+   "content": "unable to do one off payments from other banks only allows direct debit",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T10:13:40",
+   "userName": "Jamez Evans"
+  },
+  {
+   "rating": 5,
+   "content": "wonderful bank very helpful staff",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T10:03:36",
+   "userName": "Mark Holmes"
+  },
+  {
+   "rating": 5,
+   "content": "Very kind and supportive staff. Good services.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-20T07:29:25",
+   "userName": "Will John"
+  },
+  {
+   "rating": 1,
+   "content": "App shows paid in as minus, online shows as plus and there is no running total to check payments etc just a balance, worst bank App ever.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T07:03:08",
+   "userName": "David Brereton"
+  },
+  {
+   "rating": 5,
+   "content": "interesting",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T00:29:39",
+   "userName": "David"
+  },
+  {
+   "rating": 5,
+   "content": "perfect experience using the app.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.69.0000.36742.0",
+   "at": "2026-11-20T00:16:50",
+   "userName": "Adam Shah"
+  },
+  {
+   "rating": 5,
+   "content": "Great service. Thanks",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T18:44:43",
+   "userName": "Suhail Amin"
+  },
+  {
+   "rating": 1,
+   "content": "app is ok but the ai support bot is dire and just loops you.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T18:01:18",
+   "userName": "richard c"
+  },
+  {
+   "rating": 5,
+   "content": "best",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-19T16:23:40",
+   "userName": "Cian Feeney"
+  },
+  {
+   "rating": 5,
+   "content": "easy setup \ud83d\udc4c",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-19T15:45:45",
+   "userName": "jane birak"
   }
  ],
- "record_count": 1924,
- "last_fetch_utc": "2026-11-20T15:45:23.461865+00:00"
+ "record_count": 1934,
+ "last_fetch_utc": "2026-11-21T14:55:51.791796+00:00"
 }

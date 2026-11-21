@@ -11825,8 +11825,80 @@
    "version": "7.56.0",
    "date": "2026-11-18T05:18:46-07:00",
    "author": "THORNTONDALE"
+  },
+  {
+   "rating": 5,
+   "title": "Miss N",
+   "review": "One of the easiest app to use.",
+   "version": "7.72.0",
+   "date": "2026-11-20T01:43:53-07:00",
+   "author": "Miss Judy NO"
+  },
+  {
+   "rating": 5,
+   "title": "Mobile banking Nat West",
+   "review": "Excellent App full of useful features and offers help and advice on all of your banking needs. What\u2019s not to like? Easy to use",
+   "version": "7.72.0",
+   "date": "2026-11-20T00:35:50-07:00",
+   "author": "rog how does this work?"
+  },
+  {
+   "rating": 5,
+   "title": "MR",
+   "review": "Happy to bank with NatWest :)",
+   "version": "7.72.0",
+   "date": "2026-11-19T23:33:13-07:00",
+   "author": "Csabyyy"
+  },
+  {
+   "rating": 2,
+   "title": "Absolutely frustrating that every time you use the app, they want you leave feedback. How sad!",
+   "review": "Good, safe and easy to use, never have any problems",
+   "version": "7.72.0",
+   "date": "2026-11-19T06:20:57-07:00",
+   "author": "TheBrownGoose"
+  },
+  {
+   "rating": 1,
+   "title": "No support for my phone",
+   "review": "No longer works on iOS version 15.8.8 so stopped working without notice\nAdvised can use online banking, but guess what!\nI need to verify in the app, which of course I can no longer access.\nI won\u2019t be changing my phone, it will be easier to switch bank accounts.\nWould not recommend to anyone",
+   "version": "7.56.0",
+   "date": "2026-11-19T06:19:55-07:00",
+   "author": "ayates6"
+  },
+  {
+   "rating": 1,
+   "title": "Face id not working",
+   "review": "Moving from iPhone 11 to 16, was a nightmare. Now, the app won\u2019t recognise the face id, even though it\u2019s set properly in phone\u2019s settings. 8/10 won\u2019t even recognise the app\u2019s passcode. And Yes, it\u2019s latest iOS and latest version of the app.",
+   "version": "7.72.0",
+   "date": "2026-11-19T06:08:59-07:00",
+   "author": "shape2026"
+  },
+  {
+   "rating": 1,
+   "title": "Disappointed",
+   "review": "I was really pleased with the app but you have unilaterally decided to not support iOS15. You have stopped me and presumably hundreds of others from accessing their personal information. You are leaving people vulnerable and you just don\u2019t care. I complained and you just dismissed it with no apologies and it\u2019s in the T&Cs. You are the epitome of everything bad in customer service.",
+   "version": "7.56.0",
+   "date": "2026-11-19T05:56:46-07:00",
+   "author": "Quomann"
+  },
+  {
+   "rating": 5,
+   "title": "Apologies",
+   "review": "I have been quite obnoxious with my phone calls to Nat West for which I apologise I realise they are only protecting me from scammers thank you",
+   "version": "7.72.0",
+   "date": "2026-11-19T05:46:51-07:00",
+   "author": "wallucks"
+  },
+  {
+   "rating": 1,
+   "title": "Pay credit card from savings",
+   "review": "Why can\u2019t I pay my credit card directly from savings instead of having to go through current account. This is nonsense.",
+   "version": "7.72.0",
+   "date": "2026-11-19T04:27:36-07:00",
+   "author": "John790"
   }
  ],
- "record_count": 1478,
- "last_fetch_utc": "2026-11-20T15:45:21.799242+00:00"
+ "record_count": 1487,
+ "last_fetch_utc": "2026-11-21T14:55:50.711941+00:00"
 }
