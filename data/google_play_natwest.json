@@ -15473,8 +15473,80 @@
    "reviewCreatedVersion": null,
    "at": "2026-11-19T15:45:45",
    "userName": "jane birak"
+  },
+  {
+   "rating": 5,
+   "content": "very good app a little hard to set up but very good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-21T09:23:48",
+   "userName": "Eve Goodwin"
+  },
+  {
+   "rating": 4,
+   "content": "app is really good at the moment, although for some reason notifications are a bit slow reaching me, sometimes 2-3 days after a transaction I'll get the notification. The new pots feature is a great little feature, very useful but would be nice to be able to reorder them and view them all at a glance at the bottom of screen or a favourites folder of some description.",
+   "thumbsUpCount": 36,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-21T03:43:47",
+   "userName": "zbor"
+  },
+  {
+   "rating": 5,
+   "content": "18 years, and still with NatWest. However, I remember the days when I knew all the staff at my branch by their first names...Really miss that.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-21T03:40:03",
+   "userName": "Rich C"
+  },
+  {
+   "rating": 5,
+   "content": "brilliant app to use and easy to send money to family and friends",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.58.0000.17479.0",
+   "at": "2026-11-21T00:10:16",
+   "userName": "Ryan Evans"
+  },
+  {
+   "rating": 5,
+   "content": "love this banking app, so easy to use and much better than many others..thanks natwest\u2665\ufe0f",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T21:12:46",
+   "userName": "gasmann"
+  },
+  {
+   "rating": 5,
+   "content": "Does everything I required",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T20:13:01",
+   "userName": "mike james"
+  },
+  {
+   "rating": 1,
+   "content": "agravating",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T16:41:29",
+   "userName": "Dan Ferrol"
+  },
+  {
+   "rating": 1,
+   "content": "can't rearrange my accounts how I like them edit options removed please put back driving me mad \ud83e\udd28",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T16:01:09",
+   "userName": "M sales"
+  },
+  {
+   "rating": 5,
+   "content": "Easy to re install after phone was away for repair",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-20T15:21:26",
+   "userName": "Lorraine Taylor"
   }
  ],
- "record_count": 1934,
- "last_fetch_utc": "2026-11-21T14:55:51.791796+00:00"
+ "record_count": 1943,
+ "last_fetch_utc": "2026-11-22T14:53:52.953826+00:00"
 }

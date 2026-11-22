@@ -11897,8 +11897,24 @@
    "version": "7.72.0",
    "date": "2026-11-19T04:27:36-07:00",
    "author": "John790"
+  },
+  {
+   "rating": 4,
+   "title": "Credit card statements",
+   "review": "I would like it to show money in and out of my credit card showing balances like it does on my current account",
+   "version": "7.72.0",
+   "date": "2026-11-20T07:47:32-07:00",
+   "author": "Stacey Francesca"
+  },
+  {
+   "rating": 5,
+   "title": "Black account",
+   "review": "Transfer to Black account was very easy",
+   "version": "7.72.0",
+   "date": "2026-11-20T04:40:56-07:00",
+   "author": "Bagtrade"
   }
  ],
- "record_count": 1487,
- "last_fetch_utc": "2026-11-21T14:55:50.711941+00:00"
+ "record_count": 1489,
+ "last_fetch_utc": "2026-11-22T14:53:52.132652+00:00"
 }

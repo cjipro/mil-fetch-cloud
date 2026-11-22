@@ -15153,8 +15153,72 @@
    "reviewCreatedVersion": null,
    "at": "2026-11-19T18:29:05",
    "userName": "Black Raven"
+  },
+  {
+   "rating": 5,
+   "content": "very useful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.30",
+   "at": "2026-11-21T14:36:35",
+   "userName": "Ernesto Kitoko"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-21T14:12:29",
+   "userName": "Prasanth Prasanth"
+  },
+  {
+   "rating": 5,
+   "content": "great user experience",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-21T13:43:11",
+   "userName": "Din Amri"
+  },
+  {
+   "rating": 5,
+   "content": "it's good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-20T20:48:20",
+   "userName": "Owais Ilahi"
+  },
+  {
+   "rating": 5,
+   "content": "excellent job",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-20T20:06:49",
+   "userName": "Navdeep K Bachra"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.75.30",
+   "at": "2026-11-20T18:47:27",
+   "userName": "Mohd Zeeshan"
+  },
+  {
+   "rating": 2,
+   "content": "An old fashioned bank in so much as they consider Monday to Friday as working days so if you have a Standing Order or Direct Debit set up and the date falls on a Saturday or Sunday then it doesn't get processed until a Monday. How quaint and 17th Century. HSBC have an app but clearly have not realised that it's 2026. Time to look for another bank I think.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-20T16:19:05",
+   "userName": "Peter Legind"
+  },
+  {
+   "rating": 5,
+   "content": "all good..easy to use app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "3.76.0",
+   "at": "2026-11-20T16:03:36",
+   "userName": "Shaun Daly"
   }
  ],
- "record_count": 1894,
- "last_fetch_utc": "2026-11-21T14:55:56.529079+00:00"
+ "record_count": 1902,
+ "last_fetch_utc": "2026-11-22T14:53:55.876339+00:00"
 }
