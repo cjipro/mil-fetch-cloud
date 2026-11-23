@@ -27873,8 +27873,112 @@
    "reviewCreatedVersion": "8.30.2",
    "at": "2026-11-20T16:16:38",
    "userName": "tom homer"
+  },
+  {
+   "rating": 2,
+   "content": "I've been using the Barclays mobile app for years, and it used to be really good, easy to use, do all the transactions I needed without fuss, yet last few weeks the app constantly struggles to load , yet if you check service status it says everything is working, not impressed.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-22T18:26:29",
+   "userName": "darronian 49"
+  },
+  {
+   "rating": 1,
+   "content": "It's awful since the recent update - I'm thinking of changing banks as the new update has lost some features and is now very hard to navigate. It was 5 stars now 1 star",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-22T16:52:04",
+   "userName": "A *"
+  },
+  {
+   "rating": 1,
+   "content": "I don't like the new account layout. before I could easily see how much I had spent every day and I could see if I needed to cut back on my spending. now I can't tell unless I check it every day or too. most annoying.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-22T16:27:14",
+   "userName": "jamie crake"
+  },
+  {
+   "rating": 3,
+   "content": "App has changed recently. Have used for years and was always happy, not as keen on this user interface but will get used to it. The main issue is they have taken off a useful feature, you used to be able to see the balance details on a particular date when scrolling through an accounts transactions this has now gone.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-22T16:12:53",
+   "userName": "Nic B"
+  },
+  {
+   "rating": 5,
+   "content": "Super ok",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-22T09:45:34",
+   "userName": "Constantin Degeratu"
+  },
+  {
+   "rating": 5,
+   "content": "perfect!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-22T09:05:05",
+   "userName": "Tural Dadashov"
+  },
+  {
+   "rating": 1,
+   "content": "What have they done! I have a few banking apps and all have things I like and some are really good but not quite good enough for me to change from Barclays.Barclays don't have the best app but it's easy and works well and I trust it but instead of fixing things - like the payments calendar that has numbers missing when I look from my phone (don't worry I'm used to it) they have completely changed it. I can only see 2 1/2 transactions on the screen now so scroll up and down continually",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-22T07:18:44",
+   "userName": "Kate Phillips"
+  },
+  {
+   "rating": 2,
+   "content": "The latest version has a horrible user interface, which is difficult to view ( even though it is in giant print), and does not give as much information at a glance. There is no running total. Why does each entry have to be so large? Please change it back!",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-21T23:50:11",
+   "userName": "Kim Palmer"
+  },
+  {
+   "rating": 1,
+   "content": "upgrade is awful",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-21T23:17:41",
+   "userName": "Sharif Macky"
+  },
+  {
+   "rating": 1,
+   "content": "they've changed the app so you cant see your balance after each transaction, ridiculous.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-21T19:23:23",
+   "userName": "Simon"
+  },
+  {
+   "rating": 2,
+   "content": "this app has changed its user face and since made it quite confusing to navigate. why did you change it? and where has the \" view payments by calendar \" disappeared to? I used that all the time to visually help plan and budget my outgoings. please revert back to old style......please",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-21T16:31:27",
+   "userName": "Agnese"
+  },
+  {
+   "rating": 2,
+   "content": "I don't like using it ,as the have taken away Callander, making it harder to navigate payments.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-21T16:24:57",
+   "userName": "Alex Lauder"
+  },
+  {
+   "rating": 2,
+   "content": "Updated app and generally ok but some fundamental issues.... 1. You are now showing a +/- total for the day instead of end of day balance. How do I know what my EOD balance was last Wednesday. In addition you've done exactly the same on the online version. 2. You've changed view to show transaction date not cleared date....this means that statements and accounts will never match and what happens if a trans doesn't clear...assume it will just disappear and all figures afterwards will change.",
+   "thumbsUpCount": 1,
+   "reviewCreatedVersion": "8.30.2",
+   "at": "2026-11-21T15:13:41",
+   "userName": "Clive Simpson"
   }
  ],
- "record_count": 3484,
- "last_fetch_utc": "2026-11-22T14:54:00.336021+00:00"
+ "record_count": 3497,
+ "last_fetch_utc": "2026-11-23T18:44:39.916213+00:00"
 }

@@ -14097,8 +14097,24 @@
    "reviewCreatedVersion": "8.9.0",
    "at": "2026-11-20T16:41:49",
    "userName": "Jill Raynor"
+  },
+  {
+   "rating": 1,
+   "content": "Lack of support for Fold 8. The app still does not scale correctly on the outside screen of the fold 8. It's literally the only app that doesn't work for the outside screen which is odd as it works correctly on the inner.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.10.0",
+   "at": "2026-11-22T18:31:49",
+   "userName": "Craig Smith"
+  },
+  {
+   "rating": 1,
+   "content": "Annoyingly only able to log in on one device! Limits my usage of the banking application, and still no fix, or response! Like HELLO! REVOLUT CALLING.....! Like wake up?",
+   "thumbsUpCount": 4,
+   "reviewCreatedVersion": "8.9.0",
+   "at": "2026-11-22T11:28:54",
+   "userName": "Christian Cunniffe"
   }
  ],
- "record_count": 1762,
- "last_fetch_utc": "2026-11-22T14:53:57.111490+00:00"
+ "record_count": 1764,
+ "last_fetch_utc": "2026-11-23T18:44:34.644577+00:00"
 }

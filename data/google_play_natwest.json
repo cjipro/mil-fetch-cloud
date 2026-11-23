@@ -15545,8 +15545,56 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-20T15:21:26",
    "userName": "Lorraine Taylor"
+  },
+  {
+   "rating": 2,
+   "content": "App shows me notifications about declined payments but they do not appear in the app which makes it hard to work out how to fix it. Especially as the notification only shows part of the message. The login process makes it impossible to use password generators because the login process resets if you switch away which means I resort to using simpler less safe passwords. The app often ignores approved large payments the first time so you have to fill in the card details multiple times.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-22T16:50:00",
+   "userName": "Jim Baxter"
+  },
+  {
+   "rating": 5,
+   "content": "seamless",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-22T09:18:32",
+   "userName": "Rahul Agarwal"
+  },
+  {
+   "rating": 2,
+   "content": "App just failed making a payment and now says I've reached my daily limit. not good.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-22T08:30:45",
+   "userName": "Marvin Seaman"
+  },
+  {
+   "rating": 5,
+   "content": "easy",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-21T23:56:27",
+   "userName": "Leslie Oliver"
+  },
+  {
+   "rating": 3,
+   "content": "This app although is pretty good I am however not able to cash a cheque from BT for a refund. I keep getting an error to say this service is unavailable which isn't really good enough especially when there isn't a bank near me for 15 miles.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-21T21:01:21",
+   "userName": "luke stacey"
+  },
+  {
+   "rating": 5,
+   "content": "great app very easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-21T14:58:06",
+   "userName": "Daniel Chandler"
   }
  ],
- "record_count": 1943,
- "last_fetch_utc": "2026-11-22T14:53:52.953826+00:00"
+ "record_count": 1949,
+ "last_fetch_utc": "2026-11-23T18:44:27.603892+00:00"
 }
