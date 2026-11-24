@@ -15593,8 +15593,48 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-21T14:58:06",
    "userName": "Daniel Chandler"
+  },
+  {
+   "rating": 5,
+   "content": "awesome app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-23T13:33:21",
+   "userName": "Haider Bilal"
+  },
+  {
+   "rating": 1,
+   "content": "couldn't get to section required",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-23T11:43:59",
+   "userName": "Rodney Davis"
+  },
+  {
+   "rating": 1,
+   "content": "communication is impossible and getting your own money to transfer is even harder still.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-23T10:48:29",
+   "userName": "Lou Jackson"
+  },
+  {
+   "rating": 5,
+   "content": "great fast responsive app",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-23T06:26:19",
+   "userName": "Clayton Elliott"
+  },
+  {
+   "rating": 4,
+   "content": "very good payplan brilliant to pay larger item quickly",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-22T23:12:09",
+   "userName": "James J"
   }
  ],
- "record_count": 1949,
- "last_fetch_utc": "2026-11-23T18:44:27.603892+00:00"
+ "record_count": 1954,
+ "last_fetch_utc": "2026-11-24T18:19:14.907562+00:00"
 }
