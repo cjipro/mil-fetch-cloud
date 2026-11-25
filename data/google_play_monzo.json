@@ -14161,8 +14161,40 @@
    "reviewCreatedVersion": "8.9.0",
    "at": "2026-11-22T19:26:48",
    "userName": "mr zaib"
+  },
+  {
+   "rating": 5,
+   "content": "great online bank. never had a problem",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.9.0",
+   "at": "2026-11-24T16:59:17",
+   "userName": "chalk farm car squad so16"
+  },
+  {
+   "rating": 5,
+   "content": "love it love \u2764\ufe0f it",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.9.0",
+   "at": "2026-11-24T16:19:31",
+   "userName": "Cara Thorne"
+  },
+  {
+   "rating": 4,
+   "content": "very good bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": null,
+   "at": "2026-11-24T12:31:57",
+   "userName": "GEORGE OSEI OWUSU"
+  },
+  {
+   "rating": 1,
+   "content": "Incompetent support and a massive fraud risk Monzo increased my daily limit and now claims they cannot lower it back down. This leaves my funds unnecessarily vulnerable to fraud and scams. Customer service has been completely useless. A bank that removes your control over basic security limits cannot be trusted.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "8.10.0",
+   "at": "2026-11-24T08:36:29",
+   "userName": "Suc Marbus"
   }
  ],
- "record_count": 1770,
- "last_fetch_utc": "2026-11-24T18:19:21.267464+00:00"
+ "record_count": 1774,
+ "last_fetch_utc": "2026-11-25T17:37:21.593984+00:00"
 }
