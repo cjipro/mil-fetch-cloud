@@ -15713,8 +15713,56 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-23T18:33:24",
    "userName": "M sales"
+  },
+  {
+   "rating": 3,
+   "content": "the app is generally good but since the last update I'm not getting notifications please fix",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-25T15:09:57",
+   "userName": "UNITYSOUNDUK"
+  },
+  {
+   "rating": 4,
+   "content": "Easy to use App. Great customer service in the local banking hub in Grantham/Sleaford by Jackie",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-25T11:33:18",
+   "userName": "Leela Courtnay"
+  },
+  {
+   "rating": 5,
+   "content": "Thank you. Love the mobile app!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-25T10:36:47",
+   "userName": "MEIAN LOW"
+  },
+  {
+   "rating": 5,
+   "content": "easy to use",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-25T03:07:23",
+   "userName": "Georgina"
+  },
+  {
+   "rating": 2,
+   "content": "Hopelessly buggy features now. Installment plans no longer tag the purchases already covered. Spending feature on current account completely out of step with actual transactions, with obviously missed transactions. Categories list may indicate a number of transactions but when expanded none are present.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-24T18:55:22",
+   "userName": "Stuart Little"
+  },
+  {
+   "rating": 5,
+   "content": "good",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-24T18:24:23",
+   "userName": "Shah Popalzai"
   }
  ],
- "record_count": 1964,
- "last_fetch_utc": "2026-11-25T17:37:16.423495+00:00"
+ "record_count": 1970,
+ "last_fetch_utc": "2026-11-26T17:18:45.046643+00:00"
 }
