@@ -9833,8 +9833,48 @@
    "version": "3.76.30",
    "date": "2026-11-24T01:29:04-07:00",
    "author": "stebie67"
+  },
+  {
+   "rating": 5,
+   "title": "Ms",
+   "review": "Best bank ever",
+   "version": "3.76.30",
+   "date": "2026-11-25T23:07:47-07:00",
+   "author": "Bubu0147"
+  },
+  {
+   "rating": 5,
+   "title": "Mobile Banking",
+   "review": "Thank you for the easy access to my account through mobile app.",
+   "version": "3.76.30",
+   "date": "2026-11-25T22:43:02-07:00",
+   "author": "Joy Benjie"
+  },
+  {
+   "rating": 1,
+   "title": "Annoying",
+   "review": "The app has recently started asking me to rate it with every use. Though I submit a star rating, still it asks the next time I log in. Very annoying. Functionally of the apps good - if it were to cease asking for a rating it would be a 4.\n\nSince reviewing it has asked me a further three times to review.\nMake that four times.\nNow it\u2019s five times.\nSix. Six damn times.\nSeven.",
+   "version": "3.76.30",
+   "date": "2026-11-25T12:56:20-07:00",
+   "author": "Mitch81"
+  },
+  {
+   "rating": 1,
+   "title": "Over engineered and not user friendly",
+   "review": "Not simple to use and not all accounts included, notably InvestDirect investment account.",
+   "version": "3.76.30",
+   "date": "2026-11-25T08:21:51-07:00",
+   "author": "css7oaks"
+  },
+  {
+   "rating": 5,
+   "title": "You can bank on HSBC!",
+   "review": "First rate service always! With you since 1959\u2026",
+   "version": "3.76.30",
+   "date": "2026-11-25T08:19:51-07:00",
+   "author": "Fontesfidelis"
   }
  ],
- "record_count": 1229,
- "last_fetch_utc": "2026-11-26T17:18:49.511577+00:00"
+ "record_count": 1234,
+ "last_fetch_utc": "2026-11-27T16:58:43.054573+00:00"
 }
