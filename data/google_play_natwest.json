@@ -15809,8 +15809,88 @@
    "reviewCreatedVersion": "07.72.0000.46402.0",
    "at": "2026-11-25T18:53:07",
    "userName": "MARK PETTY"
+  },
+  {
+   "rating": 1,
+   "content": "worst bank with app to match",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T12:21:23",
+   "userName": "Dave Morgan"
+  },
+  {
+   "rating": 5,
+   "content": "Best bank ever",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T10:42:34",
+   "userName": "Ravinder Singh"
+  },
+  {
+   "rating": 1,
+   "content": "Needlessly badly designed and irritating to use. If you switch to another app during sign-in, you get bumped back to the start. Using a password manager for security? Sucks to be you.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T10:23:55",
+   "userName": "Kevin Wilson"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent App",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T09:43:46",
+   "userName": "Jim Whittick"
+  },
+  {
+   "rating": 5,
+   "content": "Excellent NatWest Ap",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T09:21:21",
+   "userName": "david gaskell"
+  },
+  {
+   "rating": 5,
+   "content": "other than infrequent maintenance at 0230 every now and then, no bother given. Works.",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T08:33:41",
+   "userName": "Theo Adams"
+  },
+  {
+   "rating": 5,
+   "content": "very easy to use and Natwest are the most customer friendly bank I have ever used",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T05:07:19",
+   "userName": "Jacky Byrne"
+  },
+  {
+   "rating": 1,
+   "content": "since updating the app crashes on startup and i am unable to even open the app let alone log in",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-27T02:25:13",
+   "userName": "Gleamiarts"
+  },
+  {
+   "rating": 1,
+   "content": "I had a problem with the transaction I told the customer service emails but no help from this bank",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-26T22:56:29",
+   "userName": "J F"
+  },
+  {
+   "rating": 2,
+   "content": "Very difficult to get to see the Statement!",
+   "thumbsUpCount": 0,
+   "reviewCreatedVersion": "07.72.0000.46402.0",
+   "at": "2026-11-26T19:40:11",
+   "userName": "alexferry67"
   }
  ],
- "record_count": 1976,
- "last_fetch_utc": "2026-11-27T16:58:40.509338+00:00"
+ "record_count": 1986,
+ "last_fetch_utc": "2026-11-28T15:49:30.086406+00:00"
 }

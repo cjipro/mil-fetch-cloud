@@ -9873,8 +9873,24 @@
    "version": "3.76.30",
    "date": "2026-11-25T08:19:51-07:00",
    "author": "Fontesfidelis"
+  },
+  {
+   "rating": 2,
+   "title": "What have they done?",
+   "review": "The new UX flow for inter account transfers is terrible. The old way was simpler and quicker",
+   "version": "3.76.30",
+   "date": "2026-11-27T03:08:18-07:00",
+   "author": "StuckInSwedeLand"
+  },
+  {
+   "rating": 5,
+   "title": "Daniel",
+   "review": "excellent \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+   "version": "3.76.30",
+   "date": "2026-11-26T14:58:21-07:00",
+   "author": "DANIEL___12"
   }
  ],
- "record_count": 1234,
- "last_fetch_utc": "2026-11-27T16:58:43.054573+00:00"
+ "record_count": 1236,
+ "last_fetch_utc": "2026-11-28T15:49:32.629731+00:00"
 }
